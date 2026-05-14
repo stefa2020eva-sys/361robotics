@@ -40,7 +40,7 @@ Alternative considered: **Hugo**. Strong contender for pure-catalog use case (fa
 
 ## Site Structure
 
-Language-prefixed URLs: `/<lang>/...` where `<lang>` ∈ `{ru, en, zh}`. Default is `/en/`. Language preference is persisted in `localStorage`.
+Language-prefixed URLs: `/<lang>/...` where `<lang>` ∈ `{ru, en, zh}`. First-visit root URL is redirected by browser `Accept-Language` (see Root URL section below); after that, the visitor's choice is persisted in `localStorage` and overrides auto-detect.
 
 ### Pages
 
@@ -60,9 +60,11 @@ Language-prefixed URLs: `/<lang>/...` where `<lang>` ∈ `{ru, en, zh}`. Default
 3. **Company detail** — `/<lang>/companies/<slug>` (e.g., `/ru/companies/fanuc`)
    - Header: logo, name, country (with flag), website, type
    - Description (1–3 paragraphs)
-   - "Key clients" block — logos of clients (links to client info if applicable, otherwise just visual)
+   - "Key clients" block — chips for each client. If the client has a logo → logo chip; if no logo → text chip with name.
    - "Highlights" block — 3–6 bullets (achievements, scale, differentiators)
-   - "What they produce" — list of linked component pages and/or named robot products
+   - "What they produce" — two sub-blocks:
+     - **Components** (only if `type` includes `component_maker`) — linked component-page cards from `produces_components`
+     - **Robots** (only if `type` includes `robot_brand`) — named robot products from `robot_products` (name, optional image, short tagline; no individual page)
 
 4. **Components catalog** — `/<lang>/components`
    - Grid grouped/filtered by category
@@ -81,10 +83,12 @@ Language-prefixed URLs: `/<lang>/...` where `<lang>` ∈ `{ru, en, zh}`. Default
 
 7. **About** — `/<lang>/about`
    - About the catalog, the maintainer, how to use, how to suggest additions
+   - Content source: `src/content/pages/about.{ru,en,zh}.md` (Markdown, one file per language)
 
 8. **Contacts** — `/<lang>/contacts`
    - Contact form (name, email, company, message) → Netlify Forms → operator email
    - Direct contact: email, phone, WhatsApp, WeChat, Telegram
+   - Content source: `src/content/pages/contacts.{ru,en,zh}.md` for prose; contact details and messenger handles live in `src/content/settings/contacts.yaml` (single source of truth, surfaced in footer + this page)
 
 ### Header (all pages)
 
@@ -97,6 +101,8 @@ Short description · Language links · Section links · Contact info · Copyrigh
 ## Data Model
 
 All content lives in YAML files inside Astro Content Collections. Each entity is one file. Schemas are enforced at build time via Zod — a missing required field on any entity fails the build with a precise error.
+
+**Slug policy:** every entity has exactly one `slug` (Latin, lowercase, hyphenated). The slug is language-independent and is used for the URL in all languages — `/ru/companies/fanuc`, `/en/companies/fanuc`, `/zh/companies/fanuc`. Native Chinese URLs (`/zh/companies/发那科`) are explicitly rejected because they complicate routing, hreflang, and language switching for marginal SEO benefit at our scale.
 
 ### Companies — `src/content/companies/<slug>.yaml`
 
@@ -118,9 +124,16 @@ categories:
   - servo_motors
 
 produces_components:             # many-to-many → resolved on component pages
-  - servo-motor
+  - servo-motor                  # required if type includes `component_maker`
   - cnc-controller
   - robot-arm-6axis
+
+robot_products:                  # required if type includes `robot_brand`
+  - name: FANUC M-2000iA
+    image: ./robots/m-2000ia.jpg # optional
+    short: Heavy-payload industrial robot, up to 2300 kg
+  - name: FANUC LR Mate 200iD
+    short: Compact 6-axis robot for assembly and material handling
 
 key_clients:                     # references to clients/ collection
   - toyota
@@ -181,10 +194,12 @@ A separate collection because the same client appears across many companies. Edi
 ```yaml
 slug: toyota
 name: Toyota
-logo: ./logo.svg
-country: JP
+logo: ./logo.svg                       # optional — falls back to a text chip if absent
+country: JP                            # optional
 website: https://global.toyota         # optional
 ```
+
+A client without a logo renders as a text chip with the name. Only `slug` and `name` are required, so a B2B client without easily obtainable logo can still be added.
 
 ### Categories — `src/content/categories/<slug>.yaml`
 
@@ -203,6 +218,52 @@ zh: { name: 执行器 }
 ### UI Strings — `src/i18n/{ru,en,zh}.json`
 
 All UI labels ("Search", "Companies", "Contact us", section headings, etc.) live in per-language JSON files. Adding a fourth language later is a single new file + one route prefix.
+
+### Pages — `src/content/pages/{about,contacts}.{ru,en,zh}.md`
+
+Markdown content for About and Contacts. Each page = one file per language. Frontmatter includes meta (title, description) per language; body is freeform Markdown so we can format with headings, links, lists without needing schema changes.
+
+### Site Settings — `src/content/settings/contacts.yaml`
+
+Single source of truth for contact info displayed in the footer and on the Contacts page:
+
+```yaml
+email: hello@361robotics.com
+phone: "+86 ..."                 # optional
+whatsapp: "+86 ..."              # optional
+wechat_id: "..."                 # optional
+telegram_handle: "@..."          # optional
+```
+
+Changing a phone number once updates it everywhere.
+
+## Multilingual SEO
+
+Each entity page exists in three languages at three URLs (`/ru/...`, `/en/...`, `/zh/...`) with the same slug. To prevent duplicate-content penalties and ensure each language is indexed for the right audience, the following is part of v1, not deferred:
+
+- **`hreflang` tags** in every page `<head>`, listing all three language variants + an `x-default` pointing to `/en/`.
+- **Auto-generated `sitemap.xml`** via `@astrojs/sitemap`, listing every page in every language with proper `<xhtml:link rel="alternate" hreflang="...">` entries inside each `<url>`.
+- **`robots.txt`** — allows all crawlers, points to the sitemap.
+- **Per-language `<html lang="...">`** attribute set on every page so screen readers and Google use the right TTS/index.
+- **Canonical URLs** per page (each language version is its own canonical, not pointing at /en/).
+- **Open Graph + meta description** per language (titles and descriptions translated, not just the body text).
+
+## Root URL and Language Detection
+
+When a visitor hits `361robotics.com/` (no language prefix), Netlify performs an HTTP-level redirect based on `Accept-Language`:
+
+| Browser prefers | Redirect to |
+|---|---|
+| `zh*` | `/zh/` |
+| `ru*` | `/ru/` |
+| anything else | `/en/` |
+
+Implemented in Netlify `_redirects` with `Language=...` conditions; no client-side JavaScript needed for the first hit. After the visitor uses the in-header language switcher, the choice persists in `localStorage` and overrides the auto-detect on subsequent visits.
+
+## Typography Implementation
+
+- **Inter** (Latin + Cyrillic) — self-hosted woff2 with `font-display: swap`, full glyph coverage in one ~70 KB file per weight.
+- **Noto Sans SC** (Chinese) — served via **Google Fonts** with their automatic glyph-subsetting (the CSS only loads the hieroglyphs actually present on each page). Full Noto Sans SC is ~10 MB and would destroy our performance budget; Google's dynamic subsetting brings it to ~30–80 KB per page on average. The Google-Fonts dependency is an accepted external dep — if it ever fails, the page degrades to system CJK font (PingFang on macOS, Microsoft YaHei on Windows), which is acceptable.
 
 ## Visual Direction — Industrial Minimalism
 
@@ -305,7 +366,7 @@ The AI normalizes whatever the operator provides into the YAML schema.
 ### What the AI provides
 
 1. GitHub repo + Netlify project, linked.
-2. Astro scaffold with `/ru`, `/en`, `/zh` routes, Content Collections schemas, Pagefind integration, placeholder home + contact pages.
+2. Astro scaffold with `/ru`, `/en`, `/zh` routes, Content Collections schemas (companies, components, clients, categories, pages, settings), Pagefind integration, hreflang tags, sitemap, robots.txt, root-URL language-detect redirects, placeholder home + about + contact pages.
 3. Seed content: starter categories + 1–2 demo companies for visual verification.
 4. DNS configuration when the domain is purchased.
 
@@ -336,7 +397,7 @@ YAML content files + generated HTML run on any static host (Cloudflare Pages, Ve
 
 These are deliberately deferred to the implementation plan, not blockers for this spec:
 
-- Image optimization defaults (max dimensions, formats served).
-- Exact featured-on-homepage selection logic (manual flag confirmed; ordering rule TBD).
-- Sitemap / `robots.txt` defaults for 3-language SEO.
-- Choice between Cyrillic-friendly variants of Inter (e.g., Inter vs. Inter Tight).
+- **Image optimization defaults** — exact max dimensions per slot (logo / hero / robot product), AVIF + WebP delivery order via Astro's `<Image>` component.
+- **Featured ordering rule** — `featured: true` is a manual flag (confirmed). Ordering among featured items defaults to alphabetical; we may add an optional `featured_weight: number` field if explicit ordering is needed later.
+- **Inter variant** — base Inter is the default; we'll evaluate Inter Tight only if visual review of headings asks for tighter tracking.
+- **Bulk-import cadence** — when ingesting 50+ companies in one operation, the AI works incrementally over multiple sessions; exact batching policy is operational, not architectural.
