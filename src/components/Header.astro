@@ -1,0 +1,84 @@
+---
+import { t, type Lang } from '../i18n/helpers';
+import LanguageSwitcher from './LanguageSwitcher.astro';
+
+interface Props {
+  lang: Lang;
+  pathTail: string;
+}
+
+const { lang, pathTail } = Astro.props;
+---
+
+<header class="border-b border-border bg-white">
+  <div class="max-w-content mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="flex h-16 items-center justify-between gap-4">
+      <a href={`/${lang}`} class="flex-shrink-0 text-lg font-bold no-underline">
+        361Robotics
+      </a>
+
+      <nav aria-label="Primary" class="hidden lg:flex items-center gap-6 text-sm">
+        <a href={`/${lang}/companies`} class="no-underline hover:text-accent">{t(lang, 'nav.companies')}</a>
+        <a href={`/${lang}/components`} class="no-underline hover:text-accent">{t(lang, 'nav.components')}</a>
+        <a href={`/${lang}/about`} class="no-underline hover:text-accent">{t(lang, 'nav.about')}</a>
+        <a href={`/${lang}/contacts`} class="no-underline hover:text-accent">{t(lang, 'nav.contacts')}</a>
+      </nav>
+
+      <div class="flex items-center gap-3">
+        <button
+          type="button"
+          class="min-w-touch min-h-touch flex items-center justify-center text-ink hover:text-accent"
+          aria-label={t(lang, 'nav.search')}
+          data-toggle="search"
+        >
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="11" cy="11" r="7"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+          </svg>
+        </button>
+
+        <LanguageSwitcher currentLang={lang} pathTail={pathTail} />
+
+        <a
+          href={`/${lang}/contacts`}
+          class="hidden sm:inline-flex items-center px-4 py-2 bg-accent text-white text-sm rounded no-underline"
+        >
+          {t(lang, 'nav.contact_cta')}
+        </a>
+
+        <button
+          type="button"
+          class="lg:hidden min-w-touch min-h-touch flex items-center justify-center"
+          aria-label={t(lang, 'nav.menu')}
+          aria-expanded="false"
+          aria-controls="mobile-menu"
+          data-toggle="mobile-menu"
+        >
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <line x1="3" y1="12" x2="21" y2="12"></line>
+            <line x1="3" y1="6" x2="21" y2="6"></line>
+            <line x1="3" y1="18" x2="21" y2="18"></line>
+          </svg>
+        </button>
+      </div>
+    </div>
+
+    <div id="mobile-menu" class="hidden lg:hidden border-t border-border py-3">
+      <a href={`/${lang}/companies`} class="block py-2 no-underline">{t(lang, 'nav.companies')}</a>
+      <a href={`/${lang}/components`} class="block py-2 no-underline">{t(lang, 'nav.components')}</a>
+      <a href={`/${lang}/about`} class="block py-2 no-underline">{t(lang, 'nav.about')}</a>
+      <a href={`/${lang}/contacts`} class="block py-2 no-underline">{t(lang, 'nav.contacts')}</a>
+    </div>
+  </div>
+</header>
+
+<script>
+  const toggle = document.querySelector<HTMLButtonElement>('[data-toggle="mobile-menu"]');
+  const menu = document.getElementById('mobile-menu');
+  toggle?.addEventListener('click', () => {
+    if (!menu) return;
+    const isOpen = !menu.classList.contains('hidden');
+    menu.classList.toggle('hidden');
+    toggle.setAttribute('aria-expanded', String(!isOpen));
+  });
+</script>

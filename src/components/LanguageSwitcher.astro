@@ -1,0 +1,37 @@
+---
+import { LANGS, type Lang } from '../i18n/helpers';
+
+interface Props {
+  currentLang: Lang;
+  pathTail: string;
+}
+
+const { currentLang, pathTail } = Astro.props;
+const tail = pathTail.replace(/^\//, '');
+const labels: Record<Lang, string> = { en: 'EN', ru: 'RU', zh: '中文' };
+---
+
+<nav aria-label="Language switcher" class="flex items-center gap-2 text-sm">
+  {LANGS.map((lang) => (
+    <a
+      href={`/${lang}${tail.length === 0 ? '' : '/' + tail}`}
+      class:list={[
+        'px-2 py-1 rounded',
+        lang === currentLang ? 'bg-ink text-white' : 'hover:bg-border',
+      ]}
+      aria-current={lang === currentLang ? 'true' : undefined}
+      data-set-lang={lang}
+    >
+      {labels[lang]}
+    </a>
+  ))}
+</nav>
+
+<script>
+  document.querySelectorAll<HTMLAnchorElement>('[data-set-lang]').forEach((el) => {
+    el.addEventListener('click', () => {
+      const lang = el.dataset.setLang;
+      if (lang) localStorage.setItem('preferredLang', lang);
+    });
+  });
+</script>
