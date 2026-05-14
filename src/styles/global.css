@@ -1,1 +1,34 @@
 @import "tailwindcss";
+
+@theme {
+  --color-ink: #0A0A0A;
+  --color-muted: #5C5C5C;
+  --color-accent: #0B5FFF;
+  --color-border: #E5E5E5;
+
+  --font-sans: "Inter", "Noto Sans SC", system-ui, sans-serif;
+
+  --container-content: 1280px;
+  --spacing-touch: 44px;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-white text-ink font-sans antialiased;
+    font-feature-settings: "cv11", "ss01";
+  }
+  a {
+    @apply underline-offset-2;
+  }
+  h1,
+  h2,
+  h3 {
+    @apply font-semibold tracking-tight;
+  }
+  :focus-visible {
+    @apply outline-2 outline-offset-2 outline-accent;
+  }
+}
