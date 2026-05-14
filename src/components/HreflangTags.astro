@@ -1,0 +1,13 @@
+---
+import { buildHreflang } from '../i18n/hreflang';
+
+interface Props {
+  pathTail: string;
+}
+
+const { pathTail } = Astro.props;
+const site = Astro.site?.toString() ?? 'https://361robotics.com';
+const entries = buildHreflang({ site, pathTail });
+---
+
+{entries.map((e) => <link rel="alternate" hreflang={e.hreflang} href={e.href} />)}

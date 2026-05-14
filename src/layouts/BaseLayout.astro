@@ -1,0 +1,43 @@
+---
+import '../styles/global.css';
+import HreflangTags from '../components/HreflangTags.astro';
+import OGTags from '../components/OGTags.astro';
+import type { Lang } from '../i18n/helpers';
+
+interface Props {
+  title: string;
+  description: string;
+  lang: Lang;
+  pathTail: string;
+  ogImage?: string;
+}
+
+const { title, description, lang, pathTail, ogImage } = Astro.props;
+const site = Astro.site?.toString().replace(/\/$/, '') ?? 'https://361robotics.com';
+const canonical = `${site}/${lang}${pathTail.length === 0 ? '' : '/' + pathTail.replace(/^\//, '')}`;
+---
+
+<!doctype html>
+<html lang={lang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <HreflangTags pathTail={pathTail} />
+    <OGTags title={title} description={description} image={ogImage} url={canonical} locale={lang} />
+    {lang === 'zh' && (
+      <link rel="preconnect" href="https://fonts.googleapis.com" />
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+      <link
+        href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&display=swap"
+        rel="stylesheet"
+      />
+    )}
+  </head>
+  <body>
+    <slot />
+  </body>
+</html>
