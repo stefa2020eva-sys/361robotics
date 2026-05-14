@@ -1,5 +1,11 @@
 import { describe, it, expect } from 'vitest';
-import { companySchema } from '../../src/content.config';
+import {
+  companySchema,
+  componentSchema,
+  clientSchema,
+  categorySchema,
+  contactsSettingsSchema,
+} from '../../src/content.config';
 
 const validCompany = {
   slug: 'fanuc',
@@ -49,5 +55,77 @@ describe('companySchema', () => {
     expect(() => companySchema.parse({ ...validCompany, slug: 'FANUC' })).toThrow();
     expect(() => companySchema.parse({ ...validCompany, slug: '发那科' })).toThrow();
     expect(() => companySchema.parse({ ...validCompany, slug: 'fanuc-corp' })).not.toThrow();
+  });
+});
+
+describe('componentSchema', () => {
+  const valid = {
+    slug: 'servo-motor',
+    category: 'actuators',
+    image: './main.jpg',
+    image_alt: { ru: 'Серво', en: 'Servo', zh: '伺服' },
+    featured: true,
+    ru: { name: 'Серводвигатель', description: '...' },
+    en: { name: 'Servo Motor', description: '...' },
+    zh: { name: '伺服电机', description: '...' },
+    verified: false,
+  };
+
+  it('parses a valid component', () => {
+    expect(() => componentSchema.parse(valid)).not.toThrow();
+  });
+
+  it('rejects a component missing en.name', () => {
+    const bad = { ...valid, en: { description: '...' } };
+    expect(() => componentSchema.parse(bad)).toThrow();
+  });
+});
+
+describe('clientSchema', () => {
+  const minimal = { slug: 'toyota', name: 'Toyota' };
+  const withLogo = { ...minimal, logo: './logo.svg', logo_alt: { ru: 'a', en: 'b', zh: 'c' } };
+
+  it('parses a client with only slug + name', () => {
+    expect(() => clientSchema.parse(minimal)).not.toThrow();
+  });
+
+  it('rejects a client with a logo but no alt text', () => {
+    expect(() => clientSchema.parse({ ...minimal, logo: './logo.svg' })).toThrow();
+  });
+
+  it('accepts a client with logo + alt', () => {
+    expect(() => clientSchema.parse(withLogo)).not.toThrow();
+  });
+});
+
+describe('categorySchema', () => {
+  const valid = {
+    slug: 'actuators',
+    icon: './icon.svg',
+    icon_alt: { ru: 'Икона', en: 'Icon', zh: '图标' },
+    ru: { name: 'Актуаторы' },
+    en: { name: 'Actuators' },
+    zh: { name: '执行器' },
+  };
+
+  it('parses a valid category', () => {
+    expect(() => categorySchema.parse(valid)).not.toThrow();
+  });
+
+  it('makes icon optional but requires alt when icon present', () => {
+    const noIcon = { ...valid, icon: undefined, icon_alt: undefined };
+    expect(() => categorySchema.parse(noIcon)).not.toThrow();
+    const iconNoAlt = { ...valid, icon_alt: undefined };
+    expect(() => categorySchema.parse(iconNoAlt)).toThrow();
+  });
+});
+
+describe('contactsSettingsSchema', () => {
+  it('parses a settings file with only email', () => {
+    expect(() => contactsSettingsSchema.parse({ email: 'hello@361robotics.com' })).not.toThrow();
+  });
+
+  it('rejects an invalid email', () => {
+    expect(() => contactsSettingsSchema.parse({ email: 'not-an-email' })).toThrow();
   });
 });
