@@ -1,0 +1,74 @@
+{
+  "site": { "name": "361Robotics", "tagline": "机器人公司和组件目录" },
+  "nav": {
+    "companies": "公司",
+    "components": "组件",
+    "about": "关于",
+    "contacts": "联系",
+    "search": "搜索",
+    "contact_cta": "联系我们",
+    "menu": "菜单"
+  },
+  "home": {
+    "hero_title": "机器人公司和组件目录",
+    "hero_subtitle": "浏览工业机器人、传感器、执行器及其核心组件的制造商。",
+    "search_placeholder": "查找公司或组件",
+    "featured_companies": "推荐公司",
+    "featured_components": "推荐组件",
+    "about_block_title": "为什么有这个目录",
+    "contact_cta": "有需求？联系我们。"
+  },
+  "company": {
+    "country": "国家",
+    "founded": "成立",
+    "website": "网站",
+    "type_robot_brand": "机器人品牌",
+    "type_component_maker": "组件制造商",
+    "type_both": "机器人品牌与组件制造商",
+    "key_clients": "主要客户",
+    "highlights": "亮点",
+    "what_they_produce": "产品",
+    "robots": "机器人",
+    "components": "组件",
+    "unverified": "未验证"
+  },
+  "component": {
+    "category": "类别",
+    "manufacturers": "制造商",
+    "related_components": "相关组件"
+  },
+  "catalog": {
+    "filters": "筛选",
+    "clear_filters": "清除",
+    "apply_filters": "应用",
+    "sort_alpha": "A → Z",
+    "sort_featured": "推荐优先",
+    "no_results": "当前筛选条件下没有结果。",
+    "results_count": "{count} 个结果"
+  },
+  "search": {
+    "title": "搜索结果",
+    "tab_all": "全部",
+    "tab_companies": "公司",
+    "tab_components": "组件",
+    "show_all": "显示全部 {count} 个结果",
+    "no_results": "未找到与“{query}”相关的内容。",
+    "empty_query": "输入以搜索公司和组件。"
+  },
+  "footer": {
+    "description": "独立的机器人公司与组件目录。",
+    "rights": "所有标志和商标归各自所有者所有。",
+    "privacy_link": "隐私政策"
+  },
+  "form": {
+    "name": "姓名",
+    "email": "邮箱",
+    "company": "公司",
+    "message": "留言",
+    "submit": "发送请求",
+    "privacy_consent": "我已阅读并同意 {privacy_policy_link}。",
+    "privacy_policy_link_text": "隐私政策",
+    "thank_you_title": "感谢您",
+    "thank_you_body": "我们已收到您的请求，将在一个工作日内回复。"
+  }
+}

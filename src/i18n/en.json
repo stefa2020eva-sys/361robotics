@@ -1,0 +1,74 @@
+{
+  "site": { "name": "361Robotics", "tagline": "A catalog of robotics companies and components" },
+  "nav": {
+    "companies": "Companies",
+    "components": "Components",
+    "about": "About",
+    "contacts": "Contacts",
+    "search": "Search",
+    "contact_cta": "Contact us",
+    "menu": "Menu"
+  },
+  "home": {
+    "hero_title": "The catalog of robotics companies and components",
+    "hero_subtitle": "Browse manufacturers of industrial robots, sensors, actuators, and the components that power them.",
+    "search_placeholder": "Find a company or component",
+    "featured_companies": "Featured companies",
+    "featured_components": "Featured components",
+    "about_block_title": "Why this catalog exists",
+    "contact_cta": "Have a request? Talk to us."
+  },
+  "company": {
+    "country": "Country",
+    "founded": "Founded",
+    "website": "Website",
+    "type_robot_brand": "Robot brand",
+    "type_component_maker": "Component maker",
+    "type_both": "Robot brand & component maker",
+    "key_clients": "Key clients",
+    "highlights": "Highlights",
+    "what_they_produce": "What they produce",
+    "robots": "Robots",
+    "components": "Components",
+    "unverified": "Unverified"
+  },
+  "component": {
+    "category": "Category",
+    "manufacturers": "Manufacturers",
+    "related_components": "Related components"
+  },
+  "catalog": {
+    "filters": "Filters",
+    "clear_filters": "Clear",
+    "apply_filters": "Apply",
+    "sort_alpha": "A → Z",
+    "sort_featured": "Featured first",
+    "no_results": "Nothing matches the current filters.",
+    "results_count": "{count} results"
+  },
+  "search": {
+    "title": "Search results",
+    "tab_all": "All",
+    "tab_companies": "Companies",
+    "tab_components": "Components",
+    "show_all": "Show all {count} results",
+    "no_results": "Nothing found for \"{query}\".",
+    "empty_query": "Type to search across companies and components."
+  },
+  "footer": {
+    "description": "An independent catalog of robotics companies and components.",
+    "rights": "All logos and trademarks are the property of their respective owners.",
+    "privacy_link": "Privacy Policy"
+  },
+  "form": {
+    "name": "Name",
+    "email": "Email",
+    "company": "Company",
+    "message": "Message",
+    "submit": "Send request",
+    "privacy_consent": "I have read and agree to the {privacy_policy_link}.",
+    "privacy_policy_link_text": "Privacy Policy",
+    "thank_you_title": "Thank you",
+    "thank_you_body": "We received your request and will respond within one business day."
+  }
+}
