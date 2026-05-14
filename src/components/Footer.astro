@@ -1,0 +1,55 @@
+---
+import { getCollection } from 'astro:content';
+import { t, type Lang } from '../i18n/helpers';
+
+interface Props {
+  lang: Lang;
+}
+
+const { lang } = Astro.props;
+const settings = await getCollection('settings');
+const contacts = settings.find((s) => s.id === 'contacts')?.data;
+const year = new Date().getFullYear();
+---
+
+<footer class="border-t border-border bg-white mt-16">
+  <div class="max-w-content mx-auto px-4 sm:px-6 lg:px-8 py-10">
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 text-sm">
+      <div>
+        <div class="font-bold mb-2">361Robotics</div>
+        <p class="text-muted">{t(lang, 'footer.description')}</p>
+      </div>
+      <div>
+        <div class="font-semibold mb-2">{t(lang, 'nav.companies')} & {t(lang, 'nav.components')}</div>
+        <ul class="space-y-1">
+          <li><a class="no-underline hover:text-accent" href={`/${lang}/companies`}>{t(lang, 'nav.companies')}</a></li>
+          <li><a class="no-underline hover:text-accent" href={`/${lang}/components`}>{t(lang, 'nav.components')}</a></li>
+        </ul>
+      </div>
+      <div>
+        <div class="font-semibold mb-2">{t(lang, 'nav.about')}</div>
+        <ul class="space-y-1">
+          <li><a class="no-underline hover:text-accent" href={`/${lang}/about`}>{t(lang, 'nav.about')}</a></li>
+          <li><a class="no-underline hover:text-accent" href={`/${lang}/contacts`}>{t(lang, 'nav.contacts')}</a></li>
+          <li><a class="no-underline hover:text-accent" href={`/${lang}/privacy`}>{t(lang, 'footer.privacy_link')}</a></li>
+        </ul>
+      </div>
+      {contacts && (
+        <div>
+          <div class="font-semibold mb-2">{t(lang, 'nav.contacts')}</div>
+          <ul class="space-y-1 text-muted">
+            <li><a class="no-underline hover:text-accent" href={`mailto:${contacts.email}`}>{contacts.email}</a></li>
+            {contacts.phone && <li>{contacts.phone}</li>}
+            {contacts.whatsapp && <li>WhatsApp: {contacts.whatsapp}</li>}
+            {contacts.wechat_id && <li>WeChat: {contacts.wechat_id}</li>}
+            {contacts.telegram_handle && <li>Telegram: {contacts.telegram_handle}</li>}
+          </ul>
+        </div>
+      )}
+    </div>
+    <div class="mt-8 pt-6 border-t border-border flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3 text-xs text-muted">
+      <p>{t(lang, 'footer.rights')}</p>
+      <p>© {year} 361Robotics</p>
+    </div>
+  </div>
+</footer>
