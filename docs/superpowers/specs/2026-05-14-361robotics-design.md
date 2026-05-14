@@ -14,6 +14,9 @@
 - Each component has a page listing companies that manufacture it.
 - Full-text search across companies and components, working in Russian, English, and Chinese.
 - Site is SEO-friendly: every company and component has its own indexable URL in every language.
+- **Mobile-first**: design, build, and test from the phone-sized viewport up. Filters collapse into a slide-over panel, header collapses to a hamburger, grids reflow to one or two columns. Desktop is an enhancement, not the baseline.
+- **Accessible**: WCAG 2.2 AA as the floor — color contrast verified for accent on white, keyboard navigation for every interactive element, alt text on every image, semantic landmarks (`<main>`, `<nav>`, `<article>`).
+- **Legally compliant for form collection**: Privacy Policy page covering GDPR and 152-ФЗ exists in v1.
 - Visual style: "Industrial Minimalism" — clean, image-driven, single accent color, sparse animations. Inspired by robostore.com's polish but adapted for information-dense B2B catalog.
 
 ## Non-Goals (v1)
@@ -89,6 +92,12 @@ Language-prefixed URLs: `/<lang>/...` where `<lang>` ∈ `{ru, en, zh}`. First-v
    - Contact form (name, email, company, message) → Netlify Forms → operator email
    - Direct contact: email, phone, WhatsApp, WeChat, Telegram
    - Content source: `src/content/pages/contacts.{ru,en,zh}.md` for prose; contact details and messenger handles live in `src/content/settings/contacts.yaml` (single source of truth, surfaced in footer + this page)
+   - Form page includes a checkbox: "I have read and agree to the Privacy Policy" (linked) — required before submit.
+
+9. **Privacy Policy** — `/<lang>/privacy`
+   - Covers what data is collected (form submissions: name, email, company, message; HTTP server logs by Netlify), purpose (responding to inquiries), retention, third parties (Netlify as processor), rights under GDPR + 152-ФЗ, contact for data requests.
+   - Content source: `src/content/pages/privacy.{ru,en,zh}.md`
+   - Linked from footer on every page and from the Contacts form checkbox.
 
 ### Header (all pages)
 
@@ -109,11 +118,22 @@ All content lives in YAML files inside Astro Content Collections. Each entity is
 ```yaml
 slug: fanuc
 name: FANUC
-country: JP
+country: JP                      # ISO 3166-1 alpha-2; localized name resolved from src/i18n/countries.json
 founded: 1956
 website: https://www.fanuc.com
+
 logo: ./logo.svg
-hero_image: ./hero.jpg          # optional, for company page hero
+logo_alt:                        # alt text, per language
+  ru: Логотип FANUC
+  en: FANUC logo
+  zh: FANUC 标志
+
+hero_image: ./hero.jpg           # optional
+hero_alt:                        # required if hero_image is set
+  ru: Роботизированная линия FANUC на заводе Toyota
+  en: FANUC robotic line at a Toyota factory
+  zh: 丰田工厂的 FANUC 机器人生产线
+
 type:                            # one or both
   - robot_brand
   - component_maker
@@ -123,14 +143,18 @@ categories:
   - cnc
   - servo_motors
 
-produces_components:             # many-to-many → resolved on component pages
-  - servo-motor                  # required if type includes `component_maker`
+produces_components:             # required if type includes `component_maker`
+  - servo-motor
   - cnc-controller
   - robot-arm-6axis
 
 robot_products:                  # required if type includes `robot_brand`
   - name: FANUC M-2000iA
     image: ./robots/m-2000ia.jpg # optional
+    image_alt:                   # required if image is set
+      ru: Промышленный робот FANUC M-2000iA
+      en: FANUC M-2000iA industrial robot
+      zh: FANUC M-2000iA 工业机器人
     short: Heavy-payload industrial robot, up to 2300 kg
   - name: FANUC LR Mate 200iD
     short: Compact 6-axis robot for assembly and material handling
@@ -159,7 +183,10 @@ zh:
     - 全球安装超过 500,000 台机器人
     - 亚洲市场份额第一
 
-needs_review:                    # optional QA flag, per language
+# Content provenance and review flags (see "Content Verification Policy" below)
+verified: true                   # operator confirmed core facts against the source
+source: https://www.fanuc.com/company/profile.html
+needs_review:                    # optional, per language; flags translations to re-check
   zh: true
 ```
 
@@ -169,6 +196,10 @@ needs_review:                    # optional QA flag, per language
 slug: servo-motor
 category: actuators
 image: ./main.jpg
+image_alt:
+  ru: Промышленный серводвигатель с энкодером
+  en: Industrial servo motor with encoder
+  zh: 带编码器的工业伺服电机
 featured: true
 
 ru:
@@ -183,6 +214,8 @@ zh:
   name: 伺服电机
   description: |
     具有反馈控制的电机...
+
+verified: true                   # operator confirmed the description is accurate
 ```
 
 The component's list of manufacturers is **not stored on the component** — it is computed at build time from companies whose `produces_components` includes this slug. Single source of truth, no possibility of desync.
@@ -195,6 +228,10 @@ A separate collection because the same client appears across many companies. Edi
 slug: toyota
 name: Toyota
 logo: ./logo.svg                       # optional — falls back to a text chip if absent
+logo_alt:                              # required if logo is set
+  ru: Логотип Toyota
+  en: Toyota logo
+  zh: 丰田标志
 country: JP                            # optional
 website: https://global.toyota         # optional
 ```
@@ -206,6 +243,10 @@ A client without a logo renders as a text chip with the name. Only `slug` and `n
 ```yaml
 slug: actuators
 icon: ./icon.svg
+icon_alt:                              # required if icon is set
+  ru: Иконка категории «Актуаторы»
+  en: "\"Actuators\" category icon"
+  zh: "\"执行器\"类别图标"
 ru: { name: Актуаторы }
 en: { name: Actuators }
 zh: { name: 执行器 }
@@ -218,6 +259,20 @@ zh: { name: 执行器 }
 ### UI Strings — `src/i18n/{ru,en,zh}.json`
 
 All UI labels ("Search", "Companies", "Contact us", section headings, etc.) live in per-language JSON files. Adding a fourth language later is a single new file + one route prefix.
+
+### Country Names — `src/i18n/countries.json`
+
+A single dictionary mapping ISO 3166-1 alpha-2 codes to localized country names. Generated once from open data (CLDR / Wikidata) and committed; updated rarely. Example:
+
+```json
+{
+  "JP": { "ru": "Япония", "en": "Japan", "zh": "日本" },
+  "CN": { "ru": "Китай",  "en": "China", "zh": "中国" },
+  "DE": { "ru": "Германия","en": "Germany","zh": "德国" }
+}
+```
+
+Any company / client referencing `country: JP` renders the right name in the current language without per-entity duplication.
 
 ### Pages — `src/content/pages/{about,contacts}.{ru,en,zh}.md`
 
@@ -237,6 +292,16 @@ telegram_handle: "@..."          # optional
 
 Changing a phone number once updates it everywhere.
 
+## Content Verification Policy
+
+The AI may produce plausible-sounding but unverified facts when generating or translating entity content. Two flags address this:
+
+- **`verified: bool`** on each company and component. Defaults to `false` if absent. Operator sets `verified: true` only after confirming the description, founding year, key clients, and highlights against a real source (company website, press release, Wikipedia citation). The site renders an "Unverified" badge on entities where `verified` is not yet `true`, signalling visitors that the page is informational but not yet operator-confirmed.
+- **`source: <URL>`** on each entity, recording where the content was drawn from. Optional but strongly encouraged. Used in the AI's tracking dashboard for re-verification cycles.
+- **`needs_review: { ru?, en?, zh? }`** flags translations the operator should re-check; orthogonal to `verified` (a verified entity may still have a translation flagged for review).
+
+This is operationally important because the alternative — verifying every fact silently — does not scale to 100+ companies and leaves the operator with no way to audit which pages they actually stand behind.
+
 ## Multilingual SEO
 
 Each entity page exists in three languages at three URLs (`/ru/...`, `/en/...`, `/zh/...`) with the same slug. To prevent duplicate-content penalties and ensure each language is indexed for the right audience, the following is part of v1, not deferred:
@@ -247,6 +312,11 @@ Each entity page exists in three languages at three URLs (`/ru/...`, `/en/...`, 
 - **Per-language `<html lang="...">`** attribute set on every page so screen readers and Google use the right TTS/index.
 - **Canonical URLs** per page (each language version is its own canonical, not pointing at /en/).
 - **Open Graph + meta description** per language (titles and descriptions translated, not just the body text).
+- **Open Graph image policy** per page type, falling back gracefully:
+  - Company page: `hero_image` → `logo` → site default
+  - Component page: `image` → category icon → site default
+  - About / Contacts / Privacy / Home: site default
+  - The site default is a branded 1200×630 image (wordmark on Industrial-Minimalism background), shipped in `/public/og-default.jpg`.
 
 ## Root URL and Language Detection
 
@@ -282,8 +352,20 @@ Implemented in Netlify `_redirects` with `Language=...` conditions; no client-si
 - Cards: white surface, 1 px border, soft shadow on hover, no heavy gradients.
 - Hero: large black-and-white photography with text overlay; one bold colored CTA.
 - Animations: fade-in on scroll, hover lift on cards, no parallax or video backgrounds.
-- Country shown with flag emoji + ISO code (no flag icon assets to maintain).
+- Country shown with flag emoji + localized country name (from `src/i18n/countries.json`); ISO code is internal only.
 - Logo placeholder: wordmark "361Robotics" in Inter Bold; a geometric mark can be designed later.
+
+### Responsive Breakpoints (Mobile-first)
+
+| Breakpoint | Width | Layout behavior |
+|---|---|---|
+| `base` | <640 px | Single-column grids. Header collapses to logo + hamburger + search icon. Sidebar filters become a full-screen slide-over opened from a "Filters" button. Tables degrade to stacked cards. |
+| `sm` | ≥640 px | Two-column product grids; secondary action buttons appear inline. |
+| `md` | ≥768 px | Side-by-side hero text/image; three-column grids start. |
+| `lg` | ≥1024 px | Filters move from slide-over to permanent sidebar. Four-column featured grids. |
+| `xl` | ≥1280 px | Max content width reached; no further changes. |
+
+Every interactive area meets the 44×44 px minimum touch target on small screens. Verified on a real iPhone-sized viewport (375 px) and iPad-sized viewport (768 px) before any page is considered done.
 
 ## Search Behavior
 
@@ -347,7 +429,19 @@ The AI normalizes whatever the operator provides into the YAML schema.
 
 - Index of added companies and components with dates added.
 - Translation status (which entities have all three languages; which have `needs_review` flags).
+- Verification status (which entities are `verified: true`, which still need operator confirmation).
 - TODO list of missing data (logos not yet found, key clients without logos, etc.).
+
+### Build-failure protocol
+
+When a push results in a failed Netlify build (typo in YAML, schema violation, broken image reference), the live site stays on the previous successful deploy — visitors see no breakage. The recovery flow:
+
+1. **Netlify emails the operator** within ~1 min, subject "Deploy failed". The email links to the failed build log on Netlify.
+2. **The operator forwards or describes the failure to the AI in chat** (or simply says "the last change failed, please fix").
+3. **The AI inspects the build log, identifies the cause** (missing required field, broken image path, invalid YAML), pushes a corrective commit, and confirms the new build succeeds.
+4. **If a fix is not immediate** (e.g., requires waiting for an asset from the operator), the AI explicitly reverts the breaking commit so the repo's `main` is in a known-good state, then proceeds with the fix on a branch.
+
+The operator never needs to read the log or touch a terminal — only forward the email or ask.
 
 ## Hosting and Deployment
 
@@ -366,9 +460,10 @@ The AI normalizes whatever the operator provides into the YAML schema.
 ### What the AI provides
 
 1. GitHub repo + Netlify project, linked.
-2. Astro scaffold with `/ru`, `/en`, `/zh` routes, Content Collections schemas (companies, components, clients, categories, pages, settings), Pagefind integration, hreflang tags, sitemap, robots.txt, root-URL language-detect redirects, placeholder home + about + contact pages.
-3. Seed content: starter categories + 1–2 demo companies for visual verification.
-4. DNS configuration when the domain is purchased.
+2. Astro scaffold with `/ru`, `/en`, `/zh` routes, Content Collections schemas (companies, components, clients, categories, pages, settings), Pagefind integration, hreflang tags, sitemap, robots.txt, root-URL language-detect redirects, mobile-first responsive layout, OG default image, placeholder home + about + contacts + privacy pages.
+3. Seed content: starter categories + `countries.json` dictionary + 1–2 demo companies for visual verification.
+4. Initial drafts of Privacy Policy text in all three languages, for operator review (the operator is the legally responsible party — AI drafts, operator approves).
+5. DNS configuration when the domain is purchased.
 
 ## Annual Cost
 
@@ -401,3 +496,7 @@ These are deliberately deferred to the implementation plan, not blockers for thi
 - **Featured ordering rule** — `featured: true` is a manual flag (confirmed). Ordering among featured items defaults to alphabetical; we may add an optional `featured_weight: number` field if explicit ordering is needed later.
 - **Inter variant** — base Inter is the default; we'll evaluate Inter Tight only if visual review of headings asks for tighter tracking.
 - **Bulk-import cadence** — when ingesting 50+ companies in one operation, the AI works incrementally over multiple sessions; exact batching policy is operational, not architectural.
+- **Empty states** — visual treatment for: search with zero results, category with no components, company with neither `produces_components` nor `robot_products`, filter combination that excludes everything. Decided during implementation; each is a small UI choice, not an architectural one.
+- **Trademark / fair-use disclaimer** — one-line note in the footer (e.g., "All logos and trademarks are the property of their respective owners.") and a paragraph in About. Exact wording determined during implementation; legal substance is straightforward.
+- **Performance budget targets** — proposed defaults: Lighthouse Performance ≥ 90 on mobile, First Contentful Paint < 1.5 s on 4G, Largest Contentful Paint < 2.5 s, Cumulative Layout Shift < 0.1. To be ratified at scaffold time when we can measure against real builds.
+- **Analytics** — whether to add privacy-preserving analytics (Plausible, GoatCounter) or skip; affects the cookie-banner decision (with cookie-less analytics, no banner needed).
