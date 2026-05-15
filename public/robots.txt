@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://361robotics.com/sitemap-index.xml
