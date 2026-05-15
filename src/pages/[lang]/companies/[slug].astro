@@ -1,0 +1,133 @@
+---
+import { getCollection, getEntry } from 'astro:content';
+import ContentLayout from '../../../layouts/ContentLayout.astro';
+import ClientChip from '../../../components/ClientChip.astro';
+import RobotProductCard from '../../../components/RobotProductCard.astro';
+import ComponentCard from '../../../components/ComponentCard.astro';
+import { getCountryName, getLocalizedField, t, LANGS, isLang, type Lang } from '../../../i18n/helpers';
+
+export async function getStaticPaths() {
+  const companies = await getCollection('companies');
+  return LANGS.flatMap((lang) =>
+    companies.map((company) => ({
+      params: { lang, slug: company.data.slug },
+      props: { company },
+    })),
+  );
+}
+
+const { lang: langParam } = Astro.params;
+if (!langParam || !isLang(langParam)) throw new Error('Invalid lang');
+const lang: Lang = langParam;
+const { company } = Astro.props;
+const data = company.data;
+
+const description = getLocalizedField(data, lang, 'description');
+const highlights = (data[lang]?.highlights ?? data.en.highlights) as string[];
+
+const clientEntries = await Promise.all(
+  data.key_clients.map((slug) => getEntry('clients', slug)),
+);
+const clients = clientEntries.filter((c): c is NonNullable<typeof c> => c !== undefined);
+
+const componentEntries = data.produces_components
+  ? await Promise.all(data.produces_components.map((slug) => getEntry('components', slug)))
+  : [];
+const components = componentEntries.filter((c): c is NonNullable<typeof c> => c !== undefined);
+
+const isBoth = data.type.includes('robot_brand') && data.type.includes('component_maker');
+const typeLabel = isBoth
+  ? t(lang, 'company.type_both')
+  : data.type.includes('robot_brand')
+  ? t(lang, 'company.type_robot_brand')
+  : t(lang, 'company.type_component_maker');
+---
+
+<ContentLayout
+  title={`${data.name} — 361Robotics`}
+  description={description.slice(0, 160)}
+  lang={lang}
+  pathTail={`companies/${data.slug}`}
+>
+  <article class="py-8" data-pagefind-body data-pagefind-meta={`type:company,name:${data.name},country:${data.country}`}>
+    <header class="flex flex-col sm:flex-row items-start gap-6 pb-8 border-b border-border">
+      <div class="w-24 h-24 bg-border rounded flex items-center justify-center text-xs text-muted">
+        LOGO
+      </div>
+      <div class="flex-1">
+        <h1 class="text-3xl font-bold">{data.name}</h1>
+        <dl class="mt-3 grid grid-cols-2 sm:grid-cols-3 gap-x-6 gap-y-2 text-sm">
+          <div>
+            <dt class="text-muted">{t(lang, 'company.country')}</dt>
+            <dd>{getCountryName(data.country, lang)}</dd>
+          </div>
+          {data.founded && (
+            <div>
+              <dt class="text-muted">{t(lang, 'company.founded')}</dt>
+              <dd>{data.founded}</dd>
+            </div>
+          )}
+          <div>
+            <dt class="text-muted">Type</dt>
+            <dd>{typeLabel}</dd>
+          </div>
+          <div class="col-span-2">
+            <dt class="text-muted">{t(lang, 'company.website')}</dt>
+            <dd><a class="text-accent" href={data.website} rel="noopener" target="_blank">{data.website}</a></dd>
+          </div>
+        </dl>
+        {!data.verified && (
+          <span class="inline-block mt-3 text-xs uppercase tracking-wide bg-border text-muted px-2 py-0.5 rounded">
+            {t(lang, 'company.unverified')}
+          </span>
+        )}
+      </div>
+    </header>
+
+    <section class="prose max-w-none mt-8">
+      <p class="whitespace-pre-line text-base leading-relaxed">{description}</p>
+    </section>
+
+    {highlights.length > 0 && (
+      <section class="mt-8">
+        <h2 class="text-xl font-semibold mb-3">{t(lang, 'company.highlights')}</h2>
+        <ul class="list-disc list-inside space-y-1 text-base">
+          {highlights.map((h) => <li>{h}</li>)}
+        </ul>
+      </section>
+    )}
+
+    {clients.length > 0 && (
+      <section class="mt-10">
+        <h2 class="text-xl font-semibold mb-3">{t(lang, 'company.key_clients')}</h2>
+        <div class="flex flex-wrap gap-2">
+          {clients.map((c) => <ClientChip client={c} lang={lang} />)}
+        </div>
+      </section>
+    )}
+
+    {(data.robot_products?.length || components.length > 0) && (
+      <section class="mt-10">
+        <h2 class="text-xl font-semibold mb-4">{t(lang, 'company.what_they_produce')}</h2>
+
+        {data.robot_products && data.robot_products.length > 0 && (
+          <div class="mb-8">
+            <h3 class="text-lg font-medium mb-3">{t(lang, 'company.robots')}</h3>
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+              {data.robot_products.map((p) => <RobotProductCard product={p} />)}
+            </div>
+          </div>
+        )}
+
+        {components.length > 0 && (
+          <div>
+            <h3 class="text-lg font-medium mb-3">{t(lang, 'company.components')}</h3>
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+              {components.map((c) => <ComponentCard component={c} lang={lang} />)}
+            </div>
+          </div>
+        )}
+      </section>
+    )}
+  </article>
+</ContentLayout>
