@@ -1,0 +1,60 @@
+slug: yue-quan-bionics
+name: Yue Quan Bionics Ltd.
+country: CN
+website: https://www.yuequan-bionics.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Yue Quan Bionics
+  en: Yue Quan Bionics logo
+  zh: 越铨仿生标志
+type:
+  - robot_brand
+  - component_maker
+featured: false
+categories:
+  - end-effectors
+  - mechanical
+  - actuators
+produces_components:
+  - servo-motor
+  - gripper
+robot_products:
+  - name: X-Hand
+    short: Bionic dexterous hand with tension-compression body design
+  - name: Y-Hand
+    short: Human-like dexterous manipulation system
+  - name: X-Bot
+    short: Bionic tension-compression humanoid robot
+  - name: W-Bot
+    short: Bionic humanoid robot with strong arm manipulation
+key_clients: []
+ru:
+  description: |
+    Yue Quan Bionics соучреждена академиком Жэнь Лу́цюанем (Китайская академия наук, Цзилиньский университет) и профессором Жэнь Лэем (Манчестерский университет).
+    Компания построена на международно-новаторской «Теории и технологии бионических растяжно-сжимаемых роботов».
+    Она разрабатывает высокобионичных гуманоидных роботов с низким энергопотреблением, мощным манипулированием рукой и высокой безопасностью физического контакта с человеком.
+  highlights:
+    - Основана на новаторской «Теории и технологии бионических растяжно-сжимаемых роботов»
+    - Соучреждена академиками из КАН, Цзилиньского университета и Манчестерского университета
+    - "Четыре флагманские линейки: X-Hand, Y-Hand, X-Bot, W-Bot"
+en:
+  description: |
+    Yue Quan Bionics, co-founded by Academician Ren Luquan (Chinese Academy of Sciences, Jilin University) and Professor Ren Lei (University of Manchester),
+    is built on the internationally pioneering "Bionic Tension-Compression Body Robot Theory and Technology."
+    The company develops highly bionic humanoid robots with low energy consumption, strong arm manipulation, and excellent human-robot physical contact safety.
+  highlights:
+    - Founded on the pioneering "Bionic Tension-Compression Body Robot Theory and Technology"
+    - Co-founded by academicians from CAS, Jilin University, and University of Manchester
+    - "Four flagship product lines: X-Hand, Y-Hand, X-Bot, W-Bot"
+zh:
+  description: |
+    越铨仿生由中国科学院院士、吉林大学任露泉院士与曼彻斯特大学任雷教授联合创办。
+    公司以国际首创的"仿生张拉-压缩体机器人理论与技术"为基础，
+    研发高仿生人形机器人，具有低能耗、强臂部操作能力以及优异的人机物理接触安全性。
+  highlights:
+    - 基于首创的"仿生张拉-压缩体机器人理论与技术"
+    - 由中科院、吉林大学和曼彻斯特大学的院士共同创办
+    - 四大旗舰产品线：X-Hand、Y-Hand、X-Bot、W-Bot
+verified: false
+needs_review:
+  zh: true

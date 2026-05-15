@@ -1,0 +1,47 @@
+slug: hexagon-mi-qingdao
+name: Hexagon Manufacturing Intelligence (Qingdao) Co., Ltd.
+country: SE
+website: https://hexagon.com/company/divisions/manufacturing-intelligence
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Hexagon Manufacturing Intelligence
+  en: Hexagon Manufacturing Intelligence logo
+  zh: 海克斯康制造智能标志
+type:
+  - component_maker
+featured: true
+categories:
+  - sensors
+  - vision
+  - software-sdk
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Hexagon Manufacturing Intelligence — подразделение метрологии и контроля качества компании Hexagon AB, мирового лидера в области цифровых измерительных технологий и промышленного интеллекта.
+    Дочернее предприятие в Циндао поддерживает китайский рынок решениями по метрологии и производству, применяемыми в автомобильной, аэрокосмической, электронной и медицинской отраслях.
+  highlights:
+    - Технологии Hexagon используются в 95% мирового производства автомобилей
+    - Применяются в 90% производства самолётов и 75% производства смартфонов
+    - Используются при производстве 80% ортопедических имплантов в мире
+en:
+  description: |
+    Hexagon Manufacturing Intelligence is the metrology and quality-assurance division of Hexagon AB, a global leader in digital measurement technology and industrial intelligence.
+    The Qingdao subsidiary supports the Chinese market with metrology and manufacturing solutions used across automotive, aerospace, electronics, and medical industries.
+  highlights:
+    - Hexagon technology is used in 95% of global automotive production
+    - Used in 90% of aircraft manufacturing and 75% of smartphone manufacturing
+    - Used in 80% of orthopedic implant production worldwide
+zh:
+  description: |
+    海克斯康制造智能是 Hexagon AB 旗下的计量与质量保证部门，Hexagon 是数字测量技术和工业智能领域的全球领导者。
+    青岛子公司为中国市场提供计量与制造解决方案，广泛应用于汽车、航空航天、电子和医疗行业。
+  highlights:
+    - 海克斯康技术应用于全球 95% 的汽车生产
+    - 应用于 90% 的飞机制造和 75% 的智能手机制造
+    - 全球 80% 的骨科植入物生产采用其技术
+verified: false
+needs_review:
+  zh: true
+source: https://hexagon.com

@@ -1,0 +1,51 @@
+slug: heidenhain
+name: HEIDENHAIN
+country: DE
+founded: 1889
+website: https://www.heidenhain.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип HEIDENHAIN
+  en: HEIDENHAIN logo
+  zh: HEIDENHAIN 标志
+type:
+  - component_maker
+featured: true
+categories:
+  - sensors
+  - controllers
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    DR. JOHANNES HEIDENHAIN GmbH — немецкий производитель прецизионных энкодеров и систем цифрового управления.
+    Двойной энкодер KCI 120Dplus объединяет обратную связь по двигателю и измерение положения в одном узле,
+    что позволяет компенсировать люфт редуктора и реактивные силы нагрузки в суставах робота — обеспечивая как высокоточное производство,
+    так и безопасную совместную работу человека и робота.
+  highlights:
+    - "Двойной энкодер KCI 120Dplus: одна конструкция, две функции"
+    - Позволяет компенсировать люфт редуктора и реактивные силы нагрузки
+    - Основана в 1889 году — более 130 лет опыта в прецизионных измерениях
+en:
+  description: |
+    DR. JOHANNES HEIDENHAIN GmbH is a German manufacturer of precision encoders and digital control systems.
+    Their KCI 120Dplus dual encoder combines motor feedback and position measurement in a single component,
+    enabling error correction for gear backlash and load reaction forces in robot joints — supporting both high-precision manufacturing and safe human-robot collaboration.
+  highlights:
+    - "KCI 120Dplus dual encoder: one structure, two functions"
+    - Enables error correction for gear backlash and load reaction forces
+    - Founded 1889 — over 130 years of precision measurement expertise
+zh:
+  description: |
+    DR. JOHANNES HEIDENHAIN GmbH 是一家德国精密编码器和数字控制系统制造商。
+    其 KCI 120Dplus 双编码器将电机反馈与位置测量集成于一体，
+    可对机器人关节中的齿轮间隙和负载反作用力进行误差补偿，同时支持高精度制造和安全的人机协作。
+  highlights:
+    - KCI 120Dplus 双编码器：一种结构，两种功能
+    - 可对齿轮间隙和负载反作用力进行误差补偿
+    - 始创于 1889 年，130 多年精密测量经验
+verified: false
+needs_review:
+  zh: true
+source: https://www.heidenhain.com

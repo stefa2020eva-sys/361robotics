@@ -1,0 +1,47 @@
+slug: sycensen
+name: Sycensen Technology
+country: CN
+website: https://www.sycensen.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Sycensen Technology
+  en: Sycensen Technology logo
+  zh: Sycensen 科技标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Sycensen Technology разрабатывает гибкие тактильные датчики для гуманоидных роботов.
+    Датчики регистрируют давление, температуру, влажность, вибрацию, материал и твёрдость окружающей среды,
+    позволяя роботам воспринимать прикосновение и оценивать такие свойства объектов, как размер, форма и текстура, при взаимодействии с человеком.
+  highlights:
+    - Гибкие тактильные датчики позволяют гуманоидным роботам воспринимать прикосновение
+    - Регистрация давления, температуры, влажности, вибрации, материала и твёрдости
+    - Спроектированы под характеристики отклика, необходимые для взаимодействия с человеком в реальном времени
+en:
+  description: |
+    Sycensen Technology develops flexible tactile sensors for humanoid robots.
+    Their sensors detect environmental pressure, temperature, humidity, vibration, material, and hardness,
+    enabling robots to perceive touch and evaluate object properties such as size, shape, and texture during human-robot interaction.
+  highlights:
+    - Flexible tactile sensors enable humanoid robots to perceive touch
+    - Detects pressure, temperature, humidity, vibration, material, and hardness
+    - Designed for the response characteristics needed in real-time human interaction
+zh:
+  description: |
+    Sycensen 科技专注于为人形机器人研发柔性触觉传感器。
+    其传感器可检测环境中的压力、温度、湿度、振动、材料与硬度，
+    让机器人在人机交互中感知触感，并评估物体的大小、形状和质地等属性。
+  highlights:
+    - 柔性触觉传感器让人形机器人具备触感感知能力
+    - 可检测压力、温度、湿度、振动、材料与硬度
+    - 面向实时人机交互所需的响应特性而设计
+verified: false
+needs_review:
+  zh: true

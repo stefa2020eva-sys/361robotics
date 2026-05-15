@@ -1,0 +1,48 @@
+slug: dx-intech
+name: Shenzhen DX Intech Technology Co., Ltd.
+country: CN
+website: https://www.dxintech.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип DX Intech
+  en: DX Intech logo
+  zh: DX Intech 标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - end-effectors
+  - vision
+robot_products:
+  - name: DX Intech Elephant Antai Humanoid Robot
+    short: Humanoid robot for public service applications, supporting the national 'AI+' initiative
+key_clients: []
+ru:
+  description: |
+    Shenzhen DX Intech Technology разрабатывает гуманоидных роботов, интегрируемых с системами общественного обслуживания.
+    В соответствии с национальной стратегией «AI+» компания формирует демонстрационные сценарии,
+    в которых гуманоидные роботы предоставляют эффективные, удобные и точные публичные услуги — создавая масштабируемые эталоны умного сервиса.
+  highlights:
+    - Соответствует национальной стратегии «AI+» для автоматизации публичных услуг
+    - Гуманоидные роботы как ключевой носитель умных публичных сервисов
+    - Тиражируемая демонстрационная модель внедрения интеллектуальных сервисов
+en:
+  description: |
+    Shenzhen DX Intech Technology develops humanoid robots that integrate with public service systems.
+    Aligned with the national "AI+" strategy, the company builds demonstration scenarios where humanoid robots deliver efficient, convenient, and precise public services — establishing scalable smart service benchmarks.
+  highlights:
+    - Aligned with the national "AI+" strategy for public-service automation
+    - Humanoid robots as the core carrier of smart public services
+    - Replicable demonstration model for intelligent service deployments
+zh:
+  description: |
+    深圳 DX Intech 科技专注于研发可与公共服务体系融合的人形机器人。
+    公司响应国家"AI+"战略，构建人形机器人提供高效、便捷、精准公共服务的示范场景，
+    打造可复制可推广的智慧服务样板。
+  highlights:
+    - 响应国家"AI+"战略，赋能公共服务自动化
+    - 以人形机器人作为智慧公共服务的核心载体
+    - 可复制可推广的智能服务部署示范模式
+verified: false
+needs_review:
+  zh: true

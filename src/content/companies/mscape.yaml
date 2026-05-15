@@ -1,0 +1,43 @@
+slug: mscape
+name: Shanghai Mscape Technology Co., Ltd.
+country: CN
+website: https://www.mscape.com.cn
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Mscape
+  en: Mscape logo
+  zh: Mscape 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - controllers
+  - software-sdk
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Shanghai Mscape Technology, инкубированная Шанхайским институтом исследований искусственного интеллекта, — высокотехнологичное предприятие,
+    сфокусированное на построении отечественной аппаратной и программной экосистемы периферийных вычислений для воплощённого интеллекта.
+    Миссия компании: «индивидуально спроектированная отечественная платформа периферийных вычислений для воплощённого интеллекта».
+  highlights:
+    - "Tongjing серии N — первый в отрасли профессиональный «мозг» с высокой совместимостью и сильным режимом реального времени"
+    - "Zhijing серии T — полностековое отечественное решение «мозга», полностью независимое и высокопроизводительное"
+en:
+  description: |
+    Shanghai Mscape Technology, incubated by Shanghai Artificial Intelligence Research Institute, is a high-tech enterprise focused on building domestic edge computing hardware and software ecosystems for embodied intelligence.
+    Their mission: "Tailor-made domestic edge computing platform for embodied intelligence."
+  highlights:
+    - Tongjing N Series — industry's first professional brain, highly compatible, strong real-time
+    - Zhijing T Series — full-stack domestic brain solution, fully independent, high performance
+zh:
+  description: |
+    上海 Mscape 科技由上海人工智能研究院孵化，是一家专注于打造具身智能国产边缘算力软硬件生态的高新技术企业。
+    公司使命："为具身智能定制的国产边缘算力平台"。
+  highlights:
+    - 通境 N 系列——行业首款专业大脑，兼容性强、实时性强
+    - 智境 T 系列——全栈国产大脑解决方案，完全自主、高性能
+verified: false
+needs_review:
+  zh: true

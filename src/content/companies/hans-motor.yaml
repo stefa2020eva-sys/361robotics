@@ -1,0 +1,46 @@
+slug: hans-motor
+name: Shenzhen Han's Motor S and T Co., Ltd.
+country: CN
+website: https://www.hansmotor.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Han's Motor
+  en: Han's Motor logo
+  zh: 大族电机标志
+type:
+  - component_maker
+featured: true
+categories:
+  - actuators
+  - drives-power
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Shenzhen Han's Motor S and T Co., Ltd. — лидер в области ключевых компонентов для роботов, поставляющий двигатели и приводные решения для робототехнической отрасли.
+    Компания индивидуально разрабатывает решения по приводам и процессы производства для производителей роботов по всему миру.
+    Расположена в индустриальном парке Han's Laser в районе Баоань, Шэньчжэнь.
+  highlights:
+    - Лидер в ключевых компонентах для роботов — индивидуальные решения по электроприводам
+    - Надёжный консультант по ключевым компонентам для роботов
+en:
+  description: |
+    Shenzhen Han's Motor S and T Co., Ltd. is a leader in robot core components, supplying motors and drive solutions for the robotics industry.
+    The company customizes motor drive solutions and manufacturing processes for robot manufacturers worldwide.
+    Located at Han's Laser Industrial Park in Bao'an District, Shenzhen.
+  highlights:
+    - Leader in robot core components, customizing motor drive solutions for robotics
+    - Trusted consultant for robot core components
+zh:
+  description: |
+    深圳大族电机科技有限公司是机器人核心零部件领域的领军企业，为机器人行业提供电机和驱动解决方案。
+    公司为全球机器人制造商定制电机驱动方案和制造工艺。
+    位于深圳市宝安区大族激光产业园。
+  highlights:
+    - 机器人核心零部件领军企业，为机器人行业定制电机驱动方案
+    - 机器人核心零部件的可信赖顾问
+verified: false
+needs_review:
+  zh: true
+source: https://www.hansmotor.com

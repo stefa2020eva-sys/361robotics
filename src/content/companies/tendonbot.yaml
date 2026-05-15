@@ -1,0 +1,42 @@
+slug: tendonbot
+name: Suzhou TendonBot Technology Co., Ltd.
+country: CN
+website: https://www.tendonbot.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип TendonBot
+  en: TendonBot logo
+  zh: TendonBot 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Suzhou TendonBot Technology — инновационная компания, переосмысляющая базовую логику бионического привода для воплощённых роботов.
+    В основе её разработок — прорывные материалы, позволяющие создавать следующее поколение искусственных сухожилий: предельно простых, компактных и гибких.
+  highlights:
+    - Искусственные сухожилия для следующего поколения воплощённых роботов
+    - Прорывные материальные технологии для бионических приводных систем
+en:
+  description: |
+    Suzhou TendonBot Technology is an innovative company reconstructing the underlying logic of bionic drive for embodied robots.
+    With disruptive material breakthroughs at its core, the company develops the next generation of artificial tendons — extremely simple, small, and flexible.
+  highlights:
+    - Artificial tendons for next-generation embodied robots
+    - Disruptive material technology for bionic drive systems
+zh:
+  description: |
+    苏州 TendonBot 科技是一家创新型公司，正在重构具身机器人仿生驱动的底层逻辑。
+    公司以颠覆性的材料突破为核心，研发新一代极简、微小、柔性的人造肌腱。
+  highlights:
+    - 面向新一代具身机器人的人造肌腱
+    - 颠覆性的材料技术驱动仿生传动系统
+verified: false
+needs_review:
+  zh: true

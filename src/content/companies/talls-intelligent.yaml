@@ -1,0 +1,55 @@
+slug: talls-intelligent
+name: Talls Intelligent Technology (Shenzhen) Co., Ltd.
+country: CN
+founded: 2016
+website: https://www.tallsgear.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Talls Intelligent
+  en: Talls Intelligent logo
+  zh: Talls 智能标志
+type:
+  - component_maker
+featured: true
+categories:
+  - mechanical
+  - actuators
+  - controllers
+produces_components:
+  - servo-motor
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Talls Intelligent Technology (Shenzhen), ранее Shenzhen Taoshi Precision Technology, основана в 2016 году и является национальным высокотехнологичным предприятием.
+    Компания занимается разработкой, производством и продажей высокоточных трансмиссионных компонентов и обладает запатентованной конструкцией суставного модуля с двумя редукторами для гуманоидных роботов.
+    Интегрированные суставы «двигатель + редуктор + привод-управление» обеспечивают предельную миниатюризацию и высокую удельную мощность.
+  highlights:
+    - Первый в мире серийно выпускаемый суставной модуль с двойным тороидальным охватывающим редуктором
+    - Собственный микробесколлекторный двигатель — самый короткий в мире при своём диаметре
+    - Повторная точность позиционирования одного сустава — ±0,015 мм
+    - "Ресурс под нагрузкой: 100 000 циклов с нагрузкой, 1 000 000 циклов без нагрузки; максимальная нагрузка всей кисти — 80 кг"
+en:
+  description: |
+    Talls Intelligent Technology (Shenzhen), formerly Shenzhen Taoshi Precision Technology, was established in 2016 as a national high-tech enterprise.
+    They focus on R&D, production, and sales of high-precision transmission components, with patented dual-reducer integrated joint modules for humanoid robots.
+    Their integrated "motor + reducer + drive-control" joints achieve extreme miniaturization and high power density.
+  highlights:
+    - World's first dual-reducer toroidal-enveloping joint design with mass production capability
+    - Self-developed micro brushless motor — shortest length globally at its diameter
+    - Single joint repeated positioning accuracy ±0.015 mm
+    - "Load life: 100,000 cycles loaded, 1,000,000 cycles no-load; maximum whole-hand load 80 kg"
+zh:
+  description: |
+    淘氏智能科技（深圳）有限公司，前身为深圳淘氏精密科技有限公司，成立于 2016 年，是一家国家高新技术企业。
+    公司专注于高精度传动部件的研发、生产和销售，拥有面向人形机器人的双减速器一体化关节模组专利。
+    其"电机 + 减速器 + 驱控"一体化关节实现了极致小型化和高功率密度。
+  highlights:
+    - 全球首创可量产的双减速器环面包络一体化关节设计
+    - 自研微型无刷电机——同直径下全球最短
+    - 单关节重复定位精度 ±0.015 mm
+    - 负载寿命：满载 10 万次循环，空载 100 万次循环；整手最大负载 80 kg
+verified: false
+needs_review:
+  zh: true
+source: https://www.tallsgear.com

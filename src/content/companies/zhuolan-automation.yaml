@@ -1,0 +1,43 @@
+slug: zhuolan-automation
+name: Dongguan Zhuolan Automation Equipment Co., Ltd.
+country: CN
+website: http://www.zljmcd.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Zhuolan Automation
+  en: Zhuolan Automation logo
+  zh: 卓岚自动化标志
+type:
+  - component_maker
+featured: false
+categories:
+  - mechanical
+  - drives-power
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Dongguan Zhuolan Automation Equipment Co., Ltd. специализируется на редукторах, разработанных специально для гуманоидных роботов.
+    Компания расположена в индустриальном парке Чжолань на улице Линган, посёлок Ванню́до́н, город Дунгуань, провинция Гуандун, Китай.
+  highlights:
+    - Специализированные редукторы для гуманоидных роботов
+    - Производство в Дунгуане, провинция Гуандун
+en:
+  description: |
+    Dongguan Zhuolan Automation Equipment Co., Ltd. specializes in reducers designed specifically for humanoid robots.
+    The company is based in Zhuolan Industrial Park, Lingang Road, Wangniudun Town, Dongguan, Guangdong, China.
+  highlights:
+    - Specialized reducer solutions for humanoid robots
+    - Based in Dongguan, Guangdong
+zh:
+  description: |
+    东莞卓岚自动化设备有限公司专注于为人形机器人量身定制的减速器。
+    公司位于中国广东省东莞市望牛墩镇临港路卓岚工业园。
+  highlights:
+    - 面向人形机器人的专用减速器解决方案
+    - 总部位于广东东莞
+verified: false
+needs_review:
+  zh: true
+source: http://www.zljmcd.com

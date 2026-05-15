@@ -1,0 +1,54 @@
+slug: inspire-robots
+name: Inspire Robots
+country: CN
+founded: 2016
+website: https://www.inspire-robots.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Inspire Robots
+  en: Inspire Robots logo
+  zh: Inspire Robots 标志
+type:
+  - robot_brand
+  - component_maker
+featured: true
+categories:
+  - end-effectors
+  - actuators
+produces_components:
+  - servo-motor
+  - gripper
+robot_products:
+  - name: Inspire Five-Fingered Dexterous Hand
+    short: Anthropomorphic five-fingered dexterous hand with force control
+  - name: Inspire Micro Servo Cylinder
+    short: Micro precision motion actuator for robotic joints
+key_clients: []
+ru:
+  description: |
+    Inspire Robots основана в 2016 году и имеет статус национального «маленького гиганта» — специализированного и инновационного предприятия,
+    сосредоточенного на микропрецизионных приводах движения и манипуляторных рабочих органах.
+    Ключевые продукты — пятипалая антропоморфная роботизированная кисть и микросервоцилиндры с уникальными преимуществами в миниатюризации, точности и управлении усилием.
+  highlights:
+    - Первая в Китае компания, выведшая на коммерческое серийное производство пятипалую роботизированную кисть
+    - Единственная в мире компания, поставившая более 10 000 единиц роботизированных кистей
+    - Продукты применяются в робототехнике, новой энергетике, полупроводниках, электронике 3C и биомедицине
+en:
+  description: |
+    Founded in 2016, Inspire Robots is a national "little giant" specialized and innovative enterprise focused on micro precision motion actuators and dexterous end effectors.
+    Core products include a five-fingered anthropomorphic dexterous hand and micro servo cylinders, with unique advantages in miniaturization, high precision, and force control.
+  highlights:
+    - First company in China to commercialize and mass-produce a five-fingered dexterous hand
+    - Only company globally with over 10,000 dexterous hand units delivered
+    - Products used in robotics, new energy, semiconductors, 3C electronics, and biomedical fields
+zh:
+  description: |
+    因时机器人成立于 2016 年，是国家级专精特新"小巨人"企业，专注于微型精密运动执行器和灵巧末端执行器。
+    核心产品包括五指拟人灵巧手和微型伺服电缸，在微型化、高精度和力控方面具有独特优势。
+  highlights:
+    - 中国首家实现五指灵巧手商业化量产的企业
+    - 全球唯一交付量超过 10,000 台灵巧手的企业
+    - 产品广泛应用于机器人、新能源、半导体、3C 电子和生物医疗领域
+verified: false
+needs_review:
+  zh: true

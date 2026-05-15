@@ -1,0 +1,44 @@
+slug: ruiyan-robot
+name: Ruiyan Robot
+country: CN
+website: https://www.ruiyanrobot.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Ruiyan Robot
+  en: Ruiyan Robot logo
+  zh: 锐研机器人标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - end-effectors
+  - actuators
+robot_products:
+  - name: RuiYan Industrial Dexterous Hand
+    short: Industrial-grade five-finger dexterous hand for precise grasping and reliable operation
+key_clients: []
+ru:
+  description: |
+    Ruiyan Robot — китайский производитель, специализирующийся на промышленных роботизированных кистях.
+    Их пятипалые захватные системы спроектированы для точного захвата и надёжной работы в условиях промышленной автоматизации.
+  highlights:
+    - Промышленная роботизированная кисть для точного захвата
+    - Рассчитана на надёжную непрерывную эксплуатацию
+en:
+  description: |
+    Ruiyan Robot is a Chinese manufacturer specializing in industrial-grade dexterous hands.
+    Their five-finger gripping systems are engineered for precise grasping and reliable operation in industrial automation environments.
+  highlights:
+    - Industrial-grade dexterous hand for precise grasping
+    - Engineered for reliable continuous operation
+zh:
+  description: |
+    锐研机器人是一家中国制造商，专注于工业级灵巧手的研发与生产。
+    其五指抓取系统专为工业自动化环境中的精确抓取与可靠运行而设计。
+  highlights:
+    - 工业级灵巧手，实现精确抓取
+    - 面向可靠的长时间连续作业而设计
+verified: false
+needs_review:
+  zh: true
+source: https://www.ruiyanrobot.com

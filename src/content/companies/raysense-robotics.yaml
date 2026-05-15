@@ -1,0 +1,54 @@
+slug: raysense-robotics
+name: Raysense Robotics
+country: CN
+website: https://www.raysense.cn
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Raysense Robotics
+  en: Raysense Robotics logo
+  zh: Raysense 机器人标志
+type:
+  - robot_brand
+  - component_maker
+featured: false
+categories:
+  - vision
+  - software-sdk
+  - controllers
+produces_components:
+  - lidar
+  - motion-controller
+robot_products:
+  - name: Raysense Embodied Robot System
+    short: Full-stack robot system integrating visual perception, actuation, and AI brain
+key_clients: []
+ru:
+  description: |
+    Raysense Robotics — подразделение интеллектуальной робототехники компании Yantai Raytron Technology Co., Ltd.
+    В основе — ИИ-«мозг», к которому добавляются собственные продукты визуального восприятия и компоненты воплощённого привода;
+    компания предоставляет полнокомпонентные решения — от визуального восприятия и привода до целостных роботизированных систем.
+  highlights:
+    - ИИ-«мозг» как ядро воплощённых робототехнических систем
+    - Полнокомпонентное решение — визуальное восприятие, привод и интеграция робота
+    - Собственные продукты визуального восприятия
+en:
+  description: |
+    Raysense Robotics is the intelligent robotics business unit of Yantai Raytron Technology Co., Ltd.
+    With AI intelligent brain as the core, it integrates self-developed visual perception products and embodied actuation components to provide full-stack solutions from visual perception and embodied actuation to complete robot systems.
+  highlights:
+    - AI intelligent brain as the core of embodied robot systems
+    - "Full-stack solution: visual perception + actuation + complete robot integration"
+    - Self-developed visual perception products
+zh:
+  description: |
+    Raysense Robotics 是烟台艾睿光电科技股份有限公司旗下的智能机器人事业部。
+    以 AI 智能大脑为核心，整合自研的视觉感知产品和具身执行部件，
+    提供从视觉感知、具身执行到整机机器人系统的全栈解决方案。
+  highlights:
+    - 以 AI 智能大脑作为具身机器人系统的核心
+    - 全栈方案：视觉感知 + 具身执行 + 整机集成
+    - 自研视觉感知产品
+verified: false
+needs_review:
+  zh: true
+source: https://www.raysense.cn

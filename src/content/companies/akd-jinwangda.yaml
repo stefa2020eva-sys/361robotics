@@ -1,0 +1,55 @@
+slug: akd-jinwangda
+name: Shenzhen Jinwangda Electromechanical Co., Ltd. (AKD)
+country: CN
+founded: 2009
+website: https://www.akdmotor.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип AKD (Jinwangda)
+  en: AKD (Jinwangda) logo
+  zh: AKD（金旺达）标志
+type:
+  - component_maker
+featured: true
+categories:
+  - mechanical
+  - actuators
+  - drives-power
+produces_components:
+  - servo-motor
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Компания Shenzhen Jinwangda Electromechanical (бренд AKD) основана в 2009 году и является национальным высокотехнологичным предприятием,
+    объединяющим разработку, производство и продажу ключевых компонентов для систем автоматизации высокого класса.
+    Компания разрабатывает специализированные винтовые приводы для гуманоидных роботов, в том числе обратные планетарные роликовинтовые передачи
+    и прецизионные шарико-винтовые передачи, рассчитанные на ограниченное пространство и высокочастотные мелкие движения пальцевых суставов.
+  highlights:
+    - Более 10 000 клиентов по всему миру, свыше 300 сотрудников, 3 производственные площадки
+    - 19 изобретательских патентов, 78 патентов на полезные модели и промышленные образцы, 11 свидетельств на ПО
+    - Обратные планетарные роликовинтовые передачи — высокая жёсткость, точность и долговечность
+    - Прецизионные шарико-винтовые передачи для роботизированных кистей — миниатюризация и высокая удельная мощность
+en:
+  description: |
+    Shenzhen Jinwangda Electromechanical (brand AKD) was established in 2009 as a national high-tech enterprise integrating R&D, production, and sales of high-end automation core components.
+    The company develops dedicated screw drive solutions for humanoid robots, including reverse planetary roller screws and precision ball screws designed for the narrow spaces and high-frequency fine movements of finger joints.
+  highlights:
+    - 10,000+ customers worldwide, 300+ employees, 3 production factories
+    - 19 invention patents, 78 utility model and design patents, 11 software copyrights
+    - "Reverse planetary roller screws: high rigidity, high precision, long life"
+    - "Precision ball screws for dexterous hands: ultra-miniaturization and high power density"
+zh:
+  description: |
+    深圳金旺达机电有限公司（品牌 AKD）成立于 2009 年，是一家集研发、生产和销售高端自动化核心零部件于一体的国家高新技术企业。
+    公司专为人形机器人开发丝杠传动解决方案，包括反式行星滚柱丝杠和精密滚珠丝杠，
+    适应手指关节狭小空间和高频精细运动的需求。
+  highlights:
+    - 全球客户超过 10,000 家，员工 300 多人，3 个生产工厂
+    - 19 项发明专利，78 项实用新型与外观设计专利，11 项软件著作权
+    - 反式行星滚柱丝杠：高刚度、高精度、长寿命
+    - 灵巧手用精密滚珠丝杠：超微型化与高功率密度
+verified: false
+needs_review:
+  zh: true
+source: https://www.akdmotor.com
