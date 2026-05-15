@@ -1,0 +1,53 @@
+---
+import ContentLayout from '../../layouts/ContentLayout.astro';
+import { t, LANGS, isLang, type Lang } from '../../i18n/helpers';
+
+export async function getStaticPaths() {
+  return LANGS.map((lang) => ({ params: { lang } }));
+}
+
+const { lang: langParam } = Astro.params;
+if (!langParam || !isLang(langParam)) throw new Error('Invalid lang');
+const lang: Lang = langParam;
+---
+
+<ContentLayout
+  title={`${t(lang, 'search.title')} — 361Robotics`}
+  description={t(lang, 'home.hero_subtitle')}
+  lang={lang}
+  pathTail="search"
+>
+  <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+
+  <section class="py-8">
+    <h1 class="text-3xl font-bold mb-6">{t(lang, 'search.title')}</h1>
+    <div id="search" data-pagefind-lang={lang}></div>
+  </section>
+
+  <script src="/pagefind/pagefind-ui.js" type="module"></script>
+  <script is:inline define:vars={{ lang }}>
+    document.addEventListener('DOMContentLoaded', () => {
+      // @ts-expect-error — PagefindUI is loaded from the script above
+      new PagefindUI({
+        element: '#search',
+        showImages: false,
+        excerptLength: 25,
+        showSubResults: false,
+        translations: lang === 'ru'
+          ? { placeholder: 'Поиск', search_suggestion: 'Введите запрос', clear_search: 'Очистить', zero_results: 'Ничего не найдено' }
+          : lang === 'zh'
+          ? { placeholder: '搜索', search_suggestion: '输入查询', clear_search: '清除', zero_results: '没有结果' }
+          : { placeholder: 'Search', search_suggestion: 'Start typing', clear_search: 'Clear', zero_results: 'No results' },
+      });
+      const params = new URLSearchParams(window.location.search);
+      const q = params.get('q');
+      if (q) {
+        const input = document.querySelector('#search input[type="text"]');
+        if (input instanceof HTMLInputElement) {
+          input.value = q;
+          input.dispatchEvent(new Event('input', { bubbles: true }));
+        }
+      }
+    });
+  </script>
+</ContentLayout>
