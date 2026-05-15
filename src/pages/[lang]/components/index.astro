@@ -1,0 +1,56 @@
+---
+import { getCollection } from 'astro:content';
+import ContentLayout from '../../../layouts/ContentLayout.astro';
+import ComponentCard from '../../../components/ComponentCard.astro';
+import { getLocalizedField, t, LANGS, isLang, type Lang } from '../../../i18n/helpers';
+
+export async function getStaticPaths() {
+  return LANGS.map((lang) => ({ params: { lang } }));
+}
+
+const { lang: langParam } = Astro.params;
+if (!langParam || !isLang(langParam)) throw new Error('Invalid lang');
+const lang: Lang = langParam;
+
+const components = (await getCollection('components')).sort((a, b) => {
+  if (a.data.featured !== b.data.featured) return a.data.featured ? -1 : 1;
+  const aName = getLocalizedField(a.data, lang, 'name');
+  const bName = getLocalizedField(b.data, lang, 'name');
+  return aName.localeCompare(bName);
+});
+
+const categories = await getCollection('categories');
+const byCategory = new Map<string, typeof components>();
+for (const cmp of components) {
+  const list = byCategory.get(cmp.data.category) ?? [];
+  list.push(cmp);
+  byCategory.set(cmp.data.category, list);
+}
+---
+
+<ContentLayout
+  title={`${t(lang, 'nav.components')} — 361Robotics`}
+  description={t(lang, 'site.tagline')}
+  lang={lang}
+  pathTail="components"
+>
+  <section class="py-8" data-pagefind-body>
+    <h1 class="text-3xl font-bold mb-6">{t(lang, 'nav.components')}</h1>
+    <p class="text-sm text-muted mb-8">
+      {t(lang, 'catalog.results_count', { count: components.length })}
+    </p>
+
+    {Array.from(byCategory.entries()).map(([categorySlug, items]) => {
+      const cat = categories.find((c) => c.data.slug === categorySlug);
+      const catName = cat ? (cat.data[lang]?.name ?? cat.data.en.name) : categorySlug;
+      return (
+        <div class="mb-12">
+          <h2 class="text-xl font-semibold mb-4">{catName}</h2>
+          <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+            {items.map((cmp) => <ComponentCard component={cmp} lang={lang} />)}
+          </div>
+        </div>
+      );
+    })}
+  </section>
+</ContentLayout>
