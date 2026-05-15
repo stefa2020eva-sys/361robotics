@@ -1,0 +1,45 @@
+slug: seenpin
+name: Seenpin
+country: CN
+founded: 1999
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Seenpin
+  en: Seenpin logo
+  zh: Seenpin 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Seenpin — мировой лидер в производстве планетарных роликовых винтов и линейных электроприводных шарниров для гуманоидных роботов, обслуживающий 70% мировых производителей гуманоидов.
+  highlights:
+    - Государственный ключевой «Маленький гигант»
+    - Обратный планетарный роликовый винт для коленей, локтей, плеч
+    - Высокая нагрузка, жёсткость, точность, долгий срок службы
+    - Партнёрство с компаниями Fortune 500
+en:
+  description: |
+    Seenpin is a global leader in planetary roller screws and linear electric drive joints for humanoid robots, serving 70% of humanoid robot companies worldwide.
+  highlights:
+    - National key "Little Giant"
+    - Inverse planetary roller screw for knees, elbows, shoulders
+    - High load, rigidity, precision, long life
+    - Partners with Fortune 500 companies
+zh:
+  description: |
+    杭州新剑机电传动股份有限公司（Seenpin）是行星滚柱丝杠和人形机器人线性电驱关节的全球领先企业，为全球 70% 的人形机器人公司提供产品。
+  highlights:
+    - 国家重点"小巨人"企业
+    - 反向行星滚柱丝杠用于膝、肘、肩
+    - 高载荷、高刚性、高精度、长寿命
+    - 与世界 500 强企业合作
+verified: false
+needs_review:
+  zh: true

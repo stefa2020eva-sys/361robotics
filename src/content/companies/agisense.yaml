@@ -1,0 +1,44 @@
+slug: agisense
+name: Agisense
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Agisense
+  en: Agisense logo
+  zh: Agisense 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+  - vision
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Agisense предоставляет визуально-тактильные датчики (серия AS-F), оптоэлектронные тактильные датчики, гибкие электронные кожи и миниатюрные шестиосевые датчики силы для коллаборативных, промышленных и гуманоидных роботов.
+  highlights:
+    - Плотность отслеживания деформаций 60 000 точек/см²
+    - Разрешение 3D-реконструкции 180 000 точек/см²
+    - Полный диапазон 50 Н, точность 0,01 Н
+    - Износостойкость до 5 миллионов циклов сжатия
+en:
+  description: |
+    Agisense provides vision-tactile sensors (AS-F series), optoelectronic tactile sensors, flexible electronic skins, and mini 6-axis force sensors for collaborative, industrial, and humanoid robots.
+  highlights:
+    - Deformation tracking density 60,000 pts/cm²
+    - 3D reconstruction resolution 180,000 pts/cm²
+    - 50N full scale, 0.01N precision
+    - 5 million compression cycles durability
+zh:
+  description: |
+    灵感机器人科技（深圳）有限公司（Agisense）为协作、工业和人形机器人提供视觉触觉传感器（AS-F 系列）、光电触觉传感器、柔性电子皮肤和小型六轴力传感器。
+  highlights:
+    - 形变跟踪密度 60000 点/平方厘米
+    - 3D 重建分辨率 180000 点/平方厘米
+    - 满量程 50 牛，精度 0.01 牛
+    - 耐久性达 500 万次压缩循环
+verified: false
+needs_review:
+  zh: true

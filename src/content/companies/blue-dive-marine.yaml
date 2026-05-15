@@ -1,0 +1,49 @@
+slug: blue-dive-marine
+name: Blue Dive Marine
+country: CN
+founded: 2023
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Blue Dive Marine
+  en: Blue Dive Marine logo
+  zh: Blue Dive Marine 标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - actuators
+  - sensors
+  - vision
+robot_products:
+  - name: Tuna 3
+    short: Professional underwater robot for offshore wind
+  - name: Sea Shark
+    short: Portable cable-free underwater inspection robot
+key_clients: []
+ru:
+  description: |
+    Blue Dive Marine разрабатывает профессиональных подводных роботов Tuna 3 (устойчивый к сильным течениям, лёгкий) и Sea Shark (портативный, беспроводной) для шельфовой ветроэнергетики, нефтегазовой и оборонной отраслей.
+  highlights:
+    - Tuna 3 — лидерная в своём классе устойчивость к течениям
+    - Sea Shark — 8 двигателей, движение на 360°, глубина 100 м
+    - Беспроводная конструкция предотвращает запутывание
+    - Возможна установка кастомных манипуляторов
+en:
+  description: |
+    Blue Dive Marine develops professional underwater robots Tuna 3 (strong current resistance, lightweight) and Sea Shark (portable, cable-free) for offshore wind, energy, and defense.
+  highlights:
+    - 'Tuna 3: industry-leading current resistance for its size'
+    - 'Sea Shark: 8 thrusters, 360° movement, 100m depth'
+    - Wireless design prevents entanglement
+    - Customizable manipulators
+zh:
+  description: |
+    广东蓝潜海洋技术有限公司（Blue Dive Marine）开发专业水下机器人，包括金枪鱼 3 号（抗流强、轻量化）和海鲨（便携、无缆），应用于海上风电、能源和国防领域。
+  highlights:
+    - Tuna 3：同尺寸级别中行业领先的抗流能力
+    - Sea Shark：8 推进器，360° 移动，100 米深度
+    - 无缆设计防止缠绕
+    - 可定制机械手
+verified: false
+needs_review:
+  zh: true

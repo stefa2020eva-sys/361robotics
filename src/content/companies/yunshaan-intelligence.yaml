@@ -1,0 +1,45 @@
+slug: yunshaan-intelligence
+name: Yunshaan Intelligence
+country: CN
+founded: 2024
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Yunshaan Intelligence
+  en: Yunshaan Intelligence logo
+  zh: Yunshaan Intelligence 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - controllers
+  - software-sdk
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Yunshaan Intelligence предоставляет платформу интеллектуального управления беспилотным оборудованием с гетерогенным взаимодействием, кластерным управлением и человеко-машинным интерфейсом на основе архитектуры «мозг — край — устройство».
+  highlights:
+    - Основана весной 2024 года
+    - Поддерживает смешанные группы дронов, роботов, беспилотных машин и робособак
+    - Сбор мультимодальных данных в реальном времени
+    - Распознавание целей, принятие решений по задачам, голосовое управление
+en:
+  description: |
+    Yunshaan Intelligence provides an unmanned equipment intelligent management and control platform for heterogeneous collaboration, cluster control, and human-machine interaction based on brain-edge-end architecture.
+  highlights:
+    - Founded spring 2024
+    - Supports mixed drones, robots, UGVs, robot dogs
+    - Real-time multimodal data acquisition
+    - Target recognition, task decision, voice command
+zh:
+  description: |
+    云杉智控（北京）科技有限公司提供基于"脑—边—端"架构的无人装备智能管控平台，支持异构协同、集群控制和人机交互。
+  highlights:
+    - 成立于 2024 年春季
+    - 支持无人机、机器人、无人车、机器狗的混合编队
+    - 实时多模态数据采集
+    - 目标识别、任务决策、语音指令
+verified: false
+needs_review:
+  zh: true

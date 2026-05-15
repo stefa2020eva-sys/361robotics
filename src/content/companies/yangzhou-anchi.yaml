@@ -1,0 +1,45 @@
+slug: yangzhou-anchi
+name: Yangzhou Anchi
+country: CN
+founded: 2015
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Yangzhou Anchi
+  en: Yangzhou Anchi logo
+  zh: Yangzhou Anchi 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - drives-power
+  - actuators
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Yangzhou Anchi производит интегрированные мотор-колёса с энкодером (8″, 9,5″, 13″) с бесщёточным прямым приводом и опциями электромагнитного тормоза для сервисных роботов, AGV и инспекционных машин.
+  highlights:
+    - 23 патента, сертификаты ISO9001, 3C, CE, RoHS
+    - 8-дюймовый мотор с энкодером для лёгких роботов
+    - 13-дюймовый с электромагнитным тормозом для тяжёлых AGV
+    - Интегрированная конструкция упрощает шасси
+en:
+  description: |
+    Yangzhou Anchi produces integrated encoder hub motors (8″, 9.5″, 13″) with brushless direct drive and electromagnetic brake options for service robots, AGVs, and inspection vehicles.
+  highlights:
+    - 23 patents, ISO9001, 3C, CE, ROHS
+    - 8-inch encoder motor for lightweight robots
+    - 13-inch with electromagnetic brake for heavy AGVs
+    - Integrated design simplifies chassis
+zh:
+  description: |
+    扬州安驰机电有限公司生产 8 英寸、9.5 英寸和 13 英寸的集成编码器轮毂电机，配备无刷直驱和可选电磁刹车，应用于服务机器人、AGV 和巡检车辆。
+  highlights:
+    - 23 项专利，通过 ISO9001、3C、CE、RoHS 认证
+    - 8 英寸编码器电机适用于轻型机器人
+    - 13 英寸配电磁刹车适用于重载 AGV
+    - 一体化设计简化底盘结构
+verified: false
+needs_review:
+  zh: true

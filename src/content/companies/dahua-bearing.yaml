@@ -1,0 +1,43 @@
+slug: dahua-bearing
+name: Dahua Bearing
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Dahua Bearing
+  en: Dahua Bearing logo
+  zh: Dahua Bearing 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Dahua Bearing распространяет миниатюрные шарикоподшипники NMB (наружный диаметр до 22 мм, более 8500 моделей) и микродвигатели, вентиляторы, разъёмы, сенсоры Minebea Mitsumi для робототехники, автомобилей и умной бытовой техники.
+  highlights:
+    - 60% мирового рынка миниатюрных подшипников
+    - Годовые продажи около 300 миллионов комплектов
+    - Более 70 лет прецизионного производства NMB
+    - Возможны индивидуальные решения
+en:
+  description: |
+    Dahua Bearing distributes NMB miniature ball bearings (≤22mm OD, 8500+ models) and Minebea Mitsumi micro motors, fans, connectors, sensors for robotics, automotive, and smart appliances.
+  highlights:
+    - 60% global market share in miniature bearings
+    - Annual sales near 300 million sets
+    - 70+ years of NMB precision manufacturing
+    - Custom solutions available
+zh:
+  description: |
+    深圳大华轴承有限公司经销 NMB 微型滚珠轴承（外径不超过 22 毫米，超过 8500 个型号）以及美蓓亚三美的微电机、风扇、连接器和传感器，应用于机器人、汽车和智能家电领域。
+  highlights:
+    - 微型轴承全球市场份额 60%
+    - 年销售量近 3 亿套
+    - NMB 拥有 70 余年精密制造经验
+    - 可提供定制化解决方案
+verified: false
+needs_review:
+  zh: true

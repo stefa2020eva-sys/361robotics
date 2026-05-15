@@ -1,0 +1,50 @@
+slug: lingpeng-intelligent
+name: LingPeng Intelligent
+country: CN
+founded: 2020
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип LingPeng Intelligent
+  en: LingPeng Intelligent logo
+  zh: LingPeng Intelligent 标志
+type:
+  - robot_brand
+  - component_maker
+featured: false
+categories:
+  - controllers
+  - actuators
+  - drives-power
+produces_components:
+  - motion-controller
+robot_products:
+  - name: Youjia
+    short: Bionic dual-arm mobile robot with self-balancing chassis
+key_clients: []
+ru:
+  description: |
+    LingPeng Intelligent, дочерняя компания LingYi Manufacturing (002600), разрабатывает универсальные интегрированные контроллеры приводов, редукторы CSV (эволюция RV) и биомиметический мобильный робот Youjia с двумя манипуляторами и самобалансирующимся двухколёсным шасси.
+  highlights:
+    - Графическое программирование для непрофильных специалистов
+    - Редуктор CSV — компактный, ресурс 10 000 часов, точность 1 угловая минута
+    - Робот Youjia — 16 степеней свободы, полезная нагрузка 4 кг, повторяемость ±0,08 мм
+    - 3D-лидар и структурированный свет на сенсорной голове
+en:
+  description: |
+    LingPeng Intelligent, a subsidiary of LingYi Manufacturing (002600), develops universal drive-control integrated controllers, CSV reducers (evolved from RV), and the Youjia bionic mobile robot with dual arms and two-wheel self-balancing chassis.
+  highlights:
+    - Graphical programming for non-experts
+    - 'CSV reducer: compact, 10,000 hr life, 1 arcmin precision'
+    - 'Youjia robot: 16 DOF, 4kg payload, ±0.08mm repeatability'
+    - 3D LiDAR and structured light on sensing head
+zh:
+  description: |
+    深圳市领鹏智能科技有限公司，领益制造（002600）的子公司，开发通用驱控一体化控制器、CSV 减速器（由 RV 演进而来）以及搭载双臂和两轮自平衡底盘的友佳仿生移动机器人。
+  highlights:
+    - 面向非专业人员的图形化编程
+    - CSV 减速器：紧凑、寿命 10000 小时、精度 1 角分
+    - 友佳机器人：16 自由度、4 公斤负载、±0.08 毫米重复精度
+    - 感知头搭载 3D 激光雷达和结构光
+verified: false
+needs_review:
+  zh: true

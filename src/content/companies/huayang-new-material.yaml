@@ -1,0 +1,44 @@
+slug: huayang-new-material
+name: Huayang New Material
+country: CN
+founded: 2016
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Huayang New Material
+  en: Huayang New Material logo
+  zh: Huayang New Material 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Huayang New Material предоставляет оборудование для металлической 3D-печати (HY-M400) и услуги с размером печати до 1500×1500×1500 мм для аэрокосмической, оборонной, автомобильной и робототехнической отраслей.
+  highlights:
+    - 100+ патентов, национальный «Маленький гигант»
+    - HY-M400 — рабочая зона 400×400×800 мм, 2–4 лазера (по 500 Вт каждый)
+    - Скорость печати 60–120 см³/ч
+    - Материалы — титан, жаропрочные сплавы, алюминий, сталь, медь
+en:
+  description: |
+    Huayang New Material provides metal 3D printing equipment (HY-M400) and services with build size up to 1500×1500×1500mm, serving aerospace, defense, automotive, and robotics.
+  highlights:
+    - 100+ patents, national "Little Giant"
+    - 'HY-M400: 400×400×800 mm build, 2-4 lasers (500W each)'
+    - Printing speed 60-120 cm³/h
+    - 'Materials: Ti, superalloy, Al, steel, Cu'
+zh:
+  description: |
+    深圳市华阳新材料科技有限公司提供金属 3D 打印设备（HY-M400）和服务，打印尺寸可达 1500×1500×1500 毫米，服务于航空航天、国防、汽车和机器人行业。
+  highlights:
+    - 100 余项专利，国家级"小巨人"企业
+    - HY-M400：400×400×800 毫米成形空间，2-4 台激光器（每台 500 瓦）
+    - 打印速度 60-120 立方厘米/小时
+    - 材料：钛、高温合金、铝、钢、铜
+verified: false
+needs_review:
+  zh: true

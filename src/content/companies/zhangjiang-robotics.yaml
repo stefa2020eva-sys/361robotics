@@ -1,0 +1,44 @@
+slug: zhangjiang-robotics
+name: Zhangjiang Robotics
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Zhangjiang Robotics
+  en: Zhangjiang Robotics logo
+  zh: Zhangjiang Robotics 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - software-sdk
+  - controllers
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Zhangjiang Robotics соединяет аппаратное обеспечение роботов с открытыми сообществами воплощённого ИИ, интегрируясь с Hugging Face LeRobot, NVIDIA Isaac и ROS 2 для разработки ИИ по принципу «подключи и работай».
+  highlights:
+    - Единый доступ к трём крупным экосистемам разработчиков
+    - Интеграция с LeRobot (Hugging Face)
+    - Поддержка NVIDIA Isaac и ROS 2
+    - Позволяет разработчикам ИИ сразу использовать роботов
+en:
+  description: |
+    Zhangjiang Robotics bridges robot hardware with embodied AI open-source communities, integrating with Hugging Face LeRobot, NVIDIA Isaac, and ROS 2 for plug-and-play AI development.
+  highlights:
+    - One-stop access to three major developer ecosystems
+    - LeRobot (Hugging Face) integration
+    - NVIDIA Isaac and ROS 2 support
+    - Enables AI developers to use robots immediately
+zh:
+  description: |
+    深圳市章江机器人有限公司将机器人硬件与具身智能开源社区连接，集成 Hugging Face LeRobot、NVIDIA Isaac 和 ROS 2，实现即插即用的 AI 开发。
+  highlights:
+    - 一站式接入三大开发者生态
+    - LeRobot（Hugging Face）集成
+    - 支持 NVIDIA Isaac 和 ROS 2
+    - 让 AI 开发者立即使用机器人
+verified: false
+needs_review:
+  zh: true

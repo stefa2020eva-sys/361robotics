@@ -1,0 +1,43 @@
+slug: huayi-dynamics
+name: Huayi Dynamics
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Huayi Dynamics
+  en: Huayi Dynamics logo
+  zh: Huayi Dynamics 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Huayi Dynamics производит планетарные шарнирные модули для гуманоидных роботов и коллаборативных манипуляторов с компактной лёгкой конструкцией, высокой точностью позиционирования и высокой удельной мощностью.
+  highlights:
+    - Годовая поставка более 1 миллиона комплектов бесщёточных двигателей и редукторов
+    - 48 высокотехнологичных производственных линий
+    - Сертификаты ISO16949 и ISO9001
+    - Кастомизация двигателей, редукторов и электроники
+en:
+  description: |
+    Huayi Dynamics produces planetary joint modules for humanoid robots and embodied collaborative arms, featuring compact lightweight structure, high precision positioning, and high torque density.
+  highlights:
+    - Annual shipment >1 million brushless motor & gear sets
+    - 48 high-standard production lines
+    - ISO16949 and ISO9001 certified
+    - Customizable motors, gears, electronics
+zh:
+  description: |
+    华翼动力科技（东莞）有限公司（Huayi Dynamics）为人形机器人和具身协作机械臂生产行星关节模组，结构紧凑轻量，定位精度高，扭矩密度高。
+  highlights:
+    - 无刷电机与齿轮套件年出货量超过 100 万套
+    - 48 条高标准生产线
+    - 通过 ISO16949 和 ISO9001 认证
+    - 电机、齿轮、电控可定制
+verified: false
+needs_review:
+  zh: true

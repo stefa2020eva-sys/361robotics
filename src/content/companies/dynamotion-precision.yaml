@@ -1,0 +1,45 @@
+slug: dynamotion-precision
+name: Dynamotion Precision
+country: CN
+founded: 2021
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Dynamotion Precision
+  en: Dynamotion Precision logo
+  zh: Dynamotion Precision 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Dynamotion Precision производит волновые редукторы, шарнирные модули и актуаторы со степенью защиты IP67 с нулевым люфтом, повторяемостью ≤10 угловых секунд, на 30% более высокой жёсткостью и сроком службы 20 000 часов.
+  highlights:
+    - Более 190 моделей волновых редукторов
+    - 40+ патентов, более 10 регистраций программ
+    - Снижение массы на 25%
+    - Производственные базы в Шэньчжэне и Цзыбо
+en:
+  description: |
+    Dynamotion Precision manufactures harmonic reducers, joint modules, and IP67 actuators with zero backlash, repeatability ≤10 arcsec, 30% better rigidity, and 20,000 hour service life.
+  highlights:
+    - Over 190 harmonic reducer models
+    - 40+ patents, 10+ software copyrights
+    - 25% weight reduction
+    - Shenzhen and Zibo production bases
+zh:
+  description: |
+    德美精密传动（Dynamotion Precision）生产谐波减速器、关节模组和 IP67 防护等级驱动器，具备零背隙、重复精度 ≤10 角秒、刚性提升 30% 和 20000 小时使用寿命。
+  highlights:
+    - 谐波减速器超过 190 款型号
+    - 40 余项专利，10 余项软件著作权
+    - 减重 25%
+    - 深圳和淄博两大生产基地
+verified: false
+needs_review:
+  zh: true

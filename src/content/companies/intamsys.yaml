@@ -1,0 +1,43 @@
+slug: intamsys
+name: INTAMSYS
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип INTAMSYS
+  en: INTAMSYS logo
+  zh: INTAMSYS 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    INTAMSYS предоставляет промышленные FDM 3D-принтеры для высокопроизводительных материалов, таких как PEEK, PEKK, PEI и PPS, обеспечивая прямое производство конечных деталей для аэрокосмической, автомобильной, медицинской и робототехнической отраслей.
+  highlights:
+    - Мировой лидер по поставкам принтеров, способных печатать PEEK
+    - FUNMAT PRO 310 APOLLO — печать PAEK со скоростью 200 мм/с
+    - Прочность по оси Z свыше 40 МПа
+    - Активная нагреваемая сушильная камера для филамента, система IDEX
+en:
+  description: |
+    INTAMSYS provides industrial FDM 3D printers for high-performance materials like PEEK, PEKK, PEI, and PPS, enabling direct manufacturing of end-use parts for aerospace, automotive, medical, and robotics.
+  highlights:
+    - Global leader in PEEK-capable printer shipments
+    - 'FUNMAT PRO 310 APOLLO: 200 mm/s PAEK printing'
+    - Z-axis strength >40 MPa
+    - Active heated dry filament chamber, IDEX system
+zh:
+  description: |
+    远铸智能（INTAMSYS）提供面向 PEEK、PEKK、PEI 和 PPS 等高性能材料的工业级 FDM 3D 打印机，可直接制造航空航天、汽车、医疗和机器人领域的终端零件。
+  highlights:
+    - PEEK 打印机出货量全球领先
+    - FUNMAT PRO 310 APOLLO：PAEK 打印速度 200 毫米/秒
+    - Z 轴强度超过 40 兆帕
+    - 主动加热干燥料仓，独立双喷头 IDEX 系统
+verified: false
+needs_review:
+  zh: true

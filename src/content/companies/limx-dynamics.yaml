@@ -1,0 +1,47 @@
+slug: limx-dynamics
+name: Limx Dynamics
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Limx Dynamics
+  en: Limx Dynamics logo
+  zh: Limx Dynamics 标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - actuators
+  - controllers
+robot_products:
+  - name: Oli
+    short: Full-size general-purpose humanoid robot
+  - name: TRON 2
+    short: Modular multi-form embodied robot
+key_clients: []
+ru:
+  description: |
+    Limx Dynamics создаёт полноразмерных гуманоидных роботов общего назначения с ИИ-управлением (Oli, 165 см, 31 степень свободы) и модульного многоформатного робота TRON 2 со сменной двурукой, двуногой или колёсной конфигурацией.
+  highlights:
+    - Oli — 31 степень свободы, антропоморфная осанка
+    - TRON 2 — модульные руки/ноги/колёса
+    - Агентная ОС Limx COSA
+    - Поддержка модулей голоса, зрения и восприятия
+en:
+  description: |
+    Limx Dynamics builds AI-driven full-size general-purpose humanoid robots (Oli, 165cm, 31 DoF) and the modular multi-form robot TRON 2 with interchangeable dual-arm, bipedal, or wheeled configurations.
+  highlights:
+    - 'Oli: 31 degrees of freedom, human-like posture'
+    - 'TRON 2: modular arms/legs/wheels'
+    - Limx COSA agentic OS
+    - Supports voice, vision, and perception add-ons
+zh:
+  description: |
+    逐际动力（Limx Dynamics）打造 AI 驱动的全尺寸通用人形机器人 Oli（165 厘米，31 自由度）以及模块化多形态机器人 TRON 2，支持双臂、双足或轮式可互换配置。
+  highlights:
+    - Oli：31 个自由度，类人姿态
+    - TRON 2：模块化机械臂/腿/轮
+    - Limx COSA 智能体操作系统
+    - 支持语音、视觉和感知附件
+verified: false
+needs_review:
+  zh: true

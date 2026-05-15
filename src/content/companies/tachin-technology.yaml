@@ -1,0 +1,44 @@
+slug: tachin-technology
+name: Tachin Technology
+country: CN
+founded: 2020
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Tachin Technology
+  en: Tachin Technology logo
+  zh: Tachin Technology 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Tachin Technology предоставляет растяжимые мультимодальные гибкие электронные системы кожи с 4096 независимыми сенсорами, детектируя давление, температуру, приближение, сдвиговое напряжение и скольжение.
+  highlights:
+    - Первые в мире технологии растяжимой электронной кожи
+    - Диапазон силы 0–100 Н/см², разрешение 0,02 Н/см²
+    - Диапазон температур от -20°C до 90°C
+    - Кастомизируемый размер 5–1000 мм, толщина 0,1–1 мм
+en:
+  description: |
+    Tachin Technology provides stretchable multimodal flexible electronic skin tactile sensing systems with 4096 independent sensors, detecting pressure, temperature, proximity, shear stress, and sliding.
+  highlights:
+    - World-first stretchable e-skin technologies
+    - Force range 0-100 N/cm², resolution 0.02 N/cm²
+    - Temperature range -20°C to 90°C
+    - Customizable size 5-1000mm, thickness 0.1-1mm
+zh:
+  description: |
+    途见科技有限公司（Tachin Technology）提供可拉伸多模态柔性电子皮肤触觉感知系统，配备 4096 个独立传感器，可检测压力、温度、接近、剪切应力和滑动。
+  highlights:
+    - 全球首创可拉伸电子皮肤技术
+    - 力测量范围 0-100 N/cm²，分辨率 0.02 N/cm²
+    - 温度范围 -20°C 至 90°C
+    - 可定制尺寸 5-1000 毫米，厚度 0.1-1 毫米
+verified: false
+needs_review:
+  zh: true

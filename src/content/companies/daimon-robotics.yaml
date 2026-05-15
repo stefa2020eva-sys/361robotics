@@ -1,0 +1,45 @@
+slug: daimon-robotics
+name: Daimon Robotics
+country: CN
+founded: 2023
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Daimon Robotics
+  en: Daimon Robotics logo
+  zh: Daimon Robotics 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+  - end-effectors
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Daimon Robotics разрабатывает первые в мире монохроматические визуально-тактильные датчики (DM-Tac W2), системы сбора телеуправляемых данных с силовой/тактильной обратной связью и мультимодальный стек данных VTLA.
+  highlights:
+    - Первый в мире многомерный высокочастотный визуально-тактильный датчик
+    - Высокое разрешение и мультимодальное измерение тактильных параметров
+    - Носимое устройство для телеуправления (DM-ExTon2)
+    - Национальное высокотехнологичное и SRDI-предприятие
+en:
+  description: |
+    Daimon Robotics develops world-first monochromatic vision-tactile sensors (DM-Tac W2), teleoperation data acquisition systems with force/tactile feedback, and VTLA multimodal data stack.
+  highlights:
+    - World's first multidimensional high-frequency visuotactile sensor
+    - High resolution and multi-modal tactile measurement
+    - Wearable teleoperation device (DM-ExTon2)
+    - National High-Tech & SRDI enterprise
+zh:
+  description: |
+    戴盟（深圳）机器人科技有限公司（Daimon Robotics）研发全球首款单色视觉触觉传感器（DM-Tac W2）、配备力/触觉反馈的遥操作数据采集系统以及 VTLA 多模态数据栈。
+  highlights:
+    - 全球首款多维高频视觉触觉传感器
+    - 高分辨率与多模态触觉测量
+    - 可穿戴遥操作设备（DM-ExTon2）
+    - 国家高新技术企业及"专精特新"企业
+verified: false
+needs_review:
+  zh: true

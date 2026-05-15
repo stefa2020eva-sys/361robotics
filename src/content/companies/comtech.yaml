@@ -1,0 +1,45 @@
+slug: comtech
+name: Comtech
+country: CN
+founded: 1995
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Comtech
+  en: Comtech logo
+  zh: Comtech 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - controllers
+  - connectivity
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Comtech предоставляет робототехнические услуги «от чипа до системы», интегрируя глобальную цепочку поставок (NVIDIA, AMD, Intel и др.) для ИИ-чипов, подбора ключевых компонентов, проектирования решений и полного сопровождения.
+  highlights:
+    - 30 лет в чиповой индустрии
+    - Поддержка Jetson, D-Robotics, AMD Kria
+    - Единое обслуживание «чип — край — облако»
+    - Платиновый донор OpenHarmony
+en:
+  description: |
+    Comtech provides chip-to-system robotics services, integrating global supply chain (NVIDIA, AMD, Intel, etc.) for AI chips, core component selection, solution design, and full-stack support.
+  highlights:
+    - 30 years in chip industry
+    - Supports Jetson, D-Robotics, AMD Kria
+    - Chip-Edge-Cloud one-stop service
+    - OpenHarmony platinum donor
+zh:
+  description: |
+    科通技术（Comtech）提供从芯片到系统的机器人服务，整合全球供应链（NVIDIA、AMD、Intel 等），涵盖 AI 芯片、核心元器件选型、方案设计与全栈支持。
+  highlights:
+    - 30 年芯片行业经验
+    - 支持 Jetson、地平线、AMD Kria
+    - 端—边—云一站式服务
+    - OpenHarmony 白金捐赠人
+verified: false
+needs_review:
+  zh: true

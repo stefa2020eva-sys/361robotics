@@ -1,0 +1,46 @@
+slug: knowin-intelligent
+name: Knowin Intelligent
+country: CN
+founded: 2025
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Knowin Intelligent
+  en: Knowin Intelligent logo
+  zh: Knowin Intelligent 标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - controllers
+  - software-sdk
+robot_products:
+  - name: XiaoNuo01
+    short: Lightweight dual-arm robot for embodied AI research
+key_clients: []
+ru:
+  description: |
+    Knowin Intelligent разрабатывает генеративные базовые модели для воплощённого интеллекта и лёгкого двурукого робота XiaoNuo01 для домашних услуг и исследований в области ИИ, обеспечивая цикл «восприятие — генерация — выполнение — эволюция».
+  highlights:
+    - Основана в июле 2025 года
+    - XiaoNuo01 весит всего 30 кг и оснащён 7-степенными манипуляторами
+    - Оснащён тремя бинокулярными камерами глубины и лидаром
+    - Открытые низкоуровневые интерфейсы для разработки алгоритмов
+en:
+  description: |
+    Knowin Intelligent develops generative embodied foundation models and the XiaoNuo01 lightweight dual-arm robot for home service and AI research, enabling perception-generation-execution-evolution loop.
+  highlights:
+    - Founded July 2025
+    - XiaoNuo01 weighs only 30kg with 7-DOF arms
+    - Equipped with 3 binocular depth cameras and LiDAR
+    - Open underlying interfaces for algorithm development
+zh:
+  description: |
+    诺因智能（Knowin Intelligent）开发生成式具身基础模型和轻量化双臂机器人 XiaoNuo01，用于家庭服务和人工智能研究，实现感知—生成—执行—进化的闭环。
+  highlights:
+    - 成立于 2025 年 7 月
+    - XiaoNuo01 仅重 30 公斤，配备 7 自由度机械臂
+    - 配备 3 个双目深度相机和激光雷达
+    - 开放底层接口用于算法开发
+verified: false
+needs_review:
+  zh: true

@@ -1,0 +1,45 @@
+slug: dh-robotics
+name: DH-Robotics
+country: CN
+founded: 2016
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип DH-Robotics
+  en: DH-Robotics logo
+  zh: DH-Robotics 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - end-effectors
+  - actuators
+produces_components:
+  - gripper
+key_clients: []
+ru:
+  description: |
+    DH-Robotics производит сервоэлектрические захваты, актуаторы с подвижной катушкой, сервоэлектрические цилиндры, ловкие манипуляторы и систему интеллектуального гибкого движения IFM для отраслей 3C, новой энергетики и полупроводников.
+  highlights:
+    - Портфолио из более 200 продуктов
+    - 12 серий, более 30 моделей захватов
+    - Высокая точность силового контроля и повторяемости
+    - Закрывает пробелы в отечественном производстве прецизионных актуаторов
+en:
+  description: |
+    DH-Robotics produces servo electric grippers, voice coil actuators, servo electric cylinders, dexterous hands, and the IFM intelligent flexible motion system for 3C, new energy, and semiconductor industries.
+  highlights:
+    - 200+ product portfolio
+    - 12 series, 30+ gripper models
+    - High force control precision and repeatability
+    - Fills domestic precision actuator gaps
+zh:
+  description: |
+    大翼机器人（DH-Robotics）生产伺服电动夹爪、音圈驱动器、伺服电动缸、灵巧手以及 IFM 智能柔性运动系统，应用于 3C、新能源和半导体行业。
+  highlights:
+    - 200 余款产品组合
+    - 12 个系列，30 余款夹爪型号
+    - 高力控精度和重复定位精度
+    - 填补国内精密驱动器空白
+verified: false
+needs_review:
+  zh: true

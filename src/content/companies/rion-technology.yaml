@@ -1,0 +1,43 @@
+slug: rion-technology
+name: Rion Technology
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Rion Technology
+  en: Rion Technology logo
+  zh: Rion Technology 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Rion Technology специализируется на инерциальных измерительных модулях МЭМС (IMU760, IMU761, IMU762), системах навигации ИНС/GPS, высокоточных гироскопах и датчиках наклона для управления позой гуманоидных роботов и навигации AGV.
+  highlights:
+    - 18 лет опыта в области измерений для беспилотных систем
+    - IMU760 — 6 степеней свободы, компактные размеры 22,4×22,4×9,8 мм
+    - Адаптивный расширенный фильтр Калмана
+    - Интерфейс UART с SDK
+en:
+  description: |
+    Rion Technology specializes in MEMS inertial measurement units (IMU760, IMU761, IMU762), INS/GPS navigation systems, high-precision gyroscopes, and tilt sensors for humanoid robot posture control and AGV navigation.
+  highlights:
+    - 18 years in unmanned measurement
+    - 'IMU760: 6-DOF, compact 22.4x22.4x9.8mm'
+    - Adaptive extended Kalman filter
+    - UART interface with SDK
+zh:
+  description: |
+    深圳市瑞芬科技有限公司专注于 MEMS 惯性测量单元（IMU760、IMU761、IMU762）、INS/GPS 组合导航系统、高精度陀螺仪和倾角传感器，应用于人形机器人姿态控制和 AGV 导航。
+  highlights:
+    - 18 年无人测量领域经验
+    - IMU760：6 自由度，紧凑型 22.4×22.4×9.8 毫米
+    - 自适应扩展卡尔曼滤波
+    - UART 接口，配套 SDK
+verified: false
+needs_review:
+  zh: true

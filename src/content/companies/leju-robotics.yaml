@@ -1,0 +1,51 @@
+slug: leju-robotics
+name: Leju Robotics
+country: CN
+founded: 2016
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Leju Robotics
+  en: Leju Robotics logo
+  zh: Leju Robotics 标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - actuators
+  - controllers
+  - end-effectors
+robot_products:
+  - name: KUAVO
+    short: Full-size high-dynamic humanoid robot
+  - name: AELOS
+    short: Small-sized humanoid
+  - name: ROBAN
+    short: Medium-sized humanoid
+key_clients: []
+ru:
+  description: |
+    Leju Robotics разрабатывает гуманоидных роботов (AELOS малого размера, ROBAN среднего размера, KUAVO большого размера) с полным набором собственных технологий для научных исследований, коммерческого и промышленного применения.
+  highlights:
+    - Премия У Вэньцзюня в области ИИ, входит в Forbes Top 50 AI
+    - KUAVO — первый в мире гуманоид с 5G-A
+    - Поддержка LLM DeepSeek, Doubao, Tongyi Qianwen
+    - Полезная нагрузка 20 кг, модульная быстросъёмная конструкция конечностей
+en:
+  description: |
+    Leju Robotics develops humanoid robots (AELOS small, ROBAN medium, KUAVO large) with full-stack self-developed technology for scientific research, commercial, and industrial applications.
+  highlights:
+    - Wu Wenjun AI Award, Forbes Top 50 AI
+    - "KUAVO: world's first 5G-A humanoid"
+    - Supports DeepSeek, Doubao, Tongyi Qianwen LLMs
+    - 20kg payload, modular quick-disassembly limbs
+zh:
+  description: |
+    乐聚机器人（Leju Robotics）开发人形机器人（小型 AELOS、中型 ROBAN、大型 KUAVO），采用全栈自研技术，应用于科研、商业和工业领域。
+  highlights:
+    - 吴文俊人工智能奖，福布斯 AI 50 强
+    - KUAVO：全球首款 5G-A 人形机器人
+    - 支持 DeepSeek、豆包、通义千问大语言模型
+    - 负载 20 公斤，模块化快拆肢体结构
+verified: false
+needs_review:
+  zh: true

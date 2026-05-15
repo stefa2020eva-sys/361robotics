@@ -1,0 +1,45 @@
+slug: quark-electric
+name: Quark Electric
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Quark Electric
+  en: Quark Electric logo
+  zh: Quark Electric 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+  - drives-power
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Quark Electric специализируется на высокомоментных шарнирных модулях и тяжёлых четвероногих платформах для промышленных инспекций и специальных операций, с двигателями осевого потока и исполнениями IP67/взрывозащищённых.
+  highlights:
+    - Пиковый крутящий момент 450 Н·м на шарнир
+    - Точность редуктора до 1 угловой минуты, шум всего 50 дБ
+    - Защита IP68 и взрывозащищённое исполнение EX d II BT4
+    - Более 100 комбинаций шарнирных модулей
+en:
+  description: |
+    Quark Electric focuses on high-torque joint modules and heavy-duty quadruped platforms for industrial inspection and special operations, featuring axial flux motors and IP67/explosion-proof designs.
+  highlights:
+    - Peak torque 450 Nm per joint
+    - Reducer accuracy up to 1 arcmin, noise as low as 50 dB
+    - IP68 and EX d II BT4 explosion-proof option
+    - Over 100 combinations of joint modules
+zh:
+  description: |
+    南京奇克电动科技有限责任公司专注于高扭矩关节模组和重载四足平台，用于工业巡检和特种作业，采用轴向磁通电机和 IP67/防爆设计。
+  highlights:
+    - 单关节峰值扭矩 450 牛·米
+    - 减速器精度高达 1 角分，噪音低至 50 分贝
+    - 提供 IP68 和 EX d II BT4 防爆选项
+    - 超过 100 种关节模组组合
+verified: false
+needs_review:
+  zh: true

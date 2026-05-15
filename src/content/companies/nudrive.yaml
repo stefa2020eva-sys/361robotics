@@ -1,0 +1,45 @@
+slug: nudrive
+name: NuDrive
+country: CN
+founded: 2023
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип NuDrive
+  en: NuDrive logo
+  zh: NuDrive 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    NuDrive производит нутационные редукторы (серия ND) и червячные передачи со смещением и двойным заходом (серия DL) с высоким крутящим моментом, высокой жёсткостью, низким люфтом и высокой удельной мощностью для роботов и аэрокосмической отрасли.
+  highlights:
+    - Технология нутации Sharkteeth
+    - Многозубое поверхностное зацепление
+    - Подано более 10 патентных заявок
+    - 50% сотрудников в R&D (доктора наук и магистры)
+en:
+  description: |
+    NuDrive produces nutational reducers (ND series) and double-lead offset worm gears (DL series) with high torque, high rigidity, low backlash, and high power density for robots and aerospace.
+  highlights:
+    - Sharkteeth nutation technology
+    - Multi-tooth surface meshing
+    - 10+ patent applications
+    - 50% of staff in R&D (PhDs and masters)
+zh:
+  description: |
+    上海玖璋机元传动科技有限公司（NuDrive）生产章动减速器（ND 系列）和双导程偏置蜗轮蜗杆（DL 系列），具有高扭矩、高刚性、低背隙和高功率密度，应用于机器人和航空航天领域。
+  highlights:
+    - 鲨齿章动技术
+    - 多齿面啮合
+    - 10 余项专利申请
+    - 50% 员工从事研发工作（博士和硕士）
+verified: false
+needs_review:
+  zh: true

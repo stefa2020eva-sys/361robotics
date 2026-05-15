@@ -1,0 +1,45 @@
+slug: sansec
+name: Sansec
+country: CN
+founded: 2008
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Sansec
+  en: Sansec logo
+  zh: Sansec 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - safety
+  - software-sdk
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Sansec предоставляет комплексные решения по информационной безопасности для гуманоидных роботов, дронов и беспилотных машин, включая аппаратный корень доверия, цифровую идентификацию, управление ключами и постквантовую криптографию.
+  highlights:
+    - 100+ изобретательских патентов, 700+ регистраций программ
+    - Облачный HSM — 400 тыс. подписей/с, шифрование 8500 Мбит/с
+    - Защищённый чип XT200 — 10 тыс. подписей/с, 100 Мбит/с
+    - Поддержка алгоритмов PQC
+en:
+  description: |
+    Sansec provides full-link security solutions for humanoid robots, drones, and unmanned vehicles, including hardware root of trust, digital identity, key management, and post-quantum cryptography.
+  highlights:
+    - 100+ invention patents, 700+ software copyrights
+    - 'Cloud HSM: 400k signatures/sec, 8500 Mbps encryption'
+    - 'XT200 security chip: 10k signatures/sec, 100 Mbps'
+    - Supports PQC algorithms
+zh:
+  description: |
+    三未信安科技股份有限公司（Sansec）为人形机器人、无人机和无人车辆提供全链路安全解决方案，包括硬件信任根、数字身份、密钥管理和后量子密码。
+  highlights:
+    - 100 余项发明专利，700 余项软件著作权
+    - 云 HSM：每秒 40 万次签名，加密速率 8500 Mbps
+    - XT200 安全芯片：每秒 1 万次签名，100 Mbps
+    - 支持后量子密码算法
+verified: false
+needs_review:
+  zh: true
