@@ -1,0 +1,33 @@
+---
+// Astro pre-renders this page at /; the script below handles the redirect on the client.
+// In production, public/_redirects performs the redirect at the edge BEFORE this page is served.
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>361Robotics</title>
+    <link rel="canonical" href="https://361robotics.com/en" />
+    <meta http-equiv="refresh" content="0; url=/en/" />
+  </head>
+  <body>
+    <script is:inline>
+      (function () {
+        try {
+          const stored = localStorage.getItem('preferredLang');
+          if (stored === 'ru' || stored === 'zh' || stored === 'en') {
+            window.location.replace('/' + stored + '/');
+            return;
+          }
+        } catch (_) {}
+        const nav = (navigator.language || 'en').toLowerCase();
+        const target = nav.startsWith('zh') ? '/zh/' : nav.startsWith('ru') ? '/ru/' : '/en/';
+        window.location.replace(target);
+      })();
+    </script>
+    <noscript>
+      <p>Continue to <a href="/en/">/en/</a>.</p>
+    </noscript>
+  </body>
+</html>

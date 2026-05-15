@@ -1,0 +1,10 @@
+# Language-detect on root, only when no explicit language preference yet
+/  /zh/  302  Language=zh
+/  /ru/  302  Language=ru
+/  /en/  302  Language=en
+/  /en/  302!
+
+# Strip trailing slash on language roots (avoid double-slash issues)
+/en/  /en  301
+/ru/  /ru  301
+/zh/  /zh  301
