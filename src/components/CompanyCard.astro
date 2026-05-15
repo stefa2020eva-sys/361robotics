@@ -32,9 +32,9 @@ const typeLabel = isBoth
     </div>
   </div>
   <p class="text-xs text-muted">{typeLabel}</p>
-  {!data.verified && (
-    <span class="inline-block mt-2 text-[10px] uppercase tracking-wide bg-border text-muted px-1.5 py-0.5 rounded">
-      {t(lang, 'company.unverified')}
+  {data.country === 'CN' && (
+    <span class="inline-block mt-2 text-[10px] uppercase tracking-wide bg-green-100 text-green-800 px-1.5 py-0.5 rounded">
+      {t(lang, 'company.partner_badge')}
     </span>
   )}
 </a>
