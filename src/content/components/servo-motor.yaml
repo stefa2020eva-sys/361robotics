@@ -1,0 +1,19 @@
+slug: servo-motor
+category: actuators
+featured: true
+ru:
+  name: Серводвигатель
+  description: |
+    Электродвигатель с обратной связью по положению, скорости и моменту.
+    Используется в манипуляторах роботов для точного управления движением.
+en:
+  name: Servo Motor
+  description: |
+    An electric motor with closed-loop feedback on position, speed, and torque.
+    Used in robot manipulators for precise motion control.
+zh:
+  name: 伺服电机
+  description: |
+    具有位置、速度和扭矩闭环反馈的电动机。
+    用于机器人机械臂以实现精确的运动控制。
+verified: false

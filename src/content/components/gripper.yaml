@@ -1,0 +1,19 @@
+slug: gripper
+category: end-effectors
+featured: false
+ru:
+  name: Захват
+  description: |
+    Концевой эффектор для удержания и перемещения объектов.
+    Бывают пневматические, электрические, вакуумные.
+en:
+  name: Gripper
+  description: |
+    An end effector for holding and moving objects.
+    Common types: pneumatic, electric, and vacuum.
+zh:
+  name: 夹爪
+  description: |
+    用于抓取和移动物体的末端执行器。
+    常见类型：气动、电动和真空。
+verified: false

@@ -1,0 +1,19 @@
+slug: lidar
+category: sensors
+featured: true
+ru:
+  name: Лидар
+  description: |
+    Активный оптический сенсор, измеряющий расстояние с помощью лазерных импульсов.
+    Используется для построения карт, обнаружения препятствий и навигации мобильных роботов.
+en:
+  name: LiDAR
+  description: |
+    An active optical sensor that measures distance using laser pulses.
+    Used for mapping, obstacle detection, and navigation in mobile robots.
+zh:
+  name: 激光雷达
+  description: |
+    使用激光脉冲测量距离的主动光学传感器。
+    用于移动机器人的建图、障碍物检测和导航。
+verified: false

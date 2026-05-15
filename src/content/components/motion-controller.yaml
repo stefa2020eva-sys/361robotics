@@ -1,0 +1,19 @@
+slug: motion-controller
+category: controllers
+featured: true
+ru:
+  name: Контроллер движения
+  description: |
+    Электронное устройство, координирующее работу нескольких актуаторов.
+    Реализует траектории, синхронизацию и обратную связь.
+en:
+  name: Motion Controller
+  description: |
+    An electronic device coordinating multiple actuators.
+    Implements trajectories, synchronization, and closed-loop control.
+zh:
+  name: 运动控制器
+  description: |
+    协调多个执行器工作的电子设备。
+    实现轨迹规划、同步控制和闭环反馈。
+verified: false
