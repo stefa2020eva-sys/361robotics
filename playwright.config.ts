@@ -11,7 +11,7 @@ export default defineConfig({
     trace: 'retain-on-failure',
   },
   webServer: {
-    command: 'npm run dev -- --port 4321',
+    command: 'npm run preview -- --port 4321',
     port: 4321,
     reuseExistingServer: !process.env.CI,
     timeout: 60_000,
