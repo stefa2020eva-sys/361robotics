@@ -1,0 +1,71 @@
+---
+import { getCollection } from 'astro:content';
+import ContentLayout from '../../layouts/ContentLayout.astro';
+import CompanyCard from '../../components/CompanyCard.astro';
+import ComponentCard from '../../components/ComponentCard.astro';
+import { t, LANGS, isLang, type Lang } from '../../i18n/helpers';
+
+export async function getStaticPaths() {
+  return LANGS.map((lang) => ({ params: { lang } }));
+}
+
+const { lang: langParam } = Astro.params;
+if (!langParam || !isLang(langParam)) {
+  throw new Error(`Invalid lang param: ${langParam}`);
+}
+const lang: Lang = langParam;
+
+const allCompanies = await getCollection('companies');
+const allComponents = await getCollection('components');
+const featuredCompanies = allCompanies.filter((c) => c.data.featured).slice(0, 8);
+const featuredComponents = allComponents.filter((c) => c.data.featured).slice(0, 6);
+---
+
+<ContentLayout
+  title={`361Robotics — ${t(lang, 'home.hero_title')}`}
+  description={t(lang, 'home.hero_subtitle')}
+  lang={lang}
+  pathTail=""
+>
+  <section class="py-12 sm:py-16">
+    <h1 class="text-3xl sm:text-5xl font-bold tracking-tight max-w-3xl">
+      {t(lang, 'home.hero_title')}
+    </h1>
+    <p class="mt-4 text-lg text-muted max-w-2xl">{t(lang, 'home.hero_subtitle')}</p>
+    <form action={`/${lang}/search`} method="get" class="mt-8 max-w-2xl">
+      <label class="sr-only" for="search-q">{t(lang, 'home.search_placeholder')}</label>
+      <input
+        id="search-q"
+        name="q"
+        type="search"
+        placeholder={t(lang, 'home.search_placeholder')}
+        class="w-full border border-border rounded-lg px-4 py-3 text-base focus:border-accent"
+        required
+      />
+    </form>
+  </section>
+
+  <section class="py-8">
+    <h2 class="text-2xl font-semibold mb-6">{t(lang, 'home.featured_companies')}</h2>
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+      {featuredCompanies.map((c) => <CompanyCard company={c} lang={lang} />)}
+    </div>
+  </section>
+
+  <section class="py-8">
+    <h2 class="text-2xl font-semibold mb-6">{t(lang, 'home.featured_components')}</h2>
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+      {featuredComponents.map((c) => <ComponentCard component={c} lang={lang} />)}
+    </div>
+  </section>
+
+  <section class="py-12 bg-ink text-white rounded-lg px-6 sm:px-10 mt-12">
+    <p class="text-xl sm:text-2xl">{t(lang, 'home.contact_cta')}</p>
+    <a
+      href={`/${lang}/contacts`}
+      class="inline-block mt-4 bg-accent px-5 py-2.5 rounded no-underline"
+    >
+      {t(lang, 'nav.contact_cta')}
+    </a>
+  </section>
+</ContentLayout>
