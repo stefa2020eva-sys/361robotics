@@ -1,0 +1,47 @@
+slug: boston-dynamics
+name: Boston Dynamics
+country: US
+founded: 1992
+website: https://www.bostondynamics.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Boston Dynamics
+  en: Boston Dynamics logo
+  zh: Boston Dynamics 标志
+type:
+  - robot_brand
+featured: true
+categories:
+  - end-effectors
+  - vision
+robot_products:
+  - name: Spot
+    short: Quadruped mobile robot for inspection and data capture
+  - name: Atlas
+    short: Bipedal humanoid robot for research and dynamic tasks
+  - name: Stretch
+    short: Mobile manipulator for warehouse case-handling
+key_clients: []
+ru:
+  description: |
+    Американская компания, известная разработкой динамичных мобильных роботов.
+    Основана в 1992 году, выделена из MIT.
+  highlights:
+    - Один из лидеров в области мобильной робототехники
+    - Робот Spot эксплуатируется в промышленных инспекциях по всему миру
+en:
+  description: |
+    American company known for developing dynamic mobile robots.
+    Founded in 1992 as a spin-out from MIT.
+  highlights:
+    - One of the leaders in mobile robotics
+    - Spot is deployed for industrial inspections worldwide
+zh:
+  description: |
+    美国公司，以研发动态移动机器人著称。
+    成立于 1992 年，从麻省理工学院（MIT）独立而来。
+  highlights:
+    - 移动机器人领域的领导者之一
+    - Spot 已部署于全球工业巡检
+verified: false
+source: https://www.bostondynamics.com

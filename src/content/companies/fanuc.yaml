@@ -1,0 +1,52 @@
+slug: fanuc
+name: FANUC
+country: JP
+founded: 1956
+website: https://www.fanuc.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип FANUC
+  en: FANUC logo
+  zh: FANUC 标志
+type:
+  - robot_brand
+  - component_maker
+featured: true
+categories:
+  - actuators
+  - controllers
+produces_components:
+  - servo-motor
+  - motion-controller
+robot_products:
+  - name: FANUC M-2000iA
+    short: Heavy-payload industrial robot, up to 2300 kg
+  - name: FANUC LR Mate 200iD
+    short: Compact 6-axis robot for assembly and material handling
+key_clients:
+  - toyota
+  - tesla
+  - honda
+ru:
+  description: |
+    Японский производитель промышленных роботов и систем числового программного управления (ЧПУ).
+    Основан в 1956 году как подразделение Fujitsu, выделен в самостоятельную компанию в 1972 году.
+  highlights:
+    - Более 500 000 промышленных роботов установлено по всему миру
+    - Один из мировых лидеров по доле рынка ЧПУ-систем
+en:
+  description: |
+    Japanese manufacturer of industrial robots and CNC systems.
+    Founded in 1956 as a Fujitsu subsidiary; spun off as an independent company in 1972.
+  highlights:
+    - Over 500,000 industrial robots installed worldwide
+    - One of the global leaders by CNC market share
+zh:
+  description: |
+    日本工业机器人和数控（CNC）系统制造商。
+    成立于 1956 年，最初是富士通的子公司，1972 年独立。
+  highlights:
+    - 全球安装超过 500,000 台工业机器人
+    - 数控系统市场份额位居全球前列
+verified: false
+source: https://www.fanuc.com/company/profile.html
