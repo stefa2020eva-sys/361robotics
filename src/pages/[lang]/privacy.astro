@@ -1,0 +1,29 @@
+---
+import { getEntry, render } from 'astro:content';
+import ContentLayout from '../../layouts/ContentLayout.astro';
+import { LANGS, isLang, type Lang } from '../../i18n/helpers';
+
+export async function getStaticPaths() {
+  return LANGS.map((lang) => ({ params: { lang } }));
+}
+
+const { lang: langParam } = Astro.params;
+if (!langParam || !isLang(langParam)) throw new Error('Invalid lang');
+const lang: Lang = langParam;
+
+const page = await getEntry('pages', `privacy.${lang}`);
+if (!page) throw new Error(`Missing privacy page for lang ${lang}`);
+const { Content } = await render(page);
+---
+
+<ContentLayout
+  title={`${page.data.title} — 361Robotics`}
+  description={page.data.description}
+  lang={lang}
+  pathTail="privacy"
+>
+  <article class="prose prose-lg max-w-3xl py-8">
+    <h1>{page.data.title}</h1>
+    <Content />
+  </article>
+</ContentLayout>

@@ -1,0 +1,91 @@
+---
+import { getEntry, getCollection, render } from 'astro:content';
+import ContentLayout from '../../layouts/ContentLayout.astro';
+import { t, LANGS, isLang, type Lang } from '../../i18n/helpers';
+
+export async function getStaticPaths() {
+  return LANGS.map((lang) => ({ params: { lang } }));
+}
+
+const { lang: langParam } = Astro.params;
+if (!langParam || !isLang(langParam)) throw new Error('Invalid lang');
+const lang: Lang = langParam;
+
+const page = await getEntry('pages', `contacts.${lang}`);
+if (!page) throw new Error(`Missing contacts page for lang ${lang}`);
+const { Content } = await render(page);
+
+const settings = await getCollection('settings');
+const contacts = settings.find((s) => s.id === 'contacts')?.data;
+const privacyLinkText = t(lang, 'form.privacy_policy_link_text');
+const consentTemplate = t(lang, 'form.privacy_consent');
+const consentBefore = consentTemplate.split('{privacy_policy_link}')[0];
+const consentAfter = consentTemplate.split('{privacy_policy_link}')[1] ?? '';
+---
+
+<ContentLayout
+  title={`${page.data.title} — 361Robotics`}
+  description={page.data.description}
+  lang={lang}
+  pathTail="contacts"
+>
+  <section class="py-8 max-w-2xl">
+    <h1 class="text-3xl font-bold mb-4">{page.data.title}</h1>
+    <div class="prose mb-8"><Content /></div>
+
+    <form
+      name="contact"
+      method="POST"
+      data-netlify="true"
+      data-netlify-honeypot="bot-field"
+      class="space-y-4"
+      action={`/${lang}/contacts?sent=1`}
+    >
+      <input type="hidden" name="form-name" value="contact" />
+      <p class="hidden">
+        <label>Don't fill this out: <input name="bot-field" /></label>
+      </p>
+
+      <div>
+        <label for="name" class="block text-sm font-medium mb-1">{t(lang, 'form.name')}</label>
+        <input id="name" name="name" type="text" required class="w-full border border-border rounded px-3 py-2" />
+      </div>
+      <div>
+        <label for="email" class="block text-sm font-medium mb-1">{t(lang, 'form.email')}</label>
+        <input id="email" name="email" type="email" required class="w-full border border-border rounded px-3 py-2" />
+      </div>
+      <div>
+        <label for="company" class="block text-sm font-medium mb-1">{t(lang, 'form.company')}</label>
+        <input id="company" name="company" type="text" class="w-full border border-border rounded px-3 py-2" />
+      </div>
+      <div>
+        <label for="message" class="block text-sm font-medium mb-1">{t(lang, 'form.message')}</label>
+        <textarea id="message" name="message" required rows="5" class="w-full border border-border rounded px-3 py-2"></textarea>
+      </div>
+      <label class="flex items-start gap-2 text-sm">
+        <input type="checkbox" name="privacy-consent" required class="mt-1" />
+        <span>
+          {consentBefore}<a class="text-accent" href={`/${lang}/privacy`}>{privacyLinkText}</a>{consentAfter}
+        </span>
+      </label>
+      <button type="submit" class="bg-accent text-white px-5 py-2 rounded">{t(lang, 'form.submit')}</button>
+    </form>
+
+    {contacts && (
+      <div class="mt-10 pt-6 border-t border-border text-sm text-muted space-y-1">
+        <p><a class="text-accent" href={`mailto:${contacts.email}`}>{contacts.email}</a></p>
+        {contacts.phone && <p>{contacts.phone}</p>}
+        {contacts.whatsapp && <p>WhatsApp: {contacts.whatsapp}</p>}
+        {contacts.wechat_id && <p>WeChat: {contacts.wechat_id}</p>}
+        {contacts.telegram_handle && <p>Telegram: {contacts.telegram_handle}</p>}
+      </div>
+    )}
+  </section>
+
+  {Astro.url.searchParams.get('sent') === '1' && (
+    <div class="fixed bottom-6 right-6 max-w-sm bg-ink text-white p-4 rounded-lg shadow-lg">
+      <p class="font-semibold">{t(lang, 'form.thank_you_title')}</p>
+      <p class="text-sm mt-1">{t(lang, 'form.thank_you_body')}</p>
+    </div>
+  )}
+</ContentLayout>
