@@ -1,0 +1,25 @@
+---
+import { getLocalizedField, type Lang } from '../i18n/helpers';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  component: CollectionEntry<'components'>;
+  lang: Lang;
+}
+
+const { component, lang } = Astro.props;
+const data = component.data;
+const name = getLocalizedField(data, lang, 'name');
+---
+
+<a
+  href={`/${lang}/components/${data.slug}`}
+  class="block border border-border rounded-lg p-4 hover:shadow-md transition-shadow no-underline"
+  data-pagefind-meta={`type:component,category:${data.category}`}
+>
+  <div class="aspect-video bg-border rounded mb-3 flex items-center justify-center text-xs text-muted">
+    IMAGE
+  </div>
+  <div class="font-semibold">{name}</div>
+  <div class="text-xs text-muted mt-1">{data.category}</div>
+</a>

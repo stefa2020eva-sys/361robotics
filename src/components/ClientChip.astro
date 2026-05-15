@@ -1,0 +1,19 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import type { Lang } from '../i18n/helpers';
+
+interface Props {
+  client: CollectionEntry<'clients'>;
+  lang: Lang;
+}
+
+const { client } = Astro.props;
+const data = client.data;
+---
+
+<div class="inline-flex items-center gap-2 border border-border rounded-full px-3 py-1.5 text-sm">
+  {data.logo ? (
+    <span class="text-xs text-muted">[logo]</span>
+  ) : null}
+  <span>{data.name}</span>
+</div>

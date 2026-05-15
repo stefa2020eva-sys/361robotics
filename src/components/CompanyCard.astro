@@ -1,0 +1,40 @@
+---
+import { getCountryName, t, type Lang } from '../i18n/helpers';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  company: CollectionEntry<'companies'>;
+  lang: Lang;
+}
+
+const { company, lang } = Astro.props;
+const data = company.data;
+const isBoth = data.type.includes('robot_brand') && data.type.includes('component_maker');
+const typeLabel = isBoth
+  ? t(lang, 'company.type_both')
+  : data.type.includes('robot_brand')
+  ? t(lang, 'company.type_robot_brand')
+  : t(lang, 'company.type_component_maker');
+---
+
+<a
+  href={`/${lang}/companies/${data.slug}`}
+  class="block border border-border rounded-lg p-4 hover:shadow-md transition-shadow no-underline"
+  data-pagefind-meta={`type:company,company-type:${data.type.join('|')},country:${data.country},categories:${data.categories.join('|')}`}
+>
+  <div class="flex items-center gap-3 mb-3">
+    <div class="w-12 h-12 bg-border rounded flex items-center justify-center text-xs text-muted">
+      LOGO
+    </div>
+    <div>
+      <div class="font-semibold">{data.name}</div>
+      <div class="text-xs text-muted">{getCountryName(data.country, lang)}</div>
+    </div>
+  </div>
+  <p class="text-xs text-muted">{typeLabel}</p>
+  {!data.verified && (
+    <span class="inline-block mt-2 text-[10px] uppercase tracking-wide bg-border text-muted px-1.5 py-0.5 rounded">
+      {t(lang, 'company.unverified')}
+    </span>
+  )}
+</a>

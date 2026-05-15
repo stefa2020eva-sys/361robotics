@@ -1,0 +1,14 @@
+---
+interface Props {
+  product: { name: string; image?: string; short?: string };
+}
+const { product } = Astro.props;
+---
+
+<div class="border border-border rounded-lg p-4">
+  <div class="aspect-video bg-border rounded mb-3 flex items-center justify-center text-xs text-muted">
+    IMAGE
+  </div>
+  <div class="font-semibold">{product.name}</div>
+  {product.short && <p class="text-sm text-muted mt-1">{product.short}</p>}
+</div>
