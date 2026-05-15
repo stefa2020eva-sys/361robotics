@@ -1,0 +1,73 @@
+---
+import { getCollection } from 'astro:content';
+import ContentLayout from '../../../layouts/ContentLayout.astro';
+import CompanyCard from '../../../components/CompanyCard.astro';
+import { getLocalizedField, t, LANGS, isLang, type Lang } from '../../../i18n/helpers';
+
+export async function getStaticPaths() {
+  const components = await getCollection('components');
+  return LANGS.flatMap((lang) =>
+    components.map((component) => ({
+      params: { lang, slug: component.data.slug },
+      props: { component },
+    })),
+  );
+}
+
+const { lang: langParam } = Astro.params;
+if (!langParam || !isLang(langParam)) throw new Error('Invalid lang');
+const lang: Lang = langParam;
+const { component } = Astro.props;
+const data = component.data;
+
+const name = getLocalizedField(data, lang, 'name');
+const description = getLocalizedField(data, lang, 'description');
+
+const allCompanies = await getCollection('companies');
+const manufacturers = allCompanies.filter((c) => c.data.produces_components?.includes(data.slug));
+const related = (await getCollection('components')).filter(
+  (c) => c.data.category === data.category && c.data.slug !== data.slug,
+);
+---
+
+<ContentLayout
+  title={`${name} — 361Robotics`}
+  description={description.slice(0, 160)}
+  lang={lang}
+  pathTail={`components/${data.slug}`}
+>
+  <article class="py-8" data-pagefind-body data-pagefind-meta={`type:component,category:${data.category}`}>
+    <header class="pb-6 border-b border-border">
+      <p class="text-sm text-muted">{t(lang, 'component.category')}: {data.category}</p>
+      <h1 class="text-3xl font-bold mt-1">{name}</h1>
+    </header>
+
+    <section class="mt-8">
+      <p class="whitespace-pre-line text-base leading-relaxed">{description}</p>
+    </section>
+
+    <section class="mt-10">
+      <h2 class="text-xl font-semibold mb-4">{t(lang, 'component.manufacturers')}</h2>
+      {manufacturers.length === 0 ? (
+        <p class="text-muted">—</p>
+      ) : (
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+          {manufacturers.map((c) => <CompanyCard company={c} lang={lang} />)}
+        </div>
+      )}
+    </section>
+
+    {related.length > 0 && (
+      <section class="mt-10">
+        <h2 class="text-xl font-semibold mb-4">{t(lang, 'component.related_components')}</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+          {related.slice(0, 6).map((c) => (
+            <a class="border border-border rounded p-3 no-underline" href={`/${lang}/components/${c.data.slug}`}>
+              {getLocalizedField(c.data, lang, 'name')}
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
+  </article>
+</ContentLayout>
