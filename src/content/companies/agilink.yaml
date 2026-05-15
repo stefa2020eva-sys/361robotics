@@ -1,0 +1,43 @@
+slug: agilink
+name: AGILINK
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип AGILINK
+  en: AGILINK logo
+  zh: AGILINK 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - end-effectors
+produces_components:
+  - gripper
+key_clients: []
+ru:
+  description: |
+    AGILINK производит роботизированные кисти OmniHand и OmniHand Pro для воплощённых роботов с 16–19 DOF, силой захвата 25 кг и 300+ высокоплотных тактильных сенсоров.
+  highlights:
+    - "OmniHand: 16 DOF, 510 г, захват 25 кг, 300+ тактильных сенсоров (разрешение 0,1 Н)"
+    - "OmniHand Pro: 19 DOF, сила кончика 20 Н, 3D-силовое восприятие"
+    - Поддержка человекоподобных жестов и тыльного касания
+    - Создан для сервиса, исследований и лёгких задач
+en:
+  description: |
+    AGILINK produces OmniHand and OmniHand Pro dexterous hands for embodied robots with 16-19 DOF, 25kg gripping force, and 300+ high-density tactile sensors.
+  highlights:
+    - "OmniHand: 16 DOF, 510g, 25kg grip, 300+ tactile sensors (0.1N resolution)"
+    - "OmniHand Pro: 19 DOF, 20N fingertip force, 3D force sensing"
+    - Supports human-like gestures and back-of-hand touch
+    - Designed for service, research, and light-duty tasks
+zh:
+  description: |
+    临界点生产 OmniHand 和 OmniHand Pro 灵巧手，用于具身机器人，配备 16-19 自由度、25kg 抓握力和 300+ 高密度触觉传感器。
+  highlights:
+    - OmniHand：16 DOF，510g，25kg 抓握力，300+ 触觉传感器（0.1N 分辨率）
+    - OmniHand Pro：19 DOF，指尖力 20N，3D 力觉
+    - 支持类人手势和手背触觉
+    - 面向服务、科研和轻负载任务
+verified: false
+needs_review:
+  zh: true

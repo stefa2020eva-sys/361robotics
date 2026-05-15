@@ -1,0 +1,44 @@
+slug: geliang-measurement-control
+name: "Geliang Measurement & Control"
+country: CN
+founded: 1995
+logo: ./logo.svg
+logo_alt:
+  ru: "Логотип Geliang Measurement & Control"
+  en: "Geliang Measurement & Control logo"
+  zh: "Geliang Measurement & Control 标志"
+type:
+  - component_maker
+featured: false
+categories:
+  - software-sdk
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Geliang Measurement & Control производит системы тестирования двигателей шарниров роботов серии VGX — для измерения момента, скорости, КПД, нагрева и надёжности до 15 000 об/мин и 50 Н·м.
+  highlights:
+    - "Точность момента ±0,1% от полной шкалы, точность скорости ±0,1 об/мин"
+    - "Четырёхквадрантное рекуперативное торможение ≥90%"
+    - "Частота дискретизации >1 кГц"
+    - Поддержка ступенчатой реакции, пульсаций момента и сигналов энкодеров
+en:
+  description: |
+    Geliang Measurement & Control produces VGX series robot joint motor test systems for torque, speed, efficiency, temperature rise, and reliability testing up to 15,000 rpm and 50 N·m.
+  highlights:
+    - "Torque accuracy ±0.1% FS, speed accuracy ±0.1 rpm"
+    - "Four-quadrant energy recovery ≥90%"
+    - "Sampling frequency >1 kHz"
+    - Supports step response, torque ripple, encoder signals
+zh:
+  description: |
+    杭州格量测控技术有限公司生产 VGX 系列机器人关节电机测试系统，可测试扭矩、转速、效率、温升和可靠性，最高 15,000 rpm、50 N·m。
+  highlights:
+    - "扭矩精度 ±0.1% FS，转速精度 ±0.1 rpm"
+    - "四象限能量回收 ≥90%"
+    - "采样频率 >1 kHz"
+    - 支持阶跃响应、扭矩波动、编码器信号
+verified: false
+needs_review:
+  zh: true

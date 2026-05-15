@@ -1,0 +1,44 @@
+slug: aotingbots
+name: Aotingbots
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Aotingbots
+  en: Aotingbots logo
+  zh: Aotingbots 标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - actuators
+robot_products:
+  - name: SW55
+    short: All-in-one waterless cleaning robot for commercial spaces
+key_clients: []
+ru:
+  description: |
+    Aotingbots производит коммерческого робота-уборщика SW55 для безводной чистки ковров, твёрдых полов и дерева, выполняющего мытьё, подметание, пылесос и пылеудаление.
+  highlights:
+    - Безводная технология — без сточных вод
+    - Покрытие до 40 000 м², позиционирование с точностью до сантиметра
+    - Работа 7×24, уровень шума всего 62 дБ
+    - 8 часов автономной работы, автоматическая подзарядка
+en:
+  description: |
+    Aotingbots produces the SW55 commercial waterless cleaning robot for carpets, hard floors, and wood, featuring mopping, sweeping, vacuuming, and dust pushing.
+  highlights:
+    - Waterless technology, no wastewater
+    - Covers up to 40,000 m², cm-level positioning
+    - 7×24 operation, noise as low as 62 dB
+    - 8-hour battery life, automatic recharging
+zh:
+  description: |
+    漠汀机器人生产 SW55 商用无水清洁机器人，可清洁地毯、硬质地板和木地板，具备拖、扫、吸、推尘功能。
+  highlights:
+    - 无水技术，零废水
+    - 可覆盖 40,000 m²，厘米级定位
+    - 7×24 运行，噪音低至 62dB
+    - 8 小时续航，自动回充
+verified: false
+needs_review:
+  zh: true

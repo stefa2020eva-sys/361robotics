@@ -1,0 +1,44 @@
+slug: schneider-optical-tech
+name: Schneider Optical Technologies
+country: CN
+founded: 2008
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Schneider Optical Technologies
+  en: Schneider Optical Technologies logo
+  zh: Schneider Optical Technologies 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - vision
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Schneider Optical Technologies предлагает высококлассные немецкие объективы для промышленной визуализации, кино и фотографии с обработкой 3D-свободных поверхностей и пропусканием 99,2%.
+  highlights:
+    - Производство аэрокосмического уровня, нанометровая точность кривизны
+    - "Многослойное нанопокрытие, пропускание 99,2%"
+    - Кастомизация промышленных объективов
+    - Обслуживает полупроводниковую инспекцию, машинное зрение, медицину
+en:
+  description: |
+    Schneider Optical Technologies provides high-end German-made lenses for industrial imaging, cinematography, and photography, featuring 3D free-form surface machining and 99.2% transmittance.
+  highlights:
+    - Aerospace-grade manufacturing, nanometer curvature accuracy
+    - "Multi-layer nano coating, 99.2% transmittance"
+    - Customizable industrial lenses
+    - Serves semiconductor inspection, machine vision, medical
+zh:
+  description: |
+    施乃德光学科技（深圳）有限公司提供高端德国制造镜头，用于工业成像、电影和摄影，具备 3D 自由曲面加工和 99.2% 透过率。
+  highlights:
+    - 航天级制造，纳米级曲率精度
+    - "多层纳米镀膜，99.2% 透过率"
+    - 可定制工业镜头
+    - 服务半导体检测、机器视觉、医疗
+verified: false
+needs_review:
+  zh: true

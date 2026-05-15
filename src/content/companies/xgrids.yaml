@@ -1,0 +1,44 @@
+slug: xgrids
+name: XGRIDS
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип XGRIDS
+  en: XGRIDS logo
+  zh: XGRIDS 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - vision
+  - software-sdk
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    XGRIDS строит платформы пространственного интеллекта с 3D-сканированием и моделированием, включая пространственную камеру PortalCam и портативные сканеры Lixel L2Pro и Lixel K1.
+  highlights:
+    - SLAM + 3D Gaussian Splatting для реконструкции 3D в реальном времени
+    - "PortalCam: двойная фишай + двойная фронтальная линзы, захват 360°"
+    - "Lixel L2Pro: портативный сканер без постобработки"
+    - "Lixel K1: портативный сканер 1 кг"
+en:
+  description: |
+    XGRIDS builds spatial intelligence platforms with 3D scanning and modeling products including the PortalCam spatial camera, Lixel L2Pro, and Lixel K1 handheld scanners.
+  highlights:
+    - SLAM + 3D Gaussian Splatting for real-time 3D reconstruction
+    - "PortalCam: dual fisheye + dual front lenses, 360° capture"
+    - "Lixel L2Pro: \"zero post-processing\" handheld scanner"
+    - "Lixel K1: 1 kg portable scanner"
+zh:
+  description: |
+    深圳市其域创新科技有限公司构建空间智能平台，提供 3D 扫描和建模产品，包括 PortalCam 空间相机、Lixel L2Pro 和 Lixel K1 手持扫描仪。
+  highlights:
+    - SLAM + 3D 高斯泼溅，实时 3D 重建
+    - PortalCam：双鱼眼 + 双前置镜头，360° 采集
+    - Lixel L2Pro：「免后处理」手持扫描仪
+    - Lixel K1：1 kg 便携扫描仪
+verified: false
+needs_review:
+  zh: true

@@ -1,0 +1,43 @@
+slug: sunny-optical-intelligence
+name: Sunny Optical Intelligence
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Sunny Optical Intelligence
+  en: Sunny Optical Intelligence logo
+  zh: Sunny Optical Intelligence 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - vision
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Sunny Optical Intelligence производит активные стереокамеры глубины (HHR002) с интегрированными DPU/NPU/DSP/ISP, NPU 2,5T и UVC plug-and-play для коммерческих сервисных роботов.
+  highlights:
+    - NPU 2,5T для алгоритмов ИИ на устройстве
+    - Поддержка нескольких режимов глубины, синхронизации кадров и многоустройств
+    - Лазерная сертификация Class 1
+    - Лидер рынка машинного зрения в VR и роботах-пылесосах
+en:
+  description: |
+    Sunny Optical Intelligence produces active stereo depth cameras (HHR002) with integrated DPU/NPU/DSP/ISP, 2.5T NPU, and UVC plug-and-play for commercial service robots.
+  highlights:
+    - 2.5T NPU for on-device AI algorithms
+    - Supports multiple depth modes, frame sync, multi-device sync
+    - Laser Class 1 safety certified
+    - Market leader in VR and vacuum robot vision
+zh:
+  description: |
+    浙江舜宇智能光学技术有限公司生产主动立体深度相机（HHR002），集成 DPU/NPU/DSP/ISP，配备 2.5T NPU，UVC 即插即用，用于商业服务机器人。
+  highlights:
+    - 2.5T NPU 支持端侧 AI 算法
+    - 支持多种深度模式、帧同步、多机同步
+    - 激光 Class 1 安全认证
+    - VR 和扫地机器人视觉的市场领导者
+verified: false
+needs_review:
+  zh: true

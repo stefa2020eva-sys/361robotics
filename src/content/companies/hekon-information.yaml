@@ -1,0 +1,45 @@
+slug: hekon-information
+name: Hekon Information
+country: CN
+founded: 2015
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Hekon Information
+  en: Hekon Information logo
+  zh: Hekon Information 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+  - vision
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Hekon Information — авторизованный дистрибьютор Livox, предлагающий Mid-360S (360° 3D-лидар, диапазон 0,05–50 м, мёртвая зона 10 см) и Mid-70 (поле обзора 70,4°, мёртвая зона 5 см) для мобильных роботов.
+  highlights:
+    - "Mid-360S: 360° по горизонтали, 10–60° по вертикали, >200 кГц"
+    - "Mid-70: круговое поле обзора 70,4°, мёртвая зона 5 см"
+    - Активное подавление перекрёстных помех для нескольких лидаров
+    - Обслуживает 2000+ клиентов в 20+ отраслях
+en:
+  description: |
+    Hekon Information is an authorized Livox distributor offering Mid-360S (360° 3D LiDAR, 0.05-50m range, 10cm blind zone) and Mid-70 (70.4° FOV, 5cm blind zone) for mobile robots.
+  highlights:
+    - "Mid-360S: 360° horizontal, 10-60° vertical, >200kHz sampling"
+    - "Mid-70: 70.4° circular FOV, 5cm blind spot"
+    - Active anti-crosstalk for multiple LiDARs
+    - Serves 2000+ customers across 20+ industries
+zh:
+  description: |
+    上海和控信息科技有限公司是 Livox 授权分销商，提供 Mid-360S（360° 3D 激光雷达，0.05-50m 测距，10cm 盲区）和 Mid-70（70.4° FOV，5cm 盲区），用于移动机器人。
+  highlights:
+    - "Mid-360S：360° 水平、10-60° 垂直、>200kHz 采样"
+    - Mid-70：70.4° 圆形 FOV，5cm 盲区
+    - 多激光雷达主动抗串扰
+    - 服务 20+ 行业 2000+ 客户
+verified: false
+needs_review:
+  zh: true

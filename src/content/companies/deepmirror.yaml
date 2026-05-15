@@ -1,0 +1,50 @@
+slug: deepmirror
+name: DeepMirror
+country: CN
+founded: 2019
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип DeepMirror
+  en: DeepMirror logo
+  zh: DeepMirror 标志
+type:
+  - robot_brand
+  - component_maker
+featured: false
+categories:
+  - vision
+  - software-sdk
+  - controllers
+produces_components:
+  - lidar
+robot_products:
+  - name: DeepMirror
+    short: DeepMirror, with its LooperRobotics brand, provides spatial intelligence solutions including visual navigation, environm
+key_clients: []
+ru:
+  description: |
+    DeepMirror с брендом LooperRobotics предлагает решения пространственного интеллекта, включая модули визуальной навигации, понимания окружения и 3D-реконструкции, а также четвероногих и гуманоидных роботов.
+  highlights:
+    - Первая в Китае компания пространственного интеллекта
+    - Камера Insight 9 с встроенным VSLAM
+    - Четвероногий робот Ranger и гуманоид NOMAD
+    - Plug-and-play SDK для навигации и управления
+en:
+  description: |
+    DeepMirror, with its LooperRobotics brand, provides spatial intelligence solutions including visual navigation, environment understanding, and 3D reconstruction modules, as well as quadruped and humanoid robots.
+  highlights:
+    - First spatial intelligence company in China
+    - Insight 9 spatial AI camera with on-device VSLAM
+    - Ranger quadruped and NOMAD humanoid robots
+    - Plug-and-play SDK for navigation and control
+zh:
+  description: |
+    广州宸境科技推出 LooperRobotics 品牌，提供空间智能解决方案，包括视觉导航、环境理解和 3D 重建模组，以及四足和人形机器人。
+  highlights:
+    - 中国首家空间智能公司
+    - Insight 9 空间 AI 相机内置 VSLAM
+    - Ranger 四足机器人和 NOMAD 人形机器人
+    - 即插即用的导航和控制 SDK
+verified: false
+needs_review:
+  zh: true

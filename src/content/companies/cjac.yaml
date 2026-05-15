@@ -1,0 +1,44 @@
+slug: cjac
+name: CJAC
+country: CN
+founded: 1987
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип CJAC
+  en: CJAC logo
+  zh: CJAC 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    CJAC производит бескорпусные (полые) двигатели с уникальной седловидной обмоткой, обеспечивающей прирост производительности более 30%, высокую удельную мощность, быстрый отклик (постоянная времени 10–28 мс) и плавную работу (флуктуация скорости <2%).
+  highlights:
+    - Более 50 патентов, сертификаты TUV/ISO9001
+    - "Седловидная обмотка повышает производительность на 30%"
+    - "Шесть серий: EC, ECT, ECS, FL, ECI, GP"
+    - Применяется в промышленных роботах, роботизированных кистях, коллаборативных роботах
+en:
+  description: |
+    CJAC manufactures hollow cup motors with unique saddle winding design, delivering over 30% performance improvement, high power density, fast response (10-28 ms time constant), and smooth operation (<2% speed fluctuation).
+  highlights:
+    - 50+ patents, TUV/ISO9001 certified
+    - "Saddle winding improves performance by 30%"
+    - "Six product series: EC, ECT, ECS, FL, ECI, GP"
+    - Serves industrial robots, dexterous hands, collaborative robots
+zh:
+  description: |
+    西捷克生产采用独特马鞍式绕线的空心杯电机，性能提升 30%以上，具有高功率密度、快速响应（时间常数 10-28 毫秒）和平稳运行（速度波动 <2%）。
+  highlights:
+    - 50+ 专利，TUV/ISO9001 认证
+    - "马鞍式绕线性能提升 30%"
+    - 六大产品系列：EC、ECT、ECS、FL、ECI、GP
+    - 服务工业机器人、灵巧手、协作机器人
+verified: false
+needs_review:
+  zh: true

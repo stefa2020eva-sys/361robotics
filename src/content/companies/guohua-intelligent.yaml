@@ -1,0 +1,43 @@
+slug: guohua-intelligent
+name: Guohua Intelligent
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Guohua Intelligent
+  en: Guohua Intelligent logo
+  zh: Guohua Intelligent 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Guohua Intelligent производит высокоточные волновые редукторы, планетарные роликовинтовые передачи, поворотные/линейные шарнирные модули и высокопроизводительные тела гуманоидных роботов.
+  highlights:
+    - Первое частное предприятие в аэрокосмической цепочке поставок
+    - "Волновой шарнирный модуль: на 10% короче по оси, повторяемость ±10 угл. сек."
+    - "Собственный профиль зубьев увеличивает момент на 15%"
+    - 100+ патентов, 11 национальных/отраслевых стандартов
+en:
+  description: |
+    Guohua Intelligent produces high-precision harmonic reducers, planetary roller screws, rotary/linear joint modules, and high-performance humanoid robot bodies.
+  highlights:
+    - First private enterprise in aerospace supply chain
+    - "Harmonic rotary joint module: 10% less axial length, ±10 arcsec repeatability"
+    - "Proprietary gear profile increases torque 15%"
+    - 100+ patents, 11 national/industry standards
+zh:
+  description: |
+    国华智能装备有限公司生产高精度谐波减速器、行星滚柱丝杠、旋转/直线关节模组及高性能人形机器人本体。
+  highlights:
+    - 首家进入航天供应链的民营企业
+    - "谐波旋转关节模组轴向缩短 10%，重复精度 ±10 角秒"
+    - "自有齿形提升扭矩 15%"
+    - 100+ 项专利，11 项国家/行业标准
+verified: false
+needs_review:
+  zh: true

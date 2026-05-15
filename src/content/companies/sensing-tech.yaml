@@ -1,0 +1,43 @@
+slug: sensing-tech
+name: Sensing Tech
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Sensing Tech
+  en: Sensing Tech logo
+  zh: Sensing Tech 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - vision
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Sensing Tech предоставляет решения машинного зрения для воплощённой робототехники на NVIDIA Jetson AGX Thor, включая комплект разработчика TRD1 G2A с поддержкой до 8 GMSL-камер.
+  highlights:
+    - Поддержка 8 GMSL-камер с синхронным запуском
+    - Макс. разрешение 3840x2160, вывод RAW/YUV422
+    - NVIDIA Jetson AGX Thor с 2070 TFLOPS
+    - Официальный партнёр NVIDIA по машинному зрению для роботов
+en:
+  description: |
+    Sensing Tech provides embodied robotics vision solutions based on NVIDIA Jetson AGX Thor, with the TRD1 G2A development kit supporting up to 8 GMSL cameras.
+  highlights:
+    - Supports 8x GMSL cameras with synchronous triggering
+    - Max resolution 3840x2160, RAW/YUV422 output
+    - NVIDIA Jetson AGX Thor with 2070 TFLOPS
+    - Official NVIDIA robot vision partner
+zh:
+  description: |
+    深圳森云智能科技有限公司基于 NVIDIA Jetson AGX Thor 提供具身机器人视觉解决方案，TRD1 G2A 开发套件支持最多 8 路 GMSL 相机。
+  highlights:
+    - 支持 8 路 GMSL 相机同步触发
+    - 最大分辨率 3840x2160，RAW/YUV422 输出
+    - NVIDIA Jetson AGX Thor 2070 TFLOPS 算力
+    - NVIDIA 机器人视觉官方合作伙伴
+verified: false
+needs_review:
+  zh: true

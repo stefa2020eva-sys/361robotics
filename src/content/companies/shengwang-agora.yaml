@@ -1,0 +1,45 @@
+slug: shengwang-agora
+name: Shengwang (Agora)
+country: CN
+founded: 2014
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Shengwang (Agora)
+  en: Shengwang (Agora) logo
+  zh: Shengwang (Agora) 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - connectivity
+  - software-sdk
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Shengwang (Agora) предоставляет решения телеоперации с потоком аудио/видео в реальном времени и набор разработчика R2 conversational AI для настольных и эмоциональных роботов-компаньонов.
+  highlights:
+    - Глобальная сеть SD-RTN™ для сверхнизкой задержки телеоперации
+    - Набор R2 добавляет локальное зрение и многостепенное управление движением
+    - Поддержка локализации источника звука, отслеживания лица, распознавания жестов
+    - Голосовой ИИ с полнодуплексным диалогом и интеллектуальным прерыванием
+en:
+  description: |
+    Shengwang (Agora) provides real-time audio/video teleoperation solutions and the R2 conversational AI robot development kit for desktop and emotional companion robots.
+  highlights:
+    - Global SD-RTN™ network for ultra-low latency teleoperation
+    - R2 kit adds local vision and multi-DOF motion control
+    - Supports sound source localization, face tracking, gesture recognition
+    - Voice AI with full-duplex conversation and intelligent interruption
+zh:
+  description: |
+    声网提供实时音视频遥操作解决方案及 R2 对话式 AI 机器人开发套件，用于桌面和情感陪伴机器人。
+  highlights:
+    - 全球 SD-RTN™ 网络超低延迟遥操作
+    - R2 套件增加本地视觉和多自由度运动控制
+    - 支持声源定位、人脸跟踪、手势识别
+    - 支持全双工对话和智能打断的语音 AI
+verified: false
+needs_review:
+  zh: true

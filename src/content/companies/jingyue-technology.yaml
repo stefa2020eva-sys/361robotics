@@ -1,0 +1,44 @@
+slug: jingyue-technology
+name: Jingyue Technology
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Jingyue Technology
+  en: Jingyue Technology logo
+  zh: Jingyue Technology 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+  - controllers
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Jingyue Technology разрабатывает серию SEA — миниатюрные сильноточные DC сервоприводы с увеличением удельной мощности на 300% и уменьшением размеров на 40% по сравнению с традиционными изделиями.
+  highlights:
+    - SEA1-80A размером со спичечный коробок, непрерывная мощность 5600 Вт
+    - Точность управления нанометрового уровня
+    - Поддержка 32-битной обратной связи энкодера
+    - Военный уровень −40 °C до 85 °C, применяется в спутниках и ракетах
+en:
+  description: |
+    Jingyue Technology develops SEA series miniature high-power DC servo drives with 300% power density increase and 40% size reduction compared to traditional products.
+  highlights:
+    - SEA1-80A matchbox size, 5600W continuous power
+    - Nanometer-level precision control
+    - Supports 32-bit encoder feedback
+    - Military-grade -40°C to 85°C, used in satellites and missiles
+zh:
+  description: |
+    精越科技开发 SEA 系列微型大功率直流伺服驱动器，相比传统产品功率密度提升 300%、体积减小 40%。
+  highlights:
+    - SEA1-80A 火柴盒大小，连续功率 5600W
+    - 纳米级精密控制
+    - 支持 32 位编码器反馈
+    - 军规 −40°C 至 85°C，用于卫星和导弹
+verified: false
+needs_review:
+  zh: true

@@ -1,0 +1,44 @@
+slug: laimu-electronics
+name: Laimu Electronics
+country: CN
+founded: 2003
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Laimu Electronics
+  en: Laimu Electronics logo
+  zh: Laimu Electronics 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - connectivity
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Laimu Electronics поставляет разъёмы и кабельные сборки для робототехники, включая жгуты Mini-FAKRA с импедансом 50 Ом и частотой от DC до 15 ГГц для бинокулярного блока головы.
+  highlights:
+    - "Mini-FAKRA на 80% меньше традиционного FAKRA"
+    - Самозапирающийся механизм push-pull
+    - Усилие вставки ≤45 Н, извлечения ≥5 Н, удержание защёлки ≥110 Н
+    - RG174 с посеребрённой медной жилой, потери 0,28 дБ/м на 1 ГГц
+en:
+  description: |
+    Laimu Electronics provides connectors and cable assemblies for robotics, including Mini-FAKRA head binocular harnesses with 50Ω impedance and DC to 15 GHz frequency.
+  highlights:
+    - "Mini-FAKRA 80% smaller than traditional FAKRA"
+    - Push-pull self-locking mechanism
+    - Insertion force ≤45N, extraction force ≥5N, latch retention ≥110N
+    - RG174 with silver-plated copper core, 0.28 dB/m loss at 1 GHz
+zh:
+  description: |
+    上海徕木电子股份有限公司为机器人提供连接器和线缆组件，包括 50Ω 阻抗、DC 至 15GHz 频段的 Mini-FAKRA 头部双目线束。
+  highlights:
+    - "Mini-FAKRA 比传统 FAKRA 小 80%"
+    - 推拉自锁机构
+    - 插入力 ≤45N，拔出力 ≥5N，锁扣保持力 ≥110N
+    - RG174 镀银铜芯，1GHz 损耗 0.28dB/m
+verified: false
+needs_review:
+  zh: true

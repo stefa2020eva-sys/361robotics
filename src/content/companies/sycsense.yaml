@@ -1,0 +1,43 @@
+slug: sycsense
+name: Sycsense
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Sycsense
+  en: Sycsense logo
+  zh: Sycsense 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Sycsense производит гибкие тактильные сенсоры и электронную кожу для роботов с пределом обнаружения давления 1 Па, миллисекундным откликом и мультимодальной чувствительностью (давление, температура, скольжение).
+  highlights:
+    - Ультратонкая гибкая подложка (сотни микрон)
+    - Обнаружение давления 1 Па, отклик миллисекунды
+    - Массивная интеграция для точечно-плоскостного сенсирования
+    - "Работает от −40 °C до 85 °C, выход годных >95%"
+en:
+  description: |
+    Sycsense produces flexible tactile sensors and robot electronic skins with pressure detection limit as low as 1Pa, millisecond response, and multi-modal sensing (pressure, temperature, slip).
+  highlights:
+    - Ultra-thin flexible substrate (hundreds of microns)
+    - Pressure detection 1Pa, response time ms
+    - Array integration for point-to-surface sensing
+    - "Operates -40°C to 85°C, yield >95%"
+zh:
+  description: |
+    赛威科技（深圳）有限公司生产柔性触觉传感器和机器人电子皮肤，压力检测下限低至 1Pa，毫秒级响应，多模态感知（压力、温度、滑动）。
+  highlights:
+    - 超薄柔性基底（数百微米）
+    - 压力检测 1Pa，响应时间毫秒
+    - 阵列集成实现点对面感知
+    - "工作温度 −40°C 至 85°C，良率 >95%"
+verified: false
+needs_review:
+  zh: true

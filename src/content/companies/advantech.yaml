@@ -1,0 +1,44 @@
+slug: advantech
+name: Advantech
+country: TW
+founded: 1983
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Advantech
+  en: Advantech logo
+  zh: Advantech 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - controllers
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Advantech поставляет платформы периферийных ИИ-вычислений для робототехники, включая AFE-A702 (NVIDIA Jetson Thor), ASR-A502 (Intel Core Ultra) и SOM-6884 (Intel Raptor Lake-P) встраиваемые контроллеры.
+  highlights:
+    - "AFE-A702: оптимизирован для мультисенсорного слияния и навигации в реальном времени"
+    - "ASR-A502: плата 3,5″ с Intel Core Ultra 28 Вт"
+    - "SOM-6884: COM Express Type 6 core board"
+    - Глобальное присутствие в 27 странах, 9494 сотрудника
+en:
+  description: |
+    Advantech provides edge AI computing platforms for robotics including the AFE-A702 (NVIDIA Jetson Thor), ASR-A502 (Intel Core Ultra), and SOM-6884 (Intel Raptor Lake-P) embedded controllers.
+  highlights:
+    - "AFE-A702: optimized for multi-sensor fusion and real-time navigation"
+    - "ASR-A502: 3.5″ board with 28W Intel Core Ultra"
+    - "SOM-6884: COM Express Type 6 core board"
+    - Global presence in 27 countries, 9,494 employees
+zh:
+  description: |
+    研华为机器人提供边缘 AI 计算平台，包括 AFE-A702（NVIDIA Jetson Thor）、ASR-A502（Intel Core Ultra）和 SOM-6884（Intel Raptor Lake-P）嵌入式控制器。
+  highlights:
+    - AFE-A702：优化多传感器融合和实时导航
+    - ASR-A502：3.5″ 板搭载 28W Intel Core Ultra
+    - SOM-6884：COM Express Type 6 核心板
+    - 全球 27 个国家，9,494 名员工
+verified: false
+needs_review:
+  zh: true

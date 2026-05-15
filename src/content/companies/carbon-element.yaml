@@ -1,0 +1,44 @@
+slug: carbon-element
+name: Carbon Element
+country: CN
+founded: 2019
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Carbon Element
+  en: Carbon Element logo
+  zh: Carbon Element 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Carbon Element выпускает углепластиковые композиты PA66 (20–40% CF) для облегчённых конструкций роботов: на 30% легче алюминия, высокая жёсткость (модуль изгиба 12–20 ГПа), устойчивость к усталости до 10^7 циклов.
+  highlights:
+    - "Плотность 1,3–1,4 г/см³, на 30% легче алюминия"
+    - Прочность на разрыв 150–220 МПа, термостойкость 240–255 °C
+    - Поверхностное сопротивление 10^3–10^5 Ом/кв для ESD
+    - Отличное демпфирование вибраций и стойкость к ползучести
+en:
+  description: |
+    Carbon Element produces carbon fiber reinforced PA66 composites (20-40% CF) for lightweight robot structures, offering 30% weight reduction vs. aluminum, high stiffness (12-20 GPa flexural modulus), and fatigue resistance up to 10^7 cycles.
+  highlights:
+    - "Density 1.3-1.4 g/cm³, 30% lighter than aluminum"
+    - Tensile strength 150-220 MPa, heat deflection 240-255°C
+    - Surface resistivity 10^3-10^5 Ω/sq for ESD
+    - Excellent vibration damping and creep resistance
+zh:
+  description: |
+    碳元素（厦门）新材料有限公司生产碳纤维增强 PA66 复合材料（20-40% CF），用于轻量化机器人结构，比铝减重 30%，高刚性（弯曲模量 12-20 GPa），抗疲劳达 10^7 次循环。
+  highlights:
+    - "密度 1.3-1.4 g/cm³，比铝轻 30%"
+    - 抗拉强度 150-220 MPa，热变形温度 240-255°C
+    - 表面电阻率 10^3-10^5 Ω/sq，具备 ESD
+    - 出色的减振和抗蠕变性
+verified: false
+needs_review:
+  zh: true

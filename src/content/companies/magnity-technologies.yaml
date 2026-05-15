@@ -1,0 +1,44 @@
+slug: magnity-technologies
+name: Magnity Technologies
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Magnity Technologies
+  en: Magnity Technologies logo
+  zh: Magnity Technologies 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - vision
+  - sensors
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Magnity Technologies разрабатывает инфракрасные тепловизионные камеры (MAG62) и ближнеинфракрасные спектрометры (SG1700) для мониторинга состояния, управления процессами и анализа компонентов.
+  highlights:
+    - "MAG62: неохлаждаемый детектор 640x512, температурные данные 50 Гц по Ethernet"
+    - Совместимость с NVR Hikvision и Dahua
+    - "SG1700: 900–1700 нм, разрешение 6 нм, SNR 10 000:1"
+    - Низкое энергопотребление, без TEC/нагревателя
+en:
+  description: |
+    Magnity Technologies develops infrared thermal imaging cameras (MAG62) and near-infrared spectrometers (SG1700) for condition monitoring, process control, and component analysis.
+  highlights:
+    - "MAG62: 640x512 uncooled detector, 50Hz temperature data over Ethernet"
+    - Compatible with Hikvision, Dahua NVRs
+    - "SG1700: 900-1700nm, 6nm resolution, 10,000:1 SNR"
+    - Low power, no TEC/Heater operation
+zh:
+  description: |
+    上海巨哥科技股份有限公司开发红外热成像相机（MAG62）和近红外光谱仪（SG1700），用于状态监测、过程控制和成分分析。
+  highlights:
+    - MAG62：640x512 非制冷探测器，以太网传输 50Hz 温度数据
+    - 兼容海康、大华 NVR
+    - "SG1700：900-1700nm，6nm 分辨率，10,000:1 信噪比"
+    - 低功耗，无 TEC/加热器
+verified: false
+needs_review:
+  zh: true

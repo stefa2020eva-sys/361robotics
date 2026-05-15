@@ -1,0 +1,43 @@
+slug: right-measurement-control
+name: "Right Measurement & Control"
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: "Логотип Right Measurement & Control"
+  en: "Right Measurement & Control logo"
+  zh: "Right Measurement & Control 标志"
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Right Measurement & Control производит шестиосевые датчики силы, динамические/статические датчики момента и многоосевые датчики силы для рабочих органов роботов, управления шарнирами и прецизионной сборки.
+  highlights:
+    - Наследие немецких технологий силовых измерений
+    - Шестиосевой датчик силы для точного управления роботизированной рукой
+    - Датчик момента для детектирования и замкнутого контура управления шарниром
+    - Многоосевой датчик силы для взаимодействия человека и робота
+en:
+  description: |
+    Right Measurement & Control produces six-axis force sensors, dynamic/static torque sensors, and multi-axis force sensors for robot end-effectors, joint control, and precision assembly.
+  highlights:
+    - German force measurement technology inheritance
+    - Six-axis force sensor for robotic arm precision
+    - Torque sensor for joint detection and closed-loop control
+    - Multi-axis force sensor for human-robot interaction
+zh:
+  description: |
+    常州瑞尔特测控系统有限公司生产六轴力传感器、动态/静态扭矩传感器和多轴力传感器，用于机器人末端执行器、关节控制和精密装配。
+  highlights:
+    - 传承德国力测量技术
+    - 用于机械臂精密控制的六轴力传感器
+    - 用于关节检测与闭环控制的扭矩传感器
+    - 用于人机交互的多轴力传感器
+verified: false
+needs_review:
+  zh: true

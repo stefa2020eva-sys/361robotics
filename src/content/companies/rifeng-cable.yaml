@@ -1,0 +1,44 @@
+slug: rifeng-cable
+name: Rifeng Cable
+country: CN
+founded: 2009
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Rifeng Cable
+  en: Rifeng Cable logo
+  zh: Rifeng Cable 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - connectivity
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Rifeng Cable производит гибкие кабели для роботов (TRVVP), выдерживающие 30 миллионов циклов изгиба, разработанные для непрерывной высокоскоростной работы в шарнирах роботов.
+  highlights:
+    - 30 миллионов циклов изгиба
+    - Фокус на гибкости и долговечности для непрерывной работы
+    - Национальное высокотехнологичное предприятие, топ-100 китайской кабельной отрасли
+    - Обслуживает робототехнику, бытовую технику, новую энергетику
+en:
+  description: |
+    Rifeng Cable produces robot flexible cables (TRVVP) capable of 30 million bending cycles, designed for continuous high-speed operation in robot joints.
+  highlights:
+    - 30 million bending cycles
+    - Focus on flexibility and durability for continuous operation
+    - National high-tech enterprise, top 100 Chinese cable industry
+    - Serves robotics, home appliances, new energy
+zh:
+  description: |
+    广东日丰电缆股份有限公司生产机器人柔性电缆（TRVVP），可承受 3000 万次弯曲循环，专为机器人关节的持续高速运行设计。
+  highlights:
+    - 3000 万次弯曲循环
+    - 注重持续运行的柔性和耐久性
+    - 国家级高新技术企业，中国电缆行业百强
+    - 服务机器人、家电、新能源
+verified: false
+needs_review:
+  zh: true

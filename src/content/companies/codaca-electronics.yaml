@@ -1,0 +1,44 @@
+slug: codaca-electronics
+name: Codaca Electronics
+country: CN
+founded: 2001
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Codaca Electronics
+  en: Codaca Electronics logo
+  zh: Codaca Electronics 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - drives-power
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Codaca Electronics — глобальный поставщик магнитных компонентов, специализирующийся на сильноточных силовых индуктивностях, формованных силовых дросселях и синфазных дросселях для промышленных, автомобильных и ИИ-приложений.
+  highlights:
+    - Лаборатория с аккредитацией CNAS
+    - Серия CPEX с малыми потерями на металлическом магнитопорошковом сердечнике
+    - Серия CSBA — компактные, совместимые с GaN индуктивности
+    - Серия CSAB — формованные силовые дроссели с магнитным экраном
+en:
+  description: |
+    Codaca Electronics is a global supplier of magnetic components, specializing in high-current power inductors, molded power chokes, and common mode chokes for industrial, automotive, and AI applications.
+  highlights:
+    - CNAS-accredited lab
+    - CPEX series low-loss metal magnetic powder core
+    - CSBA series compact, GaN-compatible inductors
+    - CSAB series molded power chokes with magnetic shielding
+zh:
+  description: |
+    深圳市科达嘉电子有限公司是磁性元件全球供应商，专注于大电流功率电感、一体成型功率电感和共模电感，应用于工业、汽车和 AI 领域。
+  highlights:
+    - CNAS 认可实验室
+    - CPEX 系列低损耗金属磁粉芯
+    - CSBA 系列紧凑型 GaN 兼容电感
+    - CSAB 系列一体成型功率电感带磁屏蔽
+verified: false
+needs_review:
+  zh: true

@@ -1,0 +1,44 @@
+slug: autolife-robotics
+name: AutoLife Robotics
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип AutoLife Robotics
+  en: AutoLife Robotics logo
+  zh: AutoLife Robotics 标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - actuators
+robot_products:
+  - name: AutoLife S2
+    short: High-performance humanoid service robot
+key_clients: []
+ru:
+  description: |
+    AutoLife Robotics разрабатывает гуманоидного сервисного робота S2 с 27 степенями свободы, нагрузкой руки 3–5 кг, вычислительной мощностью 686 AI TOPS и 10 часами автономной работы.
+  highlights:
+    - 22-ядерный процессор 5,1 ГГц, 686 AI TOPS
+    - Биомиметическая шея с 3 DOF, полая структура ног
+    - "Распознавание жестов и пространственное восприятие, точность 99%"
+    - Подходит для ритейла, гостиничного бизнеса, инспекции
+en:
+  description: |
+    AutoLife Robotics develops the S2 humanoid service robot with 27 DOF, 3-5 kg arm payload, 686 AI TOPS computing power, and 10-hour battery life.
+  highlights:
+    - 5.1 GHz 22-core processor, 686 AI TOPS
+    - 3-DOF biomimetic neck, hollow leg structure
+    - "Gesture recognition and spatial perception, 99% precision"
+    - Suitable for retail, hospitality, inspection
+zh:
+  description: |
+    智动未来开发 S2 人形服务机器人，27 自由度，单臂负载 3-5 kg，686 AI TOPS 算力，续航 10 小时。
+  highlights:
+    - 5.1 GHz 22 核处理器，686 AI TOPS
+    - 3 自由度仿生颈部，空心腿部结构
+    - "手势识别和空间感知精度 99%"
+    - 适用于零售、酒店、巡检
+verified: false
+needs_review:
+  zh: true

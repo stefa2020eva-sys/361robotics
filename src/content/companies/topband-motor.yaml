@@ -1,0 +1,44 @@
+slug: topband-motor
+name: Topband Motor
+country: CN
+founded: 2007
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Topband Motor
+  en: Topband Motor logo
+  zh: Topband Motor 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Topband Motor производит микролинейные приводы для роботизированных кистей (номинальная тяга 150 Н) и бескорпусные DC-двигатели от 6 мм до 16 мм (до 60 000 об/мин, <3 г).
+  highlights:
+    - "Бескорпусной двигатель 6–8 мм: 60 000 об/мин, <3 г, миллисекундный пуск-стоп"
+    - "Бескорпусной 8–16 мм: высокая удельная мощность, компактность"
+    - "Микролинейный привод: модульный с энкодером и редуктором, люфт <2°"
+    - Более 1500 моделей продукции
+en:
+  description: |
+    Topband Motor produces micro linear actuators for dexterous hands (rated thrust 150N) and coreless DC motors from 6mm to 16mm (up to 60,000 rpm, <3g weight).
+  highlights:
+    - "6-8mm coreless motor: 60,000 rpm, <3g, millisecond start-stop"
+    - "8-16mm coreless: high power density, compact"
+    - "Micro linear actuator: modular with encoder and gearbox, backlash <2°"
+    - Over 1500 product models
+zh:
+  description: |
+    深圳拓邦电机有限公司生产灵巧手用微型直线执行器（额定推力 150N）和 6mm 至 16mm 空心杯直流电机（最高 60,000 rpm、重量 <3g）。
+  highlights:
+    - 6-8mm 空心杯电机：60,000 rpm，<3g，毫秒级启停
+    - 8-16mm 空心杯：高功率密度、紧凑
+    - 微型直线执行器：模块化，集成编码器和齿轮箱，背隙 <2°
+    - 1500+ 种产品型号
+verified: false
+needs_review:
+  zh: true

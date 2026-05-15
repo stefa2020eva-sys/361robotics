@@ -1,0 +1,45 @@
+slug: hengke-xin
+name: Hengke Xin
+country: CN
+founded: 2018
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Hengke Xin
+  en: Hengke Xin logo
+  zh: Hengke Xin 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Hengke Xin производит высокоточные миниатюрные шарико-винтовые передачи, планетарные роликовинтовые передачи, ходовые винты двигателей и приводы для гуманоидных роботов, FA-оборудования, новой энергетики и полупроводников.
+  highlights:
+    - Японский дизайн и процесс термической обработки
+    - Диаметр 3–25 мм, шаг 0,5–40 мм
+    - 20+ патентов (Япония, Корея, Тайвань)
+    - Месячная производственная мощность 30 000 единиц
+en:
+  description: |
+    Hengke Xin produces high-precision miniature ball screws, planetary roller screws, motor screws, and actuators for humanoid robots, FA equipment, new energy, and semiconductors.
+  highlights:
+    - Japanese design and heat treatment process
+    - Diameter 3-25 mm, lead 0.5-40 mm
+    - 20+ patents (Japan, Korea, Taiwan)
+    - Monthly capacity 30,000 units
+zh:
+  description: |
+    恒科鑫（深圳）智能科技有限公司生产高精度微型滚珠丝杠、行星滚柱丝杠、电机丝杠和执行器，应用于人形机器人、FA 设备、新能源和半导体。
+  highlights:
+    - 日本设计和热处理工艺
+    - 直径 3–25 mm，导程 0.5–40 mm
+    - 20+ 项专利（日本、韩国、台湾）
+    - 月产能 3 万件
+verified: false
+needs_review:
+  zh: true

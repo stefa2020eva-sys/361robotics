@@ -1,0 +1,45 @@
+slug: rui-intelligent-control
+name: RUI Intelligent Control
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип RUI Intelligent Control
+  en: RUI Intelligent Control logo
+  zh: RUI Intelligent Control 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - end-effectors
+  - actuators
+  - controllers
+produces_components:
+  - gripper
+key_clients: []
+ru:
+  description: |
+    RUI Intelligent Control производит роботизированные кисти (RY-H1 с 16 DOF, RY-H2 с 6 DOF, RY-H5 с 6 DOF) для гуманоидных роботов, а также шарнирные модули, энкодеры и серводрайверы.
+  highlights:
+    - "RY-H1: 16 высокоскоростных бескорпусных двигателей, гибрид силы-позиции, без тактильных сенсоров"
+    - "RY-H2: 6 двигателей, быстрый отклик для высокоскоростных задач"
+    - "RY-H5: ШВП + рычаг, микронная точность, миллисекундное силовое управление"
+    - Поддержка CAN/CANFD/RS485/EtherCAT
+en:
+  description: |
+    RUI Intelligent Control produces dexterous hands (RY-H1 with 16 DOF, RY-H2 with 6 DOF, RY-H5 with 6 DOF) for humanoid robots, plus joint modules, encoders, and servo drives.
+  highlights:
+    - "RY-H1: 16 high-speed coreless motors, force-position hybrid control, no tactile sensors needed"
+    - "RY-H2: 6 motors, fast response for high-speed tasks"
+    - "RY-H5: ball screw + linkage, micron precision, ms force control"
+    - Supports CAN/CANFD/RS485/EtherCAT
+zh:
+  description: |
+    深圳市睿研智能控制有限公司生产人形机器人灵巧手（RY-H1 16 自由度、RY-H2 6 自由度、RY-H5 6 自由度），以及关节模组、编码器和伺服驱动器。
+  highlights:
+    - RY-H1：16 路高速空心杯电机，力位混控，无需触觉传感器
+    - RY-H2：6 路电机，高速任务快速响应
+    - RY-H5：滚珠丝杠 + 连杆，微米精度，毫秒级力控
+    - 支持 CAN/CANFD/RS485/EtherCAT
+verified: false
+needs_review:
+  zh: true

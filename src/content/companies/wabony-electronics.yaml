@@ -1,0 +1,43 @@
+slug: wabony-electronics
+name: Wabony Electronics
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Wabony Electronics
+  en: Wabony Electronics logo
+  zh: Wabony Electronics 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - mechanical
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Wabony Electronics — поставщик услуг интеллектуального производства высокого класса для глобальных роботизированных брендов, предлагающий комплексные решения сборки и производства в составе YUTO Group.
+  highlights:
+    - Входит в YUTO Group (002831)
+    - Производит робота-доставщика Pudu Qiaolesong
+    - Роботизированная газонокосилка TRON на чистом машинном зрении
+    - Гуманоидный робот-компаньон Robogo
+en:
+  description: |
+    Wabony Electronics is a high-end intelligent manufacturing service provider for global robot brands, offering one-stop assembly and production solutions under YUTO Group.
+  highlights:
+    - Part of YUTO Group (002831)
+    - Manufactures Pudu Qiaolesong delivery robot
+    - TRON robotic lawn mower with pure vision
+    - Robogo humanoid companion robot
+zh:
+  description: |
+    深圳华宝利电子有限公司是面向全球机器人品牌的高端智能制造服务商，隶属于 YUTO 集团，提供一站式装配与生产解决方案。
+  highlights:
+    - YUTO 集团成员（002831）
+    - 代工生产普渡乔乐送配送机器人
+    - TRON 纯视觉智能割草机
+    - Robogo 人形陪伴机器人
+verified: false
+needs_review:
+  zh: true

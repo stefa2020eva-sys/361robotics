@@ -1,0 +1,45 @@
+slug: niic-technology
+name: NIIC Technology
+country: CN
+founded: 2017
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип NIIC Technology
+  en: NIIC Technology logo
+  zh: NIIC Technology 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - controllers
+  - software-sdk
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    NIIC Technology предоставляет полнокомпонентные платформы управления для воплощённого ИИ, реализуя замкнутый цикл восприятие-решение-исполнение на одном SoC с собственной ОС реального времени и EtherCAT Master.
+  highlights:
+    - Единственный китайский поставщик сквозного управления на одном SoC
+    - ОС реального времени NECRO и NIIC EtherCAT Master 2.0
+    - Поддержка VLA/VLM-моделей до 13B параметров на устройстве
+    - Платформы NSXIC-R008XP, NSPIC-R007NP+, NSPIC-R006NP+
+en:
+  description: |
+    NIIC Technology provides full-stack control platforms for embodied AI, achieving perception-decision-execution closed loop on a single SoC with proprietary real-time OS and EtherCAT Master.
+  highlights:
+    - Only Chinese supplier of single-SoC end-to-end control
+    - NECRO real-time OS and NIIC EtherCAT Master 2.0
+    - Supports on-device VLA/VLM models up to 13B parameters
+    - NSXIC-R008XP, NSPIC-R007NP+, NSPIC-R006NP+ platforms
+zh:
+  description: |
+    国讯芯微（苏州）科技有限公司为具身智能提供全栈控制平台，在单一 SoC 上实现感知-决策-执行闭环，配备自研实时 OS 和 EtherCAT Master。
+  highlights:
+    - 中国唯一单 SoC 端到端控制供应商
+    - NECRO 实时 OS 和 NIIC EtherCAT Master 2.0
+    - 支持端侧 13B 参数的 VLA/VLM 模型
+    - NSXIC-R008XP、NSPIC-R007NP+、NSPIC-R006NP+ 平台
+verified: false
+needs_review:
+  zh: true

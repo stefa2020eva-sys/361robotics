@@ -1,0 +1,54 @@
+slug: hichuan-humanoid-robot
+name: Hichuan Humanoid Robot
+country: CN
+founded: 2024
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Hichuan Humanoid Robot
+  en: Hichuan Humanoid Robot logo
+  zh: Hichuan Humanoid Robot 标志
+type:
+  - robot_brand
+  - component_maker
+featured: false
+categories:
+  - actuators
+  - drives-power
+  - end-effectors
+produces_components:
+  - servo-motor
+robot_products:
+  - name: MDB Series
+    short: Frameless torque motors for all humanoid joints
+  - name: MLS Series
+    short: Linear joint actuators with high precision
+  - name: MRS Series
+    short: Rotary joint actuators with hollow inductive encoder
+key_clients: []
+ru:
+  description: |
+    Hichuan Humanoid Robot разрабатывает интегрированные электроприводные шарниры, планетарные роликовинтовые передачи, безрамные моментные двигатели, бескорпусные двигатели, полые энкодеры, узлы роботизированных кистей и полноценных гуманоидных роботов.
+  highlights:
+    - Серия MDB — безрамные моментные двигатели (Φ14–160 мм, 0,012–12 Н·м)
+    - Серия MLS — линейные приводы с планетарными роликовинтовыми передачами
+    - Серия MRS — поворотные шарниры с волновыми редукторами
+    - Полная разработка верхнего ряда компонентов для гуманоидов
+en:
+  description: |
+    Hichuan Humanoid Robot develops integrated electric drive joints, planetary roller screws, frameless torque motors, coreless motors, hollow encoders, dexterous hand assemblies, and full humanoid robots.
+  highlights:
+    - MDB series frameless torque motors (Φ14-160mm, 0.012-12 N·m)
+    - MLS series linear actuators with planetary roller screws
+    - MRS series rotary joints with harmonic reducers
+    - "Full-stack R&D for humanoid upstream components"
+zh:
+  description: |
+    浙江禾川人形机器人有限公司开发集成电驱关节、行星滚柱丝杠、无框力矩电机、空心杯电机、空心编码器、灵巧手组件和整机人形机器人。
+  highlights:
+    - MDB 系列无框力矩电机（Φ14–160mm，0.012–12 N·m）
+    - MLS 系列搭载行星滚柱丝杠的直线执行器
+    - MRS 系列搭载谐波减速器的旋转关节
+    - 全栈研发人形机器人上游部件
+verified: false
+needs_review:
+  zh: true

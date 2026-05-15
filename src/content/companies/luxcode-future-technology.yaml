@@ -1,0 +1,43 @@
+slug: luxcode-future-technology
+name: Luxcode Future Technology
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Luxcode Future Technology
+  en: Luxcode Future Technology logo
+  zh: Luxcode Future Technology 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Luxcode Future Technology разрабатывает прецизионные оптические абсолютные миниатюрные энкодеры на основе инновационных оптических алгоритмов вместо традиционной фотолитографии, с дисками из нержавеющей стали для снижения стоимости и устойчивости к агрессивной среде.
+  highlights:
+    - Первый в Китае прорыв в технологии оптического кодирования
+    - Диск из нержавеющей стали — устойчив к пыли, грязи и электромагнитным помехам
+    - Компактный размер 8–26 мм с настраиваемым полым валом
+    - 17-битный абсолютный выход, нулевая магнитная интерференция для медицины
+en:
+  description: |
+    Luxcode Future Technology develops precision optical absolute miniature encoders using innovative optical algorithms instead of traditional photolithography, featuring stainless steel code discs for cost reduction and harsh environment resistance.
+  highlights:
+    - China's first breakthrough optical encoding technology
+    - Stainless steel code disc resistant to dust, dirt, EMI
+    - Compact 8-26 mm size with customizable hollow shaft
+    - 17-bit absolute output, zero magnetic interference for medical applications
+zh:
+  description: |
+    苏州光码未来智能科技有限公司开发精密光学绝对值微型编码器，采用创新光学算法替代传统光刻技术，采用不锈钢码盘以降低成本并适应恶劣环境。
+  highlights:
+    - 中国首个光学编码技术突破
+    - 不锈钢码盘耐尘、防污、抗电磁干扰
+    - 紧凑尺寸 8–26 毫米，支持定制空心轴
+    - 17 位绝对输出，零磁干扰适用于医疗
+verified: false
+needs_review:
+  zh: true

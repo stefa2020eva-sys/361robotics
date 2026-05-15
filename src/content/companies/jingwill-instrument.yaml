@@ -1,0 +1,45 @@
+slug: jingwill-instrument
+name: Jingwill Instrument
+country: CN
+founded: 2022
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Jingwill Instrument
+  en: Jingwill Instrument logo
+  zh: Jingwill Instrument 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - vision
+  - sensors
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Jingwill Instrument выпускает 3D-сенсоры спектрального конфокального линейного сканирования серии LSCF для субмикронной инспекции многослойных, прозрачных, изогнутых и сильноотражающих поверхностей.
+  highlights:
+    - 2048 точек данных на профиль, до 9600 линий/с
+    - Повторяемость по Z 50 нм
+    - Подходит для LCD/OLED, μLED, miniLED, 3C, полупроводников, аккумуляторов
+    - Создан с Фуданьским университетом и Хуачжунским университетом науки и техники
+en:
+  description: |
+    Jingwill Instrument produces LSCF series 3D line scanning spectral confocal sensors for sub-micron precision inspection of multilayer, transparent, curved, and highly reflective surfaces.
+  highlights:
+    - 2048 data points per profile, 9600 lines/sec max
+    - 50 nm Z-axis repeatability
+    - Adapts to LCD/OLED, μLED, miniLED, 3C electronics, semiconductor, lithium battery
+    - Built with Fudan University and Huazhong University of Science
+zh:
+  description: |
+    武汉精一微仪器有限公司生产 LSCF 系列 3D 线扫描光谱共聚焦传感器，对多层、透明、曲面和高反射表面进行亚微米精度检测。
+  highlights:
+    - 每条轮廓 2048 个数据点，最高 9600 行/秒
+    - Z 轴重复精度 50nm
+    - 适用于 LCD/OLED、μLED、miniLED、3C 电子、半导体、锂电池
+    - 与复旦大学和华中科技大学联合研发
+verified: false
+needs_review:
+  zh: true

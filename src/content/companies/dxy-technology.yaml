@@ -1,0 +1,45 @@
+slug: dxy-technology
+name: DXY Technology
+country: CN
+founded: 2009
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип DXY Technology
+  en: DXY Technology logo
+  zh: DXY Technology 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - connectivity
+  - software-sdk
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    DXY Technology предоставляет комплексные решения для роботов, включая основные чипы (SoC, память, MCU, сенсоры, питание, связь), модули ИИ, eSIM-карты и алгоритмы голосового ИИ.
+  highlights:
+    - Партнёры — Hisilicon, Smartsens, Quectel, GD, Knowles, Syntiant
+    - "Промышленная eSIM EIOTCLUB: −40 °C до 105 °C, ресурс 10 лет"
+    - Третье поколение eSIM сертифицировано GSMA SAS-UP
+    - "Алгоритм голосового ИИ: 360° захват, шумоподавление, эхоподавление"
+en:
+  description: |
+    DXY Technology provides one-stop robot solutions including core chips (SOCs, storage, MCU, sensors, power, communication), AI hardware modules, eSIM cards, and voice AI algorithms.
+  highlights:
+    - Partners with Hisilicon, Smartsens, Quectel, GD, Knowles, Syntiant
+    - EIOTCLUB industrial eSIM with -40°C to 105°C, 10-year life
+    - Third-gen eSIM certified by GSMA SAS-UP
+    - Voice AI algorithm for 360° pickup, noise reduction, echo cancellation
+zh:
+  description: |
+    深圳市鼎芯无限科技有限公司提供机器人一站式解决方案，包括核心芯片（SOC、存储、MCU、传感器、电源、通信）、AI 硬件模组、eSIM 卡和语音 AI 算法。
+  highlights:
+    - 合作伙伴：海思、思特威、移远、国微、Knowles、Syntiant
+    - EIOTCLUB 工业 eSIM −40°C 至 105°C，10 年寿命
+    - 第三代 eSIM 通过 GSMA SAS-UP 认证
+    - 语音 AI 算法支持 360° 拾音、降噪、回声消除
+verified: false
+needs_review:
+  zh: true

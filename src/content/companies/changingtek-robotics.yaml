@@ -1,0 +1,55 @@
+slug: changingtek-robotics
+name: Changingtek Robotics
+country: CN
+founded: 2018
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Changingtek Robotics
+  en: Changingtek Robotics logo
+  zh: Changingtek Robotics 标志
+type:
+  - robot_brand
+  - component_maker
+featured: false
+categories:
+  - end-effectors
+  - actuators
+produces_components:
+  - gripper
+robot_products:
+  - name: Sailor R1 Pro
+    short: Wheeled humanoid robot for industrial and service tasks
+  - name: Industrial Gripper
+    short: Parallel gripper for heavy duty
+  - name: Collaborative Gripper
+    short: For safe human-robot interaction
+  - name: Dexterous Hand
+    short: Bionic multi-fingered hand
+key_clients: []
+ru:
+  description: |
+    Changingtek Robotics производит роботизированные кисти (промышленные, коллаборативные, бионические, тяжёлогружёные) и колёсного гуманоидного робота Sailor R1 Pro с двумя манипуляторами.
+  highlights:
+    - "Sailor R1 Pro: нагрузка 30 кг, субмиллиметровая точность"
+    - 20+ высокоточных шарниров, скорость 1,5 м/с
+    - Мультимодальное восприятие и голосовое взаимодействие
+    - 150+ прав интеллектуальной собственности, 60+ наград
+en:
+  description: |
+    Changingtek Robotics produces dexterous hands (industrial, collaborative, bionic, heavy-duty) and the Sailor R1 Pro wheeled humanoid robot with dual arms.
+  highlights:
+    - "Sailor R1 Pro: 30 kg payload, sub-mm precision"
+    - 20+ high-precision joints, 1.5 m/s speed
+    - Multi-modal perception and voice interaction
+    - 150+ IP rights, 60+ awards
+zh:
+  description: |
+    知行机器人科技（苏州）有限公司生产灵巧手（工业、协作、仿生、重载）和 Sailor R1 Pro 轮式人形机器人（双臂）。
+  highlights:
+    - Sailor R1 Pro：30 kg 负载，亚毫米精度
+    - 20+ 高精度关节，1.5 m/s 速度
+    - 多模态感知和语音交互
+    - 150+ 项知识产权，60+ 项奖项
+verified: false
+needs_review:
+  zh: true

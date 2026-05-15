@@ -1,0 +1,43 @@
+slug: hysense-ai
+name: Hysense.ai
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Hysense.ai
+  en: Hysense.ai logo
+  zh: Hysense.ai 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Hysense.ai разрабатывает тактильные сенсоры кончиков пальцев с точностью 99,8% и стабильностью 99% с использованием низкодрейфовых давления-чернильных и мультифизических технологий слияния.
+  highlights:
+    - "Погрешность силы <0,2%, разрешение 0,01 Н"
+    - Матрица 10×16 точек (кастомизируется)
+    - Цифровой выход SPI/CAN FD
+    - Половина стоимости аналогов
+en:
+  description: |
+    Hysense.ai develops fingertip tactile sensors with 99.8% accuracy and 99% consistency, using low-drift pressure ink and multi-physics fusion technology.
+  highlights:
+    - "Force accuracy error <0.2%, resolution 0.01N"
+    - 10×16 dot matrix (customizable)
+    - Digital output SPI/CAN FD
+    - Half the cost of comparable products
+zh:
+  description: |
+    超维传感开发指尖触觉传感器，精度 99.8%、一致性 99%，采用低漂移压力油墨和多物理融合技术。
+  highlights:
+    - "力精度误差 <0.2%，分辨率 0.01N"
+    - 10×16 点阵（可定制）
+    - 数字输出 SPI/CAN FD
+    - 成本仅为同类产品一半
+verified: false
+needs_review:
+  zh: true

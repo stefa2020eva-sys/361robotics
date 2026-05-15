@@ -1,0 +1,45 @@
+slug: shengtaqi-technology
+name: Shengtaqi Technology
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Shengtaqi Technology
+  en: Shengtaqi Technology logo
+  zh: Shengtaqi Technology 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+  - controllers
+  - drives-power
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Shengtaqi Technology поставляет прецизионные компоненты движения, включая линейные двигатели, серводвигатели, моментные двигатели, голосовые катушки, энкодеры, драйверы и шарнирные модули высокой удельной мощности для воплощённых роботов.
+  highlights:
+    - Национальное предприятие категории «маленький гигант»
+    - Гуандунский провинциальный инженерный исследовательский центр
+    - Интегрированные шарнирные модули с безрамными моментными двигателями
+    - Высокая удельная мощность, точность и динамика отклика
+en:
+  description: |
+    Shengtaqi Technology provides precision motion components including linear motors, servo motors, torque motors, voice coil motors, encoders, drivers, and high power density joint modules for embodied robots.
+  highlights:
+    - National "Little Giant" enterprise
+    - Guangdong provincial engineering research center
+    - Integrated joint modules with frameless torque motors
+    - High power density, precision, and dynamic response
+zh:
+  description: |
+    深圳市盛泰奇科技有限公司提供精密运动部件，包括直线电机、伺服电机、力矩电机、音圈电机、编码器、驱动器和高功率密度关节模组，应用于具身机器人。
+  highlights:
+    - 国家级「小巨人」企业
+    - 广东省工程研究中心
+    - 集成无框力矩电机的关节模组
+    - 高功率密度、高精度、高动态响应
+verified: false
+needs_review:
+  zh: true

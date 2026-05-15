@@ -1,0 +1,44 @@
+slug: yeepixel
+name: Yeepixel
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Yeepixel
+  en: Yeepixel logo
+  zh: Yeepixel 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - controllers
+  - vision
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Yeepixel предлагает решения на FPGA и SoC, включая модули, носители и IP-ядра для агрегирования мультисенсорных данных, предобработки и управления движением роботов.
+  highlights:
+    - Altera Agilex-5E SoC FPGA (656K LES, четырёхъядерный ARM A76)
+    - YPA5E0 — полностью конвергентный программируемый контроллер
+    - "AIC-M76H06 — контроллер шарнирного модуля (100% локальных компонентов)"
+    - Партнёр Intel и Altera
+en:
+  description: |
+    Yeepixel provides FPGA and SoC solutions, including core boards, carrier boards, and IP cores for robot multi-sensor aggregation, data preprocessing, and motion control.
+  highlights:
+    - Altera Agilex-5E SoC FPGA (656K LES, quad-core ARM A76)
+    - YPA5E0 fully converged programmable controller
+    - "AIC-M76H06 joint module controller (100% domestic components)"
+    - Intel and Altera partner
+zh:
+  description: |
+    深圳市辰祥科技有限公司提供 FPGA 与 SoC 解决方案，包括核心板、底板和 IP 核，用于机器人多传感器汇聚、数据预处理和运动控制。
+  highlights:
+    - Altera Agilex-5E SoC FPGA（656K LES，四核 ARM A76）
+    - YPA5E0 全融合可编程控制器
+    - "AIC-M76H06 关节模组控制器（100% 国产化）"
+    - Intel 和 Altera 合作伙伴
+verified: false
+needs_review:
+  zh: true

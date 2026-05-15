@@ -1,0 +1,44 @@
+slug: best-of-best-holdings
+name: Best of Best Holdings
+country: CN
+founded: 2014
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Best of Best Holdings
+  en: Best of Best Holdings logo
+  zh: Best of Best Holdings 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - connectivity
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Best of Best Holdings — ведущий дистрибьютор полупроводников для потребительской электроники, автомобилей, промышленной энергетики, робототехники и связи, представляющий более 150 поставщиков чипов и имеющий свыше 20 филиалов.
+  highlights:
+    - Выручка 80+ млрд, листинг на Шэньчжэньской бирже (001298)
+    - Технический сервисный коллектив более 100 человек
+    - Фокус на формировании спроса и вертикальная экспертиза
+    - Динамический страховой запас и собственная складская сеть
+en:
+  description: |
+    Best of Best Holdings is a leading semiconductor distributor serving consumer electronics, automotive, industrial energy, robotics, and communications with over 150 chip suppliers and 20+ branch offices.
+  highlights:
+    - 80B+ annual revenue, listed on Shenzhen Stock Exchange (001298)
+    - 100+ technical service team
+    - Demand creation focus, vertical market expertise
+    - Dynamic safety stock and self-operated warehousing
+zh:
+  description: |
+    深圳市好上好信息科技股份有限公司是领先的半导体分销商，服务消费电子、汽车、工业能源、机器人和通信领域，代理 150 多家芯片供应商，拥有 20+ 分支机构。
+  highlights:
+    - 年营收 800 亿+，深交所上市（001298）
+    - 100+ 技术服务团队
+    - 聚焦需求创造、垂直市场专长
+    - 动态安全库存和自营仓储
+verified: false
+needs_review:
+  zh: true

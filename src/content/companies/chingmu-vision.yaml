@@ -1,0 +1,45 @@
+slug: chingmu-vision
+name: Chingmu Vision
+country: CN
+founded: 2015
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Chingmu Vision
+  en: Chingmu Vision logo
+  zh: Chingmu Vision 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+  - vision
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Chingmu Vision поставляет оптические системы захвата движения с высокой точностью, низкой задержкой и большим радиусом действия для воплощённого интеллекта, инженерных исследований, VR и наук о жизни.
+  highlights:
+    - Полностекленные собственные алгоритмы, аппаратное обеспечение, ПО
+    - "100% уровень самодостаточности по основным технологиям"
+    - Обслуживает Huawei, Tencent, университет Цинхуа
+    - Шесть бизнес-направлений, включая воплощённый ИИ
+en:
+  description: |
+    Chingmu Vision provides optical motion capture systems with high precision, low latency, and long-range positioning for embodied intelligence, engineering research, virtual reality, and life sciences.
+  highlights:
+    - Full-stack proprietary algorithms, hardware, software
+    - "100% self-sufficiency rate in core technologies"
+    - Serves Huawei, Tencent, Tsinghua University
+    - Six business domains including embodied AI
+zh:
+  description: |
+    青瞳视觉提供高精度、低延迟、长距离的光学动作捕捉系统，用于具身智能、工程研究、虚拟现实和生命科学。
+  highlights:
+    - 全自研算法、硬件、软件
+    - "核心技术 100% 自主"
+    - 服务华为、腾讯、清华大学
+    - 六大业务板块包括具身智能
+verified: false
+needs_review:
+  zh: true

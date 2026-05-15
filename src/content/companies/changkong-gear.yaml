@@ -1,0 +1,44 @@
+slug: changkong-gear
+name: Changkong Gear
+country: CN
+founded: 1969
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Changkong Gear
+  en: Changkong Gear logo
+  zh: Changkong Gear 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Changkong Gear выпускает планетарные редукторы для роботизированных кистей и шарниров роботов с диапазоном диаметров Φ8–52 мм, передаточным отношением 3:1–20000:1 и рабочим шумом ≤65 дБ.
+  highlights:
+    - Диаметр Φ8–160 мм, номинальный момент 0,01–5000 Н·м
+    - Низкий шум, малый люфт, высокая обратная управляемость
+    - Высокая жёсткость и ударопрочность
+    - Более 50 лет опыта в производстве шестерён
+en:
+  description: |
+    Changkong Gear produces planetary reducers for dexterous hands and robot joints with diameter range Φ8-52 mm, speed ratio 3:1 to 20000:1, and operating noise ≤65 dB.
+  highlights:
+    - Diameter Φ8-160 mm, rated torque 0.01-5000 N·m
+    - Low noise, low backlash, high back-drivability
+    - High rigidity and impact resistance
+    - Over 50 years of gear manufacturing
+zh:
+  description: |
+    陕西长空齿轮有限责任公司生产灵巧手和机器人关节用行星减速器，直径范围 Φ8-52 mm，速比 3:1 至 20000:1，工作噪音 ≤65 dB。
+  highlights:
+    - 直径 Φ8-160 mm，额定扭矩 0.01-5000 N·m
+    - 低噪音、低背隙、高反驱性
+    - 高刚性和抗冲击性
+    - 50+ 年齿轮制造历史
+verified: false
+needs_review:
+  zh: true

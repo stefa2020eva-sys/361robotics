@@ -1,0 +1,44 @@
+slug: gji-guoliang-intelligence
+name: GJI
+country: CN
+founded: 2015
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип GJI
+  en: GJI logo
+  zh: GJI 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - end-effectors
+produces_components:
+  - gripper
+key_clients: []
+ru:
+  description: |
+    GJI (GuoLiang Intelligence) производит роботизированную кисть XiaoYao с 18 DOF (13 активных), сопряжением жёсткого-податливого-мягкого, тактильным восприятием и управлением на основе обучения с подкреплением.
+  highlights:
+    - 13 активных + 5 пассивных DOF, вес 730 г
+    - Сила кончика ≥6 Н (четыре пальца), ≥8 Н (большой палец), захват кистью 50 Н
+    - 50+ стандартных хватательных поз
+    - Алгоритм церебрально-мозжечково-телесного взаимодействия, Sim2Real
+en:
+  description: |
+    GJI (GuoLiang Intelligence) produces the XiaoYao dexterous hand with 18 DOF (13 active), rigid-compliant-soft coupling, tactile sensing, and reinforcement learning-based control.
+  highlights:
+    - 13 active + 5 passive DOF, 730g weight
+    - Fingertip force ≥6N (four fingers), ≥8N (thumb), whole hand grip 50N
+    - 50+ standard grasping postures
+    - Cerebro-cerebellar-body collaboration algorithm, Sim2Real
+zh:
+  description: |
+    深圳果力智能科技有限公司生产 XiaoYao 灵巧手，配备 18 自由度（13 主动），刚-柔-软耦合、触觉感知和强化学习控制。
+  highlights:
+    - 13 主动 + 5 被动自由度，重量 730g
+    - 指尖力 ≥6N（四指）、≥8N（拇指），整手抓握 50N
+    - 50+ 种标准抓取姿态
+    - 大脑-小脑-本体协同算法，Sim2Real
+verified: false
+needs_review:
+  zh: true

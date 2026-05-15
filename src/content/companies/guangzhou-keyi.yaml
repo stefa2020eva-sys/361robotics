@@ -1,0 +1,51 @@
+slug: guangzhou-keyi
+name: Guangzhou Keyi
+country: CN
+founded: 2011
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Guangzhou Keyi
+  en: Guangzhou Keyi logo
+  zh: Guangzhou Keyi 标志
+type:
+  - robot_brand
+  - component_maker
+featured: false
+categories:
+  - actuators
+  - end-effectors
+produces_components:
+  - servo-motor
+robot_products:
+  - name: IRGM Servo Joint
+    short: Rotary joint with integrated reducer, encoder, driver
+  - name: GJCS/GJHS Harmonic Reducer
+    short: Precision reducer for humanoid/quadruped robots
+key_clients: []
+ru:
+  description: |
+    Guangzhou Keyi производит волновые редукторы, поворотные сервошарниры, линейные сервошарниры, роботизированные кисти и прототипы гуманоидных роботов с высокой абсолютной точностью и повторяемостью.
+  highlights:
+    - 130+ патентов, 70+ инженеров
+    - Поворотный сервошарнир IRGM с двумя абсолютными энкодерами
+    - Волновые редукторы GJCS/GJHS (люфт ≤20 угл. сек., ресурс 10 000 ч)
+    - Масштабное производство прототипов гуманоидов
+en:
+  description: |
+    Guangzhou Keyi produces harmonic reducers, rotary servo joints, linear servo joints, dexterous hands, and humanoid robot prototypes with high absolute accuracy and repeatability.
+  highlights:
+    - 130+ patents, 70+ engineers
+    - IRGM rotary servo joint with dual absolute encoder
+    - GJCS/GJHS harmonic reducers (backlash ≤20 arcsec, 10,000 hr life)
+    - Large-scale production of humanoid prototypes
+zh:
+  description: |
+    广州市科益精密机械设备有限公司生产谐波减速器、旋转伺服关节、直线伺服关节、灵巧手和人形机器人原型，具有高绝对精度和重复精度。
+  highlights:
+    - 130+ 项专利，70+ 名工程师
+    - IRGM 旋转伺服关节带双绝对编码器
+    - GJCS/GJHS 谐波减速器（背隙 ≤20 角秒，寿命 10,000 小时）
+    - 人形机器人原型大规模生产
+verified: false
+needs_review:
+  zh: true

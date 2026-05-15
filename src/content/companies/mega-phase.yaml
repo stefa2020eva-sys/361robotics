@@ -1,0 +1,43 @@
+slug: mega-phase
+name: Mega Phase
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Mega Phase
+  en: Mega Phase logo
+  zh: Mega Phase 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - vision
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Mega Phase производит 3D-камеры Sizector (серия SXN) с многопроекционной аппаратно-вычислительной визуализацией для устранения теней и бликов при высокоточной 3D-инспекции.
+  highlights:
+    - Многопроекция устраняет слепые зоны и артефакты от высокой отражательной способности
+    - Аппаратное слияние выдаёт цельное 3D облако точек
+    - Телецентрический объектив для пиксельного соответствия 2D+3D
+    - Применяется в полупроводниках, аккумуляторах, PCBA, автомобилях
+en:
+  description: |
+    Mega Phase produces Sizector 3D cameras (SXN series) with multi-projection hardware computing imaging to eliminate shadows and reflections for high-precision 3D inspection.
+  highlights:
+    - Multi-projection eliminates blind spots and high-reflection artifacts
+    - Hardware fusion outputs high-integrity 3D point cloud
+    - Telecentric lens for pixel-aligned 2D+3D
+    - Used in semiconductor, battery, PCBA, automotive
+zh:
+  description: |
+    盛相科技生产 Sizector 3D 相机（SXN 系列），采用多投影硬件计算成像消除阴影和反射，用于高精度 3D 检测。
+  highlights:
+    - 多投影消除盲点和高反光伪影
+    - 硬件融合输出完整 3D 点云
+    - 远心镜头实现 2D+3D 像素对齐
+    - 应用于半导体、电池、PCBA、汽车
+verified: false
+needs_review:
+  zh: true

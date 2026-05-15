@@ -1,0 +1,44 @@
+slug: shenshun-optoelectronics
+name: Shenshun Optoelectronics
+country: CN
+founded: 2014
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Shenshun Optoelectronics
+  en: Shenshun Optoelectronics logo
+  zh: Shenshun Optoelectronics 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - vision
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Shenshun Optoelectronics поставляет светящиеся боксы для тестирования камер, системы испытания изображений, калибровочные панели и автоматизированное тестовое оборудование для камер, лидаров и дронов.
+  highlights:
+    - Сертификат ISO9001, более 10 лет оптической экспертизы
+    - Кастомные тестовые световые панели и цветовые подбирающие боксы
+    - Тестовые оснастки и блоки питания для стандартных проверок
+    - Визуальные источники света для автоматизации
+en:
+  description: |
+    Shenshun Optoelectronics provides camera test light boxes, image test systems, calibration panels, and automated test equipment for cameras, LiDARs, and drones.
+  highlights:
+    - ISO9001 certified, 10+ years optical expertise
+    - Custom test light panels and color matching boxes
+    - Test fixtures and power supplies for standard inspection
+    - Visual light sources for automation
+zh:
+  description: |
+    深圳市深顺光电有限公司提供相机测试灯箱、图像测试系统、校准板和自动化测试设备，应用于相机、激光雷达和无人机。
+  highlights:
+    - ISO9001 认证，10+ 年光学专长
+    - 定制测试灯板和对色箱
+    - 标准检测用测试治具和电源
+    - 自动化用视觉光源
+verified: false
+needs_review:
+  zh: true

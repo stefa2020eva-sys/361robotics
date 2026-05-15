@@ -1,0 +1,43 @@
+slug: joinature-composite
+name: JOINATURE COMPOSITE
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип JOINATURE COMPOSITE
+  en: JOINATURE COMPOSITE logo
+  zh: JOINATURE COMPOSITE 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    JOINATURE COMPOSITE специализируется на разработке применения PEEK (полиэфирэфиркетона) и прецизионном литье, поставляя лёгкие, самосмазывающиеся, высокопрочные компоненты для шарниров и шестерён роботов.
+  highlights:
+    - "PEEK-редукторы заменяют металлические детали, снижая вес на 50–80%"
+    - Низкий уровень шума и коррозионная стойкость
+    - Поддерживает «золотой баланс» лёгкости и высокой прочности
+    - Идеально для локтей, запястий, коленей и лодыжек гуманоидных роботов
+en:
+  description: |
+    JOINATURE COMPOSITE specializes in PEEK (polyether ether ketone) application development and precision molding, providing lightweight, self-lubricating, high-strength components for robot joints and gears.
+  highlights:
+    - "PEEK reducers replace metal parts, reducing weight by 50-80%"
+    - Noise reduction and corrosion resistance
+    - Maintains "golden balance" of lightweight and high strength
+    - Ideal for humanoid robot elbows, wrists, knees, ankles
+zh:
+  description: |
+    中研复材（深圳）科技有限责任公司专注于PEEK（聚醚醚酮）应用开发和精密成型，为机器人关节和齿轮提供轻量、自润滑、高强度的零部件。
+  highlights:
+    - "PEEK 减速器替代金属件，减重 50–80%"
+    - 降噪和耐腐蚀
+    - 保持轻量与高强度的「黄金平衡」
+    - 适用于人形机器人的肘、腕、膝、踝关节
+verified: false
+needs_review:
+  zh: true

@@ -1,0 +1,45 @@
+slug: tgb-precision
+name: TGB Precision
+country: CN
+founded: 2007
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип TGB Precision
+  en: TGB Precision logo
+  zh: TGB Precision 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    TGB Precision выпускает планетарные роликовинтовые передачи и миниатюрные шарико-винтовые передачи для линейной трансмиссии высокого класса в полупроводниках, новой энергетике, прецизионной инспекции и робототехнике.
+  highlights:
+    - "Планетарные роликовинтовые: многозубчатый контакт, высокая нагрузка, жёсткость, ресурс"
+    - "Миниатюрные ШВП: низкое трение и шум, высокая точность позиционирования"
+    - Кастомизация для тяжёлых нагрузок и высокой точности
+    - Обслуживает полупроводники, медицину, 3C-оборудование
+en:
+  description: |
+    TGB Precision produces planetary roller screws and miniature ball screws for high-end linear transmission in semiconductors, new energy, precision inspection, and robotics.
+  highlights:
+    - "Planetary roller screws: multi-tooth contact, high load, high rigidity, long life"
+    - "Miniature ball screws: low friction, low noise, high positioning accuracy"
+    - Customizable for heavy load and high precision
+    - Serves semiconductor, medical, 3C equipment
+zh:
+  description: |
+    睿晨精密科技（深圳）有限公司生产行星滚柱丝杠和微型滚珠丝杠，用于半导体、新能源、精密检测和机器人的高端直线传动。
+  highlights:
+    - 行星滚柱丝杠：多齿接触、高负载、高刚性、长寿命
+    - 微型滚珠丝杠：低摩擦、低噪音、高定位精度
+    - 可定制重载和高精度
+    - 服务半导体、医疗、3C 设备
+verified: false
+needs_review:
+  zh: true

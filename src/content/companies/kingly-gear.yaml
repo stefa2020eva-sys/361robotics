@@ -1,0 +1,43 @@
+slug: kingly-gear
+name: Kingly Gear
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Kingly Gear
+  en: Kingly Gear logo
+  zh: Kingly Gear 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Kingly Gear поставляет высокоточные планетарные редукторы (4–16 мм) с бескорпусными двигателями, передаточные отношения 4:1–1024:1, момент 2 мН·м – 5 Н·м, низкий шум ≤60 дБА и точность управления ±0,5°.
+  highlights:
+    - Национальный продукт-чемпион в производственной отрасли
+    - "R&D-команда 200+ (мехатроника и ПО)"
+    - Первая фирма с интегрированными мехатронико-программными микроприводами
+    - Обслуживает DJI, UBTech, ABB, Tesla, Huawei, Roborock, Ecovacs
+en:
+  description: |
+    Kingly Gear provides high-precision planetary gearboxes (4-16mm) with coreless motors, offering speed ratios 4:1 to 1024:1, torque 2mN·m to 5N·m, low noise ≤60dBA, and high control accuracy ±0.5°.
+  highlights:
+    - National manufacturing单项冠军 product
+    - "200+ R&D team (mechatronics and software)"
+    - First to offer integrated mechatronics-software micro-drive solutions
+    - Serves DJI, UBTech, ABB, Tesla, Huawei, Roborock, Ecovacs
+zh:
+  description: |
+    广东金力智能传动技术股份有限公司提供高精度行星齿轮箱（4-16mm）配空心杯电机，速比 4:1 至 1024:1、扭矩 2mN·m 至 5N·m、低噪音 ≤60dBA、控制精度 ±0.5°。
+  highlights:
+    - 国家制造业单项冠军产品
+    - "200+ 人 R&D 团队（机电一体化和软件）"
+    - 首家提供机电软一体化微驱动解决方案
+    - 服务大疆、优必选、ABB、特斯拉、华为、石头、科沃斯
+verified: false
+needs_review:
+  zh: true

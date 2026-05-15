@@ -1,0 +1,44 @@
+slug: twowin-technology
+name: TWOWIN Technology
+country: CN
+founded: 2011
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип TWOWIN Technology
+  en: TWOWIN Technology logo
+  zh: TWOWIN Technology 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - controllers
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    TWOWIN Technology поставляет облачно-граничные вычислительные платформы, включая T1508 Thor Robot Brain на архитектуре NVIDIA Blackwell с производительностью 1200 TFLOPS (FP4).
+  highlights:
+    - 16x GMSL2 + 6x USB + 6x RJ45 для мультисенсорного слияния
+    - 6x CAN FD + EtherCAT для точного управления шарнирами
+    - 10GbE + 4x GbE с поддержкой PTP
+    - Стратегический «золотой» партнёр NVIDIA и Huawei
+en:
+  description: |
+    TWOWIN Technology provides cloud-edge-end computing platforms including the T1508 Thor Robot Brain based on NVIDIA Blackwell architecture with 1200 TFLOPS (FP4).
+  highlights:
+    - 16x GMSL2 + 6x USB + 6x RJ45 for multi-sensor fusion
+    - 6x CAN FD + EtherCAT for precise joint control
+    - 10GbE + 4x GbE with PTP support
+    - Strategic gold partner of NVIDIA and Huawei
+zh:
+  description: |
+    图为科技提供云-边-端计算平台，包括基于 NVIDIA Blackwell 架构、1200 TFLOPS（FP4）算力的 T1508 Thor Robot Brain。
+  highlights:
+    - 16x GMSL2 + 6x USB + 6x RJ45 多传感器融合
+    - 6x CAN FD + EtherCAT 精准关节控制
+    - 10GbE + 4x GbE 支持 PTP
+    - NVIDIA 和华为战略金牌合作伙伴
+verified: false
+needs_review:
+  zh: true

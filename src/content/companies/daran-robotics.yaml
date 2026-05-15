@@ -1,0 +1,48 @@
+slug: daran-robotics
+name: Daran Robotics
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Daran Robotics
+  en: Daran Robotics logo
+  zh: Daran Robotics 标志
+type:
+  - robot_brand
+  - component_maker
+featured: false
+categories:
+  - actuators
+  - controllers
+produces_components:
+  - motion-controller
+robot_products:
+  - name: Daran Robotics
+    short: Daran Robotics develops intelligent integrated joints (planetary, harmonic, hollow harmonic) and robot standard model co
+key_clients: []
+ru:
+  description: |
+    Daran Robotics разрабатывает интеллектуальные интегрированные шарниры (планетарные, волновые, полые волновые) и контроллеры стандартных моделей роботов для гуманоидных и шагающих роботов.
+  highlights:
+    - Интеллектуальные шарниры с контролем движения, считыванием параметров и автономным принятием решений
+    - Контроллер стандартной модели требует только размеры и вес робота
+    - Инкубированы Тяньцзиньским университетом и SUSTech Robotics Institute
+    - Научный консультант — академик Дай Цзяньшэн
+en:
+  description: |
+    Daran Robotics develops intelligent integrated joints (planetary, harmonic, hollow harmonic) and robot standard model controllers for humanoid and legged robots.
+  highlights:
+    - Intelligent joints with motion control, parameter readback, autonomous decision-making
+    - Standard model controller requires only robot dimensions and weight
+    - Incubated by Tianjin University and SUSTech Robotics Institute
+    - Advised by Academician Dai Jiansheng
+zh:
+  description: |
+    大然机器人开发智能集成关节（行星、谐波、空心谐波）和机器人标准模型控制器，用于人形和足式机器人。
+  highlights:
+    - 智能关节具备运动控制、参数回读、自主决策
+    - 标准模型控制器仅需输入机器人尺寸和重量
+    - 由天津大学和南科大机器人研究院孵化
+    - 戴建生院士担任顾问
+verified: false
+needs_review:
+  zh: true

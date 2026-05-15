@@ -1,0 +1,44 @@
+slug: magnet-laboratories
+name: Magnet Laboratories
+country: CN
+founded: 1979
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Magnet Laboratories
+  en: Magnet Laboratories logo
+  zh: Magnet Laboratories 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Magnet Laboratories специализируется на технологиях намагничивания, магнитных измерений и обработки магнитного поля, предлагая интегрированные машины намагничивания и контроля с технологией постнамагничивания в линии.
+  highlights:
+    - Постнамагничивание в линии повышает эффективность в 8–10 раз
+    - Отсутствие магнитных помех при сборке
+    - Определение пика полюса, угла, площади, угла перекоса
+    - Высокая автоматизация, защита от ошибочных операций
+en:
+  description: |
+    Magnet Laboratories specializes in magnetization, magnetic measurement, and magnetic field processing technologies, offering integrated magnetization and detection machines with online post-magnetization technology.
+  highlights:
+    - Online post-magnetization improves efficiency 8-10x
+    - No magnetic interference during assembly
+    - Detects pole peak, angle, area, skew angle
+    - High automation, anti-misoperation
+zh:
+  description: |
+    麦格雷博电子（深圳）有限公司专注于充磁、磁性测量和磁场处理技术，提供集成充磁与检测一体机，配备线上后充磁技术。
+  highlights:
+    - 线上后充磁效率提升 8–10 倍
+    - 装配过程中无磁干扰
+    - 检测极峰、角度、面积、斜角
+    - 高度自动化、防误操作
+verified: false
+needs_review:
+  zh: true

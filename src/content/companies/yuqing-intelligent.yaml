@@ -1,0 +1,44 @@
+slug: yuqing-intelligent
+name: Yuqing Intelligent Technology
+country: CN
+founded: 2025
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Yuqing Intelligent Technology
+  en: Yuqing Intelligent Technology logo
+  zh: Yuqing Intelligent Technology 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Yuqing Intelligent Technology специализируется на линейных динамических шарнирах (линейных и поворотных шарнирных модулях) для гуманоидных роботов, интегрируя серводвигатели, прецизионные редукторы, энкодеры и датчики момента.
+  highlights:
+    - Высокая удельная моментная плотность, низкое энергопотребление
+    - Двухконтурное управление для точной повторяемости
+    - Подходит для плеч, бёдер, колен, запястий, шеи
+    - Охватывает промышленные, сервисные и исследовательские задачи
+en:
+  description: |
+    Yuqing Intelligent Technology specializes in linear dynamic joints (linear and rotary joint modules) for humanoid robots, integrating servo motors, precision reducers, encoders, and torque sensors.
+  highlights:
+    - High torque density, low power consumption
+    - Dual-loop control for precise repeatability
+    - Suitable for shoulder, hip, knee, wrist, neck
+    - Covers industrial, service, research applications
+zh:
+  description: |
+    深圳市驭擎智能科技有限公司专注于人形机器人的线性动力关节（直线和旋转关节模组），集成伺服电机、精密减速器、编码器和扭矩传感器。
+  highlights:
+    - 高扭矩密度、低能耗
+    - 双环控制实现精确重复定位
+    - 适用于肩、髋、膝、腕、颈
+    - 覆盖工业、服务、科研应用
+verified: false
+needs_review:
+  zh: true

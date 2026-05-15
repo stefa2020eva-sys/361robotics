@@ -1,0 +1,44 @@
+slug: nanguudi
+name: Nanguudi
+country: CN
+founded: 2006
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Nanguudi
+  en: Nanguudi logo
+  zh: Nanguudi 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - connectivity
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Nanguudi производит кастомизированные жгуты и кабели энергоцепей для интеллектуальных роботов с многожильными лужёными медными проводниками и оболочками PUR/TPE/силикон.
+  highlights:
+    - 500+ миллионов циклов изгиба
+    - Сопротивление кручению ±180°/м
+    - Широкий диапазон температур от −30 °C до +90 °C
+    - Сертификаты UL, CE, CSA, RoHS
+en:
+  description: |
+    Nanguudi manufactures custom cable assemblies and drag chain cables for intelligent robots, featuring high-flex stranded tinned copper conductors and PUR/TPE/silicone jackets.
+  highlights:
+    - 500+ million bending cycles
+    - ±180°/m torsion resistance
+    - Wide temperature -30°C to +90°C
+    - UL, CE, CSA, RoHS certified
+zh:
+  description: |
+    南谷第为智能机器人制造定制电缆组件和拖链电缆，采用高柔性多股镀锡铜导体及 PUR/TPE/硅胶外护套。
+  highlights:
+    - 5 亿+ 弯曲循环
+    - ±180°/m 抗扭性
+    - 宽温 −30°C 至 +90°C
+    - UL、CE、CSA、RoHS 认证
+verified: false
+needs_review:
+  zh: true

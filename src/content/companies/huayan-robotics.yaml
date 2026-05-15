@@ -1,0 +1,48 @@
+slug: huayan-robotics
+name: Huayan Robotics
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Huayan Robotics
+  en: Huayan Robotics logo
+  zh: Huayan Robotics 标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - actuators
+robot_products:
+  - name: Elfin-Pro
+    short: Collaborative robot with AI integration
+  - name: Elfin-Ex
+    short: Explosion-proof collaborative robot
+  - name: S Series
+    short: Heavy payload robot up to 60kg
+key_clients: []
+ru:
+  description: |
+    Huayan Robotics (1021.HK) производит коллаборативных роботов Elfin-Pro (интегрированное ИИ-силовое управление и зрение), взрывозащищённых коботов Elfin-Ex и роботов серии S с тяжёлой нагрузкой (до 60 кг).
+  highlights:
+    - "Elfin-Pro: интегрированные ИИ, силовое управление, зрение"
+    - "Elfin-Ex: взрывозащищённый для опасных сред (Zone 1/21)"
+    - "Серия S: нагрузка 60 кг, досягаемость 1700–2200 мм"
+    - Национальное предприятие «маленький гигант», листинг в Гонконге
+en:
+  description: |
+    Huayan Robotics (1021.HK) produces Elfin-Pro collaborative robots (integrated AI force control and vision), Elfin-Ex explosion-proof cobots, and S series heavy payload robots (up to 60kg).
+  highlights:
+    - "Elfin-Pro: integrated AI, force control, vision"
+    - "Elfin-Ex: explosion-proof for hazardous environments (Zone 1/21)"
+    - "S series: 60kg payload, 1700-2200mm reach"
+    - National "Little Giant" enterprise, listed in Hong Kong
+zh:
+  description: |
+    广东华治机器人股份有限公司（1021.HK）生产 Elfin-Pro 协作机器人（集成 AI 力控和视觉）、Elfin-Ex 防爆协作机器人和 S 系列重载机器人（最高 60kg）。
+  highlights:
+    - Elfin-Pro：集成 AI、力控、视觉
+    - Elfin-Ex：防爆，适用于危险环境（Zone 1/21）
+    - S 系列：60kg 负载，1700-2200mm 臂展
+    - 国家级「小巨人」企业，港股上市
+verified: false
+needs_review:
+  zh: true

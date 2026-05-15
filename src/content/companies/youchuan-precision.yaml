@@ -1,0 +1,44 @@
+slug: youchuan-precision
+name: Youchuan Precision
+country: CN
+founded: 2012
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Youchuan Precision
+  en: Youchuan Precision logo
+  zh: Youchuan Precision 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Youchuan Precision производит шарнирные модули гуманоидных роботов, шарнирные модули четвероногих роботов и безрамные моментные двигатели с высоким моментом, малым люфтом и высокой степенью интеграции.
+  highlights:
+    - Команда из японской Mabuchi Motor
+    - Серии шарнирных модулей Optimus и Xiaotianquan
+    - Обслуживает более 30 OEM-производителей гуманоидов
+    - Завод 40 000 м², 300+ сотрудников
+en:
+  description: |
+    Youchuan Precision produces humanoid robot joint modules, quadruped robot joint modules, and frameless torque motors with high torque, low backlash, and high integration.
+  highlights:
+    - Integrated team from Japan's Mabuchi Motor
+    - Optimus and Xiaotianquan joint module series
+    - Serves 30+ humanoid robot OEMs
+    - 40000 m² factory, 300+ employees
+zh:
+  description: |
+    友川精密技术生产人形机器人关节模组、四足机器人关节模组和无框力矩电机，具有高扭矩、低背隙和高度集成。
+  highlights:
+    - 团队源自日本 Mabuchi 电机
+    - Optimus 和小田犬关节模组系列
+    - 服务 30+ 人形机器人 OEM
+    - 4 万平米工厂，300+ 员工
+verified: false
+needs_review:
+  zh: true

@@ -1,0 +1,44 @@
+slug: strongd-model
+name: Strongd Model
+country: CN
+founded: 2012
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Strongd Model
+  en: Strongd Model logo
+  zh: Strongd Model 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Strongd Model оказывает услуги быстрого прототипирования, включая 3D-печать, ЧПУ-обработку, вакуумное литьё и литьё под давлением для конструктивных компонентов роботов.
+  highlights:
+    - Микронная точность для сложных конструкций
+    - Многоматериальный, многопроцессный сервис «под ключ»
+    - Быстрый отклик для малых серий и кастомного производства
+    - Обслуживает робототехнику, автопром, медицину
+en:
+  description: |
+    Strongd Model provides rapid prototyping services including 3D printing, CNC machining, vacuum casting, and injection molding for robot structural components.
+  highlights:
+    - Micron-level precision for complex structures
+    - Multi-material, multi-process one-stop service
+    - Fast response for small batch and custom production
+    - Serves robotics, automotive, medical industries
+zh:
+  description: |
+    深圳市思骏达模型有限公司提供快速原型制造服务，包括 3D 打印、CNC 加工、真空铸造和注塑成型，用于机器人结构部件。
+  highlights:
+    - 微米级精度的复杂结构
+    - 多材料、多工艺一站式服务
+    - 小批量定制快速响应
+    - 服务机器人、汽车、医疗行业
+verified: false
+needs_review:
+  zh: true

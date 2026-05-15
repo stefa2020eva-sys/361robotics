@@ -1,0 +1,44 @@
+slug: nodka
+name: NODKA
+country: CN
+founded: 2001
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип NODKA
+  en: NODKA logo
+  zh: NODKA 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - controllers
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    NODKA проектирует промышленные ПК и HMI-системы, включая контроллер воплощённого ИИ AP-6121 на Intel Core Ultra Series 3 (Panther Lake) с 180 TOPS производительности ИИ.
+  highlights:
+    - Intel Panther Lake, 8 «больших» ядер + 16 потоков, до 180 TOPS
+    - Память LPDDR5, 16 ГБ eMMC
+    - Контроллер машинного зрения NP-6135U-H1B с 99 TOPS
+    - OEM/ODM с полным циклом производства
+en:
+  description: |
+    NODKA designs industrial PCs and HMI systems including the AP-6121 embodied AI controller based on Intel Core Ultra Series 3 (Panther Lake) with 180 TOPS AI.
+  highlights:
+    - Intel Panther Lake, 8 big cores + 16 threads, up to 180 TOPS
+    - LPDDR5 memory, 16GB eMMC
+    - NP-6135U-H1B vision controller with 99 TOPS
+    - OEM/ODM with full-process manufacturing
+zh:
+  description: |
+    诺达佳设计工业 PC 和 HMI 系统，包括基于 Intel Core Ultra 系列 3（Panther Lake）、180 TOPS AI 算力的 AP-6121 具身智能控制器。
+  highlights:
+    - Intel Panther Lake，8 大核 + 16 线程，最高 180 TOPS
+    - LPDDR5 内存，16GB eMMC
+    - NP-6135U-H1B 视觉控制器 99 TOPS
+    - OEM/ODM 全流程制造
+verified: false
+needs_review:
+  zh: true

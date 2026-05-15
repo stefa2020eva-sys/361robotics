@@ -1,0 +1,44 @@
+slug: yunsheng-edrive
+name: Yunsheng Edrive
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Yunsheng Edrive
+  en: Yunsheng Edrive logo
+  zh: Yunsheng Edrive 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+  - drives-power
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Yunsheng Edrive специализируется на постоянных магнитных двигателях, волновых редукторах, безрамных моментных двигателях и интегрированных шарнирных модулях, опираясь на более чем 20-летний опыт в магнитных материалах и электроприводах.
+  highlights:
+    - Чашечные (CG14-32) и шляпные (HG14-32) волновые редукторы
+    - Компактные, лёгкие, высокоточные, с малым люфтом
+    - Безрамные моментные двигатели с нулевым люфтом
+    - Мультидисциплинарная разработка (электромагнитная, шестерёнчатая, управление)
+en:
+  description: |
+    Yunsheng Edrive specializes in permanent magnet motors, harmonic reducers, frameless torque motors, and integrated joint modules with over 20 years of experience in magnetic materials and electric drive products.
+  highlights:
+    - Cup-type (CG14-32) and hat-type (HG14-32) harmonic reducers
+    - Compact, lightweight, high precision, low backlash
+    - Frameless torque motors with zero backlash
+    - Multidisciplinary design (electromagnetic, gear, control)
+zh:
+  description: |
+    宁波韵升电驱动技术有限公司专注于永磁电机、谐波减速器、无框力矩电机和集成关节模组，在磁性材料和电驱产品领域拥有 20 多年经验。
+  highlights:
+    - 杯型（CG14-32）和帽型（HG14-32）谐波减速器
+    - 紧凑、轻量、高精度、低背隙
+    - 零背隙无框力矩电机
+    - 多学科协同设计（电磁、齿轮、控制）
+verified: false
+needs_review:
+  zh: true

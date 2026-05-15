@@ -1,0 +1,44 @@
+slug: myactuator
+name: MYACTUATOR
+country: CN
+founded: 2020
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип MYACTUATOR
+  en: MYACTUATOR logo
+  zh: MYACTUATOR 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    MYACTUATOR (Suzhou Micro Actuator) предоставляет микросистемы силовой передачи для воплощённых роботов, включая планетарные, волновые, полые прямодействующие, циклоидные модули и безрамные моментные двигатели.
+  highlights:
+    - Полная собственная разработка по всей цепочке отрасли
+    - Экстремальное соотношение цена/производительность
+    - Модульный дизайн для быстрой поставки
+    - Решения «под ключ» для гуманоидов, медицины, агротехнологий
+en:
+  description: |
+    MYACTUATOR (Suzhou Micro Actuator) provides micro power system solutions for embodied robots including planetary, harmonic, hollow direct-drive, cycloidal modules, and frameless torque motors.
+  highlights:
+    - "Full-stack in-house R&D across the entire industry chain"
+    - Extreme cost-performance ratio
+    - Modular design for rapid delivery
+    - "\"Turnkey\" solutions for humanoid, medical, agriculture"
+zh:
+  description: |
+    融塔智能（苏州微执行器）为具身机器人提供微型动力系统解决方案，包括行星、谐波、空心直驱、摆线模组和无框力矩电机。
+  highlights:
+    - 全栈自研，覆盖产业链
+    - 极致性价比
+    - 模块化设计，快速交付
+    - 面向人形、医疗、农业的「交钥匙」方案
+verified: false
+needs_review:
+  zh: true

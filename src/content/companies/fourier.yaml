@@ -1,0 +1,46 @@
+slug: fourier
+name: Fourier
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Fourier
+  en: Fourier logo
+  zh: Fourier 标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - actuators
+robot_products:
+  - name: GR-3
+    short: Humanoid care robot with emotional connectivity
+  - name: N1
+    short: Open-source humanoid for AI research
+key_clients: []
+ru:
+  description: |
+    Fourier производит гуманоидного робота GR-3 («Care-bot», ориентированного на социальную связь и безопасность) и гуманоидного робота N1 с открытым исходным кодом для исследований воплощённого ИИ.
+  highlights:
+    - "GR-3: создан для общения, эмоционального взаимодействия, общественного сервиса"
+    - "GR-3C: для функциональных приложений"
+    - "N1: открытый код, алюминиево-композитная рама, износостойкость"
+    - Обслуживает 2000+ учреждений в 40+ странах
+en:
+  description: |
+    Fourier produces the GR-3 humanoid robot ("Care-bot" focused on social connection and safety) and the N1 open-source humanoid robot for embodied AI research.
+  highlights:
+    - "GR-3: designed for daily companionship, emotional interaction, public service"
+    - "GR-3C: for functional applications"
+    - "N1: open-source, aluminum-composite frame, durable"
+    - Serves 2000+ institutions in 40+ countries
+zh:
+  description: |
+    傅利叶生产 GR-3 人形机器人（聚焦社交连接与安全的「关爱机器人」）和 N1 开源人形机器人，用于具身 AI 研究。
+  highlights:
+    - GR-3：面向日常陪伴、情感交互、公共服务
+    - GR-3C：面向功能应用
+    - N1：开源、铝合金复合机身、耐用
+    - 服务 40+ 国家 2000+ 机构
+verified: false
+needs_review:
+  zh: true

@@ -1,0 +1,44 @@
+slug: aili-light-technology
+name: Aili-Light Technology
+country: CN
+founded: 2020
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Aili-Light Technology
+  en: Aili-Light Technology logo
+  zh: Aili-Light Technology 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - vision
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Aili-Light Technology поставляет GMSL-камеры, стереокамеры и мультимодальные системы машинного зрения для промышленных и сервисных роботов и автономного вождения.
+  highlights:
+    - "Стереокамера серии VS Y: −20 °C до +60 °C, GMSL2 с PoC"
+    - "GMSL-камера серии LI: 120 дБ динамического диапазона, высокая частота кадров"
+    - Адаптерные комплекты для NVIDIA Jetson, Rockchip RK3588, Raspberry Pi 5
+    - Поддержка драйвера V4L2 и SDK
+en:
+  description: |
+    Aili-Light Technology provides GMSL cameras, stereo cameras, and multi-modal vision systems for industrial robots, service robots, and autonomous driving.
+  highlights:
+    - "VS Y series stereo camera: -20°C to +60°C, GMSL2 with PoC"
+    - "LI series GMSL camera: 120dB dynamic range, high frame rate"
+    - Adapter kits for NVIDIA Jetson, Rockchip RK3588, Raspberry Pi 5
+    - V4L2 driver and SDK support
+zh:
+  description: |
+    深圳市艾利光科技有限公司提供 GMSL 相机、立体相机和多模态视觉系统，用于工业机器人、服务机器人和自动驾驶。
+  highlights:
+    - VS Y 系列立体相机：−20°C 至 +60°C，GMSL2 带 PoC
+    - LI 系列 GMSL 相机：120dB 动态范围，高帧率
+    - 适配 NVIDIA Jetson、Rockchip RK3588、树莓派 5
+    - 支持 V4L2 驱动和 SDK
+verified: false
+needs_review:
+  zh: true

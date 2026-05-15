@@ -1,0 +1,43 @@
+slug: battewill
+name: Battewill
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Battewill
+  en: Battewill logo
+  zh: Battewill 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - drives-power
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Battewill производит интеллектуальные литиевые аккумуляторные блоки для роботов и AGV: 48 В 24 А·ч LiFePO4, RS485/CAN, 2000+ циклов и токоразрядную способность 2C.
+  highlights:
+    - 2000+ циклов — значительно дольше свинцово-кислотных
+    - Разряд 2C для тяжёлогружёных AGV
+    - Двойная связь RS485/CAN для мониторинга в реальном времени
+    - Сертификаты CE, UL, IEC
+en:
+  description: |
+    Battewill manufactures smart lithium battery packs for robots and AGVs with 48V 24Ah LiFePO4, RS485/CAN, 2000+ cycles, and 2C high-current discharge.
+  highlights:
+    - 2000+ cycle life, much longer than lead-acid
+    - 2C discharge for heavy-load AGVs
+    - RS485/CAN dual communication for real-time monitoring
+    - CE, UL, IEC certified
+zh:
+  description: |
+    深圳市倍特威科技有限公司为机器人和 AGV 制造智能锂电池组，提供 48V 24Ah 磷酸铁锂方案，支持 RS485/CAN、2000+ 循环、2C 大电流放电。
+  highlights:
+    - 2000+ 循环寿命，远高于铅酸
+    - 2C 放电适用于重载 AGV
+    - RS485/CAN 双通信实时监控
+    - CE、UL、IEC 认证
+verified: false
+needs_review:
+  zh: true

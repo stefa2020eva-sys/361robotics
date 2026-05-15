@@ -1,0 +1,43 @@
+slug: zhejiang-initiation-bearing
+name: Zhejiang Initiation Technology Bearing
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Zhejiang Initiation Technology Bearing
+  en: Zhejiang Initiation Technology Bearing logo
+  zh: Zhejiang Initiation Technology Bearing 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Zhejiang Initiation Technology Bearing производит крестообразные роликовые подшипники, тонкостенные подшипники с четырёхточечным контактом и прецизионные радиально-упорные подшипники для шарниров роботов и волновых редукторов.
+  highlights:
+    - Высокая точность и жёсткость
+    - Двунаправленная несущая способность
+    - Сертификаты ISO9001, TS/16949
+    - Национальное высокотехнологичное предприятие
+en:
+  description: |
+    Zhejiang Initiation Technology Bearing produces crossed roller bearings, thin-walled four-point contact bearings, and precision angular contact bearings for robot joints and harmonic reducers.
+  highlights:
+    - High precision and rigidity
+    - Bi-directional load capacity
+    - ISO9001, TS/16949 certified
+    - National high-tech enterprise
+zh:
+  description: |
+    浙江元年智研轴承有限公司生产交叉滚子轴承、薄壁四点接触轴承及精密角接触轴承，用于机器人关节和谐波减速器。
+  highlights:
+    - 高精度和高刚性
+    - 双向承载能力
+    - 通过 ISO9001、TS/16949 认证
+    - 国家级高新技术企业
+verified: false
+needs_review:
+  zh: true

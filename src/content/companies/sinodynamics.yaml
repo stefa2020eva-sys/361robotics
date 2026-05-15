@@ -1,0 +1,43 @@
+slug: sinodynamics
+name: SinoDynamics
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип SinoDynamics
+  en: SinoDynamics logo
+  zh: SinoDynamics 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    SinoDynamics производит 3D-печатные приводные компоненты, включая микро- бескорпусные двигатели и модули привода роботизированных кистей с использованием аддитивного производства и оптимизированных ИИ конструкций.
+  highlights:
+    - Собственная безпазовая технология намотки катушек двигателя
+    - Поддержка переменного диаметра и эллиптических/тороидальных катушек
+    - Полупрямодействующий модуль с кольцевым червячным редуктором
+    - Высокая производительность, лёгкость, низкая стоимость
+en:
+  description: |
+    SinoDynamics manufactures 3D-printed drive components including micro hollow cup motors and dexterous hand drive modules using additive manufacturing and AI-optimized designs.
+  highlights:
+    - Proprietary slotless motor coil winding technology
+    - Supports variable diameter and elliptical/racetrack coils
+    - Half direct-drive module with annular envelope worm gear reducer
+    - High performance, lightweight, low cost
+zh:
+  description: |
+    赛诺动力采用增材制造和 AI 优化设计，生产 3D 打印驱动部件，包括微型空心杯电机和灵巧手驱动模组。
+  highlights:
+    - 自有无槽电机绕线技术
+    - 支持变径和椭圆/跑道型绕组
+    - 半直驱模组配环形包络蜗杆减速器
+    - 高性能、轻量化、低成本
+verified: false
+needs_review:
+  zh: true

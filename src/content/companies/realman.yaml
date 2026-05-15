@@ -1,0 +1,44 @@
+slug: realman
+name: RealMan
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип RealMan
+  en: RealMan logo
+  zh: RealMan 标志
+type:
+  - robot_brand
+  - component_maker
+featured: false
+categories:
+  - actuators
+produces_components:
+  - motion-controller
+robot_products:
+  - name: RealBOT
+    short: Comprehensive embodied AI development platform
+key_clients: []
+ru:
+  description: |
+    RealMan предлагает платформу разработки воплощённого интеллекта RealBOT (гуманоид) и сеть телеоперации GLN для глобальной роботизированной производительности.
+  highlights:
+    - "RealBOT: полнотелесное управление движением, мультиизмерительное восприятие, точные манипуляции"
+    - "GLN: глобальная сеть телеоперации с иммерсивной обратной связью"
+    - Применяется для обучения ИИ, сбора данных, нового ритейла, образования, промышленных линий
+en:
+  description: |
+    RealMan provides the RealBOT embodied intelligence development platform (humanoid) and the GLN teleoperation network for global robotic productivity.
+  highlights:
+    - "RealBOT: full-body motion control, multi-dimensional perception, precise manipulation"
+    - "GLN: global teleoperation network with immersive feedback"
+    - Used for AI training, data collection, new retail, education, industrial lines
+zh:
+  description: |
+    霍尔曼提供 RealBOT 具身智能开发平台（人形）和 GLN 全球远程操作网络，赋能机器人生产力。
+  highlights:
+    - RealBOT：全身运动控制、多维感知、精准操作
+    - GLN：具备沉浸式反馈的全球遥操作网络
+    - 用于 AI 训练、数据采集、新零售、教育、工业产线
+verified: false
+needs_review:
+  zh: true

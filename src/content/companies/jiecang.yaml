@@ -1,0 +1,44 @@
+slug: jiecang
+name: Jiecang
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Jiecang
+  en: Jiecang logo
+  zh: Jiecang 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+  - drives-power
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Jiecang (603583.SH) предлагает полноценные решения по приведению в движение, включая колонны подъёма, узлы бескорпусных двигателей (Φ8–12 мм), поворотные модули (волновые/планетарные/циклоидные) и линейные приводы.
+  highlights:
+    - Волновой модуль с точностью ±10 угл. сек.
+    - Планетарный модуль с высокой удельной моментной плотностью
+    - "Циклоидный модуль на 35% легче и на 10 дБ тише"
+    - Линейные приводы с макс. толчком до 8000 Н
+en:
+  description: |
+    Jiecang (603583.SH) provides full-stack actuation solutions including lifting columns, coreless motor assemblies (Φ8-12mm), rotary modules (harmonic/planetary/cycloidal), and linear actuators.
+  highlights:
+    - Harmonic module ±10 arcsec precision
+    - Planetary module high torque density
+    - "Cycloidal module 35% lighter, 10dB quieter"
+    - Linear actuators up to 8000N max thrust
+zh:
+  description: |
+    捷昌驱动提供全栈驱动解决方案，包括升降柱、空心杯电机组件（Φ8–12mm）、旋转模组（谐波/行星/摆线）和直线执行器。
+  highlights:
+    - 谐波模组 ±10 角秒精度
+    - 行星模组高扭矩密度
+    - "摆线模组减重 35%、降噪 10dB"
+    - 直线执行器最大推力达 8000N
+verified: false
+needs_review:
+  zh: true

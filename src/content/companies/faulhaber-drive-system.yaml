@@ -1,0 +1,43 @@
+slug: faulhaber-drive-system
+name: Faulhaber Drive System Technology
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Faulhaber Drive System Technology
+  en: Faulhaber Drive System Technology logo
+  zh: Faulhaber Drive System Technology 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Faulhaber Drive System Technology производит микро DC-двигатели с графитовой коммутацией (1437GXR, 1627GXR) и драгоценнометаллической коммутацией (1218SXR) для высоконадёжных микроприводов.
+  highlights:
+    - "1437GXR: щётки медь-графит, компактная конструкция"
+    - "1627GXR: высокая выходная мощность, множество конфигураций"
+    - "1218SXR: стабильная работа, длительный ресурс"
+    - Более 25 миллионов комбинаций продукта
+en:
+  description: |
+    Faulhaber Drive System Technology produces DC micromotors with graphite commutation (1437GXR, 1627GXR) and precious metal commutation (1218SXR) for high-reliability micro-drive applications.
+  highlights:
+    - "1437GXR: copper-graphite brushes, compact design"
+    - "1627GXR: high power output, multiple configurations"
+    - "1218SXR: stable operation, long life"
+    - ">25 million product combinations"
+zh:
+  description: |
+    福尔哈贝传动技术（太仓）有限公司生产石墨换向（1437GXR、1627GXR）和贵金属换向（1218SXR）的直流微电机，适用于高可靠性微驱动场合。
+  highlights:
+    - 1437GXR：铜石墨电刷，紧凑设计
+    - 1627GXR：高输出功率，多种配置
+    - 1218SXR：稳定运行，长寿命
+    - 超过 2500 万种产品组合
+verified: false
+needs_review:
+  zh: true

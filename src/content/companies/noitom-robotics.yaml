@@ -1,0 +1,43 @@
+slug: noitom-robotics
+name: Noitom Robotics
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Noitom Robotics
+  en: Noitom Robotics logo
+  zh: Noitom Robotics 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - software-sdk
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Noitom Robotics поставляет высококачественные масштабируемые обучающие датасеты для воплощённого ИИ, включая HiPHI-OM (взаимодействие человека с объектами), In-the-Wild и HiPHI-MOV (локомоция).
+  highlights:
+    - "HiPHI-OM: масштабный мультимодальный датасет для манипуляций кистью"
+    - "In-the-Wild: реальный мультимодальный датасет для обобщения"
+    - "HiPHI-MOV: данные локомоции и локо-манипуляции"
+    - Человеко-ориентированный высокоточный захват движения
+en:
+  description: |
+    Noitom Robotics provides high-quality, scalable training datasets for embodied AI, including HiPHI-OM (human-object interaction), In-the-Wild, and HiPHI-MOV (locomotion) datasets.
+  highlights:
+    - "HiPHI-OM: large-scale omni-modal dataset for dexterous manipulation"
+    - "In-the-Wild: real-world multimodal dataset for generalization"
+    - "HiPHI-MOV: locomotion and loco-manipulation data"
+    - Human-centric, high-precision motion capture
+zh:
+  description: |
+    诺亦腾机器人为具身 AI 提供高质量、可扩展的训练数据集，包括 HiPHI-OM（人物交互）、In-the-Wild 和 HiPHI-MOV（运动）。
+  highlights:
+    - HiPHI-OM：大规模全模态灵巧操作数据集
+    - In-the-Wild：真实世界多模态泛化数据集
+    - HiPHI-MOV：运动和移动操作数据
+    - 以人为中心的高精度动捕
+verified: false
+needs_review:
+  zh: true

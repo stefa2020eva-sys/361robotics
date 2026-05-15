@@ -1,0 +1,43 @@
+slug: baron-bearing
+name: Baron Bearing
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Baron Bearing
+  en: Baron Bearing logo
+  zh: Baron Bearing 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Baron Bearing производит прецизионные тонкостенные подшипники, тонкостенные подшипники из нержавеющей стали и шарикоподшипники с четырёхточечным контактом для пальцев, локтей, плеч и бёдер роботов.
+  highlights:
+    - Ультратонкая стенка экономит пространство в шарнире
+    - Нержавеющая сталь — коррозионная и низкотемпературная стойкость
+    - Четырёхточечный контакт выдерживает двунаправленные нагрузки
+    - Нулевой люфт для точного позиционирования
+en:
+  description: |
+    Baron Bearing manufactures precision thin-wall bearings, stainless steel thin-wall bearings, and four-point contact ball bearings for robot fingers, elbows, shoulders, and hips.
+  highlights:
+    - Ultra-thin wall saves joint space
+    - Stainless steel offers corrosion and low-temperature resistance
+    - Four-point contact handles bi-directional loads
+    - Zero backlash for precise positioning
+zh:
+  description: |
+    浙江百润轴承有限公司生产精密薄壁轴承、不锈钢薄壁轴承及四点接触球轴承，用于机器人手指、肘、肩、髋。
+  highlights:
+    - 超薄壁节省关节空间
+    - 不锈钢具备耐腐蚀和耐低温性
+    - 四点接触可承受双向载荷
+    - 零背隙实现精确定位
+verified: false
+needs_review:
+  zh: true

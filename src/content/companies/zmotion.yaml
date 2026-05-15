@@ -1,0 +1,44 @@
+slug: zmotion
+name: Zmotion
+country: CN
+founded: 2013
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Zmotion
+  en: Zmotion logo
+  zh: Zmotion 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - controllers
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Zmotion специализируется на чисто китайской технологии управления движением — контроллер VPLC712 для зрения и движения поддерживает до 240 осей по EtherCAT.
+  highlights:
+    - Архитектура x86, синхронизация 64 осей за 1 мс
+    - Встроенные RS232, RS485, Ethernet, EtherCAT, USB
+    - 20 DI (4 высокоскоростных метки цвета), 20 DO (4 импульсных оси, 4 PWM)
+    - HDMI-выход, два Ethernet-порта с независимыми IP
+en:
+  description: |
+    Zmotion specializes in pure Chinese motion control technology with the VPLC712 vision & motion integrated controller supporting up to 240 axes via EtherCAT.
+  highlights:
+    - x86 architecture, 1ms 64-axis sync
+    - Onboard RS232, RS485, Ethernet, EtherCAT, USB
+    - 20 DI (4 high-speed color mark latch), 20 DO (4 high-speed pulse axes, 4 PWM)
+    - HDMI display, dual Ethernet with independent IP
+zh:
+  description: |
+    深圳市正运动技术有限公司专注于纯国产运动控制技术，VPLC712 视觉运动一体化控制器通过 EtherCAT 支持多达 240 轴。
+  highlights:
+    - x86 架构，1ms 64 轴同步
+    - 板载 RS232、RS485、以太网、EtherCAT、USB
+    - 20 DI（4 路高速色标锁存），20 DO（4 路高速脉冲轴、4 路 PWM）
+    - HDMI 显示，双独立 IP 以太网
+verified: false
+needs_review:
+  zh: true

@@ -1,0 +1,44 @@
+slug: cookoo-ai
+name: CookooAI
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип CookooAI
+  en: CookooAI logo
+  zh: CookooAI 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - controllers
+  - connectivity
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    CookooAI предоставляет системы ИИ-управления, включая центральные контроллеры XCU-AI, контроллеры хранения данных DSU-AI и облачно-граничные алгоритмические платформы ASS-AI для беспилотных машин и роботов.
+  highlights:
+    - Платформа AWS на базе Rockchip RK3588 (6 TOPS NPU)
+    - AWU402 на базе NVIDIA Orin NX/Nano (20–100 TOPS)
+    - AWU406 на базе NVIDIA AGX Orin (200–275 TOPS)
+    - Высокоточная интегрированная инерциальная навигация
+en:
+  description: |
+    CookooAI provides AI control systems including XCU-AI central controllers, DSU-AI data storage controllers, and ASS-AI cloud-to-end algorithm platforms for unmanned vehicles and robots.
+  highlights:
+    - AWS platform based on Rockchip RK3588 (6 TOPS NPU)
+    - AWU402 based on NVIDIA Orin NX/Nano (20-100 TOPS)
+    - AWU406 based on NVIDIA AGX Orin (200-275 TOPS)
+    - High-precision integrated inertial navigation
+zh:
+  description: |
+    布谷鸟同创科技提供 AI 控制系统，包括 XCU-AI 中央控制器、DSU-AI 数据存储控制器和 ASS-AI 云端到端算法平台，应用于无人车和机器人。
+  highlights:
+    - 基于 Rockchip RK3588（6 TOPS NPU）的 AWS 平台
+    - 基于 NVIDIA Orin NX/Nano（20–100 TOPS）的 AWU402
+    - 基于 NVIDIA AGX Orin（200–275 TOPS）的 AWU406
+    - 高精度组合惯性导航
+verified: false
+needs_review:
+  zh: true

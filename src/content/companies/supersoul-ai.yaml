@@ -1,0 +1,45 @@
+slug: supersoul-ai
+name: Supersoul AI
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Supersoul AI
+  en: Supersoul AI logo
+  zh: Supersoul AI 标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - actuators
+  - vision
+robot_products:
+  - name: Supersoul AI
+    short: Supersoul AI develops trinocular cameras with variable baseline for 3D vision, plus the Lingbo amphibious inspection rob
+key_clients: []
+ru:
+  description: |
+    Supersoul AI разрабатывает тринокулярные камеры с переменной базой для 3D-зрения, а также амфибийного инспекционного робота Lingbo и трансформируемого гусеничного робота Xunyuezhe.
+  highlights:
+    - "Тринокулярная камера: высокоточная аппаратная синхронизация, собственные алгоритмы глубины"
+    - "Lingbo YJR-LB330-V: колёсный амфибийный с док-станцией для дрона"
+    - "Xunyuezhe YJR-XYZ-V1D0: треугольные деформируемые гусеницы"
+    - Автономное открытие дверей, удаление препятствий, сбор образцов, спасение
+en:
+  description: |
+    Supersoul AI develops trinocular cameras with variable baseline for 3D vision, plus the Lingbo amphibious inspection robot and Xunyuezhe deformable tracked robot.
+  highlights:
+    - "Trinocular camera: high-precision synchronized hardware, self-developed depth algorithms"
+    - "Lingbo YJR-LB330-V: wheeled amphibious with drone dock"
+    - "Xunyuezhe YJR-XYZ-V1D0: triangular deformation tracks"
+    - Autonomous door opening, obstacle removal, sampling, rescue
+zh:
+  description: |
+    浙江超级灵魂人工智能研究院开发可变基线三目相机用于 3D 视觉，并推出灵波两栖巡检机器人和巡岳者可变形履带机器人。
+  highlights:
+    - 三目相机：高精度硬件同步、自研深度算法
+    - 灵波 YJR-LB330-V：轮式两栖配无人机机巢
+    - 巡岳者 YJR-XYZ-V1D0：三角变形履带
+    - 自主开门、排障、采样、救援
+verified: false
+needs_review:
+  zh: true

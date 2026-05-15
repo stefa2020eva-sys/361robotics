@@ -1,0 +1,43 @@
+slug: qianxiao-electronics
+name: Qianxiao Electronics
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Qianxiao Electronics
+  en: Qianxiao Electronics logo
+  zh: Qianxiao Electronics 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - connectivity
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Qianxiao Electronics производит мини-модули беспроводной ad-hoc сети SDR (QS010B-K) для связи дронов и роботов с децентрализованной многохопной mesh-сетью.
+  highlights:
+    - Поддержка точка-многоточка, цепная ретрансляция, mesh, гибридные топологии
+    - Интерфейсы SBUS, RS232, TTL, аудио
+    - Внешнее расширение 5G-модуля
+    - Application CPU SDK для видеокодирования, управления, ИИ
+en:
+  description: |
+    Qianxiao Electronics produces SDR wireless ad-hoc networking mini modules (QS010B-K) for drone and robot communication with decentralized multi-hop mesh networking.
+  highlights:
+    - Supports point-to-multipoint, chain relay, mesh, hybrid topologies
+    - SBUS, RS232, TTL, audio interfaces
+    - External 5G module expansion
+    - Application CPU SDK for video encoding, control, AI
+zh:
+  description: |
+    武汉纤效电子科技有限公司生产 SDR 无线自组网迷你模块（QS010B-K），用于无人机和机器人通信，支持去中心化多跳网状组网。
+  highlights:
+    - 支持点对多点、链路中继、网状、混合拓扑
+    - SBUS、RS232、TTL、音频接口
+    - 可外接 5G 模块
+    - 应用 CPU SDK 支持视频编码、控制、AI
+verified: false
+needs_review:
+  zh: true

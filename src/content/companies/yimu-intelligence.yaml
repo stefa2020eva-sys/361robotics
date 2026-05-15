@@ -1,0 +1,43 @@
+slug: yimu-intelligence
+name: Yimu Intelligence
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Yimu Intelligence
+  en: Yimu Intelligence logo
+  zh: Yimu Intelligence 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Yimu Intelligence разрабатывает биомиметические тактильные сенсоры на основе зрения с ультратонкой конструкцией (вдвое тоньше зарубежных аналогов) для роботизированных кистей.
+  highlights:
+    - Самый тонкий в мире коммерческий тактильный сенсор кончика пальца
+    - Разрешение по силе 0,005 Н, до 120 кадров/с
+    - Разрешение по деформации на микронном уровне
+    - Инженерный уровень износостойкости и термостабильности
+en:
+  description: |
+    Yimu Intelligence develops biomimetic vision-based tactile sensors with ultra-thin design (half the thickness of foreign competitors) for dexterous robotic hands.
+  highlights:
+    - World's thinnest commercial fingertip tactile sensor
+    - 0.005 N force resolution, up to 120 fps output
+    - Micron-level deformation resolution
+    - Engineering-grade durability and temperature stability
+zh:
+  description: |
+    一目标开发基于视觉的仿生触觉传感器，超薄设计（厚度仅为国外同类产品的一半），用于灵巧机械手。
+  highlights:
+    - 全球最薄商用指尖触觉传感器
+    - 0.005N 力分辨率，最高 120fps 输出
+    - 微米级形变分辨率
+    - 工程级耐用性和温度稳定性
+verified: false
+needs_review:
+  zh: true

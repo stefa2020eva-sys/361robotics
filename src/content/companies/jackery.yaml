@@ -1,0 +1,43 @@
+slug: jackery
+name: Jackery
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Jackery
+  en: Jackery logo
+  zh: Jackery 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - drives-power
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Jackery производит портативные зарядные станции, такие как 2000 Pro 2 с батареей LiFePO4 2042 Вт·ч, выходной мощностью 2200 Вт, ресурсом 4000 циклов и временем переключения ИБП <20 мс для уличных роботов и аварийного резервного питания.
+  highlights:
+    - Ёмкость 2 кВт·ч в корпусе размером с 1 кВт·ч
+    - Быстрая зарядка за 1 час
+    - "4000 циклов до 70% ёмкости"
+    - Конструктивная оптимизация CTB
+en:
+  description: |
+    Jackery produces portable power stations like the 2000 Pro 2 with 2042Wh LiFePO4 battery, 2200W output, 4000 cycle life, and <20ms UPS switching for outdoor robots and emergency backup.
+  highlights:
+    - 2kWh capacity in 1kWh-size body
+    - 1-hour fast charging
+    - "4000 cycles to 70% capacity"
+    - CTB structural optimization
+zh:
+  description: |
+    电小二生产便携式电源，如 2000 Pro 2，搭载 2042Wh 磷酸铁锂电池、2200W 输出、4000 次循环寿命、<20ms UPS 切换，适用于户外机器人和应急备用。
+  highlights:
+    - 1 千瓦时机身内 2 千瓦时容量
+    - 1 小时快充
+    - "4000 次循环保持 70% 容量"
+    - CTB 结构优化
+verified: false
+needs_review:
+  zh: true

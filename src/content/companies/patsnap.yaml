@@ -1,0 +1,44 @@
+slug: patsnap
+name: Patsnap
+country: CN
+founded: 2007
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Patsnap
+  en: Patsnap logo
+  zh: Patsnap 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - software-sdk
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Patsnap — платформа интеллекта инноваций на базе ИИ, предоставляющая ИИ-агентов для анализа патентов, технологического картирования и принятия R&D-решений на основе более 2 миллиардов точек данных.
+  highlights:
+    - "Платформа Eureka AI Agent освобождает 70% производительности"
+    - "Поиск новизны экономит 30% времени"
+    - Исследование технических решений с 2 недель до 2 часов
+    - Отчёт FTO за 15–30 минут
+en:
+  description: |
+    Patsnap is an AI-driven innovation intelligence platform providing AI agents for patent analysis, technology landscaping, and R&D decision-making with over 2 billion data points.
+  highlights:
+    - "Eureka AI Agent platform frees 70% of productivity"
+    - "Novelty search saves 30% of time"
+    - Technical solution exploration from 2 weeks to 2 hours
+    - FTO search report in 15-30 minutes
+zh:
+  description: |
+    智慧芽是 AI 驱动的创新情报平台，为专利分析、技术景观和 R&D 决策提供 AI 智能体，拥有 20 亿+ 数据点。
+  highlights:
+    - "Eureka AI 智能体平台释放 70% 生产力"
+    - "新颖性检索节省 30% 时间"
+    - 技术方案探索从 2 周缩短到 2 小时
+    - FTO 检索报告 15–30 分钟
+verified: false
+needs_review:
+  zh: true

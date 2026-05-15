@@ -1,0 +1,45 @@
+slug: lanhai-photoelectricity
+name: Lanhai Photoelectricity
+country: CN
+founded: 2006
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Lanhai Photoelectricity
+  en: Lanhai Photoelectricity logo
+  zh: Lanhai Photoelectricity 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+  - vision
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Lanhai Photoelectricity выпускает TOF-лазерные лидары, включая многолучевой LDS-M200-E (дальность 50 м, 360° по горизонтали, 10–60° по вертикали) и однолучевой LDS-E210 (дальность 30 м, IP65).
+  highlights:
+    - "LDS-M200-E: неповторяющееся сканирование, >200 кГц, IMU, PTPv2"
+    - "LDS-E210: 36 кГц точечной частоты, UART/Ethernet/Switch"
+    - Защита IP65
+    - Национальное предприятие «маленький гигант»
+en:
+  description: |
+    Lanhai Photoelectricity produces TOF laser lidars including the LDS-M200-E multi-line (50m range, 360° horizontal, 10-60° vertical) and LDS-E210 single-line (30m range, IP65).
+  highlights:
+    - "LDS-M200-E: non-repetitive scanning, >200kHz sampling, IMU, PTPv2 sync"
+    - "LDS-E210: 36kHz point frequency, UART/Ethernet/switch output"
+    - IP65 protection
+    - National "Little Giant" enterprise
+zh:
+  description: |
+    金华市蓝海光电技术有限公司生产 TOF 激光雷达，包括 LDS-M200-E 多线（50m 测距、360° 水平、10-60° 垂直）和 LDS-E210 单线（30m 测距、IP65）。
+  highlights:
+    - "LDS-M200-E：非重复扫描、>200kHz 采样、IMU、PTPv2 同步"
+    - LDS-E210：36kHz 点频、UART/以太网/交换机输出
+    - IP65 防护
+    - 国家级「小巨人」企业
+verified: false
+needs_review:
+  zh: true

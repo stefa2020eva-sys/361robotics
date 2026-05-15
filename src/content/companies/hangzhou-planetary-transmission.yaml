@@ -1,0 +1,44 @@
+slug: hangzhou-planetary-transmission
+name: Hangzhou Planetary Transmission
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Hangzhou Planetary Transmission
+  en: Hangzhou Planetary Transmission logo
+  zh: Hangzhou Planetary Transmission 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Hangzhou Planetary Transmission выпускает прецизионные планетарные редукторы, приводные системы для AGV/AMR и шарнирные модули гуманоидных роботов с высокой жёсткостью, износостойкостью и низкими передаточными отношениями.
+  highlights:
+    - 15 патентов на изобретения, более 30 патентов на полезные модели
+    - Планетарные редукторы для приводов, подъёма и поворота мобильных роботов
+    - Шарнирные модули для шеи, плеча, локтя, запястья, бедра, колена, лодыжки
+    - Высокая гибкость и оптимальное соотношение цена/качество
+en:
+  description: |
+    Hangzhou Planetary Transmission produces precision planetary reducers, AGV/AMR drive systems, and humanoid robot joint modules with high rigidity, wear resistance, and low reduction ratios.
+  highlights:
+    - 15 invention patents, 30+ utility patents
+    - Planetary reducers for mobile robot drive, lift, rotation
+    - Joint modules for humanoid neck, shoulder, elbow, wrist, hip, knee, ankle
+    - High flexibility and cost-effectiveness
+zh:
+  description: |
+    杭州行星传动设备有限公司生产精密行星减速器、AGV/AMR 驱动系统和人形机器人关节模组，具有高刚性、耐磨性和低减速比。
+  highlights:
+    - 15 项发明专利，30+ 实用新型专利
+    - 用于移动机器人驱动、举升、回转的行星减速器
+    - 人形机器人颈、肩、肘、腕、髋、膝、踝关节模组
+    - 高灵活性和高性价比
+verified: false
+needs_review:
+  zh: true

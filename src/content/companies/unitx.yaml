@@ -1,0 +1,44 @@
+slug: unitx
+name: UnitX
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип UnitX
+  en: UnitX logo
+  zh: UnitX 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - vision
+  - software-sdk
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    UnitX предоставляет ИИ-системы выявления поверхностных дефектов: интеллектуальную систему отображения OptiX (2^32 режимов освещения) и систему вывода глубокого обучения Cortex.
+  highlights:
+    - "OptiX: в 100 раз ярче традиционного света, 50 режимов/с, скорость на лету 1,0 м/с"
+    - "Cortex: обучение модели всего по 5 образцам на тип дефекта"
+    - Пиксельная детекция дефектов
+    - Обслуживает топ-10 мировых поставщиков автомобильного Tier 1
+en:
+  description: |
+    UnitX provides AI-based surface defect detection with the OptiX intelligent imaging system (2^32 lighting modes) and Cortex deep learning inference system.
+  highlights:
+    - "OptiX: 100x brighter than traditional light, 50 lighting modes/sec, 1.0 m/s flying speed"
+    - "Cortex: train model with only 5 samples per defect type"
+    - Pixel-level defect detection
+    - Serves top 10 global automotive Tier 1 suppliers
+zh:
+  description: |
+    个元科技提供基于 AI 的表面缺陷检测，包括 OptiX 智能成像系统（2^32 种照明模式）和 Cortex 深度学习推理系统。
+  highlights:
+    - OptiX：比传统光源亮 100 倍，每秒 50 种照明模式，飞拍速度 1.0 m/s
+    - Cortex：每种缺陷仅需 5 个样本即可训练模型
+    - 像素级缺陷检测
+    - 服务全球前 10 大汽车 Tier 1 供应商
+verified: false
+needs_review:
+  zh: true

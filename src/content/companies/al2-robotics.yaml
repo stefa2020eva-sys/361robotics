@@ -1,0 +1,44 @@
+slug: al2-robotics
+name: Al² Robotics
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Al² Robotics
+  en: Al² Robotics logo
+  zh: Al² Robotics 标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - actuators
+robot_products:
+  - name: AlphaBot 2
+    short: General-purpose intelligent humanoid robot
+key_clients: []
+ru:
+  description: |
+    Al² Robotics (Zhipingfang) производит AlphaBot 2 — универсального интеллектуального гуманоидного робота с пространственным интеллектом, обучаемостью и применением в автомобильной, полупроводниковой, биотех- и государственной сферах.
+  highlights:
+    - AGI-нативный гуманоидный робот производительного типа
+    - Воплощённая базовая модель AlphaBrain
+    - Развёрнут в полупроводниковом производстве, автомобилестроении, электронике, биотехе
+    - Замкнутый цикл данных + комбинирование сценариев
+en:
+  description: |
+    Al² Robotics (Zhipingfang) produces AlphaBot 2, a general-purpose intelligent humanoid robot with spatial intelligence, learning capabilities, and applications in automotive, semiconductor, biotech, and public services.
+  highlights:
+    - AGI-native, productivity-type humanoid robot
+    - AlphaBrain embodied foundation model
+    - Deployed in semiconductor manufacturing, automotive, electronics, biotech
+    - Data closed-loop + scenario compounding
+zh:
+  description: |
+    智平方生产 AlphaBot 2 通用智能人形机器人，具备空间智能和学习能力，应用于汽车、半导体、生物科技和公共服务领域。
+  highlights:
+    - AGI 原生、生产力型人形机器人
+    - AlphaBrain 具身基础模型
+    - 部署于半导体制造、汽车、电子、生物科技
+    - 数据闭环 + 场景复合
+verified: false
+needs_review:
+  zh: true

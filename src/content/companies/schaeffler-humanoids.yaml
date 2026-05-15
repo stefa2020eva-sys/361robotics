@@ -1,0 +1,44 @@
+slug: schaeffler-humanoids
+name: Schaeffler Humanoids
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Schaeffler Humanoids
+  en: Schaeffler Humanoids logo
+  zh: Schaeffler Humanoids 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+  - sensors
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Schaeffler Humanoids производит линейные шарнирные модули (с планетарными роликовинтовыми передачами), лёгкие интегрированные модули с волновыми редукторами и MEMS-датчики силы/момента для гуманоидных роботов.
+  highlights:
+    - "Линейный модуль: высокая тяга и жёсткость для ног и торса"
+    - "Волновой модуль: высокая точность для плеч/локтей/запястий"
+    - "MEMS-датчик силы: тензодатчики на полупроводниках или MEMS для 6-осевого детектирования"
+    - Часть группы Schaeffler — глобального лидера в технологиях движения
+en:
+  description: |
+    Schaeffler Humanoids produces linear joint modules (with planetary roller screws), lightweight integrated harmonic drive joint modules, and MEMS force/torque sensors for humanoid robots.
+  highlights:
+    - "Linear module: high thrust, high stiffness for legs and torso"
+    - "Harmonic module: high precision for shoulder/elbow/wrist"
+    - "MEMS force sensor: semiconductor strain gauge or MEMS for 6-axis detection"
+    - Under Schaeffler Group, global motion technology leader
+zh:
+  description: |
+    舍弗勒具身智能机器人（太仓）有限公司生产线性关节模组（搭载行星滚柱丝杠）、轻量化集成谐波关节模组及 MEMS 力/扭矩传感器，应用于人形机器人。
+  highlights:
+    - 线性模组：高推力、高刚性，用于腿部和躯干
+    - 谐波模组：高精度，用于肩、肘、腕
+    - MEMS 力传感器：半导体应变片或 MEMS 实现 6 轴检测
+    - 隶属舍弗勒集团，全球运动技术领导者
+verified: false
+needs_review:
+  zh: true

@@ -1,0 +1,45 @@
+slug: xinyi-transmission
+name: Xinyi Transmission
+country: CN
+founded: 2023
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Xinyi Transmission
+  en: Xinyi Transmission logo
+  zh: Xinyi Transmission 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Xinyi Transmission выпускает волновые редукторы (шляпного типа HSG25) с тестовым моментом 148 Н·м, ошибкой передачи 28 угл. сек., повторяемостью <10 угл. сек. и люфтом <10 угл. сек.
+  highlights:
+    - Тестовый момент в 1,5 раза выше, чем у конкурентов
+    - Более высокая точность передачи
+    - Полая модель для удобной проводки кабелей
+    - Более 30 лет наследия прецизионного производства
+en:
+  description: |
+    Xinyi Transmission produces harmonic reducers (cap type HSG25) with test torque 148 N·m, transmission error 28 arcsec, repeatability <10 arcsec, and backlash <10 arcsec.
+  highlights:
+    - Test torque 1.5x higher than peers
+    - Higher transmission accuracy
+    - Hollow model for easy wiring
+    - 30+ years of precision manufacturing heritage
+zh:
+  description: |
+    浙江新艺传动科技有限公司生产谐波减速器（帽型 HSG25），测试扭矩 148 N·m，传动误差 28 角秒，重复精度 <10 角秒，背隙 <10 角秒。
+  highlights:
+    - 测试扭矩比同行高 1.5 倍
+    - 更高的传动精度
+    - 中空型号便于走线
+    - 30+ 年精密制造传承
+verified: false
+needs_review:
+  zh: true

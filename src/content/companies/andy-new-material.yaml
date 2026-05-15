@@ -1,0 +1,43 @@
+slug: andy-new-material
+name: Andy New Material
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Andy New Material
+  en: Andy New Material logo
+  zh: Andy New Material 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Andy New Material поставляет интеллектуальные полимерные наноматериалы со скоростно-зависимой реакцией для облегчённых компонентов роботов, защитной экипировки и испытательных матов от падений.
+  highlights:
+    - 60+ национальных и международных патентов
+    - "Лёгкий полиуретан, на 30% легче металла"
+    - Высокая ударостойкость и точное поглощение энергии
+    - Поверхность, дружественная коже, для взаимодействия человек-робот
+en:
+  description: |
+    Andy New Material provides intelligent speed-responsive polymer nanomaterials for robot lightweight components, impact protection gear, and test anti-fall mats.
+  highlights:
+    - 60+ domestic and international patents
+    - "Lightweight polyurethane, 30% lighter than metal"
+    - High impact resistance and precise energy absorption
+    - Skin-friendly surface for HRI
+zh:
+  description: |
+    安迪上科提供智能速度响应型聚合物纳米材料，用于机器人轻量化部件、抗冲击防护装备和测试防摔垫。
+  highlights:
+    - 60+ 国内外专利
+    - "轻质聚氨酯，比金属轻 30%"
+    - 高抗冲击性和精确能量吸收
+    - 亲肤表面适用于人机交互
+verified: false
+needs_review:
+  zh: true

@@ -1,0 +1,43 @@
+slug: raysengine
+name: RaysEngine
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип RaysEngine
+  en: RaysEngine logo
+  zh: RaysEngine 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - software-sdk
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    RaysEngine предлагает платформу симуляции воплощённого интеллекта RaysTwins с облачно-нативным рендеринг-движком реального времени, поддержкой симуляции физики/сенсоров, параллельным обучением и ROS2-интеграцией.
+  highlights:
+    - "RaysEngine: полностекленный, поддерживает китайские GPU/NPU"
+    - "RaysTwins: от виртуального мира до генерации поведения агентов"
+    - "Снижает стоимость и цикл итерации R&D роботов"
+    - Применяется в цифровых двойниках, цифровых людях, XR
+en:
+  description: |
+    RaysEngine provides the RaysTwins embodied intelligence simulation platform with cloud-native real-time rendering engine, supporting physics/sensor simulation, parallel training, and ROS2 interconnection.
+  highlights:
+    - "RaysEngine: full-stack proprietary, supports domestic GPUs/NPUs"
+    - "RaysTwins: from virtual world to agent behavior generation"
+    - "Reduces robot R&D cost and iteration cycle"
+    - Used in digital twin, digital human, XR
+zh:
+  description: |
+    光线云（杭州）科技有限公司提供 RaysTwins 具身智能仿真平台，搭载云原生实时渲染引擎，支持物理/传感器仿真、并行训练和 ROS2 互联。
+  highlights:
+    - RaysEngine：全栈自研，支持国产 GPU/NPU
+    - RaysTwins：从虚拟世界到智能体行为生成
+    - 降低机器人研发成本和迭代周期
+    - 应用于数字孪生、数字人、XR
+verified: false
+needs_review:
+  zh: true

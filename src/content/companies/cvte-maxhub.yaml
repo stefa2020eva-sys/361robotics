@@ -1,0 +1,45 @@
+slug: cvte-maxhub
+name: CVTE (MAXHUB)
+country: CN
+founded: 2005
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип CVTE (MAXHUB)
+  en: CVTE (MAXHUB) logo
+  zh: CVTE (MAXHUB) 标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - actuators
+robot_products:
+  - name: CVTE (MAXHUB)
+    short: CVTE (MAXHUB) produces the A3 robotic arm, a 6-DOF lightweight collaborative arm with 700mm reach, 2kg rated payload (4k
+key_clients: []
+ru:
+  description: |
+    CVTE (MAXHUB) выпускает роботизированную руку A3 — лёгкий шестистепенный коллаборативный манипулятор с досягаемостью 700 мм, номинальной нагрузкой 2 кг (максимум 4 кг) и весом менее 6 кг.
+  highlights:
+    - "Скорость TCP >5 м/с, повторяемость ±0,5 мм"
+    - Plug-and-play конструкция с опциональными захватами и камерами
+    - Поддержка изоморфного и VR-управления
+    - Встроенное безопасное обнаружение столкновений
+en:
+  description: |
+    CVTE (MAXHUB) produces the A3 robotic arm, a 6-DOF lightweight collaborative arm with 700mm reach, 2kg rated payload (4kg max), and <6kg weight.
+  highlights:
+    - "TCP speed >5 m/s, repeatability ±0.5 mm"
+    - Plug-and-play design with optional grippers, cameras
+    - Supports isomorphic and VR teleoperation
+    - Built-in safety collision detection
+zh:
+  description: |
+    视源股份生产 A3 机械臂——6 自由度轻量协作机械臂，臂展 700 mm、额定负载 2kg（最大 4kg）、自重 <6kg。
+  highlights:
+    - "TCP 速度 >5 m/s，重复精度 ±0.5 mm"
+    - 即插即用，可选夹爪、相机
+    - 支持同构和 VR 遥操作
+    - 内置安全碰撞检测
+verified: false
+needs_review:
+  zh: true

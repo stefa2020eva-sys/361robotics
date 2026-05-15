@@ -1,0 +1,44 @@
+slug: crabnova
+name: Crabnova
+country: CN
+founded: 2019
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Crabnova
+  en: Crabnova logo
+  zh: Crabnova 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Crabnova выпускает серии интеллектуальных шарнирных модулей, охватывающих голову, запястье, плечо, локоть, колено, талию и бедро гуманоидных и четвероногих роботов.
+  highlights:
+    - R48/R58 для головы/запястья, R68/R83/R102 для плеча/локтя/талии, R120/R120 Max для бедра/талии
+    - 21-битные абсолютные двойные энкодеры
+    - Поддержка EtherCAT/CANOpen/CANFD, контур тока 20 кГц
+    - Опциональный датчик силы и тормоз
+en:
+  description: |
+    Crabnova produces series of intelligent joint modules covering head, wrist, shoulder, elbow, knee, waist, and hip joints for humanoid and quadruped robots.
+  highlights:
+    - R48/R58 for head/wrist, R68/R83/R102 for shoulder/elbow/waist, R120/R120 Max for hip/waist
+    - 21-bit absolute dual encoders
+    - EtherCAT/CANOpen/CANFD support, 20kHz current loop
+    - Optional force sensor and brake
+zh:
+  description: |
+    无锡巨蟹智能驱动科技有限公司生产覆盖头、腕、肩、肘、膝、腰、髋关节的智能关节模组，应用于人形和四足机器人。
+  highlights:
+    - R48/R58 头/腕、R68/R83/R102 肩/肘/腰、R120/R120 Max 髋/腰
+    - 21 位绝对值双编码器
+    - EtherCAT/CANOpen/CANFD 支持，20kHz 电流环
+    - 可选力传感器和制动器
+verified: false
+needs_review:
+  zh: true

@@ -1,0 +1,44 @@
+slug: minjia-manufacturing
+name: Minjia Manufacturing
+country: CN
+founded: 2001
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Minjia Manufacturing
+  en: Minjia Manufacturing logo
+  zh: Minjia Manufacturing 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Minjia Manufacturing поставляет шлифовальные центры ЧПУ для внутренней резьбошлифовки (SMK304) и комплексной шлифовки наружной резьбы (SWM1503) для производства шарико-винтовых и ходовых винтов.
+  highlights:
+    - Высокая производительность и точность обработки
+    - Поддержка производства ключевых компонентов роботов
+    - Председательствующее предприятие Гуанчжоуской ассоциации станкостроения
+    - Член совета Гуандунского центра инноваций ЧПУ высокого класса
+en:
+  description: |
+    Minjia Manufacturing provides CNC grinding centers for internal thread grinding (SMK304) and external thread composite grinding (SWM1503) for producing ball screws and lead screws.
+  highlights:
+    - High-efficiency and high-precision machining
+    - Supports robot core component manufacturing
+    - Chairman unit of Guangzhou Machine Tool Association
+    - Board member of Guangdong High-end CNC Innovation Center
+zh:
+  description: |
+    广州市敏嘉制造技术有限公司提供数控磨削中心，用于内螺纹磨削（SMK304）和外螺纹复合磨削（SWM1503），生产滚珠丝杠和滚柱丝杠。
+  highlights:
+    - 高效高精度加工
+    - 支撑机器人核心部件制造
+    - 广州机床协会理事长单位
+    - 广东省高端数控创新中心理事单位
+verified: false
+needs_review:
+  zh: true

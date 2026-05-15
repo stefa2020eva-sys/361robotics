@@ -1,0 +1,43 @@
+slug: cubemars
+name: CubeMars
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип CubeMars
+  en: CubeMars logo
+  zh: CubeMars 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    CubeMars (Kude Intelligent) выпускает интегрированные роботизированные приводы, включая AK10-9V3.0KV60 (планетарный 9:1), AKE90-8KV35 (квазипрямодействующий) и AK80-64KV80 (планетарный 64:1).
+  highlights:
+    - "AK10-9V: компактный бесщёточный двигатель + планетарный + драйвер, многоконтурное управление"
+    - "AKE90-8: высокая удельная моментная плотность, ультранизкий люфт для экзоскелетов"
+    - "AK80-64: низкая скорость, высокий момент, передача 64:1"
+    - 16 лет опыта в системах силовой передачи
+en:
+  description: |
+    CubeMars (Kude Intelligent) produces integrated robotic actuators including AK10-9V3.0KV60 (9:1 planetary), AKE90-8KV35 (quasi-direct drive), and AK80-64KV80 (64:1 planetary).
+  highlights:
+    - "AK10-9V: compact brushless motor + planetary + driver, multi-loop control"
+    - "AKE90-8: high torque density, ultra-low backlash for exoskeletons"
+    - "AK80-64: low-speed high-torque, 64:1 reduction"
+    - 16 years of power system experience
+zh:
+  description: |
+    南昌酷德智能科技有限公司生产集成机器人执行器，包括 AK10-9V3.0KV60（9:1 行星）、AKE90-8KV35（准直驱）、AK80-64KV80（64:1 行星）。
+  highlights:
+    - AK10-9V：紧凑无刷电机 + 行星 + 驱动器，多环控制
+    - AKE90-8：高扭矩密度、超低背隙，适用于外骨骼
+    - "AK80-64：低速大扭矩，64:1 减速比"
+    - 16 年动力系统经验
+verified: false
+needs_review:
+  zh: true

@@ -1,0 +1,43 @@
+slug: wenqing-intelligent-control
+name: Wenqing Intelligent Control
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Wenqing Intelligent Control
+  en: Wenqing Intelligent Control logo
+  zh: Wenqing Intelligent Control 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Wenqing Intelligent Control поставляет интеллектуальные модули жидкостного охлаждения для гуманоидных и четвероногих роботов, включая интегрированные охлаждающие терминалы T-Box, микроканальные холодные плиты и гибкую трубопроводную систему.
+  highlights:
+    - Максимальная тепловая мощность 600 Вт
+    - Автомобильный лёгкий электронный насос, многопортовый клапан
+    - Защита IP67
+    - Поддержка встраиваемых или контактных холодных плит для шарниров, чипов, доменных контроллеров, аккумуляторов
+en:
+  description: |
+    Wenqing Intelligent Control provides intelligent liquid cooling modules for humanoid and quadruped robots, including T-Box integrated cooling terminals, micro-channel cold plates, and flexible piping.
+  highlights:
+    - 600W max heat transfer power
+    - Automotive-grade lightweight electronic pump, multi-port valve
+    - IP67 protection
+    - Supports embedded or contact cold plates for joints, chips, domain controllers, batteries
+zh:
+  description: |
+    温馨智控（上海）机器人有限公司为人形和四足机器人提供智能液冷模组，包括 T-Box 一体式冷却终端、微通道冷板和柔性管路。
+  highlights:
+    - 最大热传输功率 600W
+    - 车规级轻量化电子水泵、多通阀
+    - IP67 防护
+    - 支持嵌入式或贴合式冷板（关节、芯片、域控、电池）
+verified: false
+needs_review:
+  zh: true

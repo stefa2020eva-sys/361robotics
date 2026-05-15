@@ -1,0 +1,43 @@
+slug: star-core-city
+name: Star Core City
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Star Core City
+  en: Star Core City logo
+  zh: Star Core City 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - connectivity
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Star Core City — международный спотовый дистрибьютор электронных компонентов, включая микросхемы, дискретные полупроводники, пассивные компоненты, разъёмы и модули NVIDIA Jetson AGX Thor.
+  highlights:
+    - Дистрибьютирует ST, ON, TI, Microchip, ADI, Maxim
+    - NVIDIA Jetson AGX Thor с 2000 TOPS (INT8)
+    - LPDDR5X 256 ГБ/с, 16x PCIe Gen5, 12x 10GbE
+    - Официальный партнёр NVIDIA
+en:
+  description: |
+    Star Core City is an international spot distributor of electronic components including ICs, discrete semiconductors, passives, connectors, and NVIDIA Jetson AGX Thor modules.
+  highlights:
+    - Distributes ST, ON, TI, Microchip, ADI, Maxim
+    - NVIDIA Jetson AGX Thor with 2000 TOPS (INT8)
+    - LPDDR5X 256GB/s, 16x PCIe Gen5, 12x 10GbE
+    - Official NVIDIA partner
+zh:
+  description: |
+    深圳市星际芯城科技有限公司是电子元器件国际现货分销商，包括 IC、分立半导体、无源器件、连接器和 NVIDIA Jetson AGX Thor 模组。
+  highlights:
+    - 代理 ST、ON、TI、Microchip、ADI、Maxim
+    - NVIDIA Jetson AGX Thor 2000 TOPS（INT8）
+    - LPDDR5X 256GB/s、16x PCIe Gen5、12x 10GbE
+    - NVIDIA 官方合作伙伴
+verified: false
+needs_review:
+  zh: true
