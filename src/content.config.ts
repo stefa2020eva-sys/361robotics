@@ -27,7 +27,7 @@ export const companySchema = z
     name: z.string().min(1),
     country: z.string().length(2).regex(/^[A-Z]{2}$/),
     founded: z.number().int().min(1800).max(2100).optional(),
-    website: z.string().url(),
+    website: z.string().url().optional(),
     logo: z.string(),
     logo_alt: i18nText,
     hero_image: z.string().optional(),
