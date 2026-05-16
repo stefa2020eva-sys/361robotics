@@ -3,7 +3,7 @@ name: Digit Technology
 website: https://www.digit.com.cn
 country: CN
 founded: 2024
-logo: ./logo.svg
+logo: /company-logos/digit-technology.png
 logo_alt:
   ru: Логотип Digit Technology
   en: Digit Technology logo

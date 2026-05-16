@@ -2,7 +2,7 @@ slug: seavo
 name: SEAVO
 website: https://www.seavo.com
 country: CN
-logo: ./logo.svg
+logo: /company-logos/seavo.ico
 logo_alt:
   ru: Логотип SEAVO
   en: SEAVO logo

@@ -3,7 +3,7 @@ name: Kunwei
 website: https://www.czkunweitech.com
 country: CN
 founded: 2018
-logo: ./logo.svg
+logo: /company-logos/kunwei.png
 logo_alt:
   ru: Логотип Kunwei
   en: Kunwei logo

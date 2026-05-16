@@ -2,7 +2,7 @@ slug: hdb-motor
 name: HDB Motor
 website: http://www.hamderburg.com
 country: CN
-logo: ./logo.svg
+logo: /company-logos/hdb-motor.ico
 logo_alt:
   ru: Логотип HDB Motor
   en: HDB Motor logo

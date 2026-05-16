@@ -2,7 +2,7 @@ slug: realman
 name: RealMan
 website: https://www.realman-robotics.com
 country: CN
-logo: ./logo.svg
+logo: /company-logos/realman.png
 logo_alt:
   ru: Логотип RealMan
   en: RealMan logo

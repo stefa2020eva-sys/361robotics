@@ -3,7 +3,7 @@ name: UBTECH
 website: https://www.ubtrobot.com
 country: CN
 founded: 2012
-logo: ./logo.svg
+logo: /company-logos/ubtech.svg
 logo_alt:
   ru: Логотип UBTECH
   en: UBTECH logo

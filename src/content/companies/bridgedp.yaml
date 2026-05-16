@@ -3,7 +3,7 @@ name: BridgeDP
 website: https://www.bridgedp.com
 country: CN
 founded: 2023
-logo: ./logo.svg
+logo: /company-logos/bridgedp.png
 logo_alt:
   ru: Логотип BridgeDP
   en: BridgeDP logo

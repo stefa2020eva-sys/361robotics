@@ -3,7 +3,7 @@ name: Leishen
 website: https://www.lslidar.com
 country: CN
 founded: 2015
-logo: ./logo.svg
+logo: /company-logos/leishen.png
 logo_alt:
   ru: Логотип Leishen
   en: Leishen logo

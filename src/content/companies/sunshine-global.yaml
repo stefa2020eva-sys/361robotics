@@ -3,7 +3,7 @@ name: Sunshine Global
 website: https://en.sunshinepcb.com
 country: CN
 founded: 2001
-logo: ./logo.svg
+logo: /company-logos/sunshine-global.png
 logo_alt:
   ru: Логотип Sunshine Global
   en: Sunshine Global logo

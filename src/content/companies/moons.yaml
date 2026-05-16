@@ -3,7 +3,7 @@ name: "MOONS'"
 website: https://www.moonsindustries.com
 country: CN
 founded: 1994
-logo: ./logo.svg
+logo: /company-logos/moons.png
 logo_alt:
   ru: "Логотип MOONS'"
   en: "MOONS' logo"

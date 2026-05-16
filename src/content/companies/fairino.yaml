@@ -3,7 +3,7 @@ name: FAIRINO
 website: https://www.fairino.com
 country: CN
 founded: 2019
-logo: ./logo.svg
+logo: /company-logos/fairino.svg
 logo_alt:
   ru: Логотип FAIRINO
   en: FAIRINO logo

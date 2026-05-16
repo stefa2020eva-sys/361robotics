@@ -2,7 +2,7 @@ slug: litra
 name: Litra
 website: https://litratech.com
 country: CN
-logo: ./logo.svg
+logo: /company-logos/litra.png
 logo_alt:
   ru: Логотип Litra
   en: Litra logo

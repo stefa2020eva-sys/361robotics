@@ -2,7 +2,7 @@ slug: giada
 name: Giada
 website: https://www.giadatech.com.cn
 country: CN
-logo: ./logo.svg
+logo: /company-logos/giada.png
 logo_alt:
   ru: Логотип Giada
   en: Giada logo

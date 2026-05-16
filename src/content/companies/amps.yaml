@@ -3,7 +3,7 @@ name: AMPS
 website: http://www.amps-tech.com
 country: CN
 founded: 2017
-logo: ./logo.svg
+logo: /company-logos/amps.png
 logo_alt:
   ru: Логотип AMPS
   en: AMPS logo

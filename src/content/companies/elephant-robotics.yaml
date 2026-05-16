@@ -3,7 +3,7 @@ name: Elephant Robotics
 website: https://www.elephantrobotics.com
 country: CN
 founded: 2016
-logo: ./logo.svg
+logo: /company-logos/elephant-robotics.png
 logo_alt:
   ru: Логотип Elephant Robotics
   en: Elephant Robotics logo

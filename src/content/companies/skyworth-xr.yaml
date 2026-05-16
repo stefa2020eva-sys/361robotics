@@ -3,7 +3,7 @@ name: Shenzhen Skyworth XR Technology Co., Ltd.
 website: https://www.skyworthxr.com
 country: CN
 founded: 2017
-logo: ./logo.svg
+logo: /company-logos/skyworth-xr.png
 logo_alt:
   ru: Логотип Skyworth XR
   en: Skyworth XR logo

@@ -3,7 +3,7 @@ name: Hongyuan Bearing
 website: https://en.honb.com
 country: CN
 founded: 2005
-logo: ./logo.svg
+logo: /company-logos/hongyuan-bearing.png
 logo_alt:
   ru: Логотип Hongyuan Bearing
   en: Hongyuan Bearing logo

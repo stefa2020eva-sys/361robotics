@@ -3,7 +3,7 @@ name: Boston Dynamics
 country: US
 founded: 1992
 website: https://www.bostondynamics.com
-logo: ./logo.svg
+logo: /company-logos/boston-dynamics.png
 logo_alt:
   ru: Логотип Boston Dynamics
   en: Boston Dynamics logo

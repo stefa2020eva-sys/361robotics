@@ -3,7 +3,7 @@ name: Schneider Optical Technologies
 website: https://schneiderkreuznach.com
 country: CN
 founded: 2008
-logo: ./logo.svg
+logo: /company-logos/schneider-optical-tech.png
 logo_alt:
   ru: Логотип Schneider Optical Technologies
   en: Schneider Optical Technologies logo

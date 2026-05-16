@@ -3,7 +3,7 @@ name: DH-Robotics
 website: https://en.dh-robotics.com
 country: CN
 founded: 2016
-logo: ./logo.svg
+logo: /company-logos/dh-robotics.png
 logo_alt:
   ru: Логотип DH-Robotics
   en: DH-Robotics logo

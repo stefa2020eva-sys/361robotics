@@ -2,7 +2,7 @@ slug: kyland
 name: Kyland
 website: https://kyland.com.cn
 country: CN
-logo: ./logo.svg
+logo: /company-logos/kyland.png
 logo_alt:
   ru: Логотип Kyland
   en: Kyland logo

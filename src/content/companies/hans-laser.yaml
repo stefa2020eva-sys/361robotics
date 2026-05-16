@@ -3,7 +3,7 @@ name: "Han's Laser"
 website: https://www.hanslaser.com
 country: CN
 founded: 1996
-logo: ./logo.svg
+logo: /company-logos/hans-laser.png
 logo_alt:
   ru: "Логотип Han's Laser"
   en: "Han's Laser logo"

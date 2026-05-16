@@ -2,7 +2,7 @@ slug: schunk
 name: SCHUNK
 website: https://schunk.com
 country: CN
-logo: ./logo.svg
+logo: /company-logos/schunk.png
 logo_alt:
   ru: Логотип SCHUNK
   en: SCHUNK logo

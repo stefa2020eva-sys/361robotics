@@ -3,7 +3,7 @@ name: Kinco Automation
 website: https://www.kinco.cn
 country: CN
 founded: 1996
-logo: ./logo.svg
+logo: /company-logos/kinco.ico
 logo_alt:
   ru: Логотип Kinco
   en: Kinco logo

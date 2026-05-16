@@ -3,7 +3,7 @@ name: NIIC Technology
 website: https://www.niic.net.cn
 country: CN
 founded: 2017
-logo: ./logo.svg
+logo: /company-logos/niic-technology.png
 logo_alt:
   ru: Логотип NIIC Technology
   en: NIIC Technology logo

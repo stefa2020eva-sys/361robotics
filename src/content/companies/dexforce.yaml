@@ -3,7 +3,7 @@ name: DexForce (Shenzhen) Intelligent Digital Technology Co., Ltd.
 website: https://dexforce.com
 country: CN
 founded: 2021
-logo: ./logo.svg
+logo: /company-logos/dexforce.png
 logo_alt:
   ru: Логотип DexForce
   en: DexForce logo

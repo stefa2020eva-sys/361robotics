@@ -3,7 +3,7 @@ name: CATIC TAIKEE
 website: https://www.catictaikee.com
 country: CN
 founded: 2025
-logo: ./logo.svg
+logo: /company-logos/catic-taikee.png
 logo_alt:
   ru: Логотип CATIC TAIKEE
   en: CATIC TAIKEE logo

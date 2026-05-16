@@ -3,7 +3,7 @@ name: Weltronics Co., Ltd.
 website: https://www.weltronics.com.cn
 country: CN
 founded: 1984
-logo: ./logo.svg
+logo: /company-logos/weltronics.png
 logo_alt:
   ru: Логотип Weltronics
   en: Weltronics logo

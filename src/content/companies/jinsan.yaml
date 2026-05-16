@@ -3,7 +3,7 @@ name: Jinsan
 website: https://warmcore-tech.com
 country: CN
 founded: 2010
-logo: ./logo.svg
+logo: /company-logos/jinsan.svg
 logo_alt:
   ru: Логотип Jinsan
   en: Jinsan logo

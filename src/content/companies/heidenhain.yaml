@@ -3,7 +3,7 @@ name: HEIDENHAIN
 country: DE
 founded: 1889
 website: https://www.heidenhain.com
-logo: ./logo.svg
+logo: /company-logos/heidenhain.jpg
 logo_alt:
   ru: Логотип HEIDENHAIN
   en: HEIDENHAIN logo
