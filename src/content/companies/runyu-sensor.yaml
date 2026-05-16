@@ -3,7 +3,7 @@ name: Runyu Sensor
 website: http://www.runyusensor.com
 country: CN
 founded: 2015
-logo: ./logo.svg
+logo: /company-logos/runyu-sensor.png
 logo_alt:
   ru: Логотип Runyu Sensor
   en: Runyu Sensor logo

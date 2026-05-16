@@ -3,7 +3,7 @@ name: Knowin Intelligent
 website: https://www.knowinai.com
 country: CN
 founded: 2025
-logo: ./logo.svg
+logo: /company-logos/knowin-intelligent.jpg
 logo_alt:
   ru: Логотип Knowin Intelligent
   en: Knowin Intelligent logo

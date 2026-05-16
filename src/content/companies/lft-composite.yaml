@@ -2,7 +2,7 @@ slug: lft-composite
 name: LFT Composite
 website: https://www.lft-g.com
 country: CN
-logo: ./logo.svg
+logo: /company-logos/lft-composite.png
 logo_alt:
   ru: Логотип LFT Composite
   en: LFT Composite logo
