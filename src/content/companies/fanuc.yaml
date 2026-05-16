@@ -3,7 +3,7 @@ name: FANUC
 country: JP
 founded: 1956
 website: https://www.fanuc.com
-logo: ./logo.svg
+logo: /company-logos/fanuc.png
 logo_alt:
   ru: Логотип FANUC
   en: FANUC logo

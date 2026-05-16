@@ -3,7 +3,7 @@ name: Inspire Robots
 country: CN
 founded: 2016
 website: https://www.inspire-robots.com
-logo: ./logo.svg
+logo: /company-logos/inspire-robots.ico
 logo_alt:
   ru: Логотип Inspire Robots
   en: Inspire Robots logo

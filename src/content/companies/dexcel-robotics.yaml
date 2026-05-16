@@ -3,7 +3,7 @@ name: Dexcel Robotics
 website: https://www.dexcelbot.com
 country: CN
 founded: 2024
-logo: ./logo.svg
+logo: /company-logos/dexcel-robotics.ico
 logo_alt:
   ru: Логотип Dexcel Robotics
   en: Dexcel Robotics logo

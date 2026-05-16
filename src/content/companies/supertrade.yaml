@@ -3,7 +3,7 @@ name: Supertrade Co., Ltd.
 website: https://www.supertrade.com.tw
 country: CN
 founded: 1978
-logo: ./logo.svg
+logo: /company-logos/supertrade.png
 logo_alt:
   ru: Логотип Supertrade
   en: Supertrade logo

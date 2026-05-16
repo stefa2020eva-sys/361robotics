@@ -2,7 +2,7 @@ slug: fourier
 name: Fourier
 website: https://fftai.com
 country: CN
-logo: ./logo.svg
+logo: /company-logos/fourier.ico
 logo_alt:
   ru: Логотип Fourier
   en: Fourier logo

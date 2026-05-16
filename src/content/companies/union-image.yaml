@@ -2,7 +2,7 @@ slug: union-image
 name: Union Image
 website: https://www.unionimage.com
 country: CN
-logo: ./logo.svg
+logo: /company-logos/union-image.ico
 logo_alt:
   ru: Логотип Union Image
   en: Union Image logo

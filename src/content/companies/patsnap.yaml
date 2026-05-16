@@ -3,7 +3,7 @@ name: Patsnap
 website: https://www.patsnap.com
 country: CN
 founded: 2007
-logo: ./logo.svg
+logo: /company-logos/patsnap.png
 logo_alt:
   ru: Логотип Patsnap
   en: Patsnap logo

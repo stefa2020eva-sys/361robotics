@@ -3,7 +3,7 @@ name: Matrix Technology
 website: https://www.moxiantech.com
 country: CN
 founded: 2021
-logo: ./logo.svg
+logo: /company-logos/matrix-technology.ico
 logo_alt:
   ru: Логотип Matrix Technology
   en: Matrix Technology logo

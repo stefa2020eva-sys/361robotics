@@ -2,7 +2,7 @@ slug: wellwit-robotics
 name: Wellwit Robotics
 website: https://www.wellwit.com.cn
 country: CN
-logo: ./logo.svg
+logo: /company-logos/wellwit-robotics.ico
 logo_alt:
   ru: Логотип Wellwit Robotics
   en: Wellwit Robotics logo

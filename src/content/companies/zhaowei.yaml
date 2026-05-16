@@ -3,7 +3,7 @@ name: ZHAOWEI
 website: https://www.zwhand.com
 country: CN
 founded: 2001
-logo: ./logo.svg
+logo: /company-logos/zhaowei.ico
 logo_alt:
   ru: Логотип ZHAOWEI
   en: ZHAOWEI logo

@@ -3,7 +3,7 @@ name: Crabnova
 website: https://www.juxiedrive.com
 country: CN
 founded: 2019
-logo: ./logo.svg
+logo: /company-logos/crabnova.ico
 logo_alt:
   ru: Логотип Crabnova
   en: Crabnova logo

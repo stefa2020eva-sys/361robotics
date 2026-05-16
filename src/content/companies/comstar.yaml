@@ -3,7 +3,7 @@ name: Shenzhen Comstar Technology Co., Ltd.
 website: http://www.cstipc.com
 country: CN
 founded: 2009
-logo: ./logo.svg
+logo: /company-logos/comstar.png
 logo_alt:
   ru: Логотип Comstar
   en: Comstar logo

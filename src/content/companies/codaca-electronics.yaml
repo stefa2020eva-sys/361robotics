@@ -3,7 +3,7 @@ name: Codaca Electronics
 website: https://www.codaca.com
 country: CN
 founded: 2001
-logo: ./logo.svg
+logo: /company-logos/codaca-electronics.png
 logo_alt:
   ru: Логотип Codaca Electronics
   en: Codaca Electronics logo

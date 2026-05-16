@@ -3,7 +3,7 @@ name: DECO
 website: https://www.decosemi.com
 country: CN
 founded: 2021
-logo: ./logo.svg
+logo: /company-logos/deco.png
 logo_alt:
   ru: Логотип DECO
   en: DECO logo

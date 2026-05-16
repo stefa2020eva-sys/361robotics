@@ -3,7 +3,7 @@ name: Minjia Manufacturing
 website: https://en.elecmj.com
 country: CN
 founded: 2001
-logo: ./logo.svg
+logo: /company-logos/minjia-manufacturing.png
 logo_alt:
   ru: Логотип Minjia Manufacturing
   en: Minjia Manufacturing logo

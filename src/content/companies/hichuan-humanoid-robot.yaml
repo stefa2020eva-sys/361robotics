@@ -3,7 +3,7 @@ name: Hichuan Humanoid Robot
 website: https://www.hcfa.cn
 country: CN
 founded: 2024
-logo: ./logo.svg
+logo: /company-logos/hichuan-humanoid-robot.ico
 logo_alt:
   ru: Логотип Hichuan Humanoid Robot
   en: Hichuan Humanoid Robot logo

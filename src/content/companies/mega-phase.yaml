@@ -2,7 +2,7 @@ slug: mega-phase
 name: Mega Phase
 website: https://en.megaphase3d.com
 country: CN
-logo: ./logo.svg
+logo: /company-logos/mega-phase.png
 logo_alt:
   ru: Логотип Mega Phase
   en: Mega Phase logo

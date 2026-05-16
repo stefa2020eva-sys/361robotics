@@ -3,7 +3,7 @@ name: Leju Robotics
 website: https://www.lejurobot.com
 country: CN
 founded: 2016
-logo: ./logo.svg
+logo: /company-logos/leju-robotics.png
 logo_alt:
   ru: Логотип Leju Robotics
   en: Leju Robotics logo

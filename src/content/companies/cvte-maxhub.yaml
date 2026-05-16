@@ -3,7 +3,7 @@ name: CVTE (MAXHUB)
 website: https://www.cvte.com
 country: CN
 founded: 2005
-logo: ./logo.svg
+logo: /company-logos/cvte-maxhub.png
 logo_alt:
   ru: Логотип CVTE (MAXHUB)
   en: CVTE (MAXHUB) logo

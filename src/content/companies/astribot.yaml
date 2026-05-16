@@ -3,7 +3,7 @@ name: Astribot
 website: https://www.astribot.com
 country: CN
 founded: 2022
-logo: ./logo.svg
+logo: /company-logos/astribot.ico
 logo_alt:
   ru: Логотип Astribot
   en: Astribot logo

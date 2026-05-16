@@ -3,7 +3,7 @@ name: KingKong Technology
 website: https://kingkong.tech
 country: CN
 founded: 2017
-logo: ./logo.svg
+logo: /company-logos/kingkong-technology.png
 logo_alt:
   ru: Логотип KingKong Technology
   en: KingKong Technology logo

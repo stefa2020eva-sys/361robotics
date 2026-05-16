@@ -3,7 +3,7 @@ name: PRS
 website: https://www.prsbearings.com
 country: CN
 founded: 2003
-logo: ./logo.svg
+logo: /company-logos/prs.png
 logo_alt:
   ru: Логотип PRS
   en: PRS logo

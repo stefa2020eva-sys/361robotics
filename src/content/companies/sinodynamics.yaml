@@ -2,7 +2,7 @@ slug: sinodynamics
 name: SinoDynamics
 website: https://www.sino-dynamics.com
 country: CN
-logo: ./logo.svg
+logo: /company-logos/sinodynamics.png
 logo_alt:
   ru: Логотип SinoDynamics
   en: SinoDynamics logo

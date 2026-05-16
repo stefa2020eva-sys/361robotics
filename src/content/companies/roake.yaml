@@ -2,7 +2,7 @@ slug: roake
 name: ROAKE
 website: https://www.rokae.com
 country: CN
-logo: ./logo.svg
+logo: /company-logos/roake.ico
 logo_alt:
   ru: Логотип ROAKE
   en: ROAKE logo

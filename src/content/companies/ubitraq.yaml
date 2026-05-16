@@ -3,7 +3,7 @@ name: UbiTraq
 website: https://www.ubitraq.com
 country: CN
 founded: 2016
-logo: ./logo.svg
+logo: /company-logos/ubitraq.ico
 logo_alt:
   ru: Логотип UbiTraq
   en: UbiTraq logo

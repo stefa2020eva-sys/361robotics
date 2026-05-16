@@ -3,7 +3,7 @@ name: DXY Technology
 website: https://www.dxytech.com
 country: CN
 founded: 2009
-logo: ./logo.svg
+logo: /company-logos/dxy-technology.png
 logo_alt:
   ru: Логотип DXY Technology
   en: DXY Technology logo

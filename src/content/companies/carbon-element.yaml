@@ -3,7 +3,7 @@ name: Carbon Element
 website: https://www.carbonele.com
 country: CN
 founded: 2019
-logo: ./logo.svg
+logo: /company-logos/carbon-element.png
 logo_alt:
   ru: Логотип Carbon Element
   en: Carbon Element logo

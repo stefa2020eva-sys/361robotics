@@ -2,7 +2,7 @@ slug: sycsense
 name: Sycsense
 website: http://www.sycsense.com
 country: CN
-logo: ./logo.svg
+logo: /company-logos/sycsense.png
 logo_alt:
   ru: Логотип Sycsense
   en: Sycsense logo

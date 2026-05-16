@@ -2,7 +2,7 @@ slug: hengtong
 name: Hengtong
 website: https://www.hengtonggroup.com
 country: CN
-logo: ./logo.svg
+logo: /company-logos/hengtong.ico
 logo_alt:
   ru: Логотип Hengtong
   en: Hengtong logo

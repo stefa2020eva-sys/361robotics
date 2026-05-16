@@ -3,7 +3,7 @@ name: DINGS' Motion
 website: https://www.dingsmotion.com
 country: CN
 founded: 2008
-logo: ./logo.svg
+logo: /company-logos/dings-motion.ico
 logo_alt:
   ru: Логотип DINGS' Motion
   en: DINGS' Motion logo

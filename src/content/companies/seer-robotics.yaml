@@ -3,7 +3,7 @@ name: SEER Robotics
 website: https://seer-robotics.ai
 country: CN
 founded: 2020
-logo: ./logo.svg
+logo: /company-logos/seer-robotics.ico
 logo_alt:
   ru: Логотип SEER Robotics
   en: SEER Robotics logo

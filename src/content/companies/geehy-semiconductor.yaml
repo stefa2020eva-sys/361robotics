@@ -2,7 +2,7 @@ slug: geehy-semiconductor
 name: Geehy Semiconductor
 website: https://www.geehy.com
 country: CN
-logo: ./logo.svg
+logo: /company-logos/geehy-semiconductor.ico
 logo_alt:
   ru: Логотип Geehy Semiconductor
   en: Geehy Semiconductor logo

@@ -3,7 +3,7 @@ name: Artery Technology
 website: https://www.arterytek.com
 country: CN
 founded: 2016
-logo: ./logo.svg
+logo: /company-logos/artery.png
 logo_alt:
   ru: Логотип Artery
   en: Artery logo

@@ -3,7 +3,7 @@ name: Melexis
 country: BE
 founded: 1989
 website: https://www.melexis.com
-logo: ./logo.svg
+logo: /company-logos/melexis.ico
 logo_alt:
   ru: Логотип Melexis
   en: Melexis logo

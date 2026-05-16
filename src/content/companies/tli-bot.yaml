@@ -3,7 +3,7 @@ name: Sichuan Tianlian Intelligent Robot Co., Ltd. (TLI Bot)
 website: https://www.tlibot.com
 country: CN
 founded: 2012
-logo: ./logo.svg
+logo: /company-logos/tli-bot.ico
 logo_alt:
   ru: Логотип TLI Bot
   en: TLI Bot logo

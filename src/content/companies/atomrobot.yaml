@@ -3,7 +3,7 @@ name: Atomrobot
 website: https://www.atomrobot.com
 country: CN
 founded: 2013
-logo: ./logo.svg
+logo: /company-logos/atomrobot.ico
 logo_alt:
   ru: Логотип Atomrobot
   en: Atomrobot logo

@@ -2,7 +2,7 @@ slug: ruiyan-robot
 name: Ruiyan Robot
 country: CN
 website: https://www.ruiyanrobot.com
-logo: ./logo.svg
+logo: /company-logos/ruiyan-robot.png
 logo_alt:
   ru: Логотип Ruiyan Robot
   en: Ruiyan Robot logo

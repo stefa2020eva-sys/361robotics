@@ -3,7 +3,7 @@ name: DeepMirror
 website: https://www.deepmirror.com.cn
 country: CN
 founded: 2019
-logo: ./logo.svg
+logo: /company-logos/deepmirror.png
 logo_alt:
   ru: Логотип DeepMirror
   en: DeepMirror logo

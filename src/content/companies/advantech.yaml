@@ -3,7 +3,7 @@ name: Advantech
 website: https://www.advantech.com
 country: TW
 founded: 1983
-logo: ./logo.svg
+logo: /company-logos/advantech.ico
 logo_alt:
   ru: Логотип Advantech
   en: Advantech logo

@@ -3,7 +3,7 @@ name: Chaodechuang
 website: https://www.cdcjd.com
 country: CN
 founded: 2014
-logo: ./logo.svg
+logo: /company-logos/chaodechuang.ico
 logo_alt:
   ru: Логотип Chaodechuang
   en: Chaodechuang logo

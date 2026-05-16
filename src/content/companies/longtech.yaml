@@ -2,7 +2,7 @@ slug: longtech
 name: Longtech
 website: https://en.longtech.cc
 country: CN
-logo: ./logo.svg
+logo: /company-logos/longtech.ico
 logo_alt:
   ru: Логотип Longtech
   en: Longtech logo

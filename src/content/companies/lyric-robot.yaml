@@ -3,7 +3,7 @@ name: Lyric Robot
 website: https://www.lyric-robot.com
 country: CN
 founded: 2014
-logo: ./logo.svg
+logo: /company-logos/lyric-robot.ico
 logo_alt:
   ru: Логотип Lyric Robot
   en: Lyric Robot logo

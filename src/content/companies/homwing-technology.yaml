@@ -2,7 +2,7 @@ slug: homwing-technology
 name: Homwing Technology
 website: https://en.homwing.com
 country: CN
-logo: ./logo.svg
+logo: /company-logos/homwing-technology.png
 logo_alt:
   ru: Логотип Homwing Technology
   en: Homwing Technology logo

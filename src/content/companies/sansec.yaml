@@ -3,7 +3,7 @@ name: Sansec
 website: https://www.sansec.com.cn
 country: CN
 founded: 2008
-logo: ./logo.svg
+logo: /company-logos/sansec.ico
 logo_alt:
   ru: Логотип Sansec
   en: Sansec logo

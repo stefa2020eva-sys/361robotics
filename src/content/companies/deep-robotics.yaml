@@ -3,7 +3,7 @@ name: Deep Robotics
 website: https://www.deeprobotics.cn
 country: CN
 founded: 2017
-logo: ./logo.svg
+logo: /company-logos/deep-robotics.ico
 logo_alt:
   ru: Логотип Deep Robotics
   en: Deep Robotics logo

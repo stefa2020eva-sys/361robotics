@@ -3,7 +3,7 @@ name: TWOWIN Technology
 website: https://twowinit.com
 country: CN
 founded: 2011
-logo: ./logo.svg
+logo: /company-logos/twowin-technology.ico
 logo_alt:
   ru: Логотип TWOWIN Technology
   en: TWOWIN Technology logo

@@ -3,7 +3,7 @@ name: JEO
 website: https://www.jeomotor.com
 country: CN
 founded: 2011
-logo: ./logo.svg
+logo: /company-logos/jeo.ico
 logo_alt:
   ru: Логотип JEO
   en: JEO logo

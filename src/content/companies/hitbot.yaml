@@ -3,7 +3,7 @@ name: Hitbot Technology (Shenzhen) Co., Ltd.
 website: https://www.hitbotrobot.com
 country: CN
 founded: 2015
-logo: ./logo.svg
+logo: /company-logos/hitbot.png
 logo_alt:
   ru: Логотип Hitbot
   en: Hitbot logo

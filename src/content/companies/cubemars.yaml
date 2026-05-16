@@ -2,7 +2,7 @@ slug: cubemars
 name: CubeMars
 website: https://www.cubemars.com
 country: CN
-logo: ./logo.svg
+logo: /company-logos/cubemars.ico
 logo_alt:
   ru: Логотип CubeMars
   en: CubeMars logo

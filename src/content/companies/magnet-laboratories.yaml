@@ -3,7 +3,7 @@ name: Magnet Laboratories
 website: https://szmglb.com
 country: CN
 founded: 1979
-logo: ./logo.svg
+logo: /company-logos/magnet-laboratories.ico
 logo_alt:
   ru: Логотип Magnet Laboratories
   en: Magnet Laboratories logo

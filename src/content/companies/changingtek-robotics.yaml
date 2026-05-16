@@ -3,7 +3,7 @@ name: Changingtek Robotics
 website: https://www.changingtek.com
 country: CN
 founded: 2018
-logo: ./logo.svg
+logo: /company-logos/changingtek-robotics.ico
 logo_alt:
   ru: Логотип Changingtek Robotics
   en: Changingtek Robotics logo

@@ -3,7 +3,7 @@ name: Best of Best Holdings
 website: http://www.bobholdings.com
 country: CN
 founded: 2014
-logo: ./logo.svg
+logo: /company-logos/best-of-best-holdings.png
 logo_alt:
   ru: Логотип Best of Best Holdings
   en: Best of Best Holdings logo
