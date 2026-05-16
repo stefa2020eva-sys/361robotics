@@ -1,7 +1,8 @@
 slug: davos-tech-summit
 name: Davos Tech Summit
+website: https://davostechsummit.com
 country: CH
-logo: ./logo.svg
+logo: /company-logos/davos-tech-summit.png
 logo_alt:
   ru: Логотип Davos Tech Summit
   en: Davos Tech Summit logo
