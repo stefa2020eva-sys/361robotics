@@ -1,0 +1,46 @@
+slug: link-touch
+name: Link-Touch
+country: CN
+founded: 2019
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Link-Touch
+  en: Link-Touch logo
+  zh: 蓝点触控标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Link-Touch (蓝点触控) производит шестиосевые датчики силы/момента для запястий и голеней гуманоидных роботов
+    с точностью 0,1 % FS, частотой 10 кГц и 5-кратным запасом по перегрузке. Занимает 70–80 % внутреннего рынка.
+  highlights:
+    - 80 % внутреннего рынка шестиосевых датчиков для гуманоидных роботов в Китае
+    - Точность 0,1 % FS, частота 10 кГц
+    - 100 % отечественные ключевые компоненты
+    - Поставки в Zhiyuan, Xiaomi, UBTECH, Пекинский центр инноваций гуманоидных роботов
+en:
+  description: |
+    Link-Touch provides six-axis force/torque sensors for humanoid robot wrists and ankles with 0.1% FS accuracy, 10kHz response, and 5x overload capacity, holding 70-80% domestic market share.
+  highlights:
+    - 80% market share in China humanoid robot six-axis sensors
+    - 0.1% FS accuracy, 10kHz frequency
+    - 100% domestically produced core components
+    - Serves Zhiyuan, Xiaomi, UBTECH, Beijing Humanoid Robot Innovation Center
+zh:
+  description: |
+    蓝点触控（北京）科技有限公司 (Link-Touch) 为人形机器人腕部和踝部提供六轴力/力矩传感器，
+    精度 0.1% FS、响应 10 kHz、5 倍过载能力，国内市场份额达 70%–80%。
+  highlights:
+    - 中国人形机器人六轴传感器市场份额 80%
+    - 0.1% FS 精度，10 kHz 频率
+    - 核心元器件 100% 国产
+    - 服务智元、小米、优必选、北京人形机器人创新中心
+verified: false
+needs_review:
+  zh: true

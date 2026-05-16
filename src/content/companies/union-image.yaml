@@ -1,0 +1,45 @@
+slug: union-image
+name: Union Image
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Union Image
+  en: Union Image logo
+  zh: 联合影像标志
+type:
+  - component_maker
+featured: false
+categories:
+  - vision
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Union Image (联合影像) предоставляет глубинные камеры для роботов и AIoT, охватывающие диапазон от 7 см до 8 м,
+    с четырьмя технологическими маршрутами (пассивное стерео, структурированный свет, iToF+RGB, dToF) и первым в мире однокристальным слиянием iToF+RGB.
+  highlights:
+    - Первое в мире однокристальное слияние iToF+RGB (нулевой параллакс)
+    - Уличное использование при 100 кЛк, ошибка <1 %
+    - Глубинная точность ≤3 см, FOV до 120°×90°
+    - Компактный размер 24,8 × 19 × 14 мм (Pulse-1100)
+en:
+  description: |
+    Union Image provides depth cameras for robots and AIoT covering 7cm to 8m range, with four technology routes (passive stereo, structured light, iToF+RGB, dToF) and global first iToF+RGB single-chip fusion.
+  highlights:
+    - World-first iToF+RGB single-chip fusion (zero parallax)
+    - Outdoor 100klx sunlight error <1%
+    - Depth accuracy ≤3cm, FOV up to 120°×90°
+    - Compact size 24.8×19×14mm (Pulse-1100)
+zh:
+  description: |
+    联合影像 (Union Image) 为机器人和 AIoT 提供深度相机，覆盖 7 cm 至 8 m 范围，
+    具备四种技术路线（被动双目、结构光、iToF+RGB、dToF），并率先实现 iToF+RGB 单芯片融合。
+  highlights:
+    - 全球首颗 iToF+RGB 单芯片融合（零视差）
+    - 室外 10 万 lx 阳光下误差 <1%
+    - 深度精度 ≤3 cm，FOV 最高 120°×90°
+    - 尺寸紧凑 24.8×19×14 mm (Pulse-1100)
+verified: false
+needs_review:
+  zh: true

@@ -1,0 +1,45 @@
+slug: order-force-intelligence
+name: Order Force Intelligence
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Order Force Intelligence
+  en: Order Force Intelligence logo
+  zh: 序力智能标志
+type:
+  - component_maker
+featured: false
+categories:
+  - controllers
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Order Force Intelligence (序力智能) предоставляет шестистепенное гаптическое устройство с силовой обратной связью HFD-6
+    для телеоперации роботов, виртуального моделирования и сбора данных с точностью на уровне импорта по цене в 1/5.
+  highlights:
+    - Первое полностью собственное коммерческое решение с силовой обратной связью в Китае
+    - 6 DOF, перо-наконечник, абсолютный энкодер
+    - Цена в 5 раз ниже импортных аналогов
+    - Сертификации CE и Japan PSE, применяется в хирургическом обучении и сборе данных
+en:
+  description: |
+    Order Force Intelligence provides the HFD-6 six-degree-of-freedom force feedback haptic device for robot teleoperation, virtual simulation, and data collection, with precision comparable to imports at 1/5 price.
+  highlights:
+    - China's first fully proprietary commercial force feedback solution
+    - 6 DOF, pen-shaped end effector, absolute encoder
+    - Price 1/5 of imported alternatives
+    - CE and Japan PSE certified, used for surgical training, robot data collection
+zh:
+  description: |
+    深圳序力智能 (Order Force Intelligence) 提供 HFD-6 六自由度力反馈触觉设备，
+    用于机器人遥操作、虚拟仿真和数据采集，精度比肩进口产品，价格仅为其 1/5。
+  highlights:
+    - 中国首款全自研商用力反馈方案
+    - 6 DOF，笔式末端执行器，绝对编码器
+    - 价格仅为进口同类产品的 1/5
+    - 通过 CE 和日本 PSE 认证，用于手术培训和机器人数据采集
+verified: false
+needs_review:
+  zh: true

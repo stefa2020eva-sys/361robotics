@@ -1,0 +1,46 @@
+slug: haply-robotics
+name: Haply Robotics
+country: CA
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Haply Robotics
+  en: Haply Robotics logo
+  zh: Haply Robotics 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - controllers
+  - software-sdk
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Haply Robotics разрабатывает контроллеры с силовой обратной связью серии Inverse и программную платформу HARP
+    для интуитивного управления роботами через естественные движения руки человека с тактильной обратной связью в реальном времени.
+  highlights:
+    - Inverse3 — большое рабочее пространство, высокое разрешение по позиции и частоте обновления
+    - HARP — универсальный фреймворк на плагинах, один контроллер для многих машин
+    - Прямое пространственное взаимодействие, запись и воспроизведение задач
+    - Применяется в хирургической робототехнике и телеоперации
+en:
+  description: |
+    Haply Robotics develops Inverse series force feedback controllers and the HARP software framework for intuitive robot control through natural human hand motion with real-time haptic feedback.
+  highlights:
+    - Inverse3 - large workspace, high position resolution, high update rate
+    - HARP - universal plugin-based framework, one controller for many machines
+    - Supports direct spatial interaction, task recording and replay
+    - Used in surgical robotics and teleoperation
+zh:
+  description: |
+    Haply Robotics 开发 Inverse 系列力反馈控制器及 HARP 软件框架，
+    通过自然的手部动作和实时触觉反馈，实现对机器人的直观操控。
+  highlights:
+    - Inverse3：大工作空间，高位置分辨率，高刷新率
+    - HARP：通用插件式框架，一个控制器适配多种机器
+    - 支持直接空间交互，任务录制与回放
+    - 用于手术机器人和远程操作
+verified: false
+needs_review:
+  zh: true

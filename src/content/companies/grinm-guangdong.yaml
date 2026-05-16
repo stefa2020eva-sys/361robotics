@@ -1,0 +1,45 @@
+slug: grinm-guangdong
+name: GRINM Guangdong
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип GRINM Guangdong
+  en: GRINM Guangdong logo
+  zh: 有研广东新材料技术研究院标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    GRINM Guangdong (有研广东新材料技术研究院) предоставляет шестиосевые датчики силы/момента (LR60-200L, LR60-1000L)
+    и одноосные динамические датчики силы для шлифовки, сборки и прецизионных испытаний в робототехнике.
+  highlights:
+    - Государственная ключевая лаборатория интеллектуального восприятия
+    - LR60-200L — интегрированная структура, быстрый отклик, помехозащищённость
+    - LR60-1000L — большой диапазон измерений, высокая жёсткость
+    - LF200 — одноосный, высокая линейность, температурная компенсация
+en:
+  description: |
+    GRINM Guangdong provides six-axis force/torque sensors (LR60-200L, LR60-1000L) and single-axis dynamic force sensors for robot polishing, assembly, and precision testing.
+  highlights:
+    - State Key Laboratory of Intelligent Sensing
+    - LR60-200L - integrated structure, fast response, anti-interference
+    - LR60-1000L - large measuring range, high rigidity
+    - LF200 - single-axis, high linearity, temperature compensation
+zh:
+  description: |
+    有研（广东）新材料技术研究院 (GRINM Guangdong) 提供六轴力/力矩传感器 (LR60-200L、LR60-1000L) 和单轴动态力传感器，
+    用于机器人打磨、装配和精密测试。
+  highlights:
+    - 国家重点实验室智能传感方向
+    - LR60-200L：一体化结构，响应快，抗干扰
+    - LR60-1000L：测量范围大，刚度高
+    - LF200：单轴，线性好，温度补偿
+verified: false
+needs_review:
+  zh: true

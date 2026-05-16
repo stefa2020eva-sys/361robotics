@@ -1,0 +1,46 @@
+slug: fuchsia
+name: Fuchsia
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Fuchsia
+  en: Fuchsia logo
+  zh: 富治标志
+type:
+  - component_maker
+featured: false
+categories:
+  - software-sdk
+  - safety
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Fuchsia (富治) предоставляет ИИ-платформу сквозной сертификации для производителей оборудования, выходящих на рынки США, ЕС и других стран
+    с соответствием FCC, CE, UL — сочетая ИИ-автоматизацию с надзором лицензированных специалистов.
+  highlights:
+    - ИИ-агенты автоматизируют анализ пробелов и подготовку документации
+    - Сертифицированная сеть лабораторий для FCC/CE/UL
+    - Специалисты по робототехнике и физическому ИИ
+    - Команда сертифицировала продукты Fortune 500 (Walmart, Apple)
+en:
+  description: |
+    Fuchsia provides an AI-powered end-to-end certification platform for hardware companies to enter US, EU, and global markets with FCC, CE, UL compliance, combining AI automation with licensed professional oversight.
+  highlights:
+    - AI agents automate gap analysis and documentation
+    - Certified lab network for FCC/CE/UL
+    - Robotics and physical AI specialists
+    - Team certified Fortune 500 products (Walmart, Apple)
+zh:
+  description: |
+    富治 (Fuchsia) 为硬件公司提供 AI 驱动的端到端认证平台，
+    帮助企业进入美国、欧盟和全球市场，满足 FCC、CE、UL 合规要求，将 AI 自动化与持证专业人员监督相结合。
+  highlights:
+    - AI 代理自动完成差距分析和文档编写
+    - FCC/CE/UL 认证实验室网络
+    - 机器人和物理 AI 专家
+    - 团队曾为沃尔玛、苹果等 500 强企业完成认证
+verified: false
+needs_review:
+  zh: true

@@ -1,0 +1,49 @@
+slug: ubtech
+name: UBTECH
+country: CN
+founded: 2012
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип UBTECH
+  en: UBTECH logo
+  zh: 优必选标志
+type:
+  - robot_brand
+featured: true
+categories:
+  - actuators
+  - controllers
+  - end-effectors
+robot_products:
+  - name: Walker Tienkung DEX
+    short: Full-size research humanoid robot with 31 DOF
+key_clients: []
+ru:
+  description: |
+    UBTECH (优必选科技) — мировой лидер в гуманоидной робототехнике, первая «гуманоидная» акция (9880.HK).
+    Компания обладает полностековой технологией, включая сервоприводы, ИИ-алгоритмы и операционную систему ROSA 2.0.
+  highlights:
+    - 2790 выданных патентов, №1 в мире по действующим патентам на гуманоидных роботов
+    - Walker — первый в Китае коммерческий двуногий гуманоидный робот
+    - Серийный выпуск сервоприводов от низкого до высокого момента
+    - Робототехническая ОС ROSA 2.0
+en:
+  description: |
+    UBTECH is a global leader in humanoid robots, listed as the first humanoid robot stock (9880.HK), with full-stack technology including servo drives, AI algorithms, and ROSA 2.0.
+  highlights:
+    - 2,790 granted patents, #1 in valid humanoid robot patents globally
+    - Walker - China's first commercial biped humanoid
+    - Servo drives from low to high torque mass production
+    - ROSA 2.0 robot OS
+zh:
+  description: |
+    优必选科技 (UBTECH) 是人形机器人全球领军企业，全球「人形机器人第一股」(9880.HK)，
+    具备从伺服驱动器、AI 算法到 ROSA 2.0 操作系统的全栈技术。
+  highlights:
+    - 2790 项已授权专利，全球有效人形机器人专利数量第一
+    - Walker：中国首款商业化双足人形机器人
+    - 从低扭矩到高扭矩伺服驱动器全量产
+    - ROSA 2.0 机器人操作系统
+verified: false
+needs_review:
+  zh: true

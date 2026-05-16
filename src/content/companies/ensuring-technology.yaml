@@ -1,0 +1,46 @@
+slug: ensuring-technology
+name: Ensuring Technology
+country: CN
+founded: 2025
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Ensuring Technology
+  en: Ensuring Technology logo
+  zh: 猿声先达科技标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Ensuring Technology (猿声先达) разрабатывает сверхтонкий многомерный тактильный датчик высокой плотности Tacta
+    с 361 сенсором на см², частотой опроса 1000 Гц и истинным 3D-выходом по силе.
+  highlights:
+    - 361 сенсор на см², частота 1000 Гц
+    - Истинные (нерасчётные) 3D-данные о силе
+    - Пространственное разрешение 0,25 мм³, толщина 3 мм
+    - CAN-FD/EtherCAT выход, нормальная сила 0–35 Н, тангенциальная ±15 Н, точность 0,1 Н
+en:
+  description: |
+    Ensuring Technology develops the Tacta ultra-thin high-density multi-dimensional tactile sensor with 361 sensels/cm², 1000Hz sampling, and true 3D force output.
+  highlights:
+    - 361 sensels per cm², 1000Hz sampling
+    - True (non-fitted) 3D force raw data
+    - Spatial resolution 0.25mm³, thickness 3mm
+    - CAN-FD/EtherCAT output, normal force 0-35N, tangential ±15N, 0.1N accuracy
+zh:
+  description: |
+    猿声先达科技（深圳）有限公司 (Ensuring Technology) 研发 Tacta 超薄高密度多维触觉传感器，
+    单 cm² 内含 361 个触觉敏感单元，采样率 1000 Hz，可输出真实三维力数据。
+  highlights:
+    - 每 cm² 361 个敏感单元，采样率 1000 Hz
+    - 真实（非拟合）三维力原始数据
+    - 空间分辨率 0.25 mm³，厚度 3 mm
+    - CAN-FD/EtherCAT 输出，法向力 0–35 N，切向 ±15 N，精度 0.1 N
+verified: false
+needs_review:
+  zh: true

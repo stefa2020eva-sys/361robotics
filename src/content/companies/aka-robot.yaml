@@ -1,0 +1,48 @@
+slug: aka-robot
+name: AKA Robot
+country: CN
+founded: 2017
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип AKA Robot
+  en: AKA Robot logo
+  zh: 行知行机器人标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - actuators
+  - vision
+robot_products:
+  - name: Wallhiker W-06
+    short: Ship hull derusting cleaning robot
+key_clients: []
+ru:
+  description: |
+    AKA Robot (行知行机器人) разрабатывает робота Wallhiker W-06 для удаления ржавчины с корпусов судов —
+    первый в мире робот-стеноход, адаптирующийся к полностью изогнутой поверхности, для высокорисковых сред.
+  highlights:
+    - Wallhiker W-06 — рабочее давление 300 МПа, производительность 30–50 м²/ч
+    - 98 % адаптации к изгибам корпуса судна, мин. радиус 0,5 м
+    - Полезная нагрузка 150 кг, преодоление препятствий 25 мм
+    - "Заказчики: China State Shipbuilding, COSCO, Sinopec"
+en:
+  description: |
+    AKA Robot develops the Wallhiker W-06 ship hull derusting cleaning robot, the world's first full-curved surface adaptive wall-climbing robot for high-risk environments.
+  highlights:
+    - Wallhiker W-06 - 300MPa working pressure, 30-50 m²/h efficiency
+    - 98% adaptability to ship hull curves, 0.5m min radius
+    - 150kg payload, 25mm obstacle crossing
+    - Serves China State Shipbuilding, COSCO, Sinopec
+zh:
+  description: |
+    深圳市行知行机器人技术有限公司 (AKA Robot) 开发 Wallhiker W-06 船体除锈清洁机器人，
+    是全球首款全曲面自适应壁面攀爬机器人，面向高危环境。
+  highlights:
+    - Wallhiker W-06：工作压力 300 MPa，效率 30–50 m²/h
+    - 适应 98% 的船体曲面，最小曲率半径 0.5 m
+    - 负载 150 kg，跨越障碍 25 mm
+    - 服务中国船舶、中远海运、中石化
+verified: false
+needs_review:
+  zh: true

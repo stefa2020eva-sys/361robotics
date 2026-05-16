@@ -1,0 +1,46 @@
+slug: seed-studio
+name: Seed Studio
+country: CN
+founded: 2009
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Seed Studio
+  en: Seed Studio logo
+  zh: 矽速科技标志
+type:
+  - component_maker
+featured: false
+categories:
+  - controllers
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Seed Studio (矽速科技) предоставляет несущие платы reComputer для NVIDIA Jetson AGX Orin (до 275 TOPS) и AGX Thor,
+    обеспечивая разработчиков гуманоидных роботов высокопроизводительной платформой граничных вычислений.
+  highlights:
+    - reComputer J501 — для AGX Orin 64 ГБ, 275 TOPS
+    - reComputer J601 — для AGX Thor, компактный высокоплотный дизайн
+    - Открытая экосистема аппаратного обеспечения
+    - Поставки в 160+ стран
+en:
+  description: |
+    Seed Studio provides reComputer carrier boards for NVIDIA Jetson AGX Orin (up to 275 TOPS) and AGX Thor, serving humanoid robot developers with high-performance edge computing platforms.
+  highlights:
+    - reComputer J501 - for AGX Orin 64GB, 275 TOPS
+    - reComputer J601 - for AGX Thor, compact high-density design
+    - Open-source hardware ecosystem
+    - Serves 160+ countries
+zh:
+  description: |
+    深圳矽速科技股份有限公司 (Seed Studio) 提供 reComputer 系列载板，适配 NVIDIA Jetson AGX Orin（最高 275 TOPS）和 AGX Thor，
+    为人形机器人开发者提供高性能边缘计算平台。
+  highlights:
+    - reComputer J501：适配 AGX Orin 64 GB，275 TOPS
+    - reComputer J601：适配 AGX Thor，紧凑高密度设计
+    - 开源硬件生态
+    - 服务全球 160+ 国家
+verified: false
+needs_review:
+  zh: true

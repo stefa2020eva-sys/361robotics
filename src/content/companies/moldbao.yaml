@@ -1,0 +1,45 @@
+slug: moldbao
+name: Moldbao
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Moldbao
+  en: Moldbao logo
+  zh: 模德宝标志
+type:
+  - component_maker
+featured: false
+categories:
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Moldbao (模德宝智能) предоставляет прецизионную механообработку деталей для роботов с точностью до 0,002 мм,
+    гибкое производство от малых партий (доставка за 7 дней) до серии.
+  highlights:
+    - AI + Промышленный интернет + Умное производство
+    - 10+ гибких автоматических линий, литьё под давлением чистоты 100 000
+    - Аккредитация MIIT и Департамента промышленности Гуандуна
+    - Обслуживает бытовую электронику, авто, полупроводники, робототехнику
+en:
+  description: |
+    Moldbao provides precision parts machining for robots with accuracy up to 0.002mm, flexible manufacturing from small batch (7-day delivery) to mass production.
+  highlights:
+    - AI + Industrial Internet + Smart Manufacturing
+    - 10+ flexible automated lines, 100,000-class clean injection molding
+    - Accredited by MIIT and Guangdong Department of Industry
+    - Serves consumer electronics, automotive, semiconductor, robotics
+zh:
+  description: |
+    东莞模德宝智能科技有限公司 (Moldbao) 提供机器人零部件精密加工，精度达 0.002 mm，
+    支持从小批量（7 天交付）到量产的柔性制造。
+  highlights:
+    - AI + 工业互联网 + 智能制造
+    - 10+ 条柔性自动化生产线，10 万级洁净注塑
+    - 获工信部和广东省工业和信息化厅认定
+    - 服务消费电子、汽车、半导体、机器人行业
+verified: false
+needs_review:
+  zh: true

@@ -1,0 +1,46 @@
+slug: vector-informatik
+name: Vector Informatik
+country: CN
+founded: 1988
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Vector Informatik
+  en: Vector Informatik logo
+  zh: Vector Informatik 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - software-sdk
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Vector Informatik предоставляет платформу симуляции и тестирования сетей CANoe с поддержкой EtherCAT, CANopen, CAN, LIN и Ethernet
+    для разработки и валидации сетей управления роботов.
+  highlights:
+    - 30+ лет опыта, 4500+ сотрудников по всему миру
+    - CANoe — симуляция узлов, анализ сообщений, автоматизированное тестирование
+    - Широко применяется в автомобильной электронике
+    - Сейчас применяется для отладки сетей управления роботов
+en:
+  description: |
+    Vector provides CANoe network simulation and testing platform supporting EtherCAT, CANopen, CAN, LIN, and Ethernet for robot control network development and system validation.
+  highlights:
+    - 30+ years of experience, 4500+ employees worldwide
+    - CANoe supports node simulation, message analysis, automated testing
+    - Widely used in automotive electronics
+    - Now applied to robot control network debugging
+zh:
+  description: |
+    Vector Informatik 提供 CANoe 网络仿真与测试平台，支持 EtherCAT、CANopen、CAN、LIN 和 Ethernet，
+    用于机器人控制网络的开发与系统验证。
+  highlights:
+    - 30+ 年经验，全球 4500+ 名员工
+    - CANoe 支持节点仿真、报文分析、自动化测试
+    - 广泛应用于汽车电子
+    - 现已用于机器人控制网络的调试
+verified: false
+needs_review:
+  zh: true

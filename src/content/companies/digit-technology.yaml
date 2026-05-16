@@ -1,0 +1,48 @@
+slug: digit-technology
+name: Digit Technology
+country: CN
+founded: 2024
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Digit Technology
+  en: Digit Technology logo
+  zh: 数字华夏标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - actuators
+  - controllers
+robot_products:
+  - name: Xialan
+    short: Bionic humanoid robot with realistic expressions
+key_clients: []
+ru:
+  description: |
+    Digit Technology (数字华夏) разрабатывает бионического гуманоидного робота Xialan с прецизионной биомиметической технологией,
+    реалистичной мимикой, мультимодальным взаимодействием и автономным передвижением.
+  highlights:
+    - Xialan — человекоподобные пропорции, около 20 выражений лица
+    - HD-камера и микрофонная решётка для слежения за лицом, детекции губ
+    - Поддержка нескольких LLM (DeepSeek, Doubao, ChatGPT)
+    - Планирование пути и надёжное передвижение
+en:
+  description: |
+    Digit Technology develops the Xialan bionic humanoid robot with precision biomimetic technology, realistic facial expressions, multimodal interaction, and autonomous walking.
+  highlights:
+    - Xialan - human-like proportions, nearly 20 facial expressions
+    - High-definition camera and microphone array for face tracking, lip detection
+    - Supports multiple LLMs (DeepSeek, Doubao, ChatGPT)
+    - Path planning and reliable walking
+zh:
+  description: |
+    数字华夏（深圳）科技有限公司 (Digit Technology) 开发夏兰仿生人形机器人，
+    采用精密仿生技术，具备逼真表情、多模态交互和自主行走能力。
+  highlights:
+    - 夏兰：拟人比例，近 20 种面部表情
+    - 高清相机与麦克风阵列，支持人脸跟踪、唇语检测
+    - 支持多种大模型 (DeepSeek、豆包、ChatGPT)
+    - 具备路径规划和可靠行走
+verified: false
+needs_review:
+  zh: true

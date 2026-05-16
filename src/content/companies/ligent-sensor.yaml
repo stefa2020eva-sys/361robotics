@@ -1,0 +1,45 @@
+slug: ligent-sensor
+name: Ligent Sensor
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Ligent Sensor
+  en: Ligent Sensor logo
+  zh: 力准传感标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Ligent Sensor (力准传感) предоставляет S-образные тензодатчики (LFS-02, 250 г – 200 кг), шестиосевые датчики силы/момента (LF606F)
+    и дисплейные индикаторы L400B для измерения силы в робототехнике и автоматизации.
+  highlights:
+    - Государственный «Маленький гигант»
+    - LFS-02 — миниатюрный, растяжение/сжатие, 250 г – 200 кг
+    - LF606F — измеряет все 3 силы и 3 момента
+    - L400B — RS485/RS232/EtherCAT/Ethernet, аналоговый выход
+en:
+  description: |
+    Ligent Sensor provides S-type load cells (LFS-02, 250g-200kg), six-axis force/torque sensors (LF606F), and L400B display indicators for force measurement in robotics and automation.
+  highlights:
+    - National Little Giant
+    - LFS-02 - miniature, tension/compression, 250g-200kg
+    - LF606F - measures all 3 forces and 3 torques
+    - L400B - RS485/RS232/EtherCAT/Ethernet, analog output
+zh:
+  description: |
+    深圳市力准传感技术股份有限公司 (Ligent Sensor) 提供 S 型测力传感器 (LFS-02，250 g – 200 kg)、六轴力/力矩传感器 (LF606F) 和 L400B 显示仪表，
+    用于机器人和自动化领域的力量测量。
+  highlights:
+    - 国家级专精特新「小巨人」
+    - LFS-02：微型，拉压两用，250 g – 200 kg
+    - LF606F：可同时测量 3 个力和 3 个力矩
+    - L400B：RS485/RS232/EtherCAT/Ethernet，模拟量输出
+verified: false
+needs_review:
+  zh: true

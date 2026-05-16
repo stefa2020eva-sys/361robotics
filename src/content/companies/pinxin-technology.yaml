@@ -1,0 +1,47 @@
+slug: pinxin-technology
+name: Pinxin Technology
+country: CN
+founded: 2000
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Pinxin Technology
+  en: Pinxin Technology logo
+  zh: 品鑫科技标志
+type:
+  - component_maker
+featured: false
+categories:
+  - connectivity
+  - drives-power
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Pinxin Technology (品鑫科技) — официальный дистрибьютор источников питания Mean Well, автоматизации Delta, сервосистем Edraw,
+    компонентов Honeywell и продукции линейных направляющих для решений в области автоматизации и робототехники.
+  highlights:
+    - 14 компаний, агентства многих международных брендов
+    - Mean Well, Delta, Honeywell, Zhongda Lide, Intime
+    - Охват дельты Жемчужной реки и дельты Янцзы
+    - Разработка аппаратного и программного обеспечения для автоматизации
+en:
+  description: |
+    Pinxin Technology distributes Mean Well power supplies, Delta automation products, Edraw servo systems, Honeywell components, and linear guide products for automation and robotics.
+  highlights:
+    - 14 companies, multiple international brand agencies
+    - Mean Well, Delta, Honeywell, Zhongda Lide, Intime
+    - Covers Pearl River Delta and Yangtze River Delta
+    - Automation hardware and software development
+zh:
+  description: |
+    品鑫科技代理 Mean Well 电源、Delta（台达）自动化产品、Edraw 伺服系统、Honeywell 元件以及直线导轨产品，
+    面向自动化与机器人解决方案。
+  highlights:
+    - 14 家公司，多个国际品牌代理
+    - Mean Well、台达、霍尼韦尔、中大力德、英泰摩
+    - 覆盖珠三角和长三角
+    - 自动化软硬件开发
+verified: false
+needs_review:
+  zh: true

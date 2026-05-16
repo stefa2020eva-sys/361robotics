@@ -1,0 +1,46 @@
+slug: shilong-bearing
+name: Shilong Bearing
+country: CN
+founded: 2005
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Shilong Bearing
+  en: Shilong Bearing logo
+  zh: 实隆轴承标志
+type:
+  - component_maker
+featured: false
+categories:
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Shilong Bearing (实隆轴承) производит тонкостенные шариковые подшипники и гибкие подшипники для суставов роботов
+    с месячной мощностью 12 млн комплектов и годовым выпуском свыше 100 млн комплектов.
+  highlights:
+    - Сертификаты ISO9001, IATF16949, ISO14001
+    - Годовой выпуск 120 млн комплектов, выручка ~290 млн юаней
+    - Серии 67, 68, 69, MR, 1600 — тонкостенные подшипники
+    - Поставки для роботов, электроинструмента, дронов, энкодеров, бытовой техники
+en:
+  description: |
+    Shilong Bearing produces thin-wall deep groove ball bearings and flexible bearings for robot joints, with monthly capacity of 12 million sets and annual output over 100 million sets.
+  highlights:
+    - ISO9001, IATF16949, ISO14001 certified
+    - Annual output 120 million sets, value ~290 million RMB
+    - Products - 67, 68, 69, MR, 1600 series thin-wall bearings
+    - Serves robots, power tools, drones, encoders, appliances
+zh:
+  description: |
+    宁波实隆轴承有限公司 (Shilong Bearing) 生产薄壁深沟球轴承和柔性轴承，
+    应用于机器人关节，月产能 1200 万套，年产 1 亿套以上。
+  highlights:
+    - 通过 ISO9001、IATF16949、ISO14001 认证
+    - 年产 1.2 亿套，产值约 2.9 亿元
+    - 产品：67、68、69、MR、1600 系列薄壁轴承
+    - 服务机器人、电动工具、无人机、编码器、家电
+verified: false
+needs_review:
+  zh: true

@@ -1,0 +1,47 @@
+slug: io-ai
+name: IO-AI
+country: CN
+founded: 2023
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип IO-AI
+  en: IO-AI logo
+  zh: 艾欧智能标志
+type:
+  - component_maker
+featured: false
+categories:
+  - software-sdk
+  - controllers
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    IO-AI (艾欧智能) предоставляет системы телеоперационного сбора данных (TeleExperience III) и реального сбора (SenseExperience) для воплощённого ИИ,
+    обслуживая более 60 моделей роботов у 100+ заказчиков.
+  highlights:
+    - TeleExperience III — модульные устройства ввода, любой бренд робота, полнотелая телеоперация
+    - SenseExperience — виды от первого лица, с запястья и UMI
+    - Платформа данных Embodiflow для контроля качества
+    - Команда из Tencent Robotics X, XPeng Robotics
+en:
+  description: |
+    IO-AI provides teleoperation data collection systems (TeleExperience III) and real-world data collection systems (SenseExperience) for embodied intelligence, serving 60+ robot models for 100+ customers.
+  highlights:
+    - TeleExperience III - modular input devices, any robot brand, full-body teleoperation
+    - SenseExperience - first-person, wrist, UMI views
+    - Embodiflow data platform for quality assurance
+    - Team from Tencent Robotics X, XPeng Robotics
+zh:
+  description: |
+    艾欧智能 (IO-AI) 提供具身智能的遥操作数据采集系统 (TeleExperience III) 和真实数据采集系统 (SenseExperience)，
+    服务 100+ 客户、60+ 机器人型号。
+  highlights:
+    - TeleExperience III：模块化输入设备，兼容任何机器人品牌，全身遥操作
+    - SenseExperience：第一人称、手腕、UMI 视角
+    - Embodiflow 数据平台，保障数据质量
+    - 团队来自腾讯 Robotics X、小鹏机器人
+verified: false
+needs_review:
+  zh: true

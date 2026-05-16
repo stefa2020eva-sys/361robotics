@@ -1,0 +1,47 @@
+slug: deco
+name: DECO
+country: CN
+founded: 2021
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип DECO
+  en: DECO logo
+  zh: 德氪微电子标志
+type:
+  - component_maker
+featured: false
+categories:
+  - connectivity
+  - drives-power
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    DECO (德氪微电子) выпускает беспроводные модули EtherCAT миллиметрового диапазона для поворотных суставов воплощённых роботов,
+    обеспечивая бесконтактную передачу данных и беспроводную передачу мощности до 300 Вт с полнодуплексной связью в реальном времени.
+  highlights:
+    - Бесконтактная поворотная передача в мм-диапазоне
+    - Интегрированный интерфейс «питание + данные»
+    - Поддержка Ethernet/EtherCAT/CAN на 10/100/1000 Мбит/с
+    - BER <10⁻¹², рабочая температура −25…85 °C, до 2000 об/мин
+en:
+  description: |
+    DECO produces mmWave wireless EtherCAT modules for embodied robot rotary joints, enabling contactless data transmission and wireless power up to 300W with full-duplex real-time communication.
+  highlights:
+    - Contactless mmWave rotary transmission
+    - Power + data integrated interface
+    - Supports Ethernet/EtherCAT/CAN at 10/100/1000 Mbps
+    - BER <1e-12, operating -25C to 85C, up to 2000 rpm
+zh:
+  description: |
+    德氪微电子 (DECO) 为具身机器人旋转关节生产毫米波无线 EtherCAT 模组，
+    实现非接触式数据传输和最高 300W 的无线供电，支持全双工实时通信。
+  highlights:
+    - 非接触毫米波旋转传输
+    - 电源 + 数据一体化接口
+    - 支持 Ethernet/EtherCAT/CAN，速率 10/100/1000 Mbps
+    - 误码率 <1e-12，工作温度 −25 至 85°C，最高转速 2000 rpm
+verified: false
+needs_review:
+  zh: true

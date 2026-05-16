@@ -1,0 +1,45 @@
+slug: seavo
+name: SEAVO
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип SEAVO
+  en: SEAVO logo
+  zh: 信步科技标志
+type:
+  - component_maker
+featured: false
+categories:
+  - controllers
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    SEAVO (信步科技) предоставляет платформу воплощённого интеллекта HB03 на единой x86-архитектуре, объединяющую «мозг» и «мозжечок»
+    на базе Intel Core Ultra AI с производительностью до 300 TOPS и богатым набором интерфейсов, включая 4× GMSL-камеры.
+  highlights:
+    - Более 30 лет в индустриальных материнских платах; первая x86-плата в материковом Китае (1994)
+    - Компактный размер 150 × 142 мм
+    - 96 TOPS на чипе, 300 TOPS с расширением GPU
+    - 5× LAN, 4× USB3.0, 4× GMSL, 2× CAN, 2× RS485
+en:
+  description: |
+    SEAVO provides the HB03 single x86 architecture brain-cerebellum integration embodied intelligence platform with Intel Core Ultra AI processor, up to 300 TOPS, and rich I/O including 4 GMSL cameras.
+  highlights:
+    - 30+ years in industrial motherboards, launched mainland's first x86 board in 1994
+    - 150mm×142mm compact size
+    - 96 TOPS native, 300 TOPS with GPU expansion
+    - 5×LAN, 4×USB3.0, 4×GMSL, 2×CAN, 2×RS485
+zh:
+  description: |
+    信步科技 (SEAVO) 推出 HB03 单 x86 架构脑-小脑一体化具身智能平台，
+    搭载 Intel Core Ultra AI 处理器，算力最高 300 TOPS，提供丰富 I/O，包括 4 路 GMSL 相机接口。
+  highlights:
+    - 工业主板 30+ 年经验，1994 年推出中国大陆首块 x86 主板
+    - 紧凑尺寸 150 mm×142 mm
+    - 本地 96 TOPS，外扩 GPU 后 300 TOPS
+    - 5×LAN、4×USB3.0、4×GMSL、2×CAN、2×RS485
+verified: false
+needs_review:
+  zh: true

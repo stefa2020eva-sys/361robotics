@@ -1,0 +1,47 @@
+slug: hengyi-technology
+name: Hengyi Technology
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Hengyi Technology
+  en: Hengyi Technology logo
+  zh: 恒毅科技标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - controllers
+  - actuators
+robot_products:
+  - name: Flexion F2
+    short: Wheeled arm robot for commercial service
+key_clients: []
+ru:
+  description: |
+    Hengyi Technology (恒毅科技) разрабатывает робота серии Flexion с колёсной базой и манипулятором (F2) для коммерческих сценариев,
+    предлагая экскурсионное сопровождение, интеллектуальную доставку, навигацию, обход препятствий и голосовое взаимодействие.
+  highlights:
+    - Полный замкнутый цикл «восприятие — решение — исполнение»
+    - F2 — колёсное шасси с роботизированной рукой
+    - Естественный язык, автономная навигация
+    - Применение в выставочных залах, госцентрах, общественных пространствах
+en:
+  description: |
+    Hengyi Technology develops the Flexion series wheeled arm robot F2 for commercial scenarios, offering guided tours, intelligent delivery, path navigation, obstacle avoidance, and voice interaction.
+  highlights:
+    - Full closed-loop perception-decision-execution
+    - F2 - wheeled base with robotic arm
+    - Natural language Q&A, autonomous navigation
+    - Serves exhibition halls, government centers, public venues
+zh:
+  description: |
+    广州恒毅科技开发有限公司 (Hengyi Technology) 开发 Flexion 系列轮式带臂机器人 F2，面向商用场景，
+    可提供导览、智能配送、路径导航、避障与语音交互。
+  highlights:
+    - 感知-决策-执行全闭环
+    - F2：轮式底盘 + 机械臂
+    - 自然语言问答与自主导航
+    - 服务展厅、政务中心、公共场所
+verified: false
+needs_review:
+  zh: true

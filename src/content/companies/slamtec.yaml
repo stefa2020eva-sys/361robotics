@@ -1,0 +1,48 @@
+slug: slamtec
+name: SLAMTEC
+country: CN
+founded: 2013
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип SLAMTEC
+  en: SLAMTEC logo
+  zh: 思岚科技标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+  - vision
+  - controllers
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    SLAMTEC (思岚科技) предлагает решения для автономной локализации и навигации роботов,
+    включая систему пространственного восприятия Aurora S, 48-вольтовое шасси Hermes и LiDAR RPLIDAR S3.
+  highlights:
+    - Поставлено почти 1 млн устройств, 3000+ корпоративных заказчиков
+    - Aurora S — интегрированная AI-VSLAM и 3D-восприятие
+    - 48-вольтовое шасси Hermes — батарея 48 В 30 А·ч, разряд 1C для двуруких роботов
+    - RPLIDAR S3 — дальность 40 м при отражении 70 %
+en:
+  description: |
+    SLAMTEC provides robot autonomous localization and navigation solutions including Aurora S AI spatial perception system, 48V Hermes chassis, and RPLIDAR S3 LiDAR.
+  highlights:
+    - Nearly 1 million units delivered, 3,000+ enterprise customers
+    - Aurora S - integrated AI-VSLAM, 3D perception
+    - 48V Hermes - 48V30AH battery, 1C discharge for dual-arm robots
+    - RPLIDAR S3 - 40m range at 70% reflectivity
+zh:
+  description: |
+    思岚科技 (SLAMTEC) 提供机器人自主定位与导航解决方案，
+    包括 Aurora S 空间感知系统、48V Hermes 底盘和 RPLIDAR S3 激光雷达。
+  highlights:
+    - 累计出货近 100 万台，企业客户 3000+
+    - Aurora S：集成 AI-VSLAM 与 3D 感知
+    - 48V Hermes：48V 30Ah 电池，1C 放电，可支持双臂机器人
+    - RPLIDAR S3：70% 反射率下测距 40 m
+verified: false
+needs_review:
+  zh: true

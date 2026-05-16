@@ -1,0 +1,48 @@
+slug: leadshine
+name: Leadshine
+country: CN
+founded: 1997
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Leadshine
+  en: Leadshine logo
+  zh: 雷赛智能标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+  - controllers
+produces_components:
+  - servo-motor
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Leadshine (雷赛智能控制) предоставляет продукты управления движением, включая сервоприводы, шаговые двигатели, контроллеры,
+    а также компоненты для гуманоидных роботов — ловкие кисти, безсердечниковые и безрамные двигатели, модули суставов.
+  highlights:
+    - Публичная компания (002979)
+    - Известна сервосистемами/шаговыми системами и контроллерами движения
+    - Обслуживает электронику, робототехнику, станкостроение, лазер, медицину
+    - Экспорт в 60+ стран
+en:
+  description: |
+    Leadshine provides motion control products including servo motors, stepper motors, controllers, and humanoid robot components such as dexterous hands, coreless motors, frameless motors, and joint modules.
+  highlights:
+    - Listed company (002979)
+    - Known for servo/stepper systems and motion controllers
+    - Serves electronics, robotics, machine tools, laser, medical
+    - Exported to 60+ countries
+zh:
+  description: |
+    深圳市雷赛智能控制股份有限公司 (Leadshine) 提供运动控制产品，包括伺服电机、步进电机、控制器，
+    以及面向人形机器人的灵巧手、无铁芯电机、无框电机和关节模组等组件。
+  highlights:
+    - 上市公司 (002979)
+    - 在伺服/步进系统及运动控制器领域知名
+    - 服务电子、机器人、机床、激光、医疗
+    - 出口 60+ 国家
+verified: false
+needs_review:
+  zh: true

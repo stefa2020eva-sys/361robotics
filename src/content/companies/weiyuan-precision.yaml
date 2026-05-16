@@ -1,0 +1,45 @@
+slug: weiyuan-precision
+name: Weiyuan Precision
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Weiyuan Precision
+  en: Weiyuan Precision logo
+  zh: 威远精密标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Weiyuan Precision (威远精密) производит планетарно-роликовые винты со сроком службы в 15 раз больше шариковых винтов
+    для конечностей гуманоидных роботов, обеспечивая более высокую ударопрочность и грузоподъёмность.
+  highlights:
+    - Срок службы в 15 раз превышает шариковые винты
+    - Резьбовые ролики вместо шариков для лучшего распределения нагрузки
+    - Больше точек контакта — выше ударопрочность
+    - Бренды WEIYUAN и WARNER
+en:
+  description: |
+    Weiyuan Precision produces planetary roller screws with service life 15 times that of ball screws for humanoid robot limbs, enabling higher impact resistance and load capacity.
+  highlights:
+    - Life 15x longer than ball screws
+    - Threaded rollers replace balls for better load distribution
+    - More contact points for higher impact resistance
+    - Brands - WEIYUAN and WARNER
+zh:
+  description: |
+    深圳市威远精密技术有限公司 (Weiyuan Precision) 生产行星滚柱丝杠，
+    用于人形机器人四肢，寿命为滚珠丝杠的 15 倍，具备更高抗冲击性和负载能力。
+  highlights:
+    - 寿命比滚珠丝杠长 15 倍
+    - 螺纹滚柱替代滚珠，负载分布更均匀
+    - 接触点更多，抗冲击性更强
+    - 品牌包括 WEIYUAN 和 WARNER
+verified: false
+needs_review:
+  zh: true

@@ -1,0 +1,46 @@
+slug: hdb-motor
+name: HDB Motor
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип HDB Motor
+  en: HDB Motor logo
+  zh: 汉德保电机标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+  - drives-power
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    HDB Motor (汉德保电机) производит мотор-редукторы, бесколлекторные сервоприводы, шаговые двигатели, безрамные моментные двигатели и линейные двигатели
+    для коммерческой уборочной техники и мобильной робототехники.
+  highlights:
+    - Короткий корпус, высокий момент, низкий уровень шума
+    - Превосходная защита от воды и масла
+    - Высокая радиальная нагрузка, схема «один привод — N двигателей»
+    - "Применения: уборочная техника, AGV, медицинское оборудование"
+en:
+  description: |
+    HDB Motor produces geared brushless motors, servo motors, stepper motors, frameless torque motors, and lead screw motors for commercial cleaning robots and mobile robotics.
+  highlights:
+    - Short body, high torque, low noise
+    - Excellent waterproof and oil-resistant capability
+    - High radial force bearing, one-to-N drive scheme
+    - Covers cleaning robots, AGVs, medical devices
+zh:
+  description: |
+    汉德保电机 (HDB Motor) 生产齿轮无刷电机、伺服电机、步进电机、无框力矩电机和丝杠电机，
+    应用于商用清洁机器人和移动机器人。
+  highlights:
+    - 短机身，高扭矩，低噪音
+    - 出色的防水防油能力
+    - 大径向承载，「一驱多」方案
+    - 覆盖清洁机器人、AGV、医疗设备
+verified: false
+needs_review:
+  zh: true

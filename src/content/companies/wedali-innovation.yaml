@@ -1,0 +1,45 @@
+slug: wedali-innovation
+name: Wedali Innovation
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Wedali Innovation
+  en: Wedali Innovation logo
+  zh: 伟达立创新标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Wedali Innovation (伟达立创新) производит модули суставов полного диапазона (гармонические, планетарные, циклоидальные, линейные, с осевым потоком)
+    для гуманоидных роботов, шестиосевых коллаборативных манипуляторов и роботопсов.
+  highlights:
+    - Совместное предприятие Veichi Electric, Kedali и Ally Group
+    - Гармонический модуль сустава — наружный диаметр 40–170 мм
+    - Сверхкороткая версия с уменьшением длины >20 %
+    - Удельная плотность момента до 220 Н·м/кг, повторяемость <20 угл. сек
+en:
+  description: |
+    Wedali Innovation produces full-range joint modules (harmonic, planetary, cycloidal, linear, axial flux) for humanoid robots, 6-axis collaborative arms, and robot dogs.
+  highlights:
+    - Joint venture of Veichi Electric, Kedali, and Ally Group
+    - Harmonic joint module - outer diameter 40-170mm
+    - Ultra-short version length reduced >20%
+    - Torque density up to 220 Nm/kg, repeatability <20 arcsec
+zh:
+  description: |
+    深圳市伟达立创新科技有限公司 (Wedali Innovation) 生产全系列关节模组（谐波、行星、摆线、直线、轴向磁通），
+    应用于人形机器人、6 轴协作臂和机器狗。
+  highlights:
+    - 由伟创电气、科达利、Ally Group 合资成立
+    - 谐波关节模组：外径 40–170 mm
+    - 超短版本长度缩减 >20%
+    - 扭矩密度高达 220 N·m/kg，重复定位精度 <20 角秒
+verified: false
+needs_review:
+  zh: true

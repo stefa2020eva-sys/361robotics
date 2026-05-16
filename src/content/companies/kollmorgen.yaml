@@ -1,0 +1,46 @@
+slug: kollmorgen
+name: Kollmorgen
+country: CN
+founded: 1916
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Kollmorgen
+  en: Kollmorgen logo
+  zh: 科尔摩根标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Kollmorgen (科尔摩根) предоставляет безрамные моментные двигатели, включая TBM2G, низковольтные TBM и серии KBM
+    для коллаборативных роботов, предлагая нулевой люфт, высокую удельную мощность и долгий ресурс.
+  highlights:
+    - Более 70 лет опыта управления движением
+    - TBM2G — компактные, высокая удельная мощность для коботов ≤15 кг
+    - Низковольтный TBM — широкий диапазон моментов, стандартные и заказные обмотки
+    - KBM — низкая зубцовая сила, высокая производительность, долгий ресурс
+en:
+  description: |
+    Kollmorgen provides frameless torque motors including TBM2G, low-voltage TBM, and KBM series for collaborative robots, offering zero backlash, high power density, and long life.
+  highlights:
+    - Over 70 years of motion control experience
+    - TBM2G - compact, high power density for ≤15kg cobots
+    - Low-voltage TBM - wide torque range, standard/custom windings
+    - KBM - low cogging force, high performance, long life
+zh:
+  description: |
+    科尔摩根 (Kollmorgen) 提供无框力矩电机，包括 TBM2G、低压 TBM 和 KBM 系列，
+    面向协作机器人，零背隙、高功率密度、长寿命。
+  highlights:
+    - 70+ 年运动控制经验
+    - TBM2G：紧凑型，适合 ≤15 kg 协作臂
+    - 低压 TBM：扭矩范围宽，标准/定制绕组
+    - KBM：低齿槽力，高性能，长寿命
+verified: false
+needs_review:
+  zh: true

@@ -1,0 +1,46 @@
+slug: chipreal
+name: Chipreal
+country: CN
+founded: 2011
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Chipreal
+  en: Chipreal logo
+  zh: 集佰睿标志
+type:
+  - component_maker
+featured: false
+categories:
+  - controllers
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Chipreal (集佰睿) предоставляет аппаратный мастер-чип ECM-XF с полной поддержкой протокола EtherCAT,
+    1408 байт PDO, DC-синхронизацией 125 мкс, скоростью 100 Мбит/с и SPI до 96 МГц.
+  highlights:
+    - Поддержка до 128 ведомых устройств
+    - Минимальный цикл синхронизации 125 мкс, SPI 96 МГц
+    - Обновление прошивки по USB, GPIO, АЦП
+    - Рабочая температура −40…+105 °C
+en:
+  description: |
+    Chipreal provides ECM-XF hardware master station chip fully supporting EtherCAT protocol with 1408Bytes PDO, 125μs DC sync, 100Mbps, and SPI up to 96MHz.
+  highlights:
+    - Supports up to 128 slaves
+    - Min sync cycle 125μs, SPI 96MHz
+    - USB firmware upgrade, GPIO, ADC
+    - Operating -40°C to +105°C
+zh:
+  description: |
+    深圳市集佰睿科技有限公司 (Chipreal) 提供 ECM-XF 硬件主站芯片，
+    全面支持 EtherCAT 协议，PDO 1408 Bytes，DC 同步 125 μs，速率 100 Mbps，SPI 最高 96 MHz。
+  highlights:
+    - 支持最多 128 个从站
+    - 最小同步周期 125 μs，SPI 96 MHz
+    - 支持 USB 固件升级、GPIO、ADC
+    - 工作温度 −40°C 至 +105°C
+verified: false
+needs_review:
+  zh: true

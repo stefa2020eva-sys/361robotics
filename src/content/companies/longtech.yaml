@@ -1,0 +1,46 @@
+slug: longtech
+name: Longtech
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Longtech
+  en: Longtech logo
+  zh: 朗特智能标志
+type:
+  - component_maker
+featured: false
+categories:
+  - controllers
+  - drives-power
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Longtech (朗特智能控制) предоставляет услуги OEM/ODM для бассейновых уборочных роботов, коммерческих сервисных роботов и роботизированных контроллеров.
+    Среди клиентов — UBTECH, Beatbot, PUDU, TEMI.
+  highlights:
+    - Публичная компания (300916)
+    - Полный цикл производства бассейновых уборочных роботов «под ключ»
+    - Поставки в UBTECH, Beatbot, PUDU, CloudMinds
+    - Сборка PCBA и готовой продукции
+en:
+  description: |
+    Longtech provides OEM/ODM services for pool cleaning robots, commercial service robots, and robot controllers, with clients including UBTECH, Beatbot, PUDU, TEMI.
+  highlights:
+    - Listed company (300916)
+    - Turnkey manufacturing for pool cleaning robots
+    - Suppliers to UBTECH, Beatbot, PUDU, CloudMinds
+    - PCBA and finished product assembly
+zh:
+  description: |
+    深圳朗特智能控制股份有限公司 (Longtech) 为泳池清洁机器人、商用服务机器人和机器人控制器提供 OEM/ODM 服务，
+    客户包括优必选、Beatbot、PUDU、TEMI 等。
+  highlights:
+    - 上市公司 (300916)
+    - 泳池清洁机器人整机交钥匙制造
+    - 供应优必选、Beatbot、PUDU、达闼等品牌
+    - PCBA 与整机装配
+verified: false
+needs_review:
+  zh: true

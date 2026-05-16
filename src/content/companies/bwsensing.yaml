@@ -1,0 +1,45 @@
+slug: bwsensing
+name: BWSENSING
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип BWSENSING
+  en: BWSENSING logo
+  zh: 北微传感标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    BWSENSING (北微传感) производит высокоточные AHRS-датчики (DMC620, DMC640) для гуманоидных роботов
+    на базе MEMS-гироскопов тактического класса, с помехоустойчивыми алгоритмами и IAP-обновлением «по воздуху».
+  highlights:
+    - «Маленький гигант», двукратный лауреат золотой награды World IoT Expo
+    - DMC620 — тройные одноосные QMEMS-гироскопы, самокалибровка
+    - DMC640 — промышленный класс, экономичный, поддержка IAP
+    - Более 100 прав на интеллектуальную собственность
+en:
+  description: |
+    BWSENSING produces high-precision AHRS sensors (DMC620, DMC640) for humanoid robots, featuring tactical-grade MEMS gyros, anti-interference algorithms, and IAP online upgrade.
+  highlights:
+    - National Little Giant, 2x World IoT Expo Gold Award
+    - DMC620 - triple QMEMS single-axis gyros, self-calibration
+    - DMC640 - industrial-grade, cost-effective, IAP support
+    - 100+ IP rights
+zh:
+  description: |
+    北微传感 (BWSENSING) 为人形机器人生产高精度 AHRS 传感器 (DMC620、DMC640)，
+    采用战术级 MEMS 陀螺、抗干扰算法及 IAP 在线升级技术。
+  highlights:
+    - 国家级专精特新「小巨人」，两届世界物联网博览会金奖
+    - DMC620：三轴 QMEMS 单轴陀螺，自校准
+    - DMC640：工业级，性价比高，支持 IAP
+    - 100+ 项知识产权
+verified: false
+needs_review:
+  zh: true

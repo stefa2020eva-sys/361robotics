@@ -1,0 +1,46 @@
+slug: geehy-semiconductor
+name: Geehy Semiconductor
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Geehy Semiconductor
+  en: Geehy Semiconductor logo
+  zh: 极海半导体标志
+type:
+  - component_maker
+featured: false
+categories:
+  - controllers
+  - connectivity
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Geehy Semiconductor (极海半导体) производит микроконтроллеры реального времени (G32R501 на двухъядерном Cortex-M52, 250 МГц)
+    и специализированные MCU для энкодеров (G32R430) для высокоточного управления движением.
+  highlights:
+    - Первый в мире двухъядерный DSP/MCU реального времени Arm v8.1-M Cortex-M52
+    - G32R501 — 250 МГц, 1552 DMIPS, FPU, векторный Helium
+    - G32R430 — точность ATAN <0,0001°, задержка <1 мкс
+    - Поддержка протоколов энкодеров Tamagawa, BISS-C, SSI, SPI
+en:
+  description: |
+    Geehy Semiconductor produces real-time control MCUs (G32R501 with Cortex-M52 dual-core, 250MHz) and encoder-dedicated MCUs (G32R430) for high-precision motion control.
+  highlights:
+    - World's first Arm v8.1-M Cortex-M52 dual-core real-time DSP/MCU
+    - G32R501 - 250MHz, 1552 DMIPS, FPU, Helium vector
+    - G32R430 - ATAN accuracy <0.0001°, latency <1μs
+    - Supports Tamagawa, BISS-C, SSI, SPI encoder protocols
+zh:
+  description: |
+    珠海极海半导体生产实时控制 MCU（G32R501 采用双核 Cortex-M52，主频 250 MHz）
+    及编码器专用 MCU（G32R430），面向高精度运动控制。
+  highlights:
+    - 全球首颗 Arm v8.1-M Cortex-M52 双核实时 DSP/MCU
+    - G32R501：250 MHz、1552 DMIPS、FPU、Helium 向量
+    - G32R430：ATAN 精度 <0.0001°，延时 <1 μs
+    - 支持 Tamagawa、BISS-C、SSI、SPI 编码器协议
+verified: false
+needs_review:
+  zh: true

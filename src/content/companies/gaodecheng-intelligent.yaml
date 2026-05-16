@@ -1,0 +1,45 @@
+slug: gaodecheng-intelligent
+name: Gaodecheng Intelligent
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Gaodecheng Intelligent
+  en: Gaodecheng Intelligent logo
+  zh: 高德诚智能标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Gaodecheng Intelligent (高德诚智能) производит стандартные, цельнометаллические и модульные сервоприводы
+    для настольных ИИ-роботов, воплощённых роботов и ловких кистей с высокой точностью и долговечностью.
+  highlights:
+    - Стандартный сервопривод — стабильная работа для базовых задач
+    - Цельнометаллический сервопривод — прочный, высокая нагрузка для промышленности
+    - Модульный сервопривод — гибкость для образования и DIY
+    - Интегрированный дизайн полупроводников и решений
+en:
+  description: |
+    Gaodecheng Intelligent produces standard, all-metal, and modular servo motors for AI desktop robots, embodied robots, and dexterous hands, with high precision and durability.
+  highlights:
+    - Standard servo - stable performance for basic control
+    - All-metal servo - robust, high load for industrial environments
+    - Modular servo - flexible for education and DIY
+    - Integrated semiconductor design and solution capabilities
+zh:
+  description: |
+    深圳市高德诚智能有限公司 (Gaodecheng Intelligent) 生产标准、全金属和模块化伺服电机，
+    适用于桌面 AI 机器人、具身机器人和灵巧手，具备高精度和耐久性。
+  highlights:
+    - 标准伺服：基础控制下稳定运行
+    - 全金属伺服：坚固耐用，适合工业高负载场景
+    - 模块化伺服：灵活，面向教育和 DIY
+    - 集成半导体设计与方案能力
+verified: false
+needs_review:
+  zh: true

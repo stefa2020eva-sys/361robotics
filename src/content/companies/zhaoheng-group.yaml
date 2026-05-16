@@ -1,0 +1,46 @@
+slug: zhaoheng-group
+name: Zhaoheng Group
+country: CN
+founded: 2004
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Zhaoheng Group
+  en: Zhaoheng Group logo
+  zh: 兆恒集团标志
+type:
+  - component_maker
+featured: false
+categories:
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Zhaoheng Group (兆恒集团) производит прецизионные конструктивные компоненты для суставов, корпусов и рам гуманоидных роботов,
+    используя пятиосевую обработку ЧПУ, достигая точности IT6 и шероховатости Ra0,4.
+  highlights:
+    - 350+ высокоточных станков ЧПУ из Германии/Швейцарии/Японии
+    - Допуски IT6 (±0,005 мм), шероховатость Ra0,4
+    - "Сплавы авиационного класса: алюминий, магний, титан"
+    - Полный цикл от прототипа до серии
+en:
+  description: |
+    Zhaoheng Group provides precision structural components for humanoid robot joints, frames, and housings using 5-axis CNC machining, achieving IT6 precision and Ra0.4 surface finish.
+  highlights:
+    - 350+ high-end CNC machines from Germany/Switzerland/Japan
+    - IT6 tolerance (±0.005mm), Ra0.4 surface finish
+    - Aerospace-grade aluminum, magnesium, titanium alloys
+    - One-stop from prototyping to mass production
+zh:
+  description: |
+    兆恒集团基于五轴 CNC 加工为人形机器人关节、机架和外壳提供精密结构件，
+    精度达 IT6，表面粗糙度 Ra0.4。
+  highlights:
+    - 350+ 台来自德国、瑞士、日本的高端 CNC 设备
+    - 公差 IT6 (±0.005 mm)，表面粗糙度 Ra0.4
+    - 航空级铝合金、镁合金、钛合金
+    - 一站式打样到量产
+verified: false
+needs_review:
+  zh: true

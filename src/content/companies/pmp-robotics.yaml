@@ -1,0 +1,47 @@
+slug: pmp-robotics
+name: PMP Robotics
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип PMP Robotics
+  en: PMP Robotics logo
+  zh: 集智联机器人标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - controllers
+  - software-sdk
+robot_products:
+  - name: Franka Research 3
+    short: High-precision collaborative robot for embodied AI research
+key_clients: []
+ru:
+  description: |
+    PMP Robotics (集智联机器人) предоставляет универсальную исследовательскую платформу воплощённого ИИ на базе роботов Franka Research 3,
+    поддерживая телеоперацию как по силе, так и по позиции.
+  highlights:
+    - Команда из Universal Robots, ABB, HIT Robotics Lab
+    - Franka Research 3 — управление 1 кГц в реальном времени, ощущение момента в суставах
+    - «Под ключ» — никакой инфраструктуры разворачивать не нужно
+    - CEO — соучредитель UR China
+en:
+  description: |
+    PMP Robotics provides one-stop embodied intelligence research platform based on Franka Research 3 robots, supporting both force control and position control teleoperation.
+  highlights:
+    - Team from Universal Robots, ABB, HIT Robotics Lab
+    - Franka Research 3 - 1kHz real-time control, joint torque sensing
+    - One-stop platform - no infrastructure setup needed
+    - CEO was founding employee of UR China
+zh:
+  description: |
+    集智联机器人 (PMP Robotics) 基于 Franka Research 3 提供一站式具身智能研究平台，
+    同时支持力控和位置控制的遥操作。
+  highlights:
+    - 团队来自 Universal Robots、ABB、哈工大机器人实验室
+    - Franka Research 3：1 kHz 实时控制，关节力矩感知
+    - 一站式平台，无需基础设施搭建
+    - CEO 为 UR 中国创始员工
+verified: false
+needs_review:
+  zh: true

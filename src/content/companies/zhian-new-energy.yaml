@@ -1,0 +1,46 @@
+slug: zhian-new-energy
+name: ZhiAn New Energy
+country: CN
+founded: 2020
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип ZhiAn New Energy
+  en: ZhiAn New Energy logo
+  zh: 智安新能源标志
+type:
+  - component_maker
+featured: false
+categories:
+  - drives-power
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    ZhiAn New Energy (智安新能源) производит интеллектуальные аккумуляторы и зарядные устройства для дронов, eVTOL, микромобилей, роботов и подводных роботов
+    с поддержкой горячей замены без перерыва питания и высокой плотностью энергии.
+  highlights:
+    - Ключевая команда из DJI и CATL
+    - Горячая замена без прерывания питания
+    - Высокий ток заряда/разряда, хранение данных о жизненном цикле
+    - "Активная безопасность: детектирование утечек ячеек и K-значения"
+en:
+  description: |
+    ZhiAn New Energy provides smart batteries and chargers for drones, EVTOLs, microcars, robots, and underwater robots with hot-swap uninterrupted power supply and high energy density.
+  highlights:
+    - Core team from DJI and CATL
+    - Hot-swap uninterrupted power supply
+    - High charge/discharge rate, lifecycle data storage
+    - Active safety - cell leakage detection, K-value detection
+zh:
+  description: |
+    深圳市智安新能源科技有限公司为无人机、eVTOL、微型车、机器人和水下机器人提供智能电池和充电器，
+    支持热插拔不间断供电，具备高能量密度。
+  highlights:
+    - 核心团队来自大疆与宁德时代
+    - 热插拔不间断供电
+    - 高充放电倍率，全生命周期数据存储
+    - 主动安全：电芯漏液检测、K 值检测
+verified: false
+needs_review:
+  zh: true

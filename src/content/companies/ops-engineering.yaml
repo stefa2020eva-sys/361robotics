@@ -1,0 +1,45 @@
+slug: ops-engineering
+name: OPS Engineering AG
+country: CH
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип OPS Engineering
+  en: OPS Engineering logo
+  zh: OPS Engineering 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - vision
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    OPS Engineering предоставляет автоматизированную систему визуального контроля ROVIS на базе коллаборативных роботов
+    для контроля качества в фармацевтике, выявляя дефекты на флаконах и этикетках.
+  highlights:
+    - Разработана для соответствия требованиям GMP в фармацевтике
+    - Коллаборативный робот без защитных ограждений
+    - Высокоразрешающая оптика, модульность для быстрой переналадки
+    - Программное обеспечение Audit Trail для регуляторных требований
+en:
+  description: |
+    OPS Engineering provides ROVIS automated visual inspection system integrating collaborative robots for pharmaceutical quality control, detecting defects in vials and labels.
+  highlights:
+    - Designed for pharmaceutical GMP compliance
+    - Collaborative robot without safety cages
+    - High-resolution optics, modular design for rapid changeover
+    - Audit trail software for regulatory requirements
+zh:
+  description: |
+    OPS Engineering AG 提供 ROVIS 自动视觉检测系统，
+    集成协作机器人，面向制药行业进行质量控制，可检测西林瓶和标签上的缺陷。
+  highlights:
+    - 面向制药 GMP 合规设计
+    - 协作机器人，无需安全围栏
+    - 高分辨率光学，模块化设计便于快速换型
+    - 配备审计追溯软件以满足监管要求
+verified: false
+needs_review:
+  zh: true

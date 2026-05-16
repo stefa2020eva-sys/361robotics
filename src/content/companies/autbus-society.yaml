@@ -1,0 +1,46 @@
+slug: autbus-society
+name: AUTBUS Society
+country: CN
+founded: 2025
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип AUTBUS Society
+  en: AUTBUS Society logo
+  zh: 工业网络总线 AUTBUS 专委会标志
+type:
+  - component_maker
+featured: false
+categories:
+  - connectivity
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    AUTBUS Society (工业网络总线 AUTBUS 专委会) продвигает отечественный стандарт промышленной сетевой шины
+    и предоставляет PHY-чип серии KY301AP AUTBUS, поддерживающий до 254 узлов, 100 Мбит/с и дальность передачи 2 км.
+  highlights:
+    - Первая в Китае национальная организация по промышленной сетевой шине
+    - KY301AP — интегрированный MAC-PHY, до 254 узлов
+    - Поддержка 100 Мбит/с, дальность 2 км, точность синхронизации ±40 нс
+    - 14+ узлов сквозной передачи Ethernet
+en:
+  description: |
+    AUTBUS Society promotes the domestic industrial network bus standard, offering the KY301AP series AUTBUS PHY chip supporting up to 254 nodes, 100Mbps, and 2km transmission distance.
+  highlights:
+    - China's first national industrial network bus organization
+    - KY301AP - integrated MAC-PHY, up to 254 nodes
+    - Supports 100Mbps, 2km distance, ±40ns sync accuracy
+    - 14+ nodes Ethernet direct pass-through
+zh:
+  description: |
+    工业网络总线 (AUTBUS) 专业委员会推动国产工业网络总线标准，
+    并提供 KY301AP 系列 AUTBUS PHY 芯片，支持最多 254 个节点，100 Mbps，传输距离 2 km。
+  highlights:
+    - 中国首个国家级工业网络总线组织
+    - KY301AP：集成 MAC-PHY，最多 254 节点
+    - 支持 100 Mbps，2 km 距离，同步精度 ±40 ns
+    - 14+ 节点以太网直通
+verified: false
+needs_review:
+  zh: true

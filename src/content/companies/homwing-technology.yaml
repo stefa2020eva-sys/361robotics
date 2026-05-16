@@ -1,0 +1,46 @@
+slug: homwing-technology
+name: Homwing Technology
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Homwing Technology
+  en: Homwing Technology logo
+  zh: 合赢智拓标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Homwing Technology (合赢智拓) производит гармонические редукторы, циклоидальные RV-редукторы, планетарные редукторы и электрические захваты
+    с годовой производительностью 45 000 комплектов и качеством на уровне импорта.
+  highlights:
+    - Годовая мощность 45 000 комплектов
+    - Гармонические редукторы — высокая точность, большие передаточные отношения 30–500
+    - Лёгкая и компактная конструкция
+    - Применение в промышленных роботах, ЧПУ, медтехнике, лазерной обработке
+en:
+  description: |
+    Homwing Technology produces harmonic reducers, RV cycloidal reducers, planetary reducers, and electric grippers with annual capacity of 45,000 sets and import-level quality.
+  highlights:
+    - 45,000 sets annual capacity
+    - Harmonic reducers - high precision, large reduction ratio 30-500
+    - Lightweight, compact design
+    - Used in industrial robots, CNC, medical devices, laser processing
+zh:
+  description: |
+    深圳市合赢智拓技术有限公司 (Homwing) 生产谐波减速器、RV 摆线减速器、行星减速器及电动夹爪，
+    年产能 45 000 套，质量达到进口水平。
+  highlights:
+    - 年产能 45 000 套
+    - 谐波减速器：高精度，大减速比 30–500
+    - 轻量化、紧凑设计
+    - 用于工业机器人、CNC、医疗器械、激光加工
+verified: false
+needs_review:
+  zh: true

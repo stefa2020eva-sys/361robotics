@@ -1,0 +1,42 @@
+slug: swissnex-china
+name: Swissnex in China
+country: CH
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Swissnex in China
+  en: Swissnex in China logo
+  zh: Swissnex in China 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - connectivity
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Swissnex in China связывает образование, исследования и инновации между Швейцарией и Китаем,
+    поддерживая обмен знаниями, идеями и талантами.
+  highlights:
+    - Часть глобальной сети Swissnex (Бостон, Сан-Франциско, Индия, Япония, Бразилия)
+    - Инициирована SERI, управляется FDFA
+    - Поддерживает швейцарско-китайское сотрудничество в ИИ и робототехнике
+en:
+  description: |
+    Swissnex in China connects education, research and innovation between Switzerland and China, supporting knowledge, ideas and talent exchange.
+  highlights:
+    - Part of Swissnex global network (Boston, San Francisco, India, Japan, Brazil)
+    - Initiated by SERI, managed by FDFA
+    - Supports Swiss-China collaboration in AI and robotics
+zh:
+  description: |
+    瑞士联邦驻华科技文化中心 (Swissnex in China) 连接瑞士与中国的教育、科研与创新，
+    促进知识、思想与人才交流。
+  highlights:
+    - Swissnex 全球网络的一部分（波士顿、旧金山、印度、日本、巴西）
+    - 由 SERI 发起，由 FDFA 管理
+    - 支持瑞中在 AI 和机器人领域的合作
+verified: false
+needs_review:
+  zh: true

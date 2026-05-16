@@ -1,0 +1,46 @@
+slug: state-labs
+name: State Labs
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип State Labs
+  en: State Labs logo
+  zh: 灵芯科技标志
+type:
+  - component_maker
+featured: false
+categories:
+  - controllers
+  - software-sdk
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    State Labs (灵芯科技) предоставляет платформу CIS (Collaborative Intelligence Substrate) для распределённого обучения и инференса ИИ,
+    а также модели sVL/sVLA для устройств — для восприятия и исполнения в реальном времени.
+  highlights:
+    - CIS — облако-граничный совместный инференс, обучение на устройстве, защита приватности
+    - sVL/sVLA — модели для развёртывания на границе для робототехники
+    - Команда из Google, Intel, КАН, КУХК
+    - Оптимизация для VLA и физического ИИ в робототехнике
+en:
+  description: |
+    State Labs provides the CIS (Collaborative Intelligence Substrate) platform for distributed AI training and inference, plus sVL/sVLA on-device models for real-time perception and action.
+  highlights:
+    - CIS - edge-cloud collaborative inference, on-device training, privacy protection
+    - sVL/sVLA - edge-deployable models for robotics
+    - Team from Google, Intel, Chinese Academy of Sciences, CUHK
+    - Optimized for robotics VLA and Physical AI
+zh:
+  description: |
+    灵芯科技 (State Labs) 提供 CIS（Collaborative Intelligence Substrate）协同智能基座平台，
+    支持分布式 AI 训练与推理，并配套 sVL/sVLA 端侧模型，实现实时感知与动作。
+  highlights:
+    - CIS：边云协同推理，端侧训练，隐私保护
+    - sVL/sVLA：面向机器人的端侧可部署模型
+    - 团队来自 Google、Intel、中科院、港中大
+    - 针对机器人 VLA 与 Physical AI 优化
+verified: false
+needs_review:
+  zh: true

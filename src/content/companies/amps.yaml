@@ -1,0 +1,46 @@
+slug: amps
+name: AMPS
+country: CN
+founded: 2017
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип AMPS
+  en: AMPS logo
+  zh: 安普斯智能标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    AMPS (安普斯智能) производит сервомотор-колёса (4,5″–13″) с возможностью интегрированного драйвера,
+    интерфейсами RS485/CAN и безредукторной структурой для бесшумной долговечной работы в мобильных роботах.
+  highlights:
+    - "Интегрированный дизайн: драйвер + энкодер + двигатель + колесо"
+    - "Раздельный тип: один драйвер управляет двумя ступицами"
+    - Момент 1,1–30 Н·м, скорость до 480 об/мин
+    - UART, RS485, CAN, более 5 функций защиты
+en:
+  description: |
+    AMPS provides servo hub motors (4.5″ to 13″) with integrated driver option, RS485/CAN, and gearless structure for quiet, long-life operation in mobile robots.
+  highlights:
+    - Integrated design - driver + encoder + motor + wheel
+    - Split type - one driver controls two hubs
+    - Torque 1.1-30 Nm, speed up to 480 rpm
+    - UART, RS485, CAN, over 5 protection functions
+zh:
+  description: |
+    深圳市安普斯智能科技有限公司 (AMPS) 生产 4.5″ 至 13″ 伺服轮毂电机，可选集成驱动器，
+    支持 RS485/CAN，采用无齿轮结构，运行安静、寿命长，适用于移动机器人。
+  highlights:
+    - 一体化设计：驱动器 + 编码器 + 电机 + 车轮
+    - 分体式：一个驱动器控制两个轮毂
+    - 扭矩 1.1–30 N·m，最高 480 rpm
+    - 支持 UART、RS485、CAN，5 项以上保护功能
+verified: false
+needs_review:
+  zh: true

@@ -1,0 +1,45 @@
+slug: davos-tech-summit
+name: Davos Tech Summit
+country: CH
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Davos Tech Summit
+  en: Davos Tech Summit logo
+  zh: Davos Tech Summit 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - software-sdk
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Davos Tech Summit (1–4 июля в Давосе) связывает исследования в области гуманоидной робототехники с промышленными приложениями.
+    Программа включает конференции, выставки и иммерсивную среду Davos Robot City.
+  highlights:
+    - Организаторы — ETH Zurich, ZHAW и другие
+    - Davos Robot City — первый в мире иммерсивный показ робототехники
+    - Мост между исследованиями и промышленным применением
+    - Нетворкинг высокого уровня с европейской и швейцарской индустрией
+en:
+  description: |
+    The Davos Tech Summit (July 1-4 in Davos) connects humanoid robotics research with industrial applications, featuring conferences, exhibitions, and the Davos Robot City immersive environment.
+  highlights:
+    - Organized by ETH Zurich, ZHAW and others
+    - Davos Robot City - world-first immersive robotics showcase
+    - Bridges research and industrial application
+    - High-level networking with European and Swiss industry
+zh:
+  description: |
+    达沃斯科技峰会（7 月 1–4 日在达沃斯举行）将人形机器人研究与工业应用紧密连接，
+    包括会议、展览和 Davos Robot City 沉浸式环境。
+  highlights:
+    - 由 ETH 苏黎世、ZHAW 等共同主办
+    - Davos Robot City：全球首个沉浸式机器人展示
+    - 连接科研与工业应用
+    - 与欧洲和瑞士产业开展高层次交流
+verified: false
+needs_review:
+  zh: true

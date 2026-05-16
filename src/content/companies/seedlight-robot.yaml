@@ -1,0 +1,47 @@
+slug: seedlight-robot
+name: Seedlight Robot
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Seedlight Robot
+  en: Seedlight Robot logo
+  zh: 芯禾机器人标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - actuators
+  - vision
+robot_products:
+  - name: Intelligent Grain Leveling Robot
+    short: Autonomous grain leveling and inspection robot
+key_clients: []
+ru:
+  description: |
+    Seedlight Robot (芯禾机器人) разрабатывает интеллектуальных роботов для выравнивания зерна совместно с Sinograin,
+    оснащённых винтовым приводом, мультимодальным восприятием и автономной инспекцией для зернохранилищ.
+  highlights:
+    - Совместная разработка с Институтом хранения зерна Чэнду (Sinograin)
+    - Интеллектуальное выравнивание зерна и автономная инспекция
+    - Преодоление 98 % экстремальных кривых поверхностей
+    - Взрывозащищённое исполнение для складских условий
+en:
+  description: |
+    Seedlight Robot develops intelligent grain leveling robots in cooperation with Sinograin, featuring spiral drive, multi-modal perception, and autonomous inspection for grain storage.
+  highlights:
+    - Co-developed with Sinograin Chengdu Storage Research Institute
+    - Intelligent grain leveling + autonomous inspection
+    - Overcomes 98% of extreme curved surfaces
+    - Explosion-proof design for storage environments
+zh:
+  description: |
+    芯禾机器人 (Seedlight Robot) 与中储粮合作开发智能平粮机器人，
+    具备螺旋驱动、多模态感知和自主巡检能力，适用于粮仓场景。
+  highlights:
+    - 与中储粮成都储藏研究院联合开发
+    - 智能平粮 + 自主巡检
+    - 适应 98% 的极端曲面
+    - 防爆设计，适用于仓储环境
+verified: false
+needs_review:
+  zh: true

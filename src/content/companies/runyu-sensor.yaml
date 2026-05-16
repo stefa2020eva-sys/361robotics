@@ -1,0 +1,46 @@
+slug: runyu-sensor
+name: Runyu Sensor
+country: CN
+founded: 2015
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Runyu Sensor
+  en: Runyu Sensor logo
+  zh: 润宇传感器标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Guangdong Runyu Sensor (润宇传感器) разрабатывает датчики крутящего момента на кремниевых MEMS-тензорезисторах с технологией стеклянного микросплавления
+    для коллаборативных, воплощённых и гуманоидных роботов, обеспечивая высокую чувствительность и значительный запас по перегрузке.
+  highlights:
+    - Государственный «Маленький гигант» (ключевой ниши)
+    - Диапазон крутящего момента ±50–700 Н·м (под заказ)
+    - Нелинейность ±0,2 % FS, повторяемость ±0,2 % FS
+    - Запас по перегрузке более 300 % FS, ресурс свыше 1 млн циклов
+en:
+  description: |
+    Runyu Sensor develops MEMS silicon strain gauge torque sensors with glass micro-melting technology for collaborative, embodied, and humanoid robots, offering high sensitivity and overload capacity.
+  highlights:
+    - National key Little Giant
+    - Torque range ±50-700 Nm (customizable)
+    - Non-linearity ±0.2% FS, repeatability ±0.2% FS
+    - Overload capacity >300% FS, life >1 million cycles
+zh:
+  description: |
+    广东润宇传感器股份有限公司基于玻璃微熔工艺研发 MEMS 硅应变片扭矩传感器，
+    面向协作机器人、具身机器人和人形机器人，具备高灵敏度和大过载能力。
+  highlights:
+    - 国家级专精特新「小巨人」
+    - 扭矩范围 ±50–700 N·m（可定制）
+    - 非线性 ±0.2% FS，重复性 ±0.2% FS
+    - 过载能力 >300% FS，寿命 >100 万次
+verified: false
+needs_review:
+  zh: true

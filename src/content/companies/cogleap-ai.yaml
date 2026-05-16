@@ -1,0 +1,47 @@
+slug: cogleap-ai
+name: CogLeap.AI
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип CogLeap.AI
+  en: CogLeap.AI logo
+  zh: 知跃空间智能标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - controllers
+  - software-sdk
+robot_products:
+  - name: Omni-MexITLDS
+    short: Autonomous mobile dual-arm robot with lifting mechanism
+key_clients: []
+ru:
+  description: |
+    CogLeap.AI (知跃空间智能) предоставляет интегрированную платформу Omni-Brain (от сбора данных до тестирования в реальном мире)
+    и автономного мобильного двурукого робота Omni-MexITLDS с подъёмным механизмом.
+  highlights:
+    - 6 поданных патентов, 15 авторских свидетельств на ПО
+    - Omni-Brain — полностековая платформа разработки воплощённого ИИ
+    - "Omni-MexITLDS: автономное исследование, реконструкция сцены, исполнение задач"
+    - Мозгоподобная модель, совместимая с отечественными GPU-платформами
+en:
+  description: |
+    CogLeap.AI provides the Omni-Brain integrated platform (data collection to real-world testing) and the Omni-MexITLDS autonomous mobile dual-arm robot with lifting mechanism.
+  highlights:
+    - 6 pending patents, 15 software copyrights
+    - Omni-Brain - full-stack embodied AI development platform
+    - Omni-MexITLDS - autonomous scene exploration, reconstruction, task execution
+    - Brain-inspired model compatible with domestic GPU platforms
+zh:
+  description: |
+    知跃空间智能 (CogLeap.AI) 推出 Omni-Brain 一体化平台（覆盖从数据采集到真实世界测试），
+    以及具备升降机构的自主移动双臂机器人 Omni-MexITLDS。
+  highlights:
+    - 6 项在申请专利，15 项软件著作权
+    - Omni-Brain：具身智能全栈开发平台
+    - Omni-MexITLDS：自主场景探索、重建与任务执行
+    - 类脑模型兼容国产 GPU 平台
+verified: false
+needs_review:
+  zh: true

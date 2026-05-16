@@ -1,0 +1,45 @@
+slug: tuv-rheinland
+name: TÜV Rheinland Greater China
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип TÜV Rheinland
+  en: TÜV Rheinland logo
+  zh: 德国莱茵 TÜV 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - safety
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    TÜV Rheinland (德国莱茵 TÜV) предоставляет услуги сертификации, испытаний и оценки соответствия для роботов,
+    включая безопасность (EN ISO 13482, UL 3300), беспроводные технологии (RED), соответствие AI (EU AI Act) и оценку характеристик.
+  highlights:
+    - Более 150 лет опыта, 5600+ сотрудников в Большом Китае
+    - Сертификация безопасности роботов — EN ISO 13482, 13849, UL 3300
+    - Беспроводные технологии — Bluetooth, 2G/4G/5G
+    - Соответствие AI и оценка характеристик для конкурентоспособности продукта
+en:
+  description: |
+    TÜV Rheinland provides certification, testing and compliance services for robots including safety (EN ISO 13482, UL 3300), wireless (RED), AI compliance (EU AI Act), and performance assessment.
+  highlights:
+    - 150+ years of experience, 5,600+ employees in Greater China
+    - Robotics safety certification - EN ISO 13482, 13849, UL 3300
+    - Wireless - Bluetooth, 2G/4G/5G compliance
+    - AI compliance and performance testing for product competitiveness
+zh:
+  description: |
+    德国莱茵 TÜV 大中华区 (TÜV Rheinland) 为机器人提供认证、测试与合规服务，
+    包括安全 (EN ISO 13482、UL 3300)、无线 (RED)、AI 合规 (EU AI Act) 及性能评估。
+  highlights:
+    - 150+ 年经验，大中华区 5600+ 名员工
+    - 机器人安全认证：EN ISO 13482、13849、UL 3300
+    - 无线认证：Bluetooth、2G/4G/5G
+    - AI 合规与性能测试，助力产品竞争力
+verified: false
+needs_review:
+  zh: true

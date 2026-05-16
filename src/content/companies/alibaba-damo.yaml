@@ -1,0 +1,47 @@
+slug: alibaba-damo
+name: Alibaba DAMO Academy
+country: CN
+founded: 2017
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Alibaba DAMO Academy
+  en: Alibaba DAMO Academy logo
+  zh: 阿里巴巴达摩院标志
+type:
+  - component_maker
+featured: false
+categories:
+  - software-sdk
+  - controllers
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Alibaba DAMO Academy (达摩院) представляет платформу воплощённого ИИ RynnBot — площадку для обучения и практики с роботами с нулевым порогом входа,
+    а также SDK RynnRCP, обеспечивающий сквозной конвейер: от данных датчиков до инференса модели и исполнения действий.
+  highlights:
+    - Платформа воплощённого ИИ RynnBot
+    - Разработка роботов «с нуля»
+    - "Полная прозрачность пайплайна: датчик → модель → действие"
+    - Поддержка лёгкой миграции технологий
+en:
+  description: |
+    Alibaba DAMO Academy provides the RynnBot embodied AI platform, a zero-threshold robot teaching and practice platform with RynnRCP SDK for full pipeline from sensor data to model inference to action execution.
+  highlights:
+    - RynnBot Embodied AI Platform
+    - Zero-threshold robot development
+    - Full pipeline visibility - sensor to model to action
+    - Supports easy technology migration
+zh:
+  description: |
+    阿里巴巴达摩院推出 RynnBot 具身智能平台，提供零门槛的机器人教学与实践环境，
+    并配套 RynnRCP SDK，实现从传感器数据到模型推理再到动作执行的全流程贯通。
+  highlights:
+    - RynnBot 具身智能平台
+    - 零门槛的机器人开发体验
+    - 全流程可视：传感器 → 模型 → 动作
+    - 支持技术便捷迁移
+verified: false
+needs_review:
+  zh: true

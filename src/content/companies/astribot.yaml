@@ -1,0 +1,49 @@
+slug: astribot
+name: Astribot
+country: CN
+founded: 2022
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Astribot
+  en: Astribot logo
+  zh: 星尘智能标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - actuators
+  - controllers
+  - end-effectors
+robot_products:
+  - name: Astribot S1
+    short: All-in-one AI robot with cable-driven actuation
+key_clients: []
+ru:
+  description: |
+    Astribot (星尘智能) разрабатывает ИИ-робота S1 с тросовым приводом, обеспечивающим скорость в конечной точке >10 м/с, ускорение 100 м/с²,
+    отношение полезной нагрузки к массе 1:1 и повторяемость ±0,03 мм.
+  highlights:
+    - Тросовая конструкция имитирует мышцы человека
+    - Коммерциализирована модель DuoCore, тысячи заказов
+    - Базовая модель Lumo превосходит n0/n0.5
+    - Сотрудничество с Physical Intelligence, MIT, ByteDance AI Lab
+en:
+  description: |
+    Astribot develops the S1 AI robot with cable-driven transmission, achieving end speed >10m/s, 100m/s² acceleration, 1:1 payload-to-weight ratio, and ±0.03mm repeatability.
+  highlights:
+    - Cable-driven design mimics human muscles
+    - DuoCore model commercialized, thousands of orders
+    - Lumo foundation model exceeds n0/n0.5
+    - Collaborates with Physical Intelligence, MIT, ByteDance AI Lab
+zh:
+  description: |
+    星尘智能 (Astribot) 开发 S1 AI 机器人，采用绳驱传动，
+    末端速度 >10 m/s，加速度 100 m/s²，负载与自重比 1:1，重复定位精度 ±0.03 mm。
+  highlights:
+    - 绳驱设计模拟人体肌肉
+    - DuoCore 模型已商业化，订单数千
+    - Lumo 基础模型超过 n0/n0.5
+    - 与 Physical Intelligence、MIT、字节 AI Lab 合作
+verified: false
+needs_review:
+  zh: true

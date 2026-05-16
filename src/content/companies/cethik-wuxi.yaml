@@ -1,0 +1,52 @@
+slug: cethik-wuxi
+name: CETHIK Wuxi
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип CETHIK Wuxi
+  en: CETHIK Wuxi logo
+  zh: 海康集团小微特机器人产业集群标志
+type:
+  - robot_brand
+  - component_maker
+featured: false
+categories:
+  - controllers
+  - vision
+  - actuators
+produces_components:
+  - lidar
+  - servo-motor
+robot_products:
+  - name: Micro Special Robots
+    short: Multi-configuration robots for extreme environments
+key_clients: []
+ru:
+  description: |
+    CETHIK Wuxi (海康小微特机器人产业集群) создаёт кластер микро- и специальных роботов с опытным полигоном и наружным тренировочным комплексом
+    для сценариев пожаротушения, подводных работ, сложного рельефа и сетей трубопроводов.
+  highlights:
+    - Первая в Китае пилотная платформа микро-специализированных роботов
+    - 273 му земли, 356 000 м² застройки, инвестиции 2,2 млрд юаней
+    - Покрытие водно-наземно-воздушно-космических форм роботов
+    - Открытая экосистема для смежных предприятий
+en:
+  description: |
+    CETHIK Wuxi builds a micro-special robot cluster with pilot test platform and outdoor training ground for fire, underwater, complex terrain, and pipe network scenarios.
+  highlights:
+    - First micro-special robot pilot platform in China
+    - 273 mu land, 356,000 m² building area, 2.2B yuan investment
+    - Covers water-land-air-space robot forms
+    - Open ecosystem for upstream and downstream enterprises
+zh:
+  description: |
+    海康集团小微特机器人产业集群 (CETHIK Wuxi) 打造小微特种机器人产业园，配套中试平台与户外训练场，
+    覆盖消防、水下、复杂地形和管网等场景。
+  highlights:
+    - 中国首个小微特种机器人中试平台
+    - 273 亩土地，35.6 万 m² 建筑面积，投资 22 亿元
+    - 覆盖水-陆-空-天多种机器人形态
+    - 面向上下游企业开放生态
+verified: false
+needs_review:
+  zh: true

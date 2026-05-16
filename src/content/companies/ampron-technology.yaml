@@ -1,0 +1,46 @@
+slug: ampron-technology
+name: Ampron Technology
+country: CN
+founded: 2004
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Ampron Technology
+  en: Ampron Technology logo
+  zh: 安培龙标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Ampron Technology (安培龙) производит датчики крутящего момента на кремниевых MEMS-тензорезисторах для определения моментов в суставах гуманоидных роботов,
+    обеспечивая высокую точность, долговременную стабильность и возможности массового производства.
+  highlights:
+    - Государственный «Маленький гигант»
+    - Единственный отечественный поставщик керамических конденсаторных датчиков давления с полным IC-стеком
+    - Датчик момента — разрешение 0,01 % FS, нелинейность ±0,3 % FS
+    - Поставщик автомобильных датчиков
+en:
+  description: |
+    Ampron Technology produces silicon MEMS gauge torque sensors for humanoid robot joint torque detection, offering high accuracy, long-term stability, and mass production capability.
+  highlights:
+    - National Little Giant
+    - Only domestic supplier of ceramic capacitance pressure sensor with full in-house IC
+    - Torque sensor - resolution 0.01% FS, non-linearity ±0.3% FS
+    - Automotive-grade sensor supplier
+zh:
+  description: |
+    深圳安培龙科技股份有限公司 (Ampron Technology) 生产硅 MEMS 应变片扭矩传感器，
+    用于人形机器人关节扭矩检测，具备高精度、长期稳定性和量产能力。
+  highlights:
+    - 国家级专精特新「小巨人」
+    - 国内唯一具备全自研 IC 的陶瓷电容式压力传感器供应商
+    - 扭矩传感器：分辨率 0.01% FS，非线性 ±0.3% FS
+    - 车规级传感器供应商
+verified: false
+needs_review:
+  zh: true

@@ -1,0 +1,46 @@
+slug: kangrui-electronics
+name: Kangrui Electronics
+country: CN
+founded: 2004
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Kangrui Electronics
+  en: Kangrui Electronics logo
+  zh: 康瑞电子标志
+type:
+  - component_maker
+featured: false
+categories:
+  - connectivity
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Kangrui Electronics (康瑞电子) предоставляет соединители wire-to-board серии KR2023 с механизмом блокировки TPA,
+    двухконтактным дизайном и рабочей температурой −40…+125 °C для гуманоидных роботов и автомобильных применений.
+  highlights:
+    - Блокировка TPA — пластиковый корпус + металлическая пружина предотвращает разъединение
+    - 30+ патентов, сила вставки 88,26 Н, мин. сила извлечения 5,29 Н после 30 циклов
+    - Ультратонкая <4 мм, шаг 2,00 мм
+    - Сертифицировано по стандартам USCAR, BYD
+en:
+  description: |
+    Kangrui Electronics provides KR2023 series wire-to-board connectors with TPA locking mechanism, dual-contact design, and -40°C to +125°C operation for humanoid robots and automotive.
+  highlights:
+    - TPA locking - plastic housing + metal spring prevents loosening
+    - 30+ patents, insertion force 88.26N, min pull-out 5.29N after 30 cycles
+    - Ultra-slim <4mm thickness, 2.00mm pitch
+    - Passed USCAR, BYD standards
+zh:
+  description: |
+    东莞市康瑞电子有限公司 (Kangrui Electronics) 提供 KR2023 系列线对板连接器，
+    具备 TPA 锁紧机构、双触点设计，工作温度 −40°C 至 +125°C，适用于人形机器人和汽车应用。
+  highlights:
+    - TPA 锁紧：塑壳 + 金属弹簧防松脱
+    - 30+ 项专利，插入力 88.26 N，30 次循环后最小拉脱力 5.29 N
+    - 超薄 <4 mm 厚，2.00 mm 间距
+    - 通过 USCAR、比亚迪标准
+verified: false
+needs_review:
+  zh: true

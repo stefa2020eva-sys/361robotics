@@ -1,0 +1,45 @@
+slug: hch-bearing
+name: HCH Bearing
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип HCH Bearing
+  en: HCH Bearing logo
+  zh: 环驰轴承标志
+type:
+  - component_maker
+featured: false
+categories:
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    HCH Bearing (环驰轴承) производит радиальные шариковые подшипники, миниатюрные, тонкосекционные, гибкие и конические роликовые подшипники
+    для суставов роботов и редукторов.
+  highlights:
+    - 40+ лет, 300+ полностью автоматизированных линий
+    - Суточный выпуск >3 млн комплектов, годовые продажи >2,2 млрд юаней
+    - CNAS-аккредитованная лаборатория, 100+ инженеров R&D
+    - Поставки в Bosch, Siemens, Nidec
+en:
+  description: |
+    HCH Bearing produces deep groove ball bearings, miniature bearings, thin-section bearings, flexible bearings, and tapered roller bearings for robot joints and reducers.
+  highlights:
+    - 40+ years, 300+ fully automated lines
+    - Daily output >3 million sets, annual sales >2.2B yuan
+    - CNAS national lab, 100+ R&D engineers
+    - Supplies Bosch, Siemens, Nidec
+zh:
+  description: |
+    环驰轴承集团有限公司 (HCH Bearing) 生产深沟球轴承、微型轴承、薄壁轴承、柔性轴承和圆锥滚子轴承，
+    应用于机器人关节和减速器。
+  highlights:
+    - 40+ 年经验，300+ 条全自动化生产线
+    - 日产量 >300 万套，年销售额 >22 亿元
+    - 拥有 CNAS 国家实验室，100+ 名研发工程师
+    - 供应博世、西门子、日本电产等企业
+verified: false
+needs_review:
+  zh: true

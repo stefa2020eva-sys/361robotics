@@ -1,0 +1,50 @@
+slug: unitree
+name: Unitree
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Unitree
+  en: Unitree logo
+  zh: 宇树科技标志
+type:
+  - robot_brand
+featured: true
+categories:
+  - actuators
+  - controllers
+  - end-effectors
+robot_products:
+  - name: Unitree G1
+    short: Full-size high-dynamic humanoid robot
+  - name: Unitree Go2
+    short: Quadruped robot with 4D ultra-wide-angle LiDAR
+key_clients: []
+ru:
+  description: |
+    Unitree (宇树科技) выпускает гуманоидного робота G1 (130 см, 35 кг, 23–43 DOF, 2 м/с рысь)
+    и четвероногого робота Go2 с 4D LiDAR, обучением с подкреплением и моментом в суставе 45 Н·м.
+  highlights:
+    - G1 — прыжок в длину 1,4 м, динамическая стойка, посадка
+    - Go2 — LiDAR 360°×90°, момент в суставе 45 Н·м
+    - Гала Spring Festival CCTV 2021/2025, Олимпиада-2022, Super Bowl 2023
+    - 200+ патентов, 180+ выданных
+en:
+  description: |
+    Unitree produces the G1 humanoid robot (130cm, 35kg, 23-43 DOF, 2m/s trot speed) and Go2 quadruped robot with 4D LiDAR, reinforcement learning, and 45Nm joint torque.
+  highlights:
+    - G1 - can perform standing long jump 1.4m, dynamic standing, sitting
+    - Go2 - 360°×90° LiDAR perception, 45Nm joint torque
+    - 2021/2025 CCTV Spring Festival Gala, 2022 Winter Olympics, 2023 Super Bowl
+    - 200+ patents, 180+ granted
+zh:
+  description: |
+    宇树科技 (Unitree) 推出 G1 人形机器人（身高 130 cm，体重 35 kg，23–43 DOF，小跑速度 2 m/s）
+    及 Go2 四足机器人，配备 4D 激光雷达、强化学习和 45 N·m 关节扭矩。
+  highlights:
+    - G1：可完成 1.4 m 立定跳远、动态站立、坐姿
+    - Go2：360°×90° 激光感知，关节扭矩 45 N·m
+    - 2021/2025 央视春晚，2022 冬奥会，2023 超级碗
+    - 专利 200+ 项，授权 180+ 项
+verified: false
+needs_review:
+  zh: true

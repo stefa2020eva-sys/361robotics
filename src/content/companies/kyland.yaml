@@ -1,0 +1,46 @@
+slug: kyland
+name: Kyland
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Kyland
+  en: Kyland logo
+  zh: 东土科技标志
+type:
+  - component_maker
+featured: false
+categories:
+  - controllers
+  - connectivity
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Kyland (东土科技) предоставляет универсальную электронную архитектуру для интеллектуальных роботов на базе Intewell OS и шины AUTBUS,
+    интегрируя «мозг» (принятие решений) и «мозжечок» (управление) для задач жёсткого реального времени и ИИ.
+  highlights:
+    - Главный разработчик 6 международных и 36 национальных стандартов
+    - Промышленная сетевая технология AUTBUS
+    - Открытое программно-аппаратное решение
+    - Совместимость с ROS2, упрощённая разводка, снижение затрат
+en:
+  description: |
+    Kyland provides intelligent robot generic electronic architecture based on Intewell OS and AUTBUS bus, integrating brain (decision) and cerebellum (control) for hard real-time and AI tasks.
+  highlights:
+    - Lead developer of 6 international standards, 36 national standards
+    - AUTBUS industrial network technology
+    - Open-source software-hardware solution
+    - Compatible with ROS2, simplifies wiring, reduces costs
+zh:
+  description: |
+    东土科技 (Kyland) 基于 Intewell OS 和 AUTBUS 总线，提供智能机器人通用电子架构，
+    将决策大脑与控制小脑集成，支持硬实时与 AI 任务。
+  highlights:
+    - 主导 6 项国际标准、36 项国家标准
+    - AUTBUS 工业网络技术
+    - 开源软硬件方案
+    - 兼容 ROS2，简化布线，降低成本
+verified: false
+needs_review:
+  zh: true

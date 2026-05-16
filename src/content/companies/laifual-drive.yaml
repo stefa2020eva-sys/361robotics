@@ -1,0 +1,46 @@
+slug: laifual-drive
+name: Laifual Drive
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Laifual Drive
+  en: Laifual Drive logo
+  zh: 来福谐波传动标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Zhejiang Laifual Drive (来福谐波传动) производит волновые редукторы (серии FS/FH), модули суставов и прецизионные компоненты,
+    обеспечивая полный модельный ряд от размера 3 до 58 для гармонических редукторов.
+  highlights:
+    - Производственные площади 47 000 м², более 600 сотрудников, 100+ инженеров R&D
+    - Серия G — высокий момент, +30 % к ресурсу +43 %
+    - Серия N — облегчённая, −20 % массы
+    - Серия D — сверхкороткая, осевая длина −50 % / −15 %
+en:
+  description: |
+    Laifual Drive produces strain wave gearing (FS/FH series), robotic joint modules, and precision components with full spectrum coverage from size 3 to 58 for harmonic reducers.
+  highlights:
+    - 47,000 m² facility, 600+ employees, 100+ R&D engineers
+    - High-torque G Series - torque +30%, life +43%
+    - Lightweight N Series - weight -20%
+    - Ultra-short D Series - axial length -50%/-15%
+zh:
+  description: |
+    浙江来福谐波传动股份有限公司生产谐波减速器（FS/FH 系列）、机器人关节模组和精密零部件，
+    覆盖 3 至 58 全规格谐波减速器。
+  highlights:
+    - 4.7 万 m² 厂房，600+ 员工，100+ 研发工程师
+    - 大扭矩 G 系列：扭矩 +30%，寿命 +43%
+    - 轻量化 N 系列：重量 -20%
+    - 超短 D 系列：轴向长度 -50% / -15%
+verified: false
+needs_review:
+  zh: true

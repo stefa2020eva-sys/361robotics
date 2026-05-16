@@ -1,0 +1,46 @@
+slug: keli-sensing
+name: Keli Sensing
+country: CN
+founded: 1995
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Keli Sensing
+  en: Keli Sensing logo
+  zh: 柯力传感标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Keli Sensing (柯力传感) производит шестиосевые датчики силы/момента (серия KL6E-C50-B) на основе высокоточных тензорезисторов,
+    с высокой точностью, устойчивостью к эксцентричной нагрузке и зрелым массовым производством.
+  highlights:
+    - Публичная компания (603662), 30 лет в области взвешивания
+    - Высокоскоростная цифровая связь
+    - Вертикально интегрированная цепочка поставок, высокое соотношение цена/качество
+    - Управление силой для промышленных, коммерческих и гуманоидных роботов
+en:
+  description: |
+    Keli Sensing produces six-axis force/torque sensors (KL6E-C50-B series) using high-precision resistance strain gauge technology with high accuracy, anti-eccentric load, and mature mass production.
+  highlights:
+    - Listed company (603662), 30 years in weighing
+    - High speed digital communication
+    - Vertically integrated supply chain, high cost-performance
+    - Force control for industrial, commercial, humanoid robots
+zh:
+  description: |
+    柯力传感 (Keli Sensing) 基于高精度电阻应变技术生产六轴力/力矩传感器（KL6E-C50-B 系列），
+    具有高精度、抗偏载和成熟量产能力。
+  highlights:
+    - 上市公司 (603662)，30 年称重经验
+    - 高速数字通信
+    - 垂直整合供应链，性价比高
+    - 服务工业、商用和人形机器人力控应用
+verified: false
+needs_review:
+  zh: true

@@ -1,0 +1,45 @@
+slug: hypersen
+name: Hypersen
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Hypersen
+  en: Hypersen logo
+  zh: 海伯森技术标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Hypersen (海伯森技术) производит 3D линейные конфокальные датчики, хроматические конфокальные датчики, шестиосевые датчики силы/момента
+    и сверхскоростные промышленные камеры для прецизионных измерений и управления силой роботов.
+  highlights:
+    - 3D-линейный конфокальный — высокоскоростное бесконтактное измерение поверхности
+    - Шестиосевой датчик силы — одновременно Fx/Fy/Fz и Mx/My/Mz
+    - Сверхскоростная камера для переходных процессов
+    - "Применения: промышленная автоматизация, 3C, новая энергетика, робототехника"
+en:
+  description: |
+    Hypersen provides 3D line confocal sensors, chromatic confocal sensors, six-axis force/torque sensors, ultra-high-speed industrial cameras for precision measurement and robot force control.
+  highlights:
+    - 3D line confocal - high-speed non-contact surface measurement
+    - Six-axis force sensor - simultaneous Fx/Fy/Fz and Mx/My/Mz
+    - Ultra-high-speed camera for transient dynamics
+    - Serves industrial automation, 3C, new energy, robotics
+zh:
+  description: |
+    海伯森技术（深圳）有限公司 (Hypersen) 提供 3D 线共聚焦传感器、光谱共聚焦传感器、六轴力/力矩传感器和超高速工业相机，
+    用于精密测量和机器人力控。
+  highlights:
+    - 3D 线共聚焦：高速非接触表面测量
+    - 六轴力传感器：同时测 Fx/Fy/Fz 与 Mx/My/Mz
+    - 超高速相机捕捉瞬态动力学
+    - 服务工业自动化、3C、新能源、机器人
+verified: false
+needs_review:
+  zh: true

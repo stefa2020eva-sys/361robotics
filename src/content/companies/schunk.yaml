@@ -1,0 +1,45 @@
+slug: schunk
+name: SCHUNK
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип SCHUNK
+  en: SCHUNK logo
+  zh: 雄克 SCHUNK 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - end-effectors
+produces_components:
+  - gripper
+key_clients: []
+ru:
+  description: |
+    SCHUNK (维克) предлагает пятипалую сервоэлектрическую кисть SVH, копирующую морфологию человеческой руки —
+    9 приводов управляют 20 суставами, встроенная электроника в запястье, питание 24 В DC.
+  highlights:
+    - Первая массово выпускаемая гуманоидная пятипалая кисть
+    - Морфология 1:1 с человеческой кистью, 9 приводов, 20 суставов
+    - Доступны левая и правая версии
+    - Эластичные захватные поверхности для надёжной работы с объектами
+en:
+  description: |
+    SCHUNK provides the SVH 5-finger servo-electric gripping hand, replicating human hand morphology with 9 drives controlling 20 joints, integrated wrist electronics, and 24VDC power.
+  highlights:
+    - First mass-produced humanoid five-finger hand
+    - 1:1 human hand morphology, 9 drives, 20 joints
+    - Left and right hand versions available
+    - Elastic grasping surface for reliable object handling
+zh:
+  description: |
+    雄克 SCHUNK 提供 SVH 五指伺服电气夹持手，1:1 还原人手形态，
+    9 个驱动控制 20 个关节，腕部集成电子，电源 24 V DC。
+  highlights:
+    - 首款量产的仿人五指手
+    - 与人手形态 1:1 对应，9 驱 20 关节
+    - 提供左右手版本
+    - 弹性抓取面，可靠握持各类物体
+verified: false
+needs_review:
+  zh: true

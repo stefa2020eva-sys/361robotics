@@ -1,0 +1,46 @@
+slug: zy-yr-innovation-hub
+name: ZY&YR Innovation Hub
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип ZY&YR Innovation Hub
+  en: ZY&YR Innovation Hub logo
+  zh: 智友雅瑞科创平台标志
+type:
+  - component_maker
+featured: false
+categories:
+  - software-sdk
+  - controllers
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    ZY&YR Innovation Hub (智友·雅瑞科创平台) инкубирует и инвестирует в стартапы в области ИИ и робототехники,
+    предлагая отраслевую акселерационную программу 1Robot с доступом к 50+ реальным сценариям ведущих компаний.
+  highlights:
+    - Основана профессором Ван Тяньмяо (Университет Бэйхан)
+    - 100+ проинкубированных компаний, 3 публичных, 79 SRDI
+    - Совокупная оценка более 180 млрд юаней
+    - Первая партия инкубаторов уровня Excellent от MIIT
+en:
+  description: |
+    ZY&YR Innovation Hub incubates and invests in AI and robotics startups, offering the 1Robot industry acceleration program with access to 50+ real scenarios from leading enterprises.
+  highlights:
+    - Founded by Professor Wang Tianmiao (Beihang University)
+    - 100+ incubated companies, 3 listed, 79 SRDI
+    - Combined valuation >180B RMB
+    - First batch of Excellent-level Incubator by MIIT
+zh:
+  description: |
+    智友·雅瑞科创平台孵化并投资人工智能和机器人初创公司，
+    提供 1Robot 行业加速营，可对接 50+ 来自头部企业的真实场景。
+  highlights:
+    - 由北航王田苗教授创办
+    - 已孵化 100+ 家公司，其中 3 家上市，79 家专精特新
+    - 合计估值超过 1800 亿元
+    - 入选工信部首批「优秀级」孵化器
+verified: false
+needs_review:
+  zh: true

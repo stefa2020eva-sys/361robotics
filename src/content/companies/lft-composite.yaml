@@ -1,0 +1,45 @@
+slug: lft-composite
+name: LFT Composite
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип LFT Composite
+  en: LFT Composite logo
+  zh: 长纤新材料标志
+type:
+  - component_maker
+featured: false
+categories:
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    LFT Composite (长纤新材料) производит длинноволокнистые термопластичные композиты (LFT) с армированием стекло-/углеволокном
+    и матрицей PP/PA/PPS/PEEK для лёгких конструктивных элементов роботов.
+  highlights:
+    - Плотность в 5 раз меньше стали, стоимость на 30 % ниже термореактивных композитов
+    - Длина волокна значительно превосходит композиты на коротком волокне
+    - Перерабатываемость >95 %
+    - "Применения: основания роботов, корпуса, ножные элементы четвероногих"
+en:
+  description: |
+    LFT Composite produces long fiber reinforced thermoplastic composites (LFT) with glass/carbon fibers and PP/PA/PPS/PEEK resins for lightweight robot structural parts.
+  highlights:
+    - Density 1/5 of steel, 30% lower cost than thermoset composites
+    - Fiber retention length far exceeding short-fiber composites
+    - Recyclability >95%
+    - Used in robot bases, housings, quadruped leg parts
+zh:
+  description: |
+    长纤（厦门）新材料科技有限公司 (LFT Composite) 生产长玻纤、长碳纤增强的热塑性复合材料 (LFT)，
+    基体可选 PP/PA/PPS/PEEK，用于机器人轻量化结构件。
+  highlights:
+    - 密度为钢的 1/5，成本比热固性复合材料低 30%
+    - 纤维保留长度远超短纤维复合材料
+    - 可回收性 >95%
+    - 应用于机器人底座、外壳、四足腿部结构件
+verified: false
+needs_review:
+  zh: true

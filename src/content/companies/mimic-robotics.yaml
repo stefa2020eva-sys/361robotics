@@ -1,0 +1,46 @@
+slug: mimic-robotics
+name: Mimic Robotics AG
+country: CH
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Mimic Robotics
+  en: Mimic Robotics logo
+  zh: Mimic Robotics 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - end-effectors
+  - actuators
+produces_components:
+  - gripper
+key_clients: []
+ru:
+  description: |
+    Mimic Robotics разрабатывает масштабируемую модель ловкой манипуляции и роботизированную кисть с 21 суставом, грузоподъёмностью 7 кг
+    и точностью кончика пальца ±0,5 мм для применений в производстве и логистике.
+  highlights:
+    - Роботизированная кисть — 21 сустав, 7 кг полезной нагрузки, точность ±0,5 мм
+    - Масштабируемый «рецепт модели» для ловкости
+    - Один и тот же алгоритм масштабируется на любой кейс
+    - Интуитивно обучается у человека-оператора
+en:
+  description: |
+    Mimic Robotics develops a scalable dexterous manipulation model and a robotic hand hardware with 21 joints, 7kg payload, and ±0.5mm fingertip precision for manufacturing and logistics.
+  highlights:
+    - Robotic hand - 21 joints, 7kg payload, ±0.5mm precision
+    - Scalable model recipe for dexterity
+    - Same algorithm scales to any use case
+    - Learns intuitively from human operators
+zh:
+  description: |
+    Mimic Robotics AG 开发可扩展的灵巧操作模型，以及具备 21 个关节、7 kg 负载、指尖精度 ±0.5 mm 的机器人手，
+    面向制造业和物流应用。
+  highlights:
+    - 机器人手：21 关节、7 kg 负载、±0.5 mm 精度
+    - 可扩展的灵巧操作模型方案
+    - 同一算法可扩展到任何应用场景
+    - 可从人类操作者直观学习
+verified: false
+needs_review:
+  zh: true

@@ -1,0 +1,47 @@
+slug: ubitraq
+name: UbiTraq
+country: CN
+founded: 2016
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип UbiTraq
+  en: UbiTraq logo
+  zh: 全迹科技标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+  - connectivity
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    UbiTraq (全迹科技) предоставляет решения UWB-AOA однокотельного 360° позиционирования (ONE1000) для следования робота за оператором,
+    с дальностью обнаружения >20 м, надёжностью автомобильного класса и миллиметровой точностью.
+  highlights:
+    - Первый в мире 360° UWB-AOA однокотельный продукт
+    - Дальность >20 м, 360° полусферическое 3D-позиционирование
+    - Может работать как UWB-радар для детекции персонала
+    - Автомобильный класс, диапазон CH9 для глобального применения
+en:
+  description: |
+    UbiTraq provides UWB-AOA single-anchor 360° positioning solutions (ONE1000) for robot following, with detection range >20m, automotive-grade reliability, and millimeter accuracy.
+  highlights:
+    - World's first 360° UWB-AOA single-anchor product
+    - Detection range >20m, 360° hemispherical 3D positioning
+    - Can be reused as UWB radar for personnel detection
+    - Automotive-grade, CH9 band for global use
+zh:
+  description: |
+    芜湖全迹科技有限公司 (UbiTraq) 提供 UWB-AOA 单基站 360° 定位方案 (ONE1000)，
+    用于机器人跟随，探测距离 >20 m，达到车规级可靠性，精度可达毫米级。
+  highlights:
+    - 全球首款 360° UWB-AOA 单基站产品
+    - 探测距离 >20 m，360° 半球 3D 定位
+    - 可复用为 UWB 雷达进行人员检测
+    - 车规级，CH9 频段，可全球使用
+verified: false
+needs_review:
+  zh: true

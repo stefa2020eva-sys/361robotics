@@ -1,0 +1,46 @@
+slug: siemens-xcelerator
+name: Siemens Xcelerator
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Siemens Xcelerator
+  en: Siemens Xcelerator logo
+  zh: 西门子 Xcelerator 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - software-sdk
+  - connectivity
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Siemens Xcelerator — открытая цифровая бизнес-платформа компании Siemens, объединяющая IoT-оборудование, программное обеспечение,
+    партнёрскую экосистему и маркетплейс для цифровой трансформации промышленности.
+  highlights:
+    - Более 600 отраслевых решений, модульная сборка
+    - Гибкие модели пробного использования и подписки
+    - Охват баннеров на главной странице — более 550 000 подписчиков
+    - Сертификация экопартнёров, фирменный магазин, развитие воронки лидов
+en:
+  description: |
+    Siemens Xcelerator is an open digital business platform integrating IoT hardware, software, partner ecosystem, and a marketplace for industrial digital transformation.
+  highlights:
+    - 600+ industry solutions, modular combination
+    - Flexible trial and subscription models
+    - Homepage banner reach 550,000+ followers
+    - Eco-partner certification, exclusive store, lead nurturing
+zh:
+  description: |
+    西门子 Xcelerator 是西门子推出的开放式数字业务平台，整合 IoT 硬件、软件、合作伙伴生态和市场，
+    赋能工业数字化转型。
+  highlights:
+    - 600 多个行业解决方案，模块化组合
+    - 灵活的试用与订阅模式
+    - 首页 Banner 覆盖 55 万+ 粉丝
+    - 生态合作伙伴认证、专属店铺、线索培育
+verified: false
+needs_review:
+  zh: true

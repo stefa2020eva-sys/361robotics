@@ -1,0 +1,46 @@
+slug: dexcel-robotics
+name: Dexcel Robotics
+country: CN
+founded: 2024
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Dexcel Robotics
+  en: Dexcel Robotics logo
+  zh: 源升智能机器人标志
+type:
+  - component_maker
+featured: false
+categories:
+  - end-effectors
+produces_components:
+  - gripper
+key_clients: []
+ru:
+  description: |
+    Dexcel Robotics (源升智能机器人) разрабатывает ловкую кисть Apex Hand с 21 степенью свободы, нагрузкой 30 кг,
+    усилием на кончике пальца 15 Н и сухожильным приводом с обратимым ходом для устойчивой работы.
+  highlights:
+    - Apex Hand — самая прочная ловкая кисть с большим числом DOF
+    - 21 DOF, максимальная активная нагрузка 30 кг, усилие на кончике 15 Н
+    - Обратимый привод поглощает удары через бионические сухожилия
+    - Полное тактильное покрытие ладони, частота >1000 Гц
+en:
+  description: |
+    Dexcel Robotics develops the Apex Hand dexterous hand with 21 DOF, 30kg payload, 15N fingertip force, and tendon-driven backdrivable design for robust operation.
+  highlights:
+    - Apex Hand - world's most robust high-DOF dexterous hand
+    - 21 DOF, 30kg max active load, 15N fingertip force
+    - Backdrivable design absorbs shock via bionic tendons
+    - Full palm tactile coverage, >1000Hz sampling
+zh:
+  description: |
+    源升智能机器人（深圳）有限公司 (Dexcel Robotics) 开发 Apex Hand 灵巧手，具备 21 个自由度、30 kg 负载、
+    指尖力 15 N，腱驱可反向驱动设计，运行稳健。
+  highlights:
+    - Apex Hand：全球最坚固的高自由度灵巧手
+    - 21 DOF，最大主动负载 30 kg，指尖力 15 N
+    - 可反向驱动设计，通过仿生腱吸收冲击
+    - 全掌触觉覆盖，采样率 >1000 Hz
+verified: false
+needs_review:
+  zh: true

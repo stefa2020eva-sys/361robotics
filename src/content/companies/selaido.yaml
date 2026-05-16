@@ -1,0 +1,45 @@
+slug: selaido
+name: Selaido
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Selaido
+  en: Selaido logo
+  zh: 绍鼎密封标志
+type:
+  - component_maker
+featured: false
+categories:
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Changzhou Selaido (绍鼎密封) выпускает вращающиеся уплотнения и манжетные уплотнения для волновых и RV-редукторов
+    с оптимизированной конструкцией, низким трением, малым тепловыделением и длительным ресурсом.
+  highlights:
+    - Оптимизированная структура и собственные рецептуры материалов
+    - Высокоточные пресс-формы и моделирование
+    - Уплотнения для дронов, бассейновых роботов, пылесосов, газонокосилок, гуманоидных роботов
+    - Повышенная герметизация при увеличенном ресурсе
+en:
+  description: |
+    Selaido produces rotary oil seals, skeleton oil seals for harmonic reducers and RV reducers, featuring structural optimization, low friction, low temperature rise, and long life.
+  highlights:
+    - Optimized structure and proprietary material formulas
+    - High-precision molds and simulation analysis
+    - Seals for drones, pool robots, sweeping robots, lawn mowers, humanoid robots
+    - Improves sealing performance while ensuring longevity
+zh:
+  description: |
+    常州绍鼎密封科技有限公司生产用于谐波减速器和 RV 减速器的旋转油封和骨架油封，
+    具备结构优化、低摩擦、低温升和长寿命的特点。
+  highlights:
+    - 优化结构与自研材料配方
+    - 高精度模具和仿真分析
+    - 服务无人机、泳池机器人、扫地机、割草机、人形机器人
+    - 在保证寿命的同时提升密封性能
+verified: false
+needs_review:
+  zh: true

@@ -1,0 +1,46 @@
+slug: wcon
+name: Wcon
+country: CN
+founded: 2002
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Wcon
+  en: Wcon logo
+  zh: 维峰电子标志
+type:
+  - component_maker
+featured: false
+categories:
+  - connectivity
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Wcon (维峰电子) предоставляет соединители wire-to-board серии WF1258 с шагом 1,25 мм, двухконтактным дизайном клемм,
+    рабочей температурой −40…+125 °C и автомобильной надёжностью для воплощённых роботов.
+  highlights:
+    - Двухконтактные клеммы для виброустойчивости
+    - Шаг 1,25 мм, ультратонкий дизайн (<4 мм)
+    - Тестирование USCAR и BYD
+    - Рабочая температура −40…+125 °C, номинальный ток 3,6 А
+en:
+  description: |
+    Wcon provides WF1258 series wire-to-board connectors with 1.25mm pitch, dual-contact terminal design, -40°C to +125°C operation, and automotive-grade reliability for embodied robots.
+  highlights:
+    - Dual-contact terminal design for vibration resistance
+    - 1.25mm pitch ultra-slim design (<4mm thick)
+    - USCAR and BYD tested
+    - Operating -40°C to +125°C, rated current 3.6A
+zh:
+  description: |
+    维峰电子 (Wcon) 提供 WF1258 系列线对板连接器，间距 1.25 mm，双触点端子设计，
+    工作温度 −40°C 至 +125°C，达到车规级可靠性，适用于具身机器人。
+  highlights:
+    - 双触点端子设计，抗振动
+    - 1.25 mm 间距，超薄设计（<4 mm）
+    - 通过 USCAR 和比亚迪测试
+    - 工作温度 −40°C 至 +125°C，额定电流 3.6 A
+verified: false
+needs_review:
+  zh: true

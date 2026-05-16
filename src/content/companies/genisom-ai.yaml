@@ -1,0 +1,52 @@
+slug: genisom-ai
+name: Genisom AI
+country: CN
+founded: 2023
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Genisom AI
+  en: Genisom AI logo
+  zh: 智身新创标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - actuators
+  - controllers
+robot_products:
+  - name: Steel Can L1
+    short: 15kg bionic quadruped for special operations
+  - name: Copper Hammer M1
+    short: High-speed quadruped for patrol and inspection
+  - name: CHAMP P65
+    short: Integrated joint module with dual encoders
+key_clients: []
+ru:
+  description: |
+    Genisom AI (智身新创) разрабатывает бионических четвероногих роботов (L1, M1) и модули суставов высокой удельной мощности (CHAMP P65)
+    с управлением на основе reinforcement learning, скоростью до 3,7 м/с и возможностью бэкфлипа на 720°.
+  highlights:
+    - L1 — единственный роботопёс, способный на бэкфлип 720°, 3,7 м/с, 8 кг нагрузки
+    - M1 — скорость 6–8 м/с, самостоятельное восстановление после падения
+    - CHAMP P65 — пиковый момент 48 Н·м, 520 г, плотность 92,3 Н·м/кг
+    - 70 % сотрудников в R&D, 60 % — магистры/PhD
+en:
+  description: |
+    Genisom AI develops bionic quadruped robots (L1, M1) and high power-density joint modules (CHAMP P65) with reinforcement learning control, up to 3.7m/s speed and 720° backflip capability.
+  highlights:
+    - L1 - only robotic dog capable of 720° backflip, 3.7m/s, 8kg payload
+    - M1 - 6-8m/s speed, fall self-recovery
+    - CHAMP P65 - 48Nm peak torque, 520g weight, 92.3Nm/kg density
+    - 70% R&D staff, 60% master/PhD
+zh:
+  description: |
+    智身新创（苏州）智能科技 (Genisom AI) 开发仿生四足机器人 L1、M1，
+    以及高功率密度关节模组 CHAMP P65，采用强化学习控制，速度可达 3.7 m/s，具备 720° 后空翻能力。
+  highlights:
+    - L1：唯一可完成 720° 后空翻的机器狗，3.7 m/s，8 kg 负载
+    - M1：6-8 m/s 速度，跌倒自恢复
+    - CHAMP P65：峰值扭矩 48 N·m，重量 520 g，扭矩密度 92.3 N·m/kg
+    - 研发人员占比 70%，硕博占比 60%
+verified: false
+needs_review:
+  zh: true

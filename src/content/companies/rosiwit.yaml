@@ -1,0 +1,46 @@
+slug: rosiwit
+name: Rosiwit
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Rosiwit
+  en: Rosiwit logo
+  zh: 霞智科技标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - end-effectors
+robot_products:
+  - name: Skywalker GT
+    short: Intelligent cleaning robot for commercial and industrial use
+key_clients: []
+ru:
+  description: |
+    Rosiwit (霞智科技) проектирует и производит интеллектуальных уборочных роботов (Skywalker GT) на базе 48-вольтовой аппаратной платформы
+    с интеллектуальной 5-в-1 рабочей станцией, 5 часами автономной работы и быстрой зарядкой за 1 час.
+  highlights:
+    - Высокомощная платформа 48 В
+    - 5 часов непрерывной уборки, быстрая зарядка за 1 час
+    - Шестислойная защита безопасности
+    - Низкий уровень шума — всего 60 дБ
+en:
+  description: |
+    Rosiwit designs and manufactures intelligent cleaning robots (Skywalker GT) built on 48V hardware platform with 5-in-1 smart workstation, 5-hour runtime, and 1-hour fast charging.
+  highlights:
+    - 48V high-power platform
+    - 5-hour scrub runtime, 1-hour fast charging
+    - Six-layer safety protection
+    - Noise as low as 60dB
+zh:
+  description: |
+    霞智科技 (Rosiwit) 基于 48V 硬件平台设计并制造智能清洁机器人 Skywalker GT，
+    配备 5 合 1 智能工作站，单次续航 5 小时，快充仅需 1 小时。
+  highlights:
+    - 48V 高功率平台
+    - 5 小时持续清洁，1 小时快充
+    - 六重安全防护
+    - 噪音低至 60 分贝
+verified: false
+needs_review:
+  zh: true

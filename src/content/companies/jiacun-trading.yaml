@@ -1,0 +1,46 @@
+slug: jiacun-trading
+name: Jiacun Trading
+country: CN
+founded: 1997
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Jiacun Trading
+  en: Jiacun Trading logo
+  zh: 佳村商贸标志
+type:
+  - component_maker
+featured: false
+categories:
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Jiacun Trading (佳村商贸) распространяет высокопроизводительные инженерные пластики, включая KetaSpire PEEK, Amodel PPA и IXEF PAMXD6,
+    для суставов, шестерён и конструктивных элементов роботов.
+  highlights:
+    - Авторизованный дистрибьютор Solvay и DRAKE
+    - KetaSpire PEEK — HDT 315 °C, длительная работа 240 °C
+    - Плотность 1,3–1,53 г/см³ для облегчения
+    - Amodel PPA — низкое влагопоглощение, идеален для разъёмов
+en:
+  description: |
+    Jiacun Trading distributes high-performance engineering plastics including KetaSpire PEEK, Amodel PPA, and IXEF PAMXD6 for robot joints, gears, and structural components.
+  highlights:
+    - Authorized distributor of Solvay and DRAKE
+    - KetaSpire PEEK - HDT 315°C, continuous use 240°C
+    - Density 1.3-1.53 g/cm³ for lightweighting
+    - Amodel PPA - low moisture absorption, ideal for connectors
+zh:
+  description: |
+    东莞佳村商贸有限公司 (Jiacun Trading) 代理 KetaSpire PEEK、Amodel PPA、IXEF PAMXD6 等高性能工程塑料，
+    用于机器人关节、齿轮和结构件。
+  highlights:
+    - 索尔维 Solvay 与 DRAKE 授权代理
+    - KetaSpire PEEK：HDT 315°C，长期使用 240°C
+    - 密度 1.3–1.53 g/cm³，可轻量化
+    - Amodel PPA：低吸湿性，适合连接器
+verified: false
+needs_review:
+  zh: true

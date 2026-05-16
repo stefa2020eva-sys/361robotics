@@ -1,0 +1,53 @@
+slug: smart-gsea
+name: Smart Gsea
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Smart Gsea
+  en: Smart Gsea logo
+  zh: 睿感机器人标志
+type:
+  - robot_brand
+  - component_maker
+featured: false
+categories:
+  - vision
+  - actuators
+produces_components:
+  - lidar
+  - servo-motor
+robot_products:
+  - name: Humanoid Robot
+    short: Full-size humanoid with advanced vision
+  - name: Quadruped Robot
+    short: Four-legged robot for inspection and service
+key_clients: []
+ru:
+  description: |
+    Smart Gsea (睿感机器人) — это подразделение интеллектуальной робототехники компании Yantai Raytron.
+    Компания предлагает комплексные решения: от компонентов визуального восприятия до полностью укомплектованных воплощённых роботов для гуманоидных и квадропедных применений.
+  highlights:
+    - Объединяет ИИ-«мозг» с собственными системами зрения и приводами
+    - "Сквозная технология: восприятие — принятие решений — исполнение"
+    - Применения в домашнем уходе, нефтехимии, энергетике, образовании, животноводстве
+    - Многомерное восприятие окружающей среды
+en:
+  description: |
+    Smart Gsea is the intelligent robotics business unit of Yantai Raytron, offering full-stack solutions from vision perception components to complete embodied robots for humanoid and quadruped applications.
+  highlights:
+    - Integrates AI brain with self-developed vision and actuation
+    - Perception-decision-execution full-link technology
+    - Targets home care, petrochemical, power, education, livestock
+    - Leverages multi-dimensional perception
+zh:
+  description: |
+    睿感机器人 (Smart Gsea) 是烟台睿创微纳 (Raytron) 旗下的智能机器人事业部，
+    提供从视觉感知组件到整机具身机器人的全栈解决方案，覆盖人形和四足应用场景。
+  highlights:
+    - 融合 AI 大脑与自研视觉、执行系统
+    - 感知-决策-执行全链路技术
+    - 面向家庭护理、石化、电力、教育、畜牧等行业
+    - 多维度感知能力
+verified: false
+needs_review:
+  zh: true

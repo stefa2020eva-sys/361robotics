@@ -1,0 +1,46 @@
+slug: gigadevice
+name: GigaDevice
+country: CN
+founded: 2005
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип GigaDevice
+  en: GigaDevice logo
+  zh: 兆易创新标志
+type:
+  - component_maker
+featured: false
+categories:
+  - controllers
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    GigaDevice (兆易创新) предоставляет MCU серии GD32H75E для промышленной автоматизации
+    со встроенным EtherCAT-контроллером Slave, ядром Cortex-M7 600 МГц, DSP+FPU и Flash до 3840 КБ.
+  highlights:
+    - №2 в мире по SPI NOR Flash
+    - GD32H75E — 600 МГц, 1552 DMIPS, CoreMark 2888
+    - Встроенный EtherCAT SubDevice Controller с двумя PHY
+    - До 3840 КБ Flash, 1024 КБ SRAM
+en:
+  description: |
+    GigaDevice provides GD32H75E series industrial automation MCUs with EtherCAT slave controller, 600MHz Cortex-M7 core, DSP+FPU, and up to 3840KB Flash.
+  highlights:
+    - World #2 in SPI NOR Flash
+    - GD32H75E - 600MHz, 1552 DMIPS, CoreMark 2888
+    - EtherCAT SubDevice Controller with 2 built-in PHYs
+    - Up to 3840KB Flash, 1024KB SRAM
+zh:
+  description: |
+    兆易创新 (GigaDevice) 推出 GD32H75E 系列工业自动化 MCU，
+    集成 EtherCAT SubDevice 控制器，主频 600 MHz Cortex-M7，配备 DSP+FPU，Flash 最大 3840 KB。
+  highlights:
+    - 全球 SPI NOR Flash 第二名
+    - GD32H75E：600 MHz、1552 DMIPS、CoreMark 2888
+    - 内置 EtherCAT SubDevice 控制器及 2 颗 PHY
+    - 最大 3840 KB Flash、1024 KB SRAM
+verified: false
+needs_review:
+  zh: true

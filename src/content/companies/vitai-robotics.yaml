@@ -1,0 +1,45 @@
+slug: vitai-robotics
+name: ViTaI Robotics
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип ViTaI Robotics
+  en: ViTaI Robotics logo
+  zh: 纺钛机器人标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    ViTaI Robotics (纺钛机器人) предлагает тактильные датчики на основе компьютерного зрения (GF515, GF220)
+    с разрешением до 10 000 точек на см², детекцией усилия от 0,01 Н и миллисекундным откликом для точной манипуляции.
+  highlights:
+    - Истоки технологии в MIT
+    - GF515 — 10 000 точек/см², точность 0,01 Н, −10…80 °C
+    - GF220 — на 47 % меньше предыдущего поколения, <45 г, разрешение 0,05 Н
+    - 30 Гц (до 120 Гц по заказу), ресурс свыше 5 млн циклов
+en:
+  description: |
+    ViTaI Robotics provides vision-based tactile sensors (GF515, GF220) with resolution up to 10,000/cm², 0.01N force detection, and millisecond response for precision manipulation.
+  highlights:
+    - Originated from MIT
+    - GF515 - 10,000 pts/cm², 0.01N precision, -10C to 80C
+    - GF220 - 47% smaller than previous gen, <45g, 0.05N resolution
+    - 30Hz (120Hz customizable), >5 million cycles durability
+zh:
+  description: |
+    纺钛机器人 (ViTaI Robotics) 提供基于视觉的触觉传感器 (GF515、GF220)，
+    分辨率高达 10 000 点/cm²，可检测 0.01 N 力量，响应达到毫秒级，适用于精密操作。
+  highlights:
+    - 技术源自 MIT
+    - GF515：10 000 点/cm²，0.01 N 精度，−10°C 至 80°C
+    - GF220：体积比上一代缩小 47%，<45 g，0.05 N 分辨率
+    - 30 Hz（可定制至 120 Hz），耐久 >500 万次
+verified: false
+needs_review:
+  zh: true

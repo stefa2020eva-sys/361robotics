@@ -1,0 +1,46 @@
+slug: sunshine-global
+name: Sunshine Global
+country: CN
+founded: 2001
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Sunshine Global
+  en: Sunshine Global logo
+  zh: 明阳电路标志
+type:
+  - component_maker
+featured: false
+categories:
+  - controllers
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Sunshine Global (明阳电路) предоставляет несущие платы для краевых вычислений роботов с поддержкой Jetson AGX Orin (40–275 TOPS)
+    для зрения, навигации, управления движением и ИИ-приложений.
+  highlights:
+    - Публичная компания, глобальный производитель печатных плат
+    - Несущая плата для Jetson AGX Orin
+    - Поддержка 40–275 TOPS
+    - Интерфейсы Ethernet, USB3.0, CAN, RS485, IMU, GPS
+en:
+  description: |
+    Sunshine Global provides robot edge computing carrier boards supporting Jetson AGX Orin (40-275 TOPS) for vision, navigation, motion control, and AI applications.
+  highlights:
+    - Listed company, global PCB manufacturer
+    - Carrier board for Jetson AGX Orin
+    - Supports 40-275 TOPS
+    - Interfaces - Ethernet, USB3.0, CAN, RS485, IMU, GPS
+zh:
+  description: |
+    明阳电路 (Sunshine Global) 提供机器人边缘计算载板，支持 Jetson AGX Orin（40–275 TOPS），
+    用于视觉、导航、运动控制和 AI 应用。
+  highlights:
+    - 上市公司，全球 PCB 制造商
+    - 适配 Jetson AGX Orin 的载板
+    - 支持 40–275 TOPS
+    - 接口包括 Ethernet、USB3.0、CAN、RS485、IMU、GPS
+verified: false
+needs_review:
+  zh: true

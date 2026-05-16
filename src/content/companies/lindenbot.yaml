@@ -1,0 +1,47 @@
+slug: lindenbot
+name: LindenBot
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип LindenBot
+  en: LindenBot logo
+  zh: 移动通用机器人标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - actuators
+  - controllers
+robot_products:
+  - name: General-purpose Embodied Robot
+    short: Dual-arm mobile robot with lifting mechanism
+key_clients: []
+ru:
+  description: |
+    LindenBot (安徽移动通用机器人) разрабатывает универсальных воплощённых интеллектуальных роботов с двумя руками,
+    подъёмным механизмом и мобильной платформой; 7 DOF на руку, вылет ≥850 мм, грузоподъёмность ≥3 кг и защита IP54.
+  highlights:
+    - Первый аффилированный с iFlytek хайтек-стартап в Аньхое
+    - "Полностековое автономное управление: мозг — мозжечок — тело"
+    - Диапазон подъёма от пола до ≥2 м
+    - Полное круговое стереозрение с камерами со всех сторон
+en:
+  description: |
+    LindenBot develops general-purpose embodied intelligent robots with dual-arm + lifting + mobile chassis, 7 DOF per arm, ≥850mm reach, ≥3kg payload, and IP54 protection.
+  highlights:
+    - First iFlytek-affiliated hard-tech robotics startup in Anhui
+    - Brain-cerebellum-body full-stack autonomous control
+    - Lifting range from ground to ≥2m
+    - Full-body stereovision with cameras on all sides
+zh:
+  description: |
+    安徽移动通用机器人科技有限公司 (LindenBot) 开发通用具身智能机器人，采用双臂 + 升降 + 移动底盘配置，
+    单臂 7 DOF，作业半径 ≥850 mm，负载 ≥3 kg，防护等级 IP54。
+  highlights:
+    - 安徽首家科大讯飞背景的硬科技机器人初创
+    - 大脑-小脑-本体全栈自主控制
+    - 升降范围从地面到 ≥2 m
+    - 全身环绕立体视觉相机
+verified: false
+needs_review:
+  zh: true

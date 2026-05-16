@@ -1,0 +1,46 @@
+slug: hongyuan-bearing
+name: Hongyuan Bearing
+country: CN
+founded: 2005
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Hongyuan Bearing
+  en: Hongyuan Bearing logo
+  zh: 鸿元轴承标志
+type:
+  - component_maker
+featured: false
+categories:
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Hongyuan Bearing (鸿元轴承) производит перекрёстно-роликовые подшипники, гибкие подшипники, радиально-упорные подшипники для гармонических, RV- и планетарных редукторов,
+    занимая свыше 90 % внутреннего рынка подшипников для роботов.
+  highlights:
+    - «Маленький гигант», 150-акровая производственная площадка
+    - 12 серий, 150 моделей подшипников для роботов
+    - Первая массовая серия подшипников для гуманоидных роботов (2022)
+    - Экспорт в Японию с 2020 года
+en:
+  description: |
+    Hongyuan Bearing produces crossed roller bearings, flexible bearings, angular contact bearings for harmonic/RV/planetary reducers, occupying over 90% of domestic robot bearing market.
+  highlights:
+    - National Little Giant, 150-acre facility
+    - 12 series, 150 models of robot bearings
+    - First to mass-produce humanoid robot bearings (2022)
+    - Exported to Japan since 2020
+zh:
+  description: |
+    洛阳鸿元轴承科技有限公司 (Hongyuan Bearing) 生产交叉滚子轴承、柔性轴承、角接触轴承，
+    应用于谐波、RV、行星减速器，占据国内机器人轴承 90% 以上份额。
+  highlights:
+    - 国家级专精特新「小巨人」，150 亩厂区
+    - 12 个系列、150 种机器人轴承型号
+    - 2022 年率先量产人形机器人轴承
+    - 自 2020 年起出口日本
+verified: false
+needs_review:
+  zh: true

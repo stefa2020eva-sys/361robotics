@@ -1,0 +1,47 @@
+slug: xbog-robotics
+name: Xbog Robotics
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Xbog Robotics
+  en: Xbog Robotics logo
+  zh: 赛博格机器人标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - actuators
+  - controllers
+robot_products:
+  - name: Cyborg-W01
+    short: Wheeled humanoid robot for industrial and special operations
+key_clients: []
+ru:
+  description: |
+    Xbog Robotics (赛博格机器人) разрабатывает колёсного гуманоидного робота Cyborg-W01 с 53 степенями свободы,
+    грузоподъёмностью двух рук 15 кг, вылетом одной руки 2 м и вычислительной мощностью 200 TOPS для промышленной инспекции и обслуживания.
+  highlights:
+    - Cyborg-W01 — колёсное шасси + гуманоидный торс
+    - Максимальный момент в суставе 562 Н·м, аккумулятор на 5 часов
+    - 8-ядерный процессор 200 TOPS, мультимодальное восприятие
+    - "Применения: SMT-линии, СНЭ, объекты повышенной опасности"
+en:
+  description: |
+    Xbog Robotics develops the Cyborg-W01 wheeled humanoid robot with 53 DOF, 15kg dual-arm load, 2m single-arm reach, and 200 TOPS computing power for industrial inspection and maintenance.
+  highlights:
+    - Cyborg-W01 - wheeled chassis + humanoid upper body
+    - Max joint torque 562 N·m, 5-hour battery
+    - 8-core 200 TOPS, multimodal perception
+    - Serves SMT lines, smart energy storage, high-risk environments
+zh:
+  description: |
+    深圳赛博格机器人有限公司 (Xbog Robotics) 开发轮式人形机器人 Cyborg-W01，
+    具备 53 个自由度，双臂负载 15 kg，单臂作业半径 2 m，算力 200 TOPS，面向工业巡检与维护。
+  highlights:
+    - Cyborg-W01：轮式底盘 + 人形上身
+    - 最大关节扭矩 562 N·m，续航 5 小时
+    - 8 核 200 TOPS 算力，多模态感知
+    - 服务 SMT 产线、智能储能、高危环境
+verified: false
+needs_review:
+  zh: true

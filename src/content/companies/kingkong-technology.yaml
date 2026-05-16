@@ -1,0 +1,46 @@
+slug: kingkong-technology
+name: KingKong Technology
+country: CN
+founded: 2017
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип KingKong Technology
+  en: KingKong Technology logo
+  zh: 金钢科技标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    KingKong Technology (金钢科技) выпускает магнитные энкодеры с растровой схемой для интегрированных суставов роботов
+    с двойным 24-битным абсолютным выходом, точностью ±0,01° и сверхкомпактной радиальной шириной всего 7 мм.
+  highlights:
+    - Двойной 24-битный абсолютный выход
+    - Абсолютная точность позиционирования ±0,01°
+    - Ширина кольца всего 7 мм, типоразмеры по диаметру с шагом 5 мм
+    - Виброустойчивость, помехозащищённость, защита от пыли и масла
+en:
+  description: |
+    KingKong Technology produces pattern-based magnetic encoders for robot integrated joints, featuring dual 24-bit absolute output, ±0.01° accuracy, and ultra-compact radial width of 7mm.
+  highlights:
+    - Dual 24-bit absolute output
+    - ±0.01° absolute positioning accuracy
+    - Ring width only 7mm, models every 5mm on diameter
+    - Vibration resistant, anti-interference, dust/oil resistant
+zh:
+  description: |
+    金钢科技为机器人一体化关节生产基于栅格图案的磁编码器，
+    具备双 24 位绝对输出、±0.01° 精度，径向厚度仅 7 mm 的超紧凑设计。
+  highlights:
+    - 双 24 位绝对输出
+    - 绝对定位精度 ±0.01°
+    - 环宽仅 7 mm，直径每 5 mm 一档型号
+    - 抗振、抗干扰、防尘防油
+verified: false
+needs_review:
+  zh: true

@@ -1,0 +1,48 @@
+slug: galaxis
+name: Galaxis
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Galaxis
+  en: Galaxis logo
+  zh: 凯乐士标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - actuators
+  - vision
+  - controllers
+robot_products:
+  - name: VFR Series
+    short: Very narrow aisle fork-type autonomous mobile robot
+key_clients: []
+ru:
+  description: |
+    Galaxis (凯乐士科技) предоставляет роботов для внутрицеховой логистики, включая узкопроходные вилочные AMR серии VFR
+    грузоподъёмностью 600–1000 кг, с точностью остановки ±5 мм и навигацией по QR-кодам/SLAM.
+  highlights:
+    - "Полный набор: MSR, AMR, CSR для хранения, сортировки, перевозки"
+    - Серия VFR — боковой захват вил, высота подъёма до 2000 мм
+    - Собственный вес 800–1500 кг, радиус разворота 925–930 мм
+    - Применения в распределительных и складских центрах
+en:
+  description: |
+    Galaxis provides intralogistics robots including VFR very narrow aisle fork-type AMRs with 600-1000kg load, ±5mm stopping accuracy, and QR code/SLAM navigation.
+  highlights:
+    - Full suite - MSR, AMR, CSR for storage, sorting, transport
+    - VFR series - side-facing fork pickup, lifting height up to 2000mm
+    - 800-1500kg self-weight, 925-930mm turn radius
+    - Serves warehousing and distribution centers
+zh:
+  description: |
+    凯乐士科技 (Galaxis) 提供仓内物流机器人，包括 VFR 窄通道叉车式 AMR，
+    负载 600–1000 kg，停车精度 ±5 mm，支持二维码/SLAM 导航。
+  highlights:
+    - 完整产品线：MSR、AMR、CSR，覆盖存储、分拣、搬运
+    - VFR 系列：侧向叉取，举升高度可达 2000 mm
+    - 自重 800–1500 kg，转弯半径 925–930 mm
+    - 服务仓储与配送中心
+verified: false
+needs_review:
+  zh: true

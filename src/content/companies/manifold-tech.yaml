@@ -1,0 +1,46 @@
+slug: manifold-tech
+name: Manifold Tech
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Manifold Tech
+  en: Manifold Tech logo
+  zh: 留形科技标志
+type:
+  - component_maker
+featured: false
+categories:
+  - vision
+  - software-sdk
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Manifold Tech (留形科技) предоставляет модуль пространственной памяти Odin1 (первый в мире) с алгоритмом MindSLAM
+    для восприятия 3D-сред в реальном времени, а также ручной 3D-сканер MindPalace Q9000.
+  highlights:
+    - Odin1 — интеграция LiDAR и визуального датчика, постоянная пространственная память
+    - MindPalace Q9000 — ручной 3D-сканер для эффективного сбора данных
+    - Аппаратная синхронизация MindSLAM на уровне нескольких датчиков
+    - "Применения: робототехника, геодезия, инспекция, цифровые двойники"
+en:
+  description: |
+    Manifold Tech provides Odin1 spatial memory module (world's first) with MindSLAM algorithm for real-time 3D environment perception, and MindPalace Q9000 handheld 3D scanner.
+  highlights:
+    - Odin1 - LIDAR + visual sensor integration, persistent spatial memory
+    - MindPalace Q9000 - handheld 3D scanner for efficient data acquisition
+    - MindSLAM multi-sensor hardware-level synchronization
+    - Applications - robotics, surveying, inspection, digital twin
+zh:
+  description: |
+    留形科技 (Manifold Tech) 推出 Odin1 空间记忆模组（全球首款），搭载 MindSLAM 算法，
+    可实时 3D 环境感知，并提供 MindPalace Q9000 手持 3D 扫描仪。
+  highlights:
+    - Odin1：LiDAR 与视觉传感器融合，持久空间记忆
+    - MindPalace Q9000：手持 3D 扫描仪，高效采集数据
+    - MindSLAM 多传感器硬件级同步
+    - 应用：机器人、测绘、巡检、数字孪生
+verified: false
+needs_review:
+  zh: true

@@ -1,0 +1,48 @@
+slug: zhaowei
+name: ZHAOWEI
+country: CN
+founded: 2001
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип ZHAOWEI
+  en: ZHAOWEI logo
+  zh: 兆威机电标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+  - end-effectors
+produces_components:
+  - servo-motor
+  - gripper
+key_clients: []
+ru:
+  description: |
+    ZHAOWEI (兆威机电) производит ловкую кисть ZWHAND-B06 с 6 активными степенями свободы (10 пассивных), усилием на кончике 8 Н, массой 400 г
+    и интегрированными тактильными датчиками для конечных эффекторов роботов.
+  highlights:
+    - Зарегистрирована на A+H (003021, 02692)
+    - National Manufacturing Single Champion
+    - 6 активных DOF, 10 пассивных, 8 Н на кончике пальца
+    - RS485/CANFD, 12–64 В DC, 400 г, тактильные датчики
+en:
+  description: |
+    ZHAOWEI produces ZWHAND-B06 dexterous hand with 6 active DOF (10 passive), 8N fingertip pressure, 400g weight, and integrated tactile sensors for robot end-effectors.
+  highlights:
+    - Listed A+H share (003021, 02692)
+    - National Manufacturing Single Champion
+    - 6 active DOF, 10 passive, 8N fingertip pressure
+    - RS485/CANFD, 12-64VDC, 400g, tactile sensors
+zh:
+  description: |
+    兆威机电 (ZHAOWEI) 生产 ZWHAND-B06 灵巧手，具备 6 个主动自由度（10 个被动），指尖压力 8 N，重量 400 g，
+    集成触觉传感器，适用于机器人末端执行器。
+  highlights:
+    - A+H 上市 (003021、02692)
+    - 国家级制造业单项冠军
+    - 6 个主动自由度、10 个被动自由度，指尖压力 8 N
+    - RS485/CANFD，12–64 V DC，400 g，集成触觉传感器
+verified: false
+needs_review:
+  zh: true

@@ -1,0 +1,46 @@
+slug: genius-control
+name: Genius Control
+country: CN
+founded: 2024
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Genius Control
+  en: Genius Control logo
+  zh: 智凝精控标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Genius Control (智凝精控) производит безрамные моментные двигатели серий NS/LS/LSP (наружный диаметр 45–115 мм)
+    с высокой удельной мощностью момента, большим полым валом и приводными решениями для модулей суставов полного размера.
+  highlights:
+    - Совместное предприятие SIAT КАН и Changjingcheng
+    - NS — экономичный, высокая удельная мощность момента
+    - LS — большой полый вал, лёгкий
+    - LS-Pro — сверхвысокая плотность момента, низкая зубчатость
+en:
+  description: |
+    Genius Control produces NS/LS/LSP series frameless torque motors (45-115mm OD) with high torque density, large hollow bore, and joint module drive solutions for full-size modules.
+  highlights:
+    - Joint venture of Shenzhen Institute of Advanced Technology (CAS) and Changjingcheng
+    - NS - cost-effective high torque density
+    - LS - extra-large hollow bore, lightweight
+    - LS-Pro - ultra-high torque density, low cogging torque
+zh:
+  description: |
+    广东智凝精控科技有限公司 (Genius Control) 生产 NS/LS/LSP 系列无框力矩电机（外径 45–115 mm），
+    具备高扭矩密度、大中空孔和全尺寸关节模组驱动方案。
+  highlights:
+    - 由中科院深圳先进院与长晶城合资成立
+    - NS：高性价比高扭矩密度
+    - LS：超大中空，轻量化
+    - LS-Pro：超高扭矩密度，低齿槽转矩
+verified: false
+needs_review:
+  zh: true

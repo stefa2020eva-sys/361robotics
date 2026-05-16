@@ -1,0 +1,46 @@
+slug: dexrobot
+name: DexRobot
+country: CN
+founded: 2024
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип DexRobot
+  en: DexRobot logo
+  zh: 灵巧智能标志
+type:
+  - component_maker
+featured: false
+categories:
+  - end-effectors
+produces_components:
+  - gripper
+key_clients: []
+ru:
+  description: |
+    DexRobot (灵巧智能) разрабатывает DexHand021 Pro — первую отечественную интегрированную «запястье-кисть» полностью бионическую пятипалую ловкую кисть
+    с 22 степенями свободы и двойным тросовым приводом.
+  highlights:
+    - 22 DOF бионическая архитектура, двойной тросовый привод
+    - Скоординированное управление запястьем и кистью увеличивает рабочую зону на 30 %
+    - Обратная связь по натяжению в реальном времени с тактильными датчиками
+    - Демонстрирует высокоскоростной, деликатный и взрывной захват
+en:
+  description: |
+    DexRobot develops DexHand021 Pro, the first domestically produced wrist-hand integrated dual-cable-driven fully bionic five-fingered dexterous hand with 22 DOF.
+  highlights:
+    - 22 DOF bionic architecture, dual-cable-driven system
+    - Wrist-hand coordinated control expands workspace by 30%
+    - Real-time tension feedback with tactile sensors
+    - Exhibits high-speed, delicate, and explosive grasping
+zh:
+  description: |
+    浙江灵巧智能科技有限公司 (DexRobot) 开发 DexHand021 Pro，
+    是首款国产腕手一体、双绳驱动的全仿生五指灵巧手，具备 22 个自由度。
+  highlights:
+    - 22 DOF 仿生架构，双绳驱动系统
+    - 腕手协同控制使工作空间扩大 30%
+    - 实时张力反馈，集成触觉传感器
+    - 展示高速、精细、爆发力抓取
+verified: false
+needs_review:
+  zh: true

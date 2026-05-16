@@ -1,0 +1,46 @@
+slug: lyric-robot
+name: Lyric Robot
+country: CN
+founded: 2014
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Lyric Robot
+  en: Lyric Robot logo
+  zh: 利元亨标志
+type:
+  - component_maker
+featured: false
+categories:
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Lyric Robot (利元亨) предоставляет полный цикл производственных возможностей для массового выпуска воплощённых роботов:
+    прецизионную обработку, сборку, тестирование и развитие сценариев применения.
+  highlights:
+    - Зарегистрирована на SSE Star Market (688499)
+    - 400 000 м² интеллектуальной производственной базы
+    - OEM для рук, корпусов, разъёмов, ловких кистей, ПП, модулей суставов гуманоидных роботов
+    - Тысячи единиц оборудования умного производства для тренировочных сценариев
+en:
+  description: |
+    Lyric Robot provides full-process manufacturing capabilities for mass production of embodied robots, including precision machining, assembly, testing, and application scenario development.
+  highlights:
+    - Listed on SSE Star Market (688499)
+    - 400,000 m² intelligent manufacturing base
+    - OEM services for humanoid robot arms, torsos, connectors, dexterous hands, PCBs, joint modules
+    - Thousands of smart manufacturing equipment experiences for training scenarios
+zh:
+  description: |
+    广东利元亨智能装备股份有限公司 (Lyric Robot) 为具身机器人量产提供全流程制造能力，
+    包括精密加工、组装、测试以及应用场景开发。
+  highlights:
+    - 科创板上市 (688499)
+    - 40 万 m² 智能制造基地
+    - 为人形机器人手臂、躯干、连接器、灵巧手、PCB、关节模组提供 OEM
+    - 数千套智能制造设备经验，可服务训练场景
+verified: false
+needs_review:
+  zh: true

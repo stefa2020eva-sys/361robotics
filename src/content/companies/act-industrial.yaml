@@ -1,0 +1,46 @@
+slug: act-industrial
+name: ACT Industrial
+country: CN
+founded: 1999
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип ACT Industrial
+  en: ACT Industrial logo
+  zh: 安科讯实业标志
+type:
+  - component_maker
+featured: false
+categories:
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    ACT Industrial (安科讯实业) предоставляет услуги контрактного электронного производства (OEM/ODM) для ИИ-роботов «под ключ»,
+    включая SMT-сборку, прецизионное литьё под давлением и интеграцию полной системы.
+  highlights:
+    - «Маленький гигант», 25 лет опыта
+    - SMT-линии, прецизионное литьё под давлением
+    - Один поставщик от дизайна до отгрузки
+    - Обслуживает ИКТ, цифровую энергетику, силовую электронику, робототехнику
+en:
+  description: |
+    ACT Industrial provides turnkey electronic manufacturing services (OEM/ODM) for AI robots, including SMT assembly, precision injection molding, and full-system integration.
+  highlights:
+    - National Little Giant, 25 years of experience
+    - SMT lines, precision injection molding
+    - One-stop design to delivery
+    - Serves ICT, digital energy, power electronics, robotics
+zh:
+  description: |
+    深圳市安科讯实业有限公司 (ACT Industrial) 为 AI 机器人提供电子制造交钥匙服务 (OEM/ODM)，
+    包括 SMT 贴片、精密注塑和整机系统集成。
+  highlights:
+    - 国家级专精特新「小巨人」，25 年经验
+    - SMT 线，精密注塑
+    - 从设计到交付的一站式服务
+    - 服务 ICT、数字能源、电力电子、机器人行业
+verified: false
+needs_review:
+  zh: true

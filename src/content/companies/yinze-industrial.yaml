@@ -1,0 +1,46 @@
+slug: yinze-industrial
+name: Yinze Industrial
+country: CN
+founded: 2006
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Yinze Industrial
+  en: Yinze Industrial logo
+  zh: 银泽实业标志
+type:
+  - component_maker
+featured: false
+categories:
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Dongguan Yinze Industrial (银泽实业) выполняет прецизионную механообработку компонентов суставов роботов,
+    в том числе интегрированных суставов, корпусов драйверов и модулей суставов с точностью IT5–IT7 и соосностью ≤0,01 мм.
+  highlights:
+    - Гибкое производство от прототипа до серии
+    - Допуск по наружному диаметру и соосность ≤0,01 мм
+    - "Заказчики: FAW, BYD, Great Wall, Geely, Changan"
+    - 300+ станков с ЧПУ, 30+ приборов контроля
+en:
+  description: |
+    Yinze Industrial provides precision machining for robotic joint components including integrated joints, driver housings, and joint modules with IT5-IT7 precision and coaxiality ≤0.01mm.
+  highlights:
+    - Flexible manufacturing from prototyping to mass production
+    - Outer diameter tolerance, coaxiality ≤0.01mm
+    - Serves FAW, BYD, Great Wall, Geely, Changan
+    - 300+ CNC machines, 30+ test instruments
+zh:
+  description: |
+    东莞市银泽实业有限公司为机器人关节组件提供精密加工服务，
+    包括一体化关节、驱动器外壳和关节模组，精度达 IT5–IT7，同轴度 ≤0.01 mm。
+  highlights:
+    - 从打样到量产的柔性制造
+    - 外径公差与同轴度 ≤0.01 mm
+    - 客户包括一汽、比亚迪、长城、吉利、长安
+    - 300+ 台 CNC 设备，30+ 台测量仪器
+verified: false
+needs_review:
+  zh: true

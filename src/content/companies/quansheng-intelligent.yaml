@@ -1,0 +1,45 @@
+slug: quansheng-intelligent
+name: Quansheng Intelligent
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Quansheng Intelligent
+  en: Quansheng Intelligent logo
+  zh: 全盛智能标志
+type:
+  - component_maker
+featured: false
+categories:
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Quansheng Intelligent (四川全盛智能) предоставляет услуги OEM/ODM для уборочных и коммерческих сервисных роботов,
+    с SMT-линиями, прецизионным литьём под давлением и заводом площадью 30 000 м².
+  highlights:
+    - Инвестиции 3,8 млрд юаней, 30 000 м² производственной площади
+    - SMT Siemens, литьё под давлением Demag
+    - 60+ модульных компонентов для гибкой кастомизации
+    - Быстрое прототипирование за 7–15 дней, услуги полного цикла
+en:
+  description: |
+    Quansheng Intelligent provides OEM/ODM services for cleaning robots and commercial service robots, with SMT lines, precision injection molding, and 30,000 m² factory.
+  highlights:
+    - 3.8B yuan investment, 30,000 m² facility
+    - Siemens SMT, Demag injection molding
+    - 60+ modular components for flexible customization
+    - 7-15 day rapid prototyping, full one-stop service
+zh:
+  description: |
+    四川全盛智能 (Quansheng Intelligent) 为清洁机器人和商用服务机器人提供 OEM/ODM 服务，
+    配备 SMT 线、精密注塑，工厂面积 3 万 m²。
+  highlights:
+    - 投资 38 亿元，3 万 m² 生产基地
+    - 西门子 SMT、德玛吉注塑
+    - 60+ 模块化组件，灵活定制
+    - 7–15 天快速打样，一站式全流程服务
+verified: false
+needs_review:
+  zh: true

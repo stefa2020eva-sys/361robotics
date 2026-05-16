@@ -1,0 +1,46 @@
+slug: qixing-technology
+name: Qixing Technology
+country: CN
+founded: 2023
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Qixing Technology
+  en: Qixing Technology logo
+  zh: 柒星科技标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Qixing Technology (柒星科技) разрабатывает HRVR (High Rigidity Vector Reducer), сочетающий характеристики гармонических и RV-редукторов:
+    полностью жёсткая конструкция, высокая ударопрочность, замена «один к одному» для гармонических редукторов.
+  highlights:
+    - Единственная в Китае компания с полным циклом форвардной разработки серии редукторов
+    - HRVR — полностью жёсткая структура без гибкого элемента
+    - Более высокая нагрузка и ресурс, чем у гармонических
+    - 2 выданных патента на изобретения
+en:
+  description: |
+    Qixing Technology develops HRVR (High Rigidity Vector Reducer) combining harmonic and RV characteristics, with all-rigid component structure, high impact resistance, and 1:1 replacement for harmonic drives.
+  highlights:
+    - Only domestic company with full-series forward development capability for reducers
+    - HRVR - all-rigid structure eliminates flexspline
+    - Higher load capacity and service life than harmonic
+    - Two invention patents granted
+zh:
+  description: |
+    重庆柒星科技有限公司 (Qixing Technology) 研发 HRVR（高刚度矢量减速器），融合谐波与 RV 特性，
+    采用全刚性结构、抗冲击性强，可 1:1 替换谐波减速器。
+  highlights:
+    - 国内唯一具备减速器全系列正向开发能力
+    - HRVR：全刚性结构，无柔轮
+    - 负载能力和寿命优于谐波
+    - 已获 2 项发明专利
+verified: false
+needs_review:
+  zh: true

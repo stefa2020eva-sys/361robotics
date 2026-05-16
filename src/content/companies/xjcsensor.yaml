@@ -1,0 +1,45 @@
+slug: xjcsensor
+name: XJCSENSOR
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип XJCSENSOR
+  en: XJCSENSOR logo
+  zh: 鑫精诚传感标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    XJCSENSOR (鑫精诚传感) выпускает шестиосевые датчики силы/момента на основе микро-MEMS тензорезисторов
+    с долговременной стабильностью, высокой чувствительностью, низким дрейфом нуля и автоматизированным производством.
+  highlights:
+    - Государственный «Маленький гигант», 16 лет в области датчиков силы
+    - MEMS-шестиосевой датчик, способный заменить тензорезисторы из металла
+    - Серийный выпуск малых партий уже освоен
+    - 500+ публичных компаний в числе клиентов
+en:
+  description: |
+    XJCSENSOR produces six-axis force/torque sensors based on micro-MEMS strain gauge technology with long-term stability, high sensitivity, low zero drift, and automated production.
+  highlights:
+    - National Little Giant, 16 years in force sensing
+    - MEMS six-axis sensor expected to replace metal strain gauge
+    - Small batch trial production completed
+    - 500+ listed company clients
+zh:
+  description: |
+    深圳市鑫精诚传感技术有限公司 (XJCSENSOR) 基于微 MEMS 应变片技术生产六轴力/力矩传感器，
+    具备长期稳定性、高灵敏度、低零漂和自动化生产能力。
+  highlights:
+    - 国家级专精特新「小巨人」，16 年力觉传感经验
+    - MEMS 六轴传感器有望替代金属应变片
+    - 小批量试产已完成
+    - 客户包括 500+ 家上市公司
+verified: false
+needs_review:
+  zh: true

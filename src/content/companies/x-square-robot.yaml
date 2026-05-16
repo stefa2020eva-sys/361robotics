@@ -1,0 +1,49 @@
+slug: x-square-robot
+name: X Square Robot
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип X Square Robot
+  en: X Square Robot logo
+  zh: 自变量机器人标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - controllers
+  - end-effectors
+robot_products:
+  - name: Quanta X1 Pro
+    short: Wheeled dual-arm embodied robot
+  - name: Quanta X2
+    short: Wheeled humanoid robot with foundation model
+key_clients: []
+ru:
+  description: |
+    X Square Robot (自变量机器人) разрабатывает базовую модель воплощённого ИИ WALL-A (VLA + модель мира)
+    и гуманоидных роботов, включая Quanta X1 Pro (колёсный двурукий) и Quanta X2 (колёсный гуманоид).
+  highlights:
+    - WALL-A — глубокая интеграция VLA и модели мира, мультимодальная Chain-of-Thought
+    - Первое решение с zero-shot-обобщением мобильной манипуляции
+    - Quanta X2 — сквозная связка восприятия и действия
+    - Artion Hand — полностью собственная ловкая кисть
+en:
+  description: |
+    X Square Robot develops the WALL-A embodied foundation model (VLA + world model) and humanoid robots including Quanta X1 Pro (wheeled dual-arm) and Quanta X2 (wheeled humanoid).
+  highlights:
+    - WALL-A - VLA + world model deep integration, multi-modal CoT
+    - First to achieve zero-shot generalization for mobile manipulation
+    - Quanta X2 - end-to-end from perception to action
+    - Artion Hand - fully self-developed dexterous hand
+zh:
+  description: |
+    自变量机器人科技（深圳）有限公司 (X Square Robot) 研发 WALL-A 具身基础模型（VLA + 世界模型），
+    以及 Quanta X1 Pro（轮式双臂）和 Quanta X2（轮式人形）等人形机器人。
+  highlights:
+    - WALL-A：VLA 与世界模型深度融合，多模态 CoT
+    - 首次实现移动操作的零样本泛化
+    - Quanta X2：感知到行动的端到端
+    - Artion Hand：全自研灵巧手
+verified: false
+needs_review:
+  zh: true

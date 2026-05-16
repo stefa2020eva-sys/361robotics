@@ -1,0 +1,47 @@
+slug: actibot
+name: Actibot
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Actibot
+  en: Actibot logo
+  zh: Actibot 行为智能标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - actuators
+  - controllers
+robot_products:
+  - name: Actibot D1
+    short: Wheeled humanoid robot for industrial and service applications
+key_clients: []
+ru:
+  description: |
+    Actibot (行为智能) разрабатывает колёсного гуманоидного робота D1 с колёсной базой и гуманоидной верхней частью тела,
+    с 22 степенями свободы корпуса, грузоподъёмностью одной руки 1,5 кг и подъёмным механизмом на шарико-винтовой передаче.
+  highlights:
+    - Команда из Школы аэрокосмической робототехники Университета Цинхуа
+    - 20 лет опыта в полностековой робототехнике
+    - D1 — колёсная база и гуманоидный торс
+    - Одна рука 7 DOF, верхняя часть тела 22 DOF
+en:
+  description: |
+    Actibot develops the D1 wheeled humanoid robot with a wheeled base and humanoid upper body, featuring 22 DOF in upper body, 1.5kg single-arm load, and ball screw lifting mechanism.
+  highlights:
+    - Team from Tsinghua University aerospace robotics
+    - 20 years of full-stack robotics experience
+    - D1 - wheeled base + humanoid upper body
+    - Single arm 7 DOF, upper body 22 DOF
+zh:
+  description: |
+    Actibot（行为智能）开发轮式人形机器人 D1，采用轮式底盘与人形上身组合，
+    上身具备 22 个自由度，单臂负载 1.5 kg，配备滚珠丝杠升降机构。
+  highlights:
+    - 团队来自清华大学航天机器人方向
+    - 20 年全栈机器人研发经验
+    - D1：轮式底盘 + 人形上身
+    - 单臂 7 DOF，上身 22 DOF
+verified: false
+needs_review:
+  zh: true

@@ -1,0 +1,45 @@
+slug: stella-robot
+name: Stella-Robot
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Stella-Robot
+  en: Stella-Robot logo
+  zh: 星际光年标志
+type:
+  - component_maker
+featured: false
+categories:
+  - end-effectors
+produces_components:
+  - gripper
+key_clients: []
+ru:
+  description: |
+    Stella-Robot (星际光年) разрабатывает ловкие кисти — серию Pantheon с полностью сухожильным приводом и серию Gaia с прямым приводом —
+    с 20 степенями свободы, быстрой заменой модулей и базовой моделью для манипуляций.
+  highlights:
+    - Pantheon — полностью сухожильный привод, автоматическое натяжение, сверхлёгкая
+    - Gaia Hand 20 — 20 DOF, замена модуля за 5 минут, многоуровневая тактильная конфигурация
+    - "Полный стек: модуль — аппаратура — данные — мозжечок"
+    - Основана экспертами из Tencent, Huawei, DJI
+en:
+  description: |
+    Stella-Robot develops dexterous hands (Pantheon fully tendon-driven series, Gaia direct-drive series) with 20 DOF, rapid module replacement, and foundation model for manipulation.
+  highlights:
+    - Pantheon - fully tendon-driven, automatic tensioning, ultra-lightweight
+    - Gaia Hand 20 - 20 DOF, 5-minute module swap, tiered tactile configuration
+    - Full-stack in-house module-hardware-data-cerebellum
+    - Founded by experts from Tencent, Huawei, DJI
+zh:
+  description: |
+    星际光年 (Stella-Robot) 开发灵巧手，包括完全腱驱的 Pantheon 系列与直驱的 Gaia 系列，
+    具备 20 个自由度、模块快换、操作基础模型。
+  highlights:
+    - Pantheon：完全腱驱，自动张紧，超轻量
+    - Gaia Hand 20：20 DOF，5 分钟换模，分层触觉配置
+    - 全栈自研：模组-硬件-数据-小脑
+    - 由腾讯、华为、大疆等专家创立
+verified: false
+needs_review:
+  zh: true
