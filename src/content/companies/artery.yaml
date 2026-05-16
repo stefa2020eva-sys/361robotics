@@ -1,0 +1,46 @@
+slug: artery
+name: Artery Technology
+country: CN
+founded: 2016
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Artery
+  en: Artery logo
+  zh: 雅特力科技标志
+type:
+  - component_maker
+featured: false
+categories:
+  - controllers
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Artery выпускает микроконтроллер AT32F456 (Cortex-M4F, 192 МГц, 512 КБ Flash) для управления многосуставными системами
+    и моторный MCU AT32M416 (180 МГц, встроенные OP/CMP/ADC) для приводов суставов роботов.
+  highlights:
+    - AT32F456 — 192 МГц, 512 КБ Flash, 144 КБ SRAM, CAN-FD
+    - AT32M416 — 180 МГц, 128+28 КБ Flash, 4 OP, 2 CMP, 12-битный ADC
+    - Применение в промышленном управлении, моторных приводах и робототехнике
+    - Основана в 2016 году, офисы в Чунцине, Шэньчжэне, Сучжоу, Шанхае и на Тайване
+en:
+  description: |
+    Artery provides AT32F456 MCU (Cortex-M4F, 192MHz, 512KB Flash) for multi-joint control and AT32M416 motor-dedicated MCU (180MHz, integrated OP/CMP/ADC) for robot joint drives.
+  highlights:
+    - "AT32F456: 192MHz, 512KB Flash, 144KB SRAM, CAN-FD"
+    - "AT32M416: 180MHz, 128+28KB Flash, 4 OP, 2 CMP, 12-bit ADC"
+    - Serves industrial control, motor drive, robotics
+    - Founded in 2016, offices in Chongqing, Shenzhen, Suzhou, Shanghai, Taiwan
+zh:
+  description: |
+    雅特力科技提供 AT32F456 MCU（Cortex-M4F、192MHz、512KB Flash），用于多关节控制，
+    以及 AT32M416 电机专用 MCU（180MHz、集成 OP/CMP/ADC），用于机器人关节驱动。
+  highlights:
+    - AT32F456：192MHz、512KB Flash、144KB SRAM、CAN-FD
+    - AT32M416：180MHz、128+28KB Flash、4 OP、2 CMP、12 位 ADC
+    - 服务工业控制、电机驱动、机器人领域
+    - 2016 年成立，办公地点遍布重庆、深圳、苏州、上海、台湾
+verified: false
+needs_review:
+  zh: true

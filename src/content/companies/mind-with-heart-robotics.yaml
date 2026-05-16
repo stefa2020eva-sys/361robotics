@@ -1,0 +1,49 @@
+slug: mind-with-heart-robotics
+name: Shenzhen Mind with Heart Robotics Technology Co., Ltd.
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Mind with Heart Robotics
+  en: Mind with Heart Robotics logo
+  zh: 无芯科技标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - end-effectors
+  - actuators
+robot_products:
+  - name: Biomimetic Panda Robot
+    short: Affective AI companion robot
+  - name: Child Robot
+    short: Silicone robot for autism therapy
+key_clients: []
+ru:
+  description: |
+    Mind with Heart Robotics выпускает биомиметических аффективных роботов-панд и детских роботов
+    для борьбы с одиночеством, психологического исцеления и реабилитационного сопровождения.
+  highlights:
+    - Премия CES 2026 Innovation Award в категории AI
+    - 18+ выданных патентов (8 китайских изобретательских, 1 США)
+    - Публикации в Forbes, USA Today, охват 20+ стран
+    - Направлено на пациентов с деменцией, депрессией, аутизмом, трудностями обучения
+en:
+  description: |
+    Mind with Heart Robotics provides biomimetic affective AI panda robots and child-form robots for loneliness alleviation, psychological healing, and rehabilitation companionship.
+  highlights:
+    - CES 2026 Innovation Award in AI
+    - 18+ authorized patents (8 China invention, 1 US)
+    - Covered by Forbes, USA Today, 20+ countries
+    - Targets dementia, depression, autism, learning disabilities
+zh:
+  description: |
+    深圳无芯科技提供仿生情感 AI 熊猫机器人与儿童形态机器人，
+    用于缓解孤独、心理疗愈与康复陪伴。
+  highlights:
+    - 获 CES 2026 AI 类创新奖
+    - 18+ 项授权专利（8 项中国发明、1 项美国）
+    - 被 Forbes、USA Today 等 20+ 国家媒体报道
+    - 服务痴呆、抑郁、自闭症、学习障碍人群
+verified: false
+needs_review:
+  zh: true

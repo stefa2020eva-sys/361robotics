@@ -1,0 +1,46 @@
+slug: comstar
+name: Shenzhen Comstar Technology Co., Ltd.
+country: CN
+founded: 2009
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Comstar
+  en: Comstar logo
+  zh: 康士达标志
+type:
+  - component_maker
+featured: false
+categories:
+  - controllers
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Comstar предлагает контроллер воплощённого ИИ X-3321 на базе NVIDIA Jetson AGX Orin (275 TOPS)
+    с 12 GMSL, 4 EtherCAT, 8 Gigabit Ethernet и 2 CANFD для управления «мозгом-мозжечком» роботов.
+  highlights:
+    - X-3321 — производительность ИИ 275 TOPS
+    - 12 интерфейсов GMSL2 для глубинных камер
+    - 4×EtherCAT, 8×LAN, 2×CANFD, 2×RS485
+    - Разработан для управления «мозг-мозжечок» воплощённого ИИ
+en:
+  description: |
+    Comstar provides the X-3321 embodied AI controller based on NVIDIA Jetson AGX Orin (275 TOPS) with 12 GMSL, 4 EtherCAT, 8 Gigabit Ethernet, and 2 CANFD for robot brain-cerebellum control.
+  highlights:
+    - "X-3321: 275 TOPS AI computing"
+    - 12×GMSL2 interfaces for depth cameras
+    - 4×EtherCAT, 8×LAN, 2×CANFD, 2×RS485
+    - Designed for embodied AI brain-cerebellum control
+zh:
+  description: |
+    深圳市康士达科技基于 NVIDIA Jetson AGX Orin（275 TOPS）提供 X-3321 具身智能控制器，
+    具备 12 路 GMSL、4 路 EtherCAT、8 路千兆以太网和 2 路 CANFD，用于机器人脑-小脑控制。
+  highlights:
+    - X-3321：275 TOPS AI 算力
+    - 12 路 GMSL2 接口，用于深度相机
+    - 4×EtherCAT、8×LAN、2×CANFD、2×RS485
+    - 专为具身智能脑-小脑控制设计
+verified: false
+needs_review:
+  zh: true

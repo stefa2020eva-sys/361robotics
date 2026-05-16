@@ -1,0 +1,46 @@
+slug: sunlord
+name: Shenzhen Sunlord Electronics Co., Ltd.
+country: CN
+founded: 2000
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Sunlord
+  en: Sunlord logo
+  zh: 顺络电子标志
+type:
+  - component_maker
+featured: false
+categories:
+  - drives-power
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Sunlord выпускает силовые индукторы низкого давления методом transfer molding (серия WC, давление формовки 5 % от сухого прессования),
+    синфазные дроссели для CAN-шины (серия AMCW) и чип-NTC термисторы (серия SDNT).
+  highlights:
+    - Серия WC — устраняет проблемы обрывов и коротких замыканий
+    - Серия AMCW — AEC-Q200, обмоточная структура, компактный размер
+    - Серия SDNT — высокая прочность, плотная керамическая структура
+    - Публичная компания (002138)
+en:
+  description: |
+    Sunlord provides low-pressure transfer molding power inductors (WC series, molding pressure 5% of dry pressing), CAN bus common-mode chokes (AMCW series), and chip NTC thermistors (SDNT series).
+  highlights:
+    - "WC series: eliminates open/short circuit issues"
+    - "AMCW series: AEC-Q200, winding structure, compact size"
+    - "SDNT series: high strength, dense ceramic structure"
+    - Listed (002138)
+zh:
+  description: |
+    深圳顺络电子提供低压传递模塑功率电感（WC 系列，模压压力为干压 5%）、
+    CAN 总线共模电感（AMCW 系列）及贴片 NTC 热敏电阻（SDNT 系列）。
+  highlights:
+    - WC 系列：消除开路/短路问题
+    - AMCW 系列：AEC-Q200，绕线结构，体积紧凑
+    - SDNT 系列：高强度，致密陶瓷结构
+    - 上市公司（002138）
+verified: false
+needs_review:
+  zh: true

@@ -1,0 +1,46 @@
+slug: dexteleop
+name: Dexteleop Intelligence
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Dexteleop
+  en: Dexteleop logo
+  zh: 灵御智能标志
+type:
+  - component_maker
+featured: false
+categories:
+  - controllers
+  - software-sdk
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Dexteleop Intelligence предоставляет серию телеуправляемых роботов TA (16–20 степеней свободы) с субмикросекундной аппаратной синхронизацией,
+    миллиметровым позиционированием и задержкой <30 мс для сбора данных для воплощённого ИИ.
+  highlights:
+    - Аппаратная синхронизация субмикросекундного уровня, абсолютное позиционирование с точностью миллиметр
+    - Задержка движений <30 мс, glass-to-glass <100 мс
+    - 16–20 степеней свободы, поддержка захвата, переноса, контактных задач
+    - Обслуживает научно-исследовательские учреждения и центры сбора данных
+en:
+  description: |
+    Dexteleop Intelligence provides TA series teleoperation robots (16-20 DOF) with sub-microsecond hardware sync, millimeter positioning, and <30ms latency for embodied AI data collection.
+  highlights:
+    - Sub-microsecond hardware synchronization, millimeter-level absolute positioning
+    - Motion latency <30ms, glass-to-glass <100ms
+    - 16-20 DOF, supports grasping, handling, contact-rich tasks
+    - Serves research institutions, data collection centers
+zh:
+  description: |
+    灵御智能提供 TA 系列遥操作机器人（16–20 自由度），具备亚微秒级硬件同步、
+    毫米级定位以及 <30ms 延迟，服务于具身智能数据采集。
+  highlights:
+    - 亚微秒级硬件同步，毫米级绝对定位
+    - 动作延迟 <30ms，端到端 <100ms
+    - 16–20 自由度，支持抓取、搬运、接触富任务
+    - 服务科研院所与数据采集中心
+verified: false
+needs_review:
+  zh: true

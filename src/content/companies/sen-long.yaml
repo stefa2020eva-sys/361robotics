@@ -1,0 +1,45 @@
+slug: sen-long
+name: Dongshenglong Technology (Shenzhen) Co., Ltd.
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Sen Long
+  en: Sen Long logo
+  zh: 东升龙科技标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Sen Long выпускает магнитные кодовые диски (резиновый магнит на металлическом кронштейне) для абсолютного позиционирования
+    в паре с энкодерными чипами серии IC-Haus MU для суставов роботов.
+  highlights:
+    - Лёгкий — около 1/10 массы конкурентов
+    - Полый большой диаметр для прокладки кабеля внутри сустава
+    - Стойкость к пыли, вибрации, высоким температурам, масляному туману
+    - Разрешение до 20 бит с 64 парами полюсов
+en:
+  description: |
+    Sen Long provides magnetic code disks (with rubber magnet on metal bracket) for absolute position sensing when paired with IC-Haus MU series encoder chips for robot joints.
+  highlights:
+    - "Lightweight: ~1/10 weight of competitors"
+    - Hollow large diameter for wiring inside joint
+    - Environmental adaptability — dust, vibration, high temp, oil mist
+    - Up to 20-bit resolution with 64 pole pairs
+zh:
+  description: |
+    东升龙科技提供磁性码盘（橡胶磁体安装于金属支架），
+    与 IC-Haus MU 系列编码芯片配套，实现机器人关节绝对位置检测。
+  highlights:
+    - 轻量化：约为同类产品 1/10 重量
+    - 大空心内径，方便关节内走线
+    - 适应粉尘、振动、高温、油雾环境
+    - 配合 64 对极可达 20bit 分辨率
+verified: false
+needs_review:
+  zh: true

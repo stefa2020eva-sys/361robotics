@@ -1,0 +1,46 @@
+slug: huacheng-ipc
+name: Shenzhen Huacheng Industrial Control Co., Ltd.
+country: CN
+founded: 2005
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Huacheng IPC
+  en: Huacheng IPC logo
+  zh: 华成工业控制标志
+type:
+  - component_maker
+featured: false
+categories:
+  - controllers
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Huacheng IPC выпускает системы управления воплощёнными роботами (двухмастерные, цикл 1 мс)
+    и интегрированные приводы суставов с двухэнкодерным полностью замкнутым контуром для гуманоидных и коллаборативных роботов.
+  highlights:
+    - Национальный «маленький гигант», акции 873553
+    - Двухмастерная архитектура управления, цикл 1 мс
+    - Поддержка синхронного, асинхронного и зеркального режимов движения
+    - Привод сустава — двойной энкодер, полое сквозное отверстие, опционально STO
+en:
+  description: |
+    Huacheng IPC provides embodied robot control systems (dual-master, 1ms cycle) and integrated joint module drivers with dual-encoder full-closed-loop control for humanoid and collaborative robots.
+  highlights:
+    - National Little Giant, stock 873553
+    - Dual-master control architecture, 1ms cycle
+    - Supports synchronous/asynchronous/mirrored motion modes
+    - "Joint driver: dual encoder, hollow through-hole, STO optional"
+zh:
+  description: |
+    深圳华成工业控制为人形与协作机器人提供具身机器人控制系统（双主控、1ms 周期）
+    和带双编码器全闭环的一体化关节模组驱动器。
+  highlights:
+    - 国家级"小巨人"，股票代码 873553
+    - 双主控架构，1ms 控制周期
+    - 支持同步/异步/镜像运动模式
+    - 关节驱动器：双编码器、空心走线、可选 STO
+verified: false
+needs_review:
+  zh: true

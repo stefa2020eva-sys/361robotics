@@ -1,0 +1,48 @@
+slug: goal-technology
+name: Goal Technology (Shenzhen) Co., Ltd.
+country: CN
+founded: 2018
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Goal Technology
+  en: Goal Technology logo
+  zh: 国奥科技标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - actuators
+  - controllers
+robot_products:
+  - name: Goal Tech
+    short: Industrial automated robot for 3C precision assembly
+key_clients: []
+ru:
+  description: |
+    Goal Technology разрабатывает промышленный автоматизированный робот Goal Tech с макро-микро интегрированным движением,
+    микронной точностью, миллисекундным откликом и силовым управлением 0,1 Н для производства 3C-продукции.
+  highlights:
+    - Макро-микро интеграция для широкого охвата и точной операции
+    - 8+2 расширяемых степеней свободы на руку
+    - Микронная точность, миллисекундный отклик, многомерное силовое управление XYZR
+    - Быстросменные многофункциональные концевые эффекторы
+en:
+  description: |
+    Goal Technology develops the Goal Tech industrial-grade automated robot with macro-micro integrated motion, micron-level precision, millisecond response, and 0.1N force control for 3C manufacturing.
+  highlights:
+    - Macro-micro integration for wide coverage and fine operation
+    - 8+2 extendable DOF per arm
+    - Micron precision, millisecond response, XYZR multi-dimensional force control
+    - Quick-change multifunctional end effectors
+zh:
+  description: |
+    国奥科技（深圳）研发 Goal Tech 工业级自动化机器人，
+    具备宏微一体化运动、微米级精度、毫秒级响应及 0.1N 力控，用于 3C 制造。
+  highlights:
+    - 宏微一体化实现广覆盖与精细操作
+    - 单臂 8+2 可扩展自由度
+    - 微米精度、毫秒响应、XYZR 多维力控
+    - 快换式多功能末端执行器
+verified: false
+needs_review:
+  zh: true

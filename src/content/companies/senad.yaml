@@ -1,0 +1,51 @@
+slug: senad
+name: SENAD
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип SENAD
+  en: SENAD logo
+  zh: 赛那德标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - actuators
+  - controllers
+robot_products:
+  - name: ILoabot-M
+    short: Autonomous loading/unloading robot
+  - name: ILoabot-X
+    short: Heavy-load humanoid robot for logistics
+  - name: ILoabot-P
+    short: Autonomous cage disassembly robot
+key_clients: []
+ru:
+  description: |
+    SENAD предлагает серию воплощённых погрузочно-разгрузочных роботов ILoabot (ILoabot-M для грузовиков, ILoabot-X тяжёлый гуманоид,
+    ILoabot-P для разборки клеток) для логистики и складирования.
+  highlights:
+    - Первая мультимодальная вертикальная большая модель VLA для логистики
+    - ILoabot-M — автономная навигация, погрузка/разгрузка без модификации грузовика
+    - ILoabot-X — end-to-end доменная модель, автономное обучение
+    - ILoabot-P — гусеничное шасси, тяжёлая коллаборативная рука
+en:
+  description: |
+    SENAD provides ILoabot series embodied loading/unloading robots (ILoabot-M for trucks, ILoabot-X heavy-load humanoid, ILoabot-P cage disassembly) for logistics and warehousing.
+  highlights:
+    - First multi-modal VLA vertical large model for logistics
+    - "ILoabot-M: autonomous navigation, loading/unloading, no truck modification"
+    - "ILoabot-X: end-to-end domain model, autonomous learning"
+    - "ILoabot-P: tracked chassis, heavy-load collaborative arm"
+zh:
+  description: |
+    赛那德提供 ILoabot 系列具身装卸机器人（ILoabot-M 用于货车、ILoabot-X 重载人形、
+    ILoabot-P 用于笼车拆卸），服务物流与仓储。
+  highlights:
+    - 首个面向物流的多模态 VLA 垂直大模型
+    - ILoabot-M：自主导航、装卸无需改造货车
+    - ILoabot-X：端到端域模型，自主学习
+    - ILoabot-P：履带底盘，重载协作臂
+verified: false
+needs_review:
+  zh: true

@@ -1,0 +1,45 @@
+slug: prhldom-ai
+name: Prhldom AI
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Prhldom AI
+  en: Prhldom AI logo
+  zh: 随动智能标志
+type:
+  - component_maker
+featured: false
+categories:
+  - software-sdk
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Prhldom AI предлагает безмаркерную технологию захвата движений Motion IQ с медицинской точностью (10–15 мм)
+    для обучения алгоритмов движения роботов, снижая стоимость на 90 % по сравнению с маркерным Mocap.
+  highlights:
+    - Первая в мире безмаркерная система с медицинской точностью
+    - Обучена на 20+ млн точек данных движений человека
+    - Покрывает почти 100 степеней свободы без пропущенных точек
+    - На 95 % меньше времени операций и >90 % экономии CapEx/OpEx
+en:
+  description: |
+    Prhldom AI provides markerless motion capture technology (Motion IQ) with medical-grade precision (10-15mm) for robot motion algorithm training, reducing cost by 90% compared to marker-based Mocap.
+  highlights:
+    - World's first markerless motion capture with medical-grade precision
+    - Trained on 20M+ human motion data points
+    - Covers nearly 100 DOF, no missing points
+    - 95% less operation time, >90% CapEx/OpEx savings
+zh:
+  description: |
+    随动智能提供无标记动作捕捉技术（Motion IQ），具备医疗级精度（10–15mm），
+    用于机器人运动算法训练，相比标记式动捕成本降低 90%。
+  highlights:
+    - 全球首创医疗级精度的无标记动作捕捉
+    - 在 2000 万+ 人体运动数据上训练
+    - 覆盖近 100 自由度，无缺失点
+    - 操作时间减少 95%，CapEx/OpEx 节省 >90%
+verified: false
+needs_review:
+  zh: true

@@ -1,0 +1,46 @@
+slug: weltronics
+name: Weltronics Co., Ltd.
+country: CN
+founded: 1984
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Weltronics
+  en: Weltronics logo
+  zh: 创意电子标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Weltronics дистрибутирует магнитные внеосевые абсолютные энкодерные чипы IC-Haus (IC-MU, MU150, MU200)
+    с шириной полюса 1,28/1,50/2,00 мм для контроля положения суставов роботов.
+  highlights:
+    - Высокая точность и разрешение
+    - Ширина полюса 1,28 мм (MU), 1,50 мм (MU150), 2,00 мм (MU200)
+    - Магнитный внеосевой абсолютный энкодер
+    - Подходит для сложных условий (пыль, вибрация, высокие температуры)
+en:
+  description: |
+    Weltronics distributes IC-Haus magnetic off-axis absolute position encoder chips (IC-MU, MU150, MU200) with pole widths 1.28/1.50/2.00mm for robot joint position sensing.
+  highlights:
+    - High precision, high resolution
+    - "Pole width: 1.28mm (MU), 1.50mm (MU150), 2.00mm (MU200)"
+    - Magnetic off-axis absolute encoder
+    - Suitable for harsh environments (dust, vibration, high temp)
+zh:
+  description: |
+    创意电子代理 IC-Haus 磁性偏心绝对位置编码芯片（IC-MU、MU150、MU200），
+    极距 1.28/1.50/2.00mm，用于机器人关节位置检测。
+  highlights:
+    - 高精度、高分辨率
+    - 极距：1.28mm（MU）、1.50mm（MU150）、2.00mm（MU200）
+    - 磁性偏心绝对编码器
+    - 适用于粉尘、振动、高温等恶劣环境
+verified: false
+needs_review:
+  zh: true

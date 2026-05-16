@@ -1,0 +1,46 @@
+slug: minshuo
+name: Shanghai Minshuo Mechanical Accessories Co., Ltd.
+country: CN
+founded: 2004
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Minshuo
+  en: Minshuo logo
+  zh: 敏硕机械标志
+type:
+  - component_maker
+featured: false
+categories:
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Minshuo дистрибутирует шестерни KHK (стандартные и индивидуальные) и миниатюрные радиально-упорные шарикоподшипники
+    для оборудования полупроводниковой, медицинской, FPD и автоматизационной отраслей.
+  highlights:
+    - 19 офисов продаж по Китаю, 5 складов
+    - Стандартные шестерни KHK японского производителя
+    - Микро радиально-упорные подшипники для высокой осевой нагрузки
+    - Обслуживает полупроводниковую, медицинскую, FPD и автоматизационную отрасли
+en:
+  description: |
+    Minshuo distributes KHK gears (standard and custom) and miniature angular contact ball bearings for semiconductor, medical, FPD, and automation equipment.
+  highlights:
+    - 19 sales offices across China, 5 warehouses
+    - KHK standard gears from Japanese manufacturer
+    - Micro angular contact bearings for high axial load
+    - Serves semiconductor, medical, FPD, automation
+zh:
+  description: |
+    上海敏硕机械代理 KHK 齿轮（标准与定制）和微型角接触球轴承，
+    服务半导体、医疗、FPD 与自动化设备。
+  highlights:
+    - 全国 19 个销售办事处，5 个仓库
+    - KHK 日本制造商标准齿轮
+    - 微型角接触轴承支持高轴向负载
+    - 服务半导体、医疗、FPD、自动化领域
+verified: false
+needs_review:
+  zh: true

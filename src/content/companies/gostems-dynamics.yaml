@@ -1,0 +1,46 @@
+slug: gostems-dynamics
+name: Shenzhen Gostems Dynamics Technology Co., Ltd.
+country: CN
+founded: 2024
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Gostems Dynamics
+  en: Gostems Dynamics logo
+  zh: 国盛动力标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Gostems Dynamics выпускает циклоидальные редукторы серии CD с точностью позиционирования <1 угловая минута,
+    КПД >90 %, плотностью момента на 30 % выше традиционных, номинальный момент 5–800 Нм.
+  highlights:
+    - Точность позиционирования <1 угл. мин., люфт <1 угл. мин.
+    - КПД >90 %
+    - Плотность момента +30 % к традиционным
+    - Мгновенная перегрузка 3× от номинала, для гуманоидов, роботов-собак, коботов, AGV
+en:
+  description: |
+    Gostems Dynamics provides CD series cycloidal reducers with <1 arcmin positioning accuracy, >90% efficiency, torque density 30% higher than traditional, rated torque 5-800Nm.
+  highlights:
+    - Motion positioning accuracy <1 arcmin, backlash <1 arcmin
+    - Efficiency >90%
+    - Torque density +30% vs traditional
+    - Instant overload 3x rated; serves humanoid robots, robot dogs, cobots, AGVs
+zh:
+  description: |
+    深圳国盛动力提供 CD 系列摆线针轮减速器，定位精度 <1 角分，
+    效率 >90%，扭矩密度比传统产品高 30%，额定扭矩 5–800Nm。
+  highlights:
+    - 定位精度 <1 角分，回差 <1 角分
+    - 效率 >90%
+    - 扭矩密度比传统提升 30%
+    - 瞬时过载 3 倍额定，服务人形机器人、机器狗、协作机器人、AGV
+verified: false
+needs_review:
+  zh: true

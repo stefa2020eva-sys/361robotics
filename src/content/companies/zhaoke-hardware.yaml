@@ -1,0 +1,45 @@
+slug: zhaoke-hardware
+name: Dongguan Zhaoke Hardware Industry Co., Ltd.
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Zhaoke Hardware
+  en: Zhaoke Hardware logo
+  zh: 兆科五金标志
+type:
+  - component_maker
+featured: false
+categories:
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Zhaoke Hardware выпускает прецизионные детали для роботов (компоненты ловких рук) с точностью ЧПУ-обработки ±0,005 мм,
+    износостойкими материалами и индивидуальной комплектацией для промышленных, сервисных и специальных роботов.
+  highlights:
+    - Точность ЧПУ ±0,005 мм, стабильность партии
+    - Износо- и коррозионностойкие материалы
+    - Структурная оптимизация для гибкого движения
+    - Полный цикл собственного производства, высокое соотношение цена/качество
+en:
+  description: |
+    Zhaoke Hardware provides precision robot parts (dexterous hand components) with CNC machining accuracy ±0.005mm, wear-resistant materials, and customization for industrial/service/special robots.
+  highlights:
+    - CNC accuracy ±0.005mm, strong batch stability
+    - Material wear-resistant and corrosion-resistant
+    - Structural optimization for flexible movement
+    - Full-process in-house manufacturing, high cost-performance
+zh:
+  description: |
+    东莞兆科五金为工业、服务和特种机器人提供高精度零部件（灵巧手组件），
+    CNC 加工精度 ±0.005mm，材料耐磨耐腐，支持定制。
+  highlights:
+    - CNC 精度 ±0.005mm，批次稳定性强
+    - 材料耐磨、耐腐蚀
+    - 结构优化，满足灵活运动需求
+    - 全流程自制，性价比高
+verified: false
+needs_review:
+  zh: true

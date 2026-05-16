@@ -1,0 +1,45 @@
+slug: ennovi
+name: ENNOVI
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип ENNOVI
+  en: ENNOVI logo
+  zh: ENNOVI 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    ENNOVI поставляет соединительные фланцы для модулей суставов гуманоидных роботов, технологию литья под давлением PEEK
+    и решения press-fit/IDC для электрификации за пределами автомобильной отрасли.
+  highlights:
+    - Литьё PEEK — температура плавления 343 °C, длительная эксплуатация при 260 °C, прочность на разрыв >100 МПа
+    - Снижение массы >30 % по сравнению со сталью
+    - Press-fit — без пайки, удобство автоматизации
+    - IDC — контакт со смещением изоляции для эмалированного провода
+en:
+  description: |
+    ENNOVI provides connecting flanges for humanoid robot joint modules, PEEK injection molding technology, and press-fit/IDC interconnect solutions for electrification beyond automotive.
+  highlights:
+    - "PEEK molding: 343°C melting point, 260°C long-term use, tensile strength >100MPa"
+    - Weight reduction >30% vs steel
+    - "Press-fit: solder-free, automation-friendly"
+    - "IDC: insulation displacement contact for magnet wire"
+zh:
+  description: |
+    ENNOVI 为人形机器人关节模组提供连接法兰、PEEK 注塑技术以及压接/IDC 互连方案，
+    服务于汽车以外的电气化场景。
+  highlights:
+    - PEEK 注塑：熔点 343°C，长期使用温度 260°C，抗拉强度 >100MPa
+    - 相比钢材重量减轻 >30%
+    - 压接：无焊接，适合自动化
+    - IDC：绝缘位移接触，用于漆包线
+verified: false
+needs_review:
+  zh: true

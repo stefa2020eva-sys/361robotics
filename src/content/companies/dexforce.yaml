@@ -1,0 +1,49 @@
+slug: dexforce
+name: DexForce (Shenzhen) Intelligent Digital Technology Co., Ltd.
+country: CN
+founded: 2021
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип DexForce
+  en: DexForce logo
+  zh: 跨维智能标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - actuators
+  - controllers
+  - vision
+robot_products:
+  - name: DexForce W1 Pro
+    short: General-purpose humanoid robot with VLA
+key_clients: []
+ru:
+  description: |
+    DexForce выпускает универсального гуманоидного робота DexForce W1 Pro (40 степеней свободы) с архитектурой Sim2Real VLA,
+    чисто визуальными стереосенсорами и движком воплощённого ИИ DexVerse для коммерческого развёртывания.
+  highlights:
+    - 100 % синтетические данные, >99,9 % успех задач при точности мм/субмм
+    - Первая отечественная компания с крупным коммерческим внедрением
+    - 40 степеней свободы, высокая гуманоидная структура
+    - 50+ отраслей, 1000+ проектов; партнёры — GuangSheng, Weixiaofan
+en:
+  description: |
+    DexForce provides the DexForce W1 Pro general-purpose humanoid robot (40 DOF) with Sim2Real VLA architecture, pure vision stereo sensors, and DexVerse embodied AI engine for commercial deployment.
+  highlights:
+    - 100% synthetic data, >99.9% task success rate at mm/sub-mm precision
+    - First domestic company with large-scale commercial deployment
+    - 40 DOF, high humanoid structure
+    - 50+ industries, 1000+ projects, partners include GuangSheng, Weixiaofan
+zh:
+  description: |
+    跨维（深圳）智能数字科技推出 DexForce W1 Pro 通用人形机器人（40 自由度），
+    采用 Sim2Real VLA 架构、纯视觉立体传感器及 DexVerse 具身智能引擎，已实现商业化部署。
+  highlights:
+    - 100% 合成数据，毫米/亚毫米精度任务成功率 >99.9%
+    - 国内首家实现大规模商业化部署
+    - 40 自由度，高仿生人形结构
+    - 50+ 行业、1000+ 项目，合作伙伴包括广晟、微小范
+verified: false
+needs_review:
+  zh: true

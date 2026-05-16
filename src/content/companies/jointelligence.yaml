@@ -1,0 +1,45 @@
+slug: jointelligence
+name: Jointelligence Technology Co., Ltd.
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Jointelligence
+  en: Jointelligence logo
+  zh: 动界智控标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Jointelligence Technology (СП Shanghai Electric и Johnson Electric) выпускает линейные суставы, ротационные суставы
+    (планетарные и гармонические) для гуманоидных роботов с уровнем собственного производства более 90 %.
+  highlights:
+    - Линейные суставы — точное и мощное линейное движение
+    - Ротационный планетарный — высокая плотность момента, жёсткость, малый люфт
+    - Ротационный гармонический — компактность, нулевой люфт, высокая точность
+    - Уровень in-house >90 %, развивается с 2023 года
+en:
+  description: |
+    Jointelligence Technology (JV of Shanghai Electric and Johnson Electric) provides linear joints, rotary joints (planetary and harmonic) for humanoid robots with in-house rate over 90%.
+  highlights:
+    - "Linear joints: precise, powerful linear motion"
+    - "Rotary planetary: high torque density, high rigidity, low backlash"
+    - "Rotary harmonic: compact, zero backlash, high positioning accuracy"
+    - In-house rate 90%+, developed from 2023
+zh:
+  description: |
+    动界智控（上海电气与德昌电机合资）为人形机器人提供线性关节、
+    旋转关节（行星与谐波），自制率超过 90%。
+  highlights:
+    - 线性关节：精准、强劲的直线运动
+    - 旋转行星：高扭矩密度、高刚度、低回差
+    - 旋转谐波：紧凑、零回差、高定位精度
+    - 自制率 90%+，自 2023 年起研发
+verified: false
+needs_review:
+  zh: true

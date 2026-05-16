@@ -1,0 +1,46 @@
+slug: woer
+name: Shenzhen Woer Heat-Shrinkable Material Co., Ltd.
+country: CN
+founded: 1998
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Woer
+  en: Woer logo
+  zh: 沃尔核材标志
+type:
+  - component_maker
+featured: false
+categories:
+  - connectivity
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Woer выпускает кабельные жгуты для интеллектуальных роботов с высоким ресурсом гибки (5–10 млн+ циклов),
+    двухслойным экранированием (алюминиевая фольга + лужёная медная оплётка) и эксплуатацией от −40 °C до +105 °C.
+  highlights:
+    - Проводник — ультратонкая голая/лужёная медь 0,05–0,10 мм
+    - Динамический радиус изгиба 7,5–10×OD
+    - Покрытие экраном >90 %, двухслойное
+    - Импеданс 100±15 Ом для EtherCAT/PROFINET; акции 002130
+en:
+  description: |
+    Woer provides intelligent robot cable harnesses with high bending life (5-10M+ cycles), double-layer shielding (aluminum foil + tinned copper braid), and -40°C to +105°C operation.
+  highlights:
+    - "Conductor: 0.05-0.10mm ultra-fine bare/tinned copper"
+    - Dynamic bending radius 7.5-10×OD
+    - Shielding coverage >90%, double-layer
+    - Impedance 100±15Ω for EtherCAT/PROFINET; stock 002130
+zh:
+  description: |
+    深圳沃尔核材为智能机器人提供高弯曲寿命（500–1000 万+ 次）、
+    双层屏蔽（铝箔 + 镀锡铜编织）以及 −40°C 至 +105°C 工作范围的线束。
+  highlights:
+    - 导体：0.05–0.10mm 超细裸铜/镀锡铜
+    - 动态弯曲半径 7.5–10×OD
+    - 屏蔽覆盖率 >90%，双层
+    - 阻抗 100±15Ω，适用于 EtherCAT/PROFINET；股票代码 002130
+verified: false
+needs_review:
+  zh: true

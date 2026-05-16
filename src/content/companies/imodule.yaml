@@ -1,0 +1,46 @@
+slug: imodule
+name: iModule Semiconductor Technology Co., Ltd.
+country: CN
+founded: 2020
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип iModule
+  en: iModule logo
+  zh: 沃芯半导体标志
+type:
+  - component_maker
+featured: false
+categories:
+  - drives-power
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    iModule выпускает Power SoC M6008 (100 В, 8 А понижающий преобразователь со встроенным индуктором)
+    для манипуляторов, суставов и торса роботов с высокой удельной мощностью и интеграцией.
+  highlights:
+    - M6008 — входное напряжение 100 В, длительный выходной ток 8 А
+    - Регулируемое выходное напряжение 0,8–40 В
+    - Максимальная скважность 92 %
+    - Корпус LGA-63 (9×12×4,4 мм) со встроенными индуктором, контроллером, MOSFET и пассивными элементами
+en:
+  description: |
+    iModule provides the M6008 Power SoC (100V, 8A step-down with integrated inductor) for robot hands, joints, and torso applications, offering high power density and integration.
+  highlights:
+    - "M6008: 100V input, 8A continuous output"
+    - Output adjustable 0.8-40V
+    - 92% max duty cycle
+    - "LGA-63 (9×12×4.4mm) package: integrated inductor, controller, MOSFETs, passives"
+zh:
+  description: |
+    沃芯半导体提供 M6008 Power SoC（100V、8A 同步降压、内置电感），
+    用于机器人灵巧手、关节和躯干，具备高功率密度与高集成度。
+  highlights:
+    - M6008：100V 输入，8A 连续输出
+    - 输出可调 0.8–40V
+    - 最大占空比 92%
+    - LGA-63（9×12×4.4mm）封装，集成电感、控制器、MOSFET 与无源器件
+verified: false
+needs_review:
+  zh: true

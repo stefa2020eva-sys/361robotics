@@ -1,0 +1,46 @@
+slug: anything-lab
+name: Anything Lab (Future Brainhole Innovation Lab)
+country: CN
+founded: 2024
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Anything Lab
+  en: Anything Lab logo
+  zh: 未来脑洞创新实验室标志
+type:
+  - component_maker
+featured: false
+categories:
+  - software-sdk
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Anything Lab предоставляет комплексные услуги по дизайну продуктов и инновациям для AI, VR, AR и робототехники,
+    охватывая маркетинговые исследования, промышленный дизайн, UI/UX и 3D-анимацию.
+  highlights:
+    - Основана в 2024 году, реализовано более 40 проектов
+    - Основатель — бывший заместитель директора по дизайну JMGO
+    - Средний опыт команды — более 10 лет
+    - Клиенты — Tencent, Dreame, AOC, Skyworth, Breo
+en:
+  description: |
+    Anything Lab provides one-stop product design and innovation services for AI, VR, AR, and robotics, covering market research, industrial design, UI/UX, and 3D animation.
+  highlights:
+    - Founded in 2024, delivered 40+ projects
+    - Founder former Deputy Design Director of JMGO
+    - Team avg 10+ years experience
+    - Clients include Tencent, Dreame, AOC, Skyworth, Breo
+zh:
+  description: |
+    未来脑洞创新实验室为 AI、VR、AR 和机器人领域提供一站式产品设计与创新服务，
+    覆盖市场研究、工业设计、UI/UX 及 3D 动画。
+  highlights:
+    - 2024 年成立，交付 40 余个项目
+    - 创始人为坚果投影前设计副总监
+    - 团队平均经验 10 年以上
+    - 客户包括腾讯、追觅、AOC、创维、倍轻松
+verified: false
+needs_review:
+  zh: true

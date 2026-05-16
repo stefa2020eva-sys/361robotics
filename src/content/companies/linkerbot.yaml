@@ -1,0 +1,45 @@
+slug: linkerbot
+name: Linkerbot (LinkerHand)
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Linkerbot
+  en: Linkerbot logo
+  zh: 灵心巧手标志
+type:
+  - component_maker
+featured: false
+categories:
+  - end-effectors
+produces_components:
+  - gripper
+key_clients: []
+ru:
+  description: |
+    Linkerbot выпускает серию ловких рук Linker Hand (11–42 степени свободы, нагрузка до 50 кг,
+    повторяемость 0,2 мм, усилие на кончике пальца 33 Н) с рычажным, тросовым и прямым приводом.
+  highlights:
+    - "Более 80 % мирового рынка ловких рук с большим числом степеней свободы"
+    - "Единственная компания с массовым производством >1000 единиц"
+    - Linker Hand 06 — 370 г, нагрузка 50 кг
+    - Linker Hand L30 — скорость пальцевого сустава >400°/с, закрытие кисти 0,2 с; клиенты — Стэнфорд, MIT, Цинхуа, Midea, Foxconn
+en:
+  description: |
+    Linkerbot provides Linker Hand series dexterous hands (11-42 DOF, up to 50kg load, 0.2mm repeatability, 33N fingertip force) covering linkage, tendon, and direct drive solutions.
+  highlights:
+    - 80%+ global market share for high-DOF dexterous hands
+    - Only company with >1000 unit mass production
+    - "Linker Hand 06: 370g, 50kg load"
+    - "Linker Hand L30: knuckle speed >400°/s, 0.2s hand close; clients: Stanford, MIT, Tsinghua, Midea, Foxconn"
+zh:
+  description: |
+    灵心巧手提供 Linker Hand 系列灵巧手（11–42 自由度，最高负载 50kg，
+    重复精度 0.2mm，指尖力 33N），覆盖连杆、绳驱与直驱方案。
+  highlights:
+    - 高自由度灵巧手全球市场份额 >80%
+    - 唯一实现 1000 台以上量产的公司
+    - Linker Hand 06：370g，50kg 负载
+    - Linker Hand L30：指节速度 >400°/s，0.2s 闭合；客户包括斯坦福、MIT、清华、美的、富士康
+verified: false
+needs_review:
+  zh: true

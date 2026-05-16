@@ -1,0 +1,46 @@
+slug: smart-elephant
+name: Shenzhen Smart Elephant Electric Technology Co., Ltd.
+country: CN
+founded: 2016
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Smart Elephant
+  en: Smart Elephant logo
+  zh: 小象电动标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Smart Elephant производит модули суставов с осевым потоком (серии SEAF70/90/120),
+    объединяющие осевой потоковый двигатель, планетарный редуктор и драйвер с плотностью момента до 245 Нм/кг для малых роботов.
+  highlights:
+    - SEAF70 — 48 В, 20 Нм длит., 112 Нм пик, 0,8 кг
+    - SEAF90 — 40 Нм длит., 192 Нм пик, 1,44 кг
+    - SEAF120 — 60 Нм длит., 352 Нм пик, 2,3 кг
+    - Удельный момент 245 Нм/кг, удельная мощность 1,25 кВт/кг
+en:
+  description: |
+    Smart Elephant provides axial flux joint modules (SEAF70/90/120 series) integrating axial flux motor, planetary reducer, and driver, with torque density up to 245Nm/kg for small robots.
+  highlights:
+    - "SEAF70: 48V, 20Nm cont., 112Nm peak, 0.8kg"
+    - "SEAF90: 40Nm cont., 192Nm peak, 1.44kg"
+    - "SEAF120: 60Nm cont., 352Nm peak, 2.3kg"
+    - Torque density 245Nm/kg, power density 1.25kW/kg
+zh:
+  description: |
+    深圳小象电动科技提供轴向磁通关节模组（SEAF70/90/120 系列），
+    集成轴向磁通电机、行星减速器与驱动器，扭矩密度高达 245Nm/kg，适用于小型机器人。
+  highlights:
+    - SEAF70：48V，20Nm 持续、112Nm 峰值，0.8kg
+    - SEAF90：40Nm 持续、192Nm 峰值，1.44kg
+    - SEAF120：60Nm 持续、352Nm 峰值，2.3kg
+    - 扭矩密度 245Nm/kg，功率密度 1.25kW/kg
+verified: false
+needs_review:
+  zh: true

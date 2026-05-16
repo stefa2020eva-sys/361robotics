@@ -1,0 +1,47 @@
+slug: ymae
+name: YuanKe ShiJie (YMAE)
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип YMAE
+  en: YMAE logo
+  zh: 元客视界标志
+type:
+  - component_maker
+featured: false
+categories:
+  - software-sdk
+  - vision
+produces_components:
+  - lidar
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    YuanKe ShiJie (YMAE), дочерняя компания LUSTER, предоставляет решения для захвата движений и телеуправления для тренировки гуманоидных роботов,
+    включая систему сбора данных RoboGene и систему тренировки «мозжечка» робота RoboMaster.
+  highlights:
+    - Обслуживает наибольшее число отечественных и зарубежных робототехнических компаний
+    - Первая в Китае оптическая система захвата движений и телеуправления для гуманоидов
+    - Сбор данных для первого крупномасштабного проекта Xiaomi
+    - Тренировочные центры в Пекине, Сучжоу, Ханчжоу и Хунани
+en:
+  description: |
+    YuanKe ShiJie (YMAE), a subsidiary of LUSTER, provides motion capture and teleoperation solutions for humanoid robot training, including the RoboGene data acquisition system and RoboMaster cerebellum training system.
+  highlights:
+    - Serves largest number of domestic/international robotics companies
+    - First optical motion capture teleoperation for humanoids in China
+    - Data acquisition for Xiaomi's first large-scale project
+    - Built training centers in Beijing, Suzhou, Hangzhou, Hunan
+zh:
+  description: |
+    元客视界（YMAE）是 LUSTER 的子公司，为人形机器人训练提供动作捕捉和遥操作解决方案，
+    包括 RoboGene 数据采集系统和 RoboMaster 机器人小脑训练系统。
+  highlights:
+    - 服务最多的国内外机器人公司
+    - 中国首个面向人形机器人的光学动捕遥操作方案
+    - 为小米首个大规模项目提供数据采集
+    - 在北京、苏州、杭州、湖南建立训练中心
+verified: false
+needs_review:
+  zh: true

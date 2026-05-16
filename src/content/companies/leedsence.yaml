@@ -1,0 +1,45 @@
+slug: leedsence
+name: Xiamen LeedSence Sensor Technology Co., Ltd.
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип LeedSence
+  en: LeedSence logo
+  zh: 力晟传感标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    LeedSence выпускает шестиосевые датчики силы (LSF-6D79D), одноосевые датчики силы (LSF-1D33)
+    и датчики момента сустава (LSF-TD73-110Nm) для гуманоидных и коллаборативных роботов.
+  highlights:
+    - Основной разработчик спецификации испытаний многомерных датчиков силы для гуманоидных роботов
+    - LSF-6D79D — алюминиевый сплав, высокая точность, помехоустойчивость
+    - LSF-1D33 — авиационная легированная сталь, перегрузка 200 % от FS
+    - LSF-TD73 — 110 Нм, авиационный алюминий, малая масса
+en:
+  description: |
+    LeedSence provides six-axis force sensors (LSF-6D79D), single-axis force sensors (LSF-1D33), and joint torque sensors (LSF-TD73-110Nm) for humanoid and collaborative robots.
+  highlights:
+    - Primary drafter of Humanoid Robot Multi-Dimensional Force Sensor Testing Specification
+    - "LSF-6D79D: aluminum alloy, high accuracy, anti-interference"
+    - "LSF-1D33: aviation alloy steel, 200% FS overload"
+    - "LSF-TD73: 110Nm, aviation-grade aluminum, lightweight"
+zh:
+  description: |
+    厦门力晟传感为人形与协作机器人提供六轴力传感器（LSF-6D79D）、单轴力传感器（LSF-1D33）
+    和关节扭矩传感器（LSF-TD73-110Nm）。
+  highlights:
+    - 主笔起草人形机器人多维力传感器测试规范
+    - LSF-6D79D：铝合金材料，高精度，抗干扰
+    - LSF-1D33：航空合金钢，200% FS 过载
+    - LSF-TD73：110Nm，航空铝材，轻量化
+verified: false
+needs_review:
+  zh: true

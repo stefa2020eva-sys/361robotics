@@ -1,0 +1,47 @@
+slug: kinco
+name: Kinco Automation
+country: CN
+founded: 1996
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Kinco
+  en: Kinco logo
+  zh: 步科标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+  - drives-power
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Kinco поставляет вертикальные интегрированные рулевые модули iSWV для всенаправленных мобильных платформ
+    и серию FMK безрамных бесколлекторных моторных моментных приводов для суставов воплощённых роботов.
+  highlights:
+    - iSWV — единая конструкция привода и рулевого управления для всенаправленного движения
+    - Серии IGMH/IGML для платформ с 4-колёсным приводом и поворотом
+    - FMK 4-го поколения — оптимизированная сварка статора, большое полое отверстие
+    - Листинг на STAR Market Шанхайской биржи (2020)
+en:
+  description: |
+    Kinco provides iSWV vertical integrated steering wheel modules for omnidirectional mobile chassis and FMK series hollow frameless torque motors for embodied robot joints.
+  highlights:
+    - "iSWV: drive+steering unified design, enables omnidirectional movement"
+    - IGMH/IGML series for 4-wheel drive & steering chassis
+    - "FMK 4th gen: optimized stator welding, large hollow bore"
+    - Listed on SSE STAR Market (2020)
+zh:
+  description: |
+    步科为全向移动底盘提供 iSWV 立式集成驱动转向轮模组，
+    并为具身机器人关节提供 FMK 系列空心无框力矩电机。
+  highlights:
+    - iSWV：驱动与转向一体化设计，实现全向移动
+    - IGMH/IGML 系列适用于四驱四转底盘
+    - FMK 第四代：优化定子焊接、大空心内径
+    - 2020 年上交所科创板上市
+verified: false
+needs_review:
+  zh: true

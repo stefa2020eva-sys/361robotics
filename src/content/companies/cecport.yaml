@@ -1,0 +1,45 @@
+slug: cecport
+name: CECport
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип CECport
+  en: CECport logo
+  zh: 中电港标志
+type:
+  - component_maker
+featured: false
+categories:
+  - connectivity
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    CECport (акции 001287) предоставляет промышленный движок данных XCC для электроники: 200 млн артикулов,
+    16 млн даташитов, 9000+ брендов для подбора компонентов и управления BOM.
+  highlights:
+    - 200 млн+ артикулов, 16 млн+ даташитов, 9000+ брендов
+    - AI-парсинг и коррекция ошибок даташитов
+    - 1,5 млн+ профессиональных пользователей, 3 млн ежемесячных визитов, 500 тыс. ежедневных поисков
+    - SaaS для управления BOM и закупками
+en:
+  description: |
+    CECport (stock 001287) provides the XCC electronic information industry data engine with 200M part numbers, 16M datasheets, 9,000+ brands for component selection and BOM management.
+  highlights:
+    - 200M+ part numbers, 16M+ datasheets, 9,000+ brands
+    - AI-powered datasheet parsing and error correction
+    - 1.5M+ vertical users, 3M monthly visits, 500K daily searches
+    - SaaS for BOM management and procurement
+zh:
+  description: |
+    中电港（股票 001287）提供 XCC 电子信息产业数据引擎，覆盖 2 亿物料编号、
+    1600 万份数据表、9000+ 品牌，服务元器件选型与 BOM 管理。
+  highlights:
+    - 2 亿+ 物料编号，1600 万+ 数据表，9000+ 品牌
+    - AI 驱动的数据表解析与纠错
+    - 150 万+ 垂直用户，月访问 300 万，日搜索 50 万
+    - 面向 BOM 管理与采购的 SaaS
+verified: false
+needs_review:
+  zh: true

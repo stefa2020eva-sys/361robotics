@@ -1,0 +1,46 @@
+slug: vergiga
+name: Shenzhen Vergiga Semiconductor Co., Ltd.
+country: CN
+founded: 2012
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Vergiga
+  en: Vergiga logo
+  zh: 威兆半导体标志
+type:
+  - component_maker
+featured: false
+categories:
+  - drives-power
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Vergiga выпускает силовые MOSFET-модули (VS4620GP5 — 40 В, 6 мОм, шесть-в-одном)
+    и автомобильные MOSFET (VSP2R8N10HSDC-IG — 100 В, 2,3 мОм, AEC-Q101) для управления моторами роботов.
+  highlights:
+    - VS4620GP5 — 40 В, 6 мОм, модуль 6-в-1
+    - VSP2R8N10HSDC-IG — 100 В, 2,3 мОм, AEC-Q101
+    - Технология VitoMosII, 100 % тестирование на лавинный пробой
+    - Корпус с двусторонним теплоотводом
+en:
+  description: |
+    Vergiga provides power MOSFET modules (VS4620GP5: 40V, 6mR six-in-one) and automotive MOSFETs (VSP2R8N10HSDC-IG: 100V, 2.3mR AEC-Q101) for robot motor control.
+  highlights:
+    - "VS4620GP5: 40V, 6mR, six-in-one module"
+    - "VSP2R8N10HSDC-IG: 100V, 2.3mR, AEC-Q101"
+    - VitoMosII technology, 100% avalanche tested
+    - Double-sided heat dissipation package
+zh:
+  description: |
+    深圳威兆半导体提供功率 MOSFET 模块（VS4620GP5：40V、6mR、六合一）
+    及车规 MOSFET（VSP2R8N10HSDC-IG：100V、2.3mR、AEC-Q101），用于机器人电机控制。
+  highlights:
+    - VS4620GP5：40V、6mR、六合一模块
+    - VSP2R8N10HSDC-IG：100V、2.3mR、AEC-Q101
+    - VitoMosII 工艺，100% 雪崩测试
+    - 双面散热封装
+verified: false
+needs_review:
+  zh: true

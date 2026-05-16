@@ -1,0 +1,48 @@
+slug: tli-bot
+name: Sichuan Tianlian Intelligent Robot Co., Ltd. (TLI Bot)
+country: CN
+founded: 2012
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип TLI Bot
+  en: TLI Bot logo
+  zh: 天链机器人标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - actuators
+  - controllers
+robot_products:
+  - name: T1Pro
+    short: 71-DOF full-size humanoid robot
+key_clients: []
+ru:
+  description: |
+    TLI Bot (акции 835015) выпускает гуманоидного робота T1Pro (71 степень свободы, момент сустава 450 Нм, скорость ходьбы 8 км/ч)
+    и сверхлёгкие коллаборативные роботы.
+  highlights:
+    - 71 активная степень свободы — рекорд для полноразмерных гуманоидов
+    - Однорукая нагрузка 10 кг, приседание с весом >145 кг
+    - Угловая скорость сустава 720°/с, до 900°/с
+    - 50+ изобретательских патентов, T1Pro используется в науке, обороне, промышленности, медицине
+en:
+  description: |
+    TLI Bot (stock 835015) provides the T1Pro humanoid robot (71 DOF, 450Nm joint torque, 8km/h walking speed) and ultra-lightweight collaborative robots.
+  highlights:
+    - 71 active DOF, highest in world for full-size humanoid
+    - Single-arm load 10kg, weighted squat >145kg
+    - Joint angular velocity 720°/s, up to 900°/s
+    - 50+ invention patents, 20+ humanoid-related; T1Pro used in research, defense, manufacturing, healthcare
+zh:
+  description: |
+    四川天链机器人（股票 835015）推出 T1Pro 人形机器人（71 自由度、关节扭矩 450Nm、步行速度 8km/h）
+    及超轻量协作机器人。
+  highlights:
+    - 71 个有效自由度，全尺寸人形机器人世界领先
+    - 单臂负载 10kg，负重深蹲 >145kg
+    - 关节角速度 720°/s，最高 900°/s
+    - 50+ 项发明专利，T1Pro 应用于科研、国防、制造、医疗
+verified: false
+needs_review:
+  zh: true

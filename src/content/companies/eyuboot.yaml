@@ -1,0 +1,45 @@
+slug: eyuboot
+name: Shanghai Eyuboot Intelligent Control Technology Co., Ltd.
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Eyuboot
+  en: Eyuboot logo
+  zh: 意优智控标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Eyuboot выпускает гармонические интегрированные модули суставов серии proServo (диаметр 52–170 мм) с CAN FD/EtherCAT,
+    функцией STO и опциональным силовым управлением, производимые на автоматизированных линиях.
+  highlights:
+    - Объём производства и продаж 95 тыс. единиц в 2025 г., лидерство на отечественном рынке
+    - Первая отечественная линия модулей суставов на автоматизированном производстве
+    - Номинальный момент 24–363 Нм, пиковый 5,8–800 Нм
+    - 19-битный двойной абсолютный энкодер, MTBF >6000 часов; поставщик Zhiyuan Robotics
+en:
+  description: |
+    Eyuboot provides proServo series harmonic integrated joint modules (52-170mm diameter) with CAN FD/EtherCAT, STO, and optional force control, produced on automated lines.
+  highlights:
+    - 95,000 unit production/sales in 2025, leading domestic market share
+    - First domestic joint module using automated production lines
+    - Rated torque 24-363Nm, peak torque 5.8-800Nm
+    - 19-bit dual absolute encoder, MTBF >6000 hours; supplier to Zhiyuan Robotics
+zh:
+  description: |
+    上海意优智控提供 proServo 系列谐波一体化关节模组（直径 52–170mm），
+    支持 CAN FD/EtherCAT、STO 与可选力控，采用自动化产线生产。
+  highlights:
+    - 2025 年产销量 9.5 万台，国产市场领先
+    - 国内首条采用自动化产线的关节模组
+    - 额定扭矩 24–363Nm，峰值扭矩 5.8–800Nm
+    - 19 位双绝对编码器，MTBF >6000 小时；智元机器人供应商
+verified: false
+needs_review:
+  zh: true

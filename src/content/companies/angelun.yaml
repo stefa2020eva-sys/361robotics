@@ -1,0 +1,46 @@
+slug: angelun
+name: Angelun (Fuzhou) Power Technology Co., Ltd.
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Angelun
+  en: Angelun logo
+  zh: 安捷轮标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Angelun производит всенаправленные колёса, электрические всенаправленные колёса (8-дюймовый полу-модуль, лауреат IF Design Award 2024)
+    и интеллектуальную платформу SKR-DP200-00 для AGV, гуманоидных и логистических роботов.
+  highlights:
+    - Лауреат немецкой премии IF Design Award 2024
+    - 8-дюймовое электрическое всенаправленное колесо — трёхфазный мотор-ступица, статическая нагрузка 70 кг
+    - Платформа SKR-DP200 — ромбовидное расположение 4 колёс, всенаправленное движение
+    - Поверхность колеса из TPU для сцепления и противоскольжения
+en:
+  description: |
+    Angelun provides omnidirectional wheels, electric omnidirectional wheels (8-inch semi-module, IF Design Award 2024), and SKR-DP200-00 intelligent chassis for AGVs, humanoid robots, and logistics robots.
+  highlights:
+    - Winner of 2024 German IF Design Award
+    - "8-inch electric omni-wheel: three-phase hub motor, 70kg rated static load"
+    - "SKR-DP200 chassis: diamond four-wheel layout, omnidirectional movement"
+    - TPU wheel surface for traction and anti-slip
+zh:
+  description: |
+    安捷轮（福州）动力科技提供全向轮、电动全向轮（8 英寸半模块，2024 年 IF 设计奖）
+    及 SKR-DP200-00 智能底盘，服务 AGV、人形机器人与物流机器人。
+  highlights:
+    - 2024 年德国 IF 设计奖得主
+    - 8 英寸电动全向轮：三相轮毂电机，额定静载 70kg
+    - SKR-DP200 底盘：菱形四轮布局，实现全向移动
+    - TPU 轮面提供牵引力与防滑
+verified: false
+needs_review:
+  zh: true

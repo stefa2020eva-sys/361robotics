@@ -1,0 +1,45 @@
+slug: lixinhui
+name: LixinHui
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип LixinHui
+  en: LixinHui logo
+  zh: 利信辉标志
+type:
+  - component_maker
+featured: false
+categories:
+  - connectivity
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    LixinHui выпускает комплектные машинные жгуты и индивидуальные кабельные сборки для новой энергетики,
+    промышленности и воплощённых роботов, поддерживая передачу питания, сигналов, управления и данных.
+  highlights:
+    - 18 лет опыта, 300+ рабочих, заводы в Дунгуане и Сучжоу
+    - Индивидуальные коннекторы — шаг 2,54 мм, двухрядные, реверс, защёлка
+    - Материалы проводов — PVC, XLPE, PU, TPE, силикон, PTFE
+    - Малосерийное прототипирование, средне- и крупносерийная поставка
+en:
+  description: |
+    LixinHui provides complete machine wiring harnesses and custom cable assemblies for new energy, industrial, and embodied robots, supporting power, signal, control, and data transmission.
+  highlights:
+    - 18 years experience, 300+ workers, factories in Dongguan and Suzhou
+    - "Custom connectors: 2.54mm pitch, double row, reverse buckle, locking"
+    - "Wire materials: PVC, XLPE, PU, TPE, silicone, PTFE"
+    - Small-batch rapid prototyping, medium/large-batch delivery
+zh:
+  description: |
+    利信辉为新能源、工业和具身机器人提供整机线束和定制电缆组件，
+    支持电源、信号、控制和数据传输。
+  highlights:
+    - 18 年经验，300+ 员工，东莞与苏州设厂
+    - 定制连接器：2.54mm 间距，双排，反插，自锁
+    - 线材：PVC、XLPE、PU、TPE、硅胶、PTFE
+    - 小批量打样，中大批量量产交付
+verified: false
+needs_review:
+  zh: true

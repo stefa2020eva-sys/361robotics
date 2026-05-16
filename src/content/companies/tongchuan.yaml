@@ -1,0 +1,47 @@
+slug: tongchuan
+name: Shenzhen Tongchuan Technology Co., Ltd.
+country: CN
+founded: 2012
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Tongchuan
+  en: Tongchuan logo
+  zh: 同川科技标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Tongchuan выпускает гармонические редукторы и облегчённые гармонические суставы HarmoCore
+    со встроенным датчиком момента для приложений воплощённого ИИ.
+  highlights:
+    - Годовая мощность 300 тыс.+ комплектов
+    - Профиль зубьев — 3D-сопряжённый двухдуговой
+    - HarmoCore — уменьшенные размеры/масса, встроенный датчик момента
+    - Национальный «маленький гигант»
+en:
+  description: |
+    Tongchuan provides harmonic reducers and HarmoCore lightweight harmonic joints with integrated torque sensor for embodied AI applications.
+  highlights:
+    - 300,000+ annual production capacity
+    - 3D conjugate dual-arc tooth profile for harmonic reducers
+    - "HarmoCore joint: reduced size/weight, integrated torque sensor"
+    - National Little Giant
+zh:
+  description: |
+    深圳同川科技为具身智能场景提供谐波减速器和 HarmoCore 轻量化谐波关节
+    （集成扭矩传感器）。
+  highlights:
+    - 年产能 30 万套+
+    - 3D 共轭双圆弧齿形谐波减速器
+    - HarmoCore 关节：体积/重量减小，集成扭矩传感器
+    - 国家级"小巨人"
+verified: false
+needs_review:
+  zh: true

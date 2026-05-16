@@ -1,0 +1,48 @@
+slug: hitbot
+name: Hitbot Technology (Shenzhen) Co., Ltd.
+country: CN
+founded: 2015
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Hitbot
+  en: Hitbot logo
+  zh: 慧灵科技标志
+type:
+  - component_maker
+featured: false
+categories:
+  - end-effectors
+  - software-sdk
+produces_components:
+  - gripper
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Hitbot выпускает ловкие манипуляторы (eHand-6 с захватом 10 Н и грузоподъёмностью 5 кг; eHand-16 с 16 степенями свободы и тактильной чувствительностью)
+    и программное обеспечение Hitbot OS для промышленных и гуманоидных применений.
+  highlights:
+    - eHand-6 — захват 10 Н, грузоподъёмность 5 кг, сложные жесты за 1,1 с, CAN FD, Python/ROS
+    - eHand-16 — 16 степеней свободы, всенаправленная тактильная чувствительность, адаптивный большой палец
+    - Hitbot OS — отечественное ПО автоматизации, совместимое с большинством аппаратных средств
+    - Национальный «маленький гигант»; клиенты — Xiaomi, Huawei, Panasonic, Mindray
+en:
+  description: |
+    Hitbot provides dexterous hands (eHand-6 with 10N grip, 5kg lift; eHand-16 with 16 DOF, tactile sensing) and Hitbot OS automation software for industrial and humanoid applications.
+  highlights:
+    - "eHand-6: 10N grip, 5kg lift, 1.1s complex gestures, CAN FD, Python/ROS"
+    - "eHand-16: 16 DOF, omnidirectional tactile sensing, adaptive thumb"
+    - Hitbot OS domestic automation software, compatible with most automation hardware
+    - National Little Giant; serves Xiaomi, Huawei, Panasonic, Mindray
+zh:
+  description: |
+    慧灵科技提供灵巧手（eHand-6 抓力 10N、负载 5kg；eHand-16 具备 16 自由度和触觉感知），
+    并配套 Hitbot OS 自动化软件，服务工业和人形机器人场景。
+  highlights:
+    - eHand-6：10N 抓力、5kg 负载、1.1s 复杂手势、CAN FD、Python/ROS
+    - eHand-16：16 自由度、全向触觉感知、自适应拇指
+    - Hitbot OS：国产自动化编程控制软件，兼容主流自动化硬件
+    - 国家级"小巨人"，服务小米、华为、松下、迈瑞
+verified: false
+needs_review:
+  zh: true

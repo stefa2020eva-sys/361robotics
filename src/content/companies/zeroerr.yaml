@@ -1,0 +1,48 @@
+slug: zeroerr
+name: ZeroErr Control (Shenzhen) Technology Co., Ltd.
+country: CN
+website: http://www.zeroerr.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип ZeroErr
+  en: ZeroErr logo
+  zh: 零差云控标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+  - sensors
+produces_components:
+  - servo-motor
+  - lidar
+key_clients: []
+ru:
+  description: |
+    ZeroErr выпускает ротационные модули суставов eRob (интегрированный двойной абсолютный энкодер, гармонический редуктор, мотор, драйвер)
+    и магнитные энкодеры eCoder для гуманоидных и коллаборативных роботов.
+  highlights:
+    - eRob — повторяемость ±7 угл. сек., абсолютная точность ±15 угл. сек.
+    - eCoder — разрешение 21 бит, 2×16 оборотов, толщина 7 мм
+    - EtherCAT/CANopen/Modbus, опционально фрикционный тормоз
+    - Сертификаты CE, соответствие RoHS/REACH
+en:
+  description: |
+    ZeroErr provides eRob rotary joint modules (integrated dual absolute encoder, harmonic gear, motor, driver) and eCoder magnetic encoders for humanoid and collaborative robots.
+  highlights:
+    - "eRob: repeatability ±7 arcsec, absolute accuracy ±15 arcsec"
+    - "eCoder: 21-bit resolution, 2×16 turns, thickness 7mm"
+    - EtherCAT/CANopen/Modbus, friction brake optional
+    - CE certified, RoHS/REACH compliant
+zh:
+  description: |
+    零差云控为人形与协作机器人提供 eRob 旋转关节模组
+    （集成双绝对编码器、谐波减速器、电机、驱动器）以及 eCoder 磁编码器。
+  highlights:
+    - eRob：重复精度 ±7 角秒，绝对精度 ±15 角秒
+    - eCoder：21 位分辨率，2×16 圈，厚度 7mm
+    - EtherCAT/CANopen/Modbus，可选摩擦制动
+    - CE 认证，符合 RoHS/REACH
+verified: false
+needs_review:
+  zh: true

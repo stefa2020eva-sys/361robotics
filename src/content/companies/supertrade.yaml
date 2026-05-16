@@ -1,0 +1,47 @@
+slug: supertrade
+name: Supertrade Co., Ltd.
+country: CN
+founded: 1978
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Supertrade
+  en: Supertrade logo
+  zh: 佳普股份标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+  - connectivity
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Supertrade дистрибутирует 6-осевые IMU Murata (SCH16T промышленный, SCH1600 автомобильный), коннекторы Hirose
+    и решения по моторным приводам для роботов, дронов и автономного транспорта.
+  highlights:
+    - Более 40 лет авторизованной дистрибуции Murata и Hirose
+    - 6-осевой IMU Murata — промышленная стабильность, низкий шум, широкий температурный диапазон
+    - Плавающие BTB-коннекторы Hirose — стойкость к вибрации и удару
+    - Решение моторного привода MPS с прецизионным датчиком угла
+en:
+  description: |
+    Supertrade distributes Murata 6-axis IMUs (SCH16T industrial, SCH1600 automotive), Hirose connectors, and motor drive solutions for robots, drones, and autonomous driving.
+  highlights:
+    - 40+ years authorized distributor of Murata and Hirose
+    - "Murata 6-axis IMU: industrial stability, low noise, wide temperature"
+    - "Hirose floating B2B connectors: vibration/shock resistant"
+    - "MPS motor drive solution: high-precision angle sensing"
+zh:
+  description: |
+    佳普股份代理村田 6 轴 IMU（SCH16T 工业级、SCH1600 车规级）、广濑连接器
+    及电机驱动方案，服务机器人、无人机与自动驾驶。
+  highlights:
+    - 40 年以上村田与广濑授权代理
+    - 村田 6 轴 IMU：工业级稳定性，低噪声，宽温
+    - 广濑浮动 B2B 连接器：耐振动、耐冲击
+    - MPS 电机驱动方案：高精度角度感测
+verified: false
+needs_review:
+  zh: true

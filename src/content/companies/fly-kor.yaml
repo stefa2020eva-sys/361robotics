@@ -1,0 +1,46 @@
+slug: fly-kor
+name: Hangzhou FLY-KOR Technology Co., Ltd.
+country: CN
+founded: 2024
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип FLY-KOR
+  en: FLY-KOR logo
+  zh: 飞阔科技标志
+type:
+  - component_maker
+featured: false
+categories:
+  - software-sdk
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    FLY-KOR предоставляет систему Tianshu 3.0 («мозг» робота) с навигацией SLAM, динамическим обходом препятствий,
+    мультимодальным взаимодействием и временем отклика голоса 700 мс для роботов-гидов и сервисных роботов.
+  highlights:
+    - Инвесторы — Hangzhou Financial Investment, Zhiyuan Robotics, iFlytek
+    - Tianshu 3 — автономное восприятие, анализ намерений, принятие решений
+    - SLAM-картографирование, динамический обход препятствий
+    - Визуальный конструктор рабочих процессов — автоматизация задач без программиста
+en:
+  description: |
+    FLY-KOR provides the Tianshu System 3.0 (robot brain) with SLAM navigation, dynamic obstacle avoidance, multi-modal interaction, and 700ms voice response for guidance and service robots.
+  highlights:
+    - Invested by Hangzhou Financial Investment, Zhiyuan Robotics, iFlytek
+    - "Tianshu 3: autonomous perception, intention analysis, task decision"
+    - SLAM mapping, dynamic obstacle avoidance
+    - Visual workflow design, non-technical personnel can automate tasks
+zh:
+  description: |
+    杭州飞阔科技提供天枢系统 3.0（机器人大脑），具备 SLAM 导航、动态避障、
+    多模态交互和 700ms 语音响应，服务导览与服务机器人。
+  highlights:
+    - 由杭金投、智元机器人、科大讯飞投资
+    - 天枢 3：自主感知、意图分析、任务决策
+    - SLAM 建图，动态避障
+    - 可视化工作流设计，非技术人员可自动化任务
+verified: false
+needs_review:
+  zh: true

@@ -1,0 +1,46 @@
+slug: skyworth-xr
+name: Shenzhen Skyworth XR Technology Co., Ltd.
+country: CN
+founded: 2017
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Skyworth XR
+  en: Skyworth XR logo
+  zh: 创维新世界标志
+type:
+  - component_maker
+featured: false
+categories:
+  - vision
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Skyworth XR предлагает беспроводное ультралёгкое решение «всё-в-одном» EGO (120 г) с матрицей из 6 камер,
+    миллиметровым SLAM и распознаванием жестов на основе зрения для обучения воплощённого ИИ.
+  highlights:
+    - 120 г, ультралёгкий, прямое поле зрения без перекрытий
+    - 6-камерная ультраширокая матрица восприятия
+    - Миллиметровое SLAM-позиционирование без внешней базовой станции
+    - Аппаратная синхронизация временных меток, 90 Гц+, визуальное распознавание жестов вместо UMI-перчаток; стоимость ниже на >80 %
+en:
+  description: |
+    Skyworth XR provides wireless ultra-lightweight EGO data acquisition all-in-one solution (120g) with 6-camera matrix, millimeter SLAM, and visual gesture recognition for embodied AI training.
+  highlights:
+    - 120g ultra-light, non-occlusive direct view
+    - 6-camera ultra-wide perception array
+    - Millimeter SLAM positioning, no external base station
+    - Hardware timestamp sync, 90Hz+, visual gesture replaces UMI gloves; cost reduced >80% vs mechanical gloves
+zh:
+  description: |
+    深圳创维新世界科技提供无线超轻 EGO 数据采集一体机方案（120g），
+    采用 6 相机矩阵、毫米级 SLAM 和视觉手势识别，用于具身智能训练。
+  highlights:
+    - 120g 超轻，无遮挡直接视野
+    - 6 相机超宽感知阵列
+    - 毫米级 SLAM 定位，无需外部基站
+    - 硬件时间戳同步，90Hz+，视觉手势替代 UMI 手套，成本降低 >80%
+verified: false
+needs_review:
+  zh: true

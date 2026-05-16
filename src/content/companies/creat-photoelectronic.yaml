@@ -1,0 +1,45 @@
+slug: creat-photoelectronic
+name: Shenzhen Creat Photoelectronic Co., Ltd.
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Creat Photoelectronic
+  en: Creat Photoelectronic logo
+  zh: 科锐拓光电标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Creat Photoelectronic выпускает высокоточные оптические дисковые энкодеры и линейные шкалы
+    (стеклянные и стеклокерамические серии LC-LE-G, серии LC-LE-S из нержавеющей стали) для энкодеров и систем управления движением.
+  highlights:
+    - Точность ширины линии ±0,5 мкм или ±1 мкм
+    - Стеклокерамика — коэффициент расширения ±0,5×10⁻⁶/°C, длина до 1060 мм
+    - Высокая отражательная способность >60 %, низкая отражательная способность <5 %
+    - Серия из нержавеющей стали (304, 316, 431, 420)
+en:
+  description: |
+    Creat Photoelectronic provides high-precision optical encoder disks and grating rulers (LC-LE-G series glass/glass-ceramic, LC-LE-S series stainless steel) for encoders and motion control.
+  highlights:
+    - Line width accuracy ±0.5μm or ±1μm
+    - "Glass-ceramic: expansion coefficient ±0.5×10⁻⁶/°C, max length 1060mm"
+    - High reflectivity >60%, low reflectivity <5%
+    - Stainless steel series (304, 316, 431, 420)
+zh:
+  description: |
+    深圳科锐拓光电生产高精度光学编码器码盘和光栅尺
+    （LC-LE-G 玻璃/微晶玻璃系列、LC-LE-S 不锈钢系列），用于编码器与运动控制。
+  highlights:
+    - 线宽精度 ±0.5μm 或 ±1μm
+    - 微晶玻璃：膨胀系数 ±0.5×10⁻⁶/°C，最大长度 1060mm
+    - 高反射率 >60%，低反射率 <5%
+    - 不锈钢系列（304、316、431、420）
+verified: false
+needs_review:
+  zh: true

@@ -1,0 +1,46 @@
+slug: apaqil
+name: Suzhou Apaqil Robotics Technology Co., Ltd.
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Apaqil
+  en: Apaqil logo
+  zh: 阿帕奇标志
+type:
+  - component_maker
+featured: false
+categories:
+  - controllers
+  - software-sdk
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Apaqil выпускает контроллеры воплощённого интеллекта (восприятие «мозга» и управление «мозжечком»)
+    на базе платформ Intel, NVIDIA и Rockchip для гуманоидных роботов.
+  highlights:
+    - Двойная архитектура — слияние мозга и мозжечка, интеграция вычислений и управления
+    - Компактные размеры, высокая вычислительная мощность, реальное время
+    - Модели TERJ30, TER30B, TER40J, TAC-3000pro
+    - Поддержка X86, RK3588, Jetson
+en:
+  description: |
+    Apaqil provides embodied intelligent controllers (perceiving brain and control cerebellum) based on Intel, NVIDIA, and Rockchip platforms for humanoid robots.
+  highlights:
+    - "Dual architecture: brain-cerebellum fusion + computation-control integration"
+    - Compact size, high computing power, high real-time performance
+    - Models TERJ30, TER30B, TER40J, TAC-3000pro
+    - Supports X86, RK3588, Jetson platforms
+zh:
+  description: |
+    苏州阿帕奇机器人提供基于 Intel、NVIDIA 与 Rockchip 平台的具身智能控制器（感知"大脑"与控制"小脑"），
+    服务人形机器人。
+  highlights:
+    - 双架构：脑-小脑融合 + 计算-控制一体化
+    - 体积紧凑、算力强、实时性高
+    - 型号 TERJ30、TER30B、TER40J、TAC-3000pro
+    - 支持 X86、RK3588、Jetson 平台
+verified: false
+needs_review:
+  zh: true
