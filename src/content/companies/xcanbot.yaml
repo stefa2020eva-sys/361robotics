@@ -1,0 +1,48 @@
+slug: xcanbot
+name: XCANBOT
+country: CN
+founded: 2025
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип XCANBOT
+  en: XCANBOT logo
+  zh: XCANBOT 标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - actuators
+  - controllers
+robot_products:
+  - name: Lawn Mowing Robot
+    short: Embodied AI autonomous mower
+  - name: Mobility Robot
+    short: Intelligent companion robot
+key_clients: []
+ru:
+  description: |
+    XCANBOT выпускает робот-газонокосилку с воплощённым ИИ (без граничного провода, мультимодальное восприятие, авто-подзарядка) и интеллектуальный робот-сопровождающий с системой восприятия XCanSense 5D.
+  highlights:
+    - Победитель CVPR autonomous driving challenge
+    - Система восприятия XCanSense 5D
+    - "Газонокосилка: без границ, динамическое уклонение, авто-зарядка"
+    - "Робот-компаньон: умное следование, голосовое управление, помощь в переноске"
+en:
+  description: |
+    XCANBOT provides embodied AI lawn mowing robot (no boundary wire, multi-modal perception, auto-recharge) and intelligent mobility companion robot with XCanSense 5D perception system.
+  highlights:
+    - Won CVPR autonomous driving challenge world championship
+    - XCanSense 5D perception system
+    - "Lawn mower: boundary-free, dynamic obstacle avoidance, auto-recharge"
+    - "Mobility robot: smart following, voice control, assisted retrieval"
+zh:
+  description: |
+    星灿智能 XCANBOT 提供具身 AI 割草机器人（无需边界线，多模态感知，自动充电）和搭载 XCanSense 5D 感知系统的智能出行陪伴机器人。
+  highlights:
+    - CVPR 自动驾驶挑战赛世界冠军
+    - XCanSense 5D 感知系统
+    - 割草机器人：无边界、动态避障、自动充电
+    - 出行机器人：智能跟随、语音控制、辅助取物
+verified: false
+needs_review:
+  zh: true

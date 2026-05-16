@@ -1,0 +1,44 @@
+slug: intedigo
+name: Intedigo
+country: CN
+founded: 2016
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Intedigo
+  en: Intedigo logo
+  zh: Intedigo 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - connectivity
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Intedigo предлагает модуль связи для телеоперации RoBOX (Rockchip RK3588, NPU 5–6 TOPS) с собственным протоколом RoHIL ультра-низкой задержки для удалённого управления гуманоидными роботами.
+  highlights:
+    - Собственный RoHIL — сверхнизкая задержка мультимодальной связи
+    - "RK3588/RK3582, 5–6 TOPS NPU"
+    - "3×GbE/2.5G, 5×USB Type-C 3.0, Wi-Fi 6/7, 4G/5G"
+    - "Кодирование 4×1080p@60fps или 4K@60fps"
+en:
+  description: |
+    Intedigo provides RoBOX teleoperation communication module (Rockchip RK3588, 5-6 TOPS NPU) with RoHIL low-latency protocol for humanoid robot remote operation.
+  highlights:
+    - Proprietary RoHIL ultra-low latency multimodal communication
+    - "RK3588/RK3582, 5-6 TOPS NPU"
+    - "3×GbE/2.5G, 5×USB Type-C 3.0, Wi-Fi 6/7, 4G/5G"
+    - "Supports 4×1080p@60fps or 4K@60fps encoding"
+zh:
+  description: |
+    中智蓝途 Intedigo 提供 RoBOX 遥操作通信模组（瑞芯微 RK3588，5–6 TOPS NPU），搭配自研 RoHIL 低延迟协议，用于人形机器人远程操作。
+  highlights:
+    - 自研 RoHIL 超低延迟多模态通信
+    - RK3588/RK3582，5–6 TOPS NPU
+    - 3×GbE/2.5G、5×USB Type-C 3.0、Wi-Fi 6/7、4G/5G
+    - "支持 4×1080p@60fps 或 4K@60fps 编码"
+verified: false
+needs_review:
+  zh: true

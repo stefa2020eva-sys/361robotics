@@ -1,0 +1,46 @@
+slug: junji-robot
+name: Junji Robot
+country: CN
+founded: 2025
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Junji Robot
+  en: Junji Robot logo
+  zh: Junji Robot 标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - actuators
+  - controllers
+robot_products:
+  - name: AIDE-J1
+    short: General embodied humanoid robot for high-precision tasks
+key_clients: []
+ru:
+  description: |
+    Junji Robot разрабатывает гуманоидного робота AIDE-J1 («Маленький рабочий»): грузоподъёмность одной руки 5 кг, точность навигации 1 см, точность управления концевым звеном 0,1 мм для промышленных задач.
+  highlights:
+    - Поддержка профессора Чжан Цицзю (Цзяннаньский университет)
+    - "AIDE-J1: 5 кг на руку, 1 см навигация, 0,1 мм точность"
+    - "Полный цикл поддержки от R&D до развёртывания"
+    - Многоуровневый SDK и платформа для вторичной разработки
+en:
+  description: |
+    Junji Robot develops the AIDE-J1 (Little Worker) humanoid robot with single-arm 5kg payload, 1cm navigation accuracy, 0.1mm end control precision for industrial applications.
+  highlights:
+    - Backed by Jiangnan University Professor Zhang Qijiu
+    - "AIDE-J1: single-arm 5kg load, 1cm navigation, 0.1mm precision"
+    - "Full lifecycle support from R&D to deployment"
+    - Multi-tiered SDK and secondary development platform
+zh:
+  description: |
+    峻吉机器人 Junji Robot 研发 AIDE-J1（小工匠）人形机器人，单臂负载 5kg，导航精度 1cm，末端控制精度 0.1mm，面向工业应用。
+  highlights:
+    - 由江南大学张奇桔教授支持
+    - AIDE-J1：单臂 5kg 负载、1cm 导航、0.1mm 精度
+    - 从研发到部署的全生命周期支持
+    - 多层级 SDK 和二次开发平台
+verified: false
+needs_review:
+  zh: true

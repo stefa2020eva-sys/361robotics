@@ -1,0 +1,47 @@
+slug: dobot
+name: Dobot
+country: CN
+founded: 2015
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Dobot
+  en: Dobot logo
+  zh: Dobot 标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - actuators
+robot_products:
+  - name: DOBOT Atom-Max
+    short: 41-DOF bionic humanoid robot
+  - name: CRA Series
+    short: Collaborative robots for industrial automation
+key_clients: []
+ru:
+  description: |
+    Dobot выпускает полноразмерного бионического гуманоидного робота DOBOT Atom-Max (41 степень свободы, 6-DOF ловкий манипулятор) и коллаборативных роботов серии CRA (улучшение времени цикла на 25%) для прецизионных промышленных операций.
+  highlights:
+    - "Atom-Max: 41 степень свободы, полноразмерный гуманоид"
+    - "Серия CRA: улучшение времени цикла на 25%, интегрированные высокопроизводительные суставы"
+    - "80+ стран, 15+ отраслей"
+    - Пионер настольных коботов
+en:
+  description: |
+    Dobot provides DOBOT Atom-Max full-size bionic humanoid robot (41 DOF, 6-DOF dexterous hand) and CRA series collaborative robots (25% cycle time improvement) for industrial precision operations.
+  highlights:
+    - "Atom-Max: 41 DOF, full-size humanoid"
+    - "CRA series: 25% cycle time improvement, integrated high-performance joints"
+    - "80+ countries, 15+ industries"
+    - Desktop cobot pioneer
+zh:
+  description: |
+    越疆 Dobot 提供 DOBOT Atom-Max 全尺寸仿生人形机器人（41 自由度，6 自由度灵巧手）和 CRA 系列协作机器人（周期时间提升 25%），服务工业精密操作。
+  highlights:
+    - Atom-Max：41 自由度，全尺寸人形机器人
+    - "CRA 系列：周期时间提升 25%，集成高性能关节"
+    - 80+ 国家，15+ 行业
+    - 桌面级协作机器人先驱
+verified: false
+needs_review:
+  zh: true

@@ -1,0 +1,45 @@
+slug: seer-robotics
+name: SEER Robotics
+country: CN
+founded: 2020
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип SEER Robotics
+  en: SEER Robotics logo
+  zh: SEER Robotics 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - controllers
+  - software-sdk
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    SEER Robotics — открытая платформа для интеллектуальных роботов: системы управления («мозг» робота), универсальный подбор робототехники (более 1000 моделей) и low-code инструменты для клиентов по всему миру.
+  highlights:
+    - Мировой лидер №1 по поставкам контроллеров роботов (2023–2025)
+    - Основана чемпионами мира RoboCup
+    - 2100+ глобальных клиентов в 70+ странах
+    - «All Robots, One Platform — Fully in Your Control»
+en:
+  description: |
+    SEER Robotics provides intelligent robot open platform with control systems (robot brain), one-stop robot selection (1000+ models), and low-code software tools for global customers.
+  highlights:
+    - World #1 in robot controller shipments (2023-2025)
+    - Founded by RoboCup world champions
+    - 2100+ global customers, 70+ countries
+    - All Robots, One Platform - Fully in Your Control
+zh:
+  description: |
+    仙工智能 SEER Robotics 提供智能机器人开放平台，包括控制系统（机器人大脑）、一站式机器人选型（1000+ 型号）和低代码软件工具，服务全球客户。
+  highlights:
+    - 机器人控制器出货量全球第一（2023–2025）
+    - 由 RoboCup 世界冠军团队创立
+    - 全球 2100+ 客户，覆盖 70+ 国家
+    - All Robots, One Platform — Fully in Your Control
+verified: false
+needs_review:
+  zh: true

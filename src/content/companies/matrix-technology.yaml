@@ -1,0 +1,44 @@
+slug: matrix-technology
+name: Matrix Technology
+country: CN
+founded: 2021
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Matrix Technology
+  en: Matrix Technology logo
+  zh: Matrix Technology 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Matrix Technology выпускает датчики давления для кончиков пальцев (массив 12×8, пиксель 0,8×0,8 мм) и электронную кожу для ловких манипуляторов гуманоидных роботов: порог срабатывания 300 Па, потребление 0,1 мА, ресурс >1 млн циклов.
+  highlights:
+    - 96 точек сенсора на кончике пальца (12×8)
+    - "Пиксель 0,8×0,8 мм, порог 300 Па"
+    - Высокая линейность зависимости проводимости от давления
+    - "Ширина модуля 14 мм, 3,3–5 В, 0,1 мА, помехоустойчивость"
+en:
+  description: |
+    Matrix Technology provides fingertip pressure sensors (12×8 array, 0.8×0.8mm pixel) and electronic skin for humanoid robot dexterous hands with 300Pa threshold, 0.1mA power consumption, and >1M cycle life.
+  highlights:
+    - 96 sensing points per fingertip (12×8)
+    - "Individual pixel 0.8×0.8mm, 300Pa activation threshold"
+    - High linearity conductance vs pressure
+    - "14mm module width, 3.3-5V, 0.1mA, EMI resistant"
+zh:
+  description: |
+    墨现科技 Matrix Technology 提供指尖压力传感器（12×8 阵列，0.8×0.8mm 像素）和电子皮肤，应用于人形机器人灵巧手：触发阈值 300Pa，功耗 0.1mA，循环寿命 >100 万次。
+  highlights:
+    - 每指尖 96 个感知点（12×8）
+    - 单像素 0.8×0.8mm，300Pa 触发阈值
+    - 电导-压力高线性度
+    - 模组宽度 14mm，3.3-5V，0.1mA，抗 EMI
+verified: false
+needs_review:
+  zh: true

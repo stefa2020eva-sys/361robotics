@@ -1,0 +1,44 @@
+slug: ampro
+name: AmPro
+country: CN
+founded: 2017
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип AmPro
+  en: AmPro logo
+  zh: AmPro 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    AmPro предоставляет услуги металлической 3D-печати для компонентов роботов, включая высокопрочный алюминий серии GA и титановые сплавы TC4-A с топологической оптимизацией для облегчения конструкции.
+  highlights:
+    - Основана академиком Ву Синьхуа
+    - "Полный экосистема металлической 3D-печати: порошки, принтеры, постобработка"
+    - GA-алюминий и TC4-A титан для аддитивного производства
+    - "Высокий предел текучести и прочности, снижение веса конструкции"
+en:
+  description: |
+    AmPro provides metal 3D printing services for robot components, including GA-series high-strength aluminum and TC4-A titanium alloys with topology optimization for lightweighting.
+  highlights:
+    - Founded by Academician Wu Xinhua
+    - "Full metal 3D printing ecosystem: powders, printers, post-processing"
+    - GA Al and TC4-A Ti for additive manufacturing
+    - "High yield strength, tensile strength, structural weight reduction"
+zh:
+  description: |
+    倍丰智能 AmPro 提供机器人部件的金属 3D 打印服务，包括 GA 系列高强度铝合金和 TC4-A 钛合金，结合拓扑优化实现轻量化。
+  highlights:
+    - 由吴鑫华院士创立
+    - 完整金属 3D 打印生态：粉末、打印机、后处理
+    - GA 铝合金和 TC4-A 钛合金用于增材制造
+    - 高屈服强度、抗拉强度，结构减重
+verified: false
+needs_review:
+  zh: true

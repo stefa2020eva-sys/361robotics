@@ -1,0 +1,43 @@
+slug: roake
+name: ROAKE
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип ROAKE
+  en: ROAKE logo
+  zh: ROAKE 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    ROAKE предлагает серию AR гуманоидных силоуправляемых рук (нагрузка 3–10 кг, соотношение нагрузка/вес 1:2) с интегрированными силоуправляемыми суставами HSA и 7-степенной кросс-кистевой конфигурацией.
+  highlights:
+    - 600+ патентов и наград
+    - "AR5: 3–10 кг, соотношение нагрузка/вес 1:2"
+    - "Полное силовое управление по суставам, опыт >10 лет"
+    - "Поддержка внутренней прокладки камеры, продвинутый SDK"
+en:
+  description: |
+    ROAKE provides AR series humanoid force-controlled arms (3-10kg payload, 1:2 payload/weight ratio) with HSA integrated force-control joints and 7-DOF cross-wrist configuration.
+  highlights:
+    - 600+ patents and awards
+    - "AR5: 3-10kg payload, 1:2 payload/weight ratio"
+    - "Full-joint force control, over decade of expertise"
+    - "Supports internal camera cabling, advanced SDK"
+zh:
+  description: |
+    瑶石机器人 ROAKE 提供 AR 系列人形力控机械臂（负载 3–10kg，负载/自重比 1:2），采用 HSA 集成力控关节和 7 自由度交叉腕配置。
+  highlights:
+    - 600+ 专利和奖项
+    - "AR5：3–10kg 负载，1:2 负载/自重比"
+    - 全关节力控，十年以上技术积累
+    - 支持内部相机走线，先进 SDK
+verified: false
+needs_review:
+  zh: true

@@ -1,0 +1,44 @@
+slug: gci
+name: GCI
+country: CN
+founded: 2019
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип GCI
+  en: GCI logo
+  zh: GCI 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - vision
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    GCI выпускает 3D-камеру со структурированной подсветкой KM60G (1,6 Мп, повторяемость по Z 4 мкм, частота сканирования 3 Гц, 230 г) для высокоточных онлайн-измерений и позиционирования роботов.
+  highlights:
+    - "20+ ключевых патентов, статус национального хай-тек предприятия"
+    - "KM60G: повторяемость Z 4 мкм, миллисекундная съёмка, 3 Гц"
+    - "Совместимость GPU/CPU, авиационный алюминий 230 г"
+    - Компактный размер для узких пространств
+en:
+  description: |
+    GCI provides KM60G 3D structured light camera (1.6MP, Z-axis repeatability 4μm, 3Hz scan rate, 230g) for high-precision online measurement and robotic arm positioning.
+  highlights:
+    - "20+ core IP, national high-tech"
+    - "KM60G: 4μm Z repeatability, millisecond imaging, 3Hz"
+    - "GPU/CPU compatible, aviation aluminum 230g"
+    - Compact size for narrow spaces
+zh:
+  description: |
+    广成创新 GCI 提供 KM60G 3D 结构光相机（1.6MP，Z 轴重复精度 4μm，扫描速率 3Hz，230g），用于高精度在线测量和机械臂定位。
+  highlights:
+    - 20+ 核心 IP，国家高新
+    - KM60G：Z 轴重复精度 4μm，毫秒级成像，3Hz
+    - GPU/CPU 兼容，航空铝 230g
+    - 小尺寸适用狭窄空间
+verified: false
+needs_review:
+  zh: true

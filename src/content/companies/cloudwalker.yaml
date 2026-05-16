@@ -1,0 +1,46 @@
+slug: cloudwalker
+name: Cloudwalker
+country: CN
+founded: 2023
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Cloudwalker
+  en: Cloudwalker logo
+  zh: Cloudwalker 标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - actuators
+  - vision
+robot_products:
+  - name: TNO1
+    short: High-altitude curtain wall cleaning robot
+key_clients: []
+ru:
+  description: |
+    Cloudwalker предлагает робота для уборки навесных стен TNO1 (бионический четвероногий дизайн, вес 50 кг, преодоление препятствий 200 мм) для высотной очистки фасадов.
+  highlights:
+    - Заменяет «спайдер-мена»-человека при высотной уборке
+    - "Преодолевает препятствия 200 мм, адаптируется к большинству фасадных конструкций"
+    - Скорость уборки настраивается 50–150 мм/с
+    - "Физическая чистка щётками, минимум химии"
+en:
+  description: |
+    Cloudwalker provides TNO1 curtain wall cleaning robot (bionic quadruped design, 50kg weight, crosses 200mm obstacles) for high-altitude facade cleaning.
+  highlights:
+    - Replaces human spider-man for high-altitude cleaning
+    - "Crosses 200mm obstacles, adapts to most facade structures"
+    - Cleaning speed adjustable 50-150mm/s
+    - "Uses physical brushing, minimal cleaning agent"
+zh:
+  description: |
+    云未机器人 Cloudwalker 提供 TNO1 幕墙清洗机器人（仿生四足设计，50kg 重量，跨越 200mm 障碍），服务高空幕墙清洁。
+  highlights:
+    - 替代人工蜘蛛人进行高空清洁
+    - 跨越 200mm 障碍，适配多数幕墙结构
+    - 清洁速度可调 50–150mm/s
+    - 物理刷洗，最少清洁剂
+verified: false
+needs_review:
+  zh: true

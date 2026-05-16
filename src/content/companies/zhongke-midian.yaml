@@ -1,0 +1,43 @@
+slug: zhongke-midian
+name: Zhongke Midian
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Zhongke Midian
+  en: Zhongke Midian logo
+  zh: Zhongke Midian 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Zhongke Midian выпускает шестиосевые датчики силы/момента для гуманоидных и промышленных роботов с точностью 0,1–0,5% FS, нулевым гистерезисом, защитой IP65 и безопасной перегрузкой 150%.
+  highlights:
+    - "Комплексная точность 0,1–0,5% FS (мировой уровень)"
+    - Нулевой гистерезис и дрейф
+    - "Алюминиевый сплав, IP65, перегрузка 150%"
+    - "Поддержка нескольких протоколов, ниже стоимости импорта"
+en:
+  description: |
+    Zhongke Midian provides six-axis force/torque sensors for humanoid and industrial robots with 0.1-0.5% FS accuracy, zero hysteresis, IP65 protection, and 150% safe overload.
+  highlights:
+    - "0.1-0.5% FS comprehensive accuracy (internationally leading)"
+    - Zero hysteresis and zero drift
+    - "Aluminum alloy, IP65, 150% overload"
+    - "Supports multiple protocols, lower cost than imports"
+zh:
+  description: |
+    中科米点 Zhongke Midian 提供六轴力/扭矩传感器，用于人形和工业机器人：精度 0.1–0.5% FS，零滞后，IP65，安全过载 150%。
+  highlights:
+    - "综合精度 0.1–0.5% FS（国际领先）"
+    - 零滞后、零漂移
+    - "铝合金，IP65，150% 过载"
+    - 支持多种协议，成本低于进口
+verified: false
+needs_review:
+  zh: true

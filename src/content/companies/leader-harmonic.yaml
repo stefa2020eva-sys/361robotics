@@ -1,0 +1,43 @@
+slug: leader-harmonic
+name: Leader Harmonic
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Leader Harmonic
+  en: Leader Harmonic logo
+  zh: Leader Harmonic 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Leader Harmonic выпускает волновые редукторы серий LCSG/LHSG: малые размеры, лёгкость, высокая точность; проникновение >90% на отечественном рынке волновых редукторов для роботов.
+  highlights:
+    - "Доля рынка >60%, проникновение >90%"
+    - "900+ сотрудников, 12 кандидатов наук, 80+ патентов"
+    - Стабильные характеристики и согласованность продукции
+    - Высокоточные волновые редукторы
+en:
+  description: |
+    Leader Harmonic produces LCSG/LHSG series harmonic reducers with small size, light weight, high precision, >90% penetration in domestic robot harmonic reducer market.
+  highlights:
+    - "Market share >60%, penetration >90%"
+    - "900+ employees, 12 PhDs, 80+ patents"
+    - Stable product performance and consistency
+    - High precision harmonic reducers
+zh:
+  description: |
+    绿韵谐波 Leader Harmonic 生产 LCSG/LHSG 系列谐波减速器，体积小、重量轻、精度高，在国产机器人谐波减速器市场渗透率 >90%。
+  highlights:
+    - "市场份额 >60%，渗透率 >90%"
+    - 900+ 员工，12 名博士，80+ 专利
+    - 产品性能稳定、一致性高
+    - 高精度谐波减速器
+verified: false
+needs_review:
+  zh: true

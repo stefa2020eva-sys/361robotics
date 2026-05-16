@@ -1,0 +1,44 @@
+slug: tt-motor
+name: TT Motor
+country: CN
+founded: 2006
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип TT Motor
+  en: TT Motor logo
+  zh: TT Motor 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    TT Motor выпускает коретекстусные планетарные мотор-редукторы GMP12-TBC1220-MR (диаметр 12 мм, номинальный момент 0,2 Н·м, пик 0,4 Н·м) с высокоточным энкодером для ловких манипуляторов.
+  highlights:
+    - "Диаметр 12 мм, номинальный 0,2 Н·м, пик >0,4 Н·м"
+    - "Быстрый отклик, высокоточный энкодер"
+    - "Полная самостоятельная разработка, кастомизация"
+    - Также производит BLDC-двигатели
+en:
+  description: |
+    TT Motor provides GMP12-TBC1220-MR coreless planetary gear motor (12mm diameter, 0.2Nm rated torque, 0.4Nm peak) with high-precision encoder for dexterous hands.
+  highlights:
+    - "12mm diameter, rated 0.2Nm, peak >0.4Nm"
+    - "Fast response, high precision encoder"
+    - "Fully independent development, customizable"
+    - Also produces BLDC motors
+zh:
+  description: |
+    踢踢电子 TT Motor 提供 GMP12-TBC1220-MR 空心杯行星齿轮电机（直径 12mm，额定扭矩 0.2Nm，峰值 0.4Nm），配备高精度编码器，用于灵巧手。
+  highlights:
+    - "直径 12mm，额定 0.2Nm，峰值 >0.4Nm"
+    - 响应快、高精度编码器
+    - 完全自主研发、可定制
+    - 同时生产 BLDC 电机
+verified: false
+needs_review:
+  zh: true

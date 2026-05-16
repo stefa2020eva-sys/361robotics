@@ -1,0 +1,46 @@
+slug: direct-drive-tech
+name: Direct Drive Tech
+country: CN
+founded: 2020
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Direct Drive Tech
+  en: Direct Drive Tech logo
+  zh: Direct Drive Tech 标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - actuators
+  - controllers
+robot_products:
+  - name: D1
+    short: Modular wheeled-legged embodied robot
+key_clients: []
+ru:
+  description: |
+    Direct Drive Tech выпускает модульного колёсно-шагающего робота D1 (первого в мире полностью модульного воплощённого робота) и другие колёсно-шагающие роботы для исследований, охранной инспекции, доставки и мобильной съёмки.
+  highlights:
+    - "240+ патентов, золотые медали Женевской и Азиатской выставок изобретений"
+    - "D1: полностью модульный дизайн, поддерживает сборку и разделение"
+    - Отличное самобалансирование и движение
+    - Экспорт в 50+ стран
+en:
+  description: |
+    Direct Drive Tech provides D1 modular wheeled-legged robot (world's first fully modular embodied robot) and other wheeled-legged robots for research, security inspection, delivery, and mobile filming.
+  highlights:
+    - "240+ patents, Gold medals at Geneva and Asian Invention Exhibitions"
+    - "D1: full modular design, supports splicing and splitting"
+    - Excellent self-balancing and motion performance
+    - Exported to 50+ countries
+zh:
+  description: |
+    本末科技 Direct Drive Tech 提供 D1 模块化轮足机器人（全球首款全模块化具身机器人）和其他轮足机器人，服务科研、安防巡检、配送和移动拍摄。
+  highlights:
+    - 240+ 专利，日内瓦和亚洲发明展金奖
+    - D1：全模块化设计，支持拼接和拆分
+    - 优秀的自平衡和运动性能
+    - 出口 50+ 国家
+verified: false
+needs_review:
+  zh: true

@@ -1,0 +1,43 @@
+slug: dsd
+name: DSD
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип DSD
+  en: DSD logo
+  zh: DSD 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    DSD выпускает прецизионные шестерни (модуль 0,2–2,0, ISO 5), миниатюрные винты с ходом (диаметр 1–12 мм, шаг 0,5–12 мм), червячные передачи и валы для шарниров роботов и ловких манипуляторов.
+  highlights:
+    - "Завод 6000 м², японские зуборезные станки"
+    - "Точность шестерён: ISO5, JGMA1, AGMA12, DIN5"
+    - "Высокая скорость, длительный ресурс, низкий шум"
+    - IATF16949 сертифицирован
+en:
+  description: |
+    DSD produces precision gears (module 0.2-2.0, ISO grade 5), micro lead screws (diameter 1-12mm, lead 0.5-12mm), worm gears, and shafts for robot joints and dexterous hands.
+  highlights:
+    - "6000㎡ factory, Japanese gear hobbing machines"
+    - "Gear precision: ISO5, JGMA1, AGMA12, DIN5"
+    - "High speed, long life, low noise"
+    - IATF16949 certified
+zh:
+  description: |
+    德斯达 DSD 生产精密齿轮（模数 0.2–2.0，ISO 5 级）、微型丝杠（直径 1–12mm，导程 0.5–12mm）、蜗轮和轴，应用于机器人关节和灵巧手。
+  highlights:
+    - 6000㎡ 工厂，日本滚齿机
+    - 齿轮精度：ISO5、JGMA1、AGMA12、DIN5
+    - 高速、长寿命、低噪音
+    - IATF16949 认证
+verified: false
+needs_review:
+  zh: true

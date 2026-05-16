@@ -1,0 +1,45 @@
+slug: iplusmobot
+name: IPLUSMOBOT
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип IPLUSMOBOT
+  en: IPLUSMOBOT logo
+  zh: IPLUSMOBOT 标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - actuators
+  - controllers
+robot_products:
+  - name: EMMA
+    short: Autonomous mobile robot for material handling
+key_clients: []
+ru:
+  description: |
+    IPLUSMOBOT выпускает серию автономных мобильных роботов EMMA (грузоподъёмность 400–2000 кг) с лазерной SLAM-навигацией, слиянием данных машинного зрения и IMU, точностью позиционирования ±2 мм и автономностью не менее 8 часов для умного производства.
+  highlights:
+    - Серия EMMA — грузоподъёмность 400–2000 кг, лазерный SLAM + зрение + IMU
+    - Подъёмный ход 60 мм, точность стыковки ±2 мм / ±0,5°
+    - Сертификация CE
+    - Зарядка ≤1,5 часа, время работы ≥8 часов
+en:
+  description: |
+    IPLUSMOBOT provides EMMA series autonomous mobile robots (400-2000kg payload) with laser SLAM navigation, vision+IMU fusion, ±2mm positioning accuracy, and ≥8h runtime for intelligent manufacturing.
+  highlights:
+    - "EMMA series: 400-2000kg payload, laser SLAM + vision + IMU"
+    - "Lifting stroke 60mm, docking accuracy ±2mm/±0.5°"
+    - CE certified
+    - "≤1.5h charging, ≥8h runtime"
+zh:
+  description: |
+    迦智科技 IPLUSMOBOT 提供 EMMA 系列自主移动机器人（载荷 400–2000 公斤），采用激光 SLAM 导航、视觉+IMU 融合，定位精度 ±2mm，续航 ≥8 小时，服务智能制造场景。
+  highlights:
+    - EMMA 系列：载荷 400–2000kg，激光 SLAM + 视觉 + IMU
+    - 升降行程 60mm，对接精度 ±2mm/±0.5°
+    - CE 认证
+    - 充电 ≤1.5 小时，续航 ≥8 小时
+verified: false
+needs_review:
+  zh: true

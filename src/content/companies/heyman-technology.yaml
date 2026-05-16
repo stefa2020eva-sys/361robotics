@@ -1,0 +1,44 @@
+slug: heyman-technology
+name: Heyman Technology
+country: CN
+founded: 2025
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Heyman Technology
+  en: Heyman Technology logo
+  zh: Heyman Technology 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - end-effectors
+produces_components:
+  - gripper
+key_clients: []
+ru:
+  description: |
+    Heyman Technology производит серию подводных ловких манипуляторов WA100 (водонепроницаемых, давлеустойчивых, коррозионностойких, помехоустойчивых) и серию универсальных ловких манипуляторов IN100.
+  highlights:
+    - "WA100: водонепроницаемость, стойкость к высокому давлению и коррозии"
+    - Решает отраслевую проблему отказа при контакте с водой
+    - Помехоустойчивость
+    - "Высокоэффективный микропривод, адаптивная калибровка энкодера"
+en:
+  description: |
+    Heyman Technology produces WA100 series underwater dexterous hands (waterproof, pressure-resistant, corrosion-resistant, EMI-resistant) and IN100 series general dexterous hands.
+  highlights:
+    - "WA100: waterproof, high-pressure resistant, corrosion resistant"
+    - Breaks industry pain point of ceasing operation when exposed to water
+    - EMI resistant
+    - "High-efficiency micro-actuator, encoder adaptive calibration"
+zh:
+  description: |
+    黑漫科技 Heyman Technology 生产 WA100 系列水下灵巧手（防水、耐压、防腐、抗 EMI）和 IN100 系列通用灵巧手。
+  highlights:
+    - WA100：防水、耐高压、防腐
+    - 攻克遇水即停的行业痛点
+    - 抗 EMI
+    - 高效微型执行器，编码器自适应标定
+verified: false
+needs_review:
+  zh: true

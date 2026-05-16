@@ -1,0 +1,44 @@
+slug: landau-robotics
+name: Landau Robotics
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Landau Robotics
+  en: Landau Robotics logo
+  zh: Landau Robotics 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - controllers
+  - software-sdk
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Landau Robotics предлагает двурукие робототехнические системы на базе Franka Research 3 с ловкими манипуляторами и средой ROS2 для научных исследований и разработки воплощённого ИИ.
+  highlights:
+    - Двойная сертификация качества GB/T19001 + GB9001C
+    - Franka Research 3 двурукая с камерами глубины
+    - "Предварительно интегрировано, контур управления настроен"
+    - "Поддержка одно-/двурукой координации, операций «рука-глаз», HRI"
+en:
+  description: |
+    Landau Robotics provides dual-arm robot systems based on Franka Research 3 arms with dexterous hands, ROS2 environment, for scientific research and embodied AI development.
+  highlights:
+    - GB/T19001 + GB9001C dual quality certification
+    - Franka Research 3 dual-arm with depth cameras
+    - "Pre-integrated, control loop configured"
+    - "Supports single/dual-arm coordination, hand-eye operation, HRI"
+zh:
+  description: |
+    朗道机器人 Landau Robotics 提供基于 Franka Research 3 机械臂的双臂机器人系统，配备灵巧手和 ROS2 环境，服务科研和具身 AI 开发。
+  highlights:
+    - GB/T19001 + GB9001C 双重质量认证
+    - Franka Research 3 双臂配深度相机
+    - 预集成、控制回路已配置
+    - 支持单/双臂协同、手眼操作、人机交互
+verified: false
+needs_review:
+  zh: true

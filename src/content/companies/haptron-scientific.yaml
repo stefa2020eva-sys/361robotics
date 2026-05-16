@@ -1,0 +1,44 @@
+slug: haptron-scientific
+name: Haptron Scientific
+country: CN
+founded: 2019
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Haptron Scientific
+  en: Haptron Scientific logo
+  zh: Haptron Scientific 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Haptron Scientific предлагает Photon Finger Tip — многосиосевой тактильный сустав пальца с миниатюрными многоосными датчиками силы и гибкой электроникой для тактильного восприятия гуманоидных роботов.
+  highlights:
+    - Самый компактный в мире многоосный датчик силы
+    - Сочетает восприятие силы мышц и сенсорику контактной поверхности кожи
+    - "Настраиваемый внешний вид сустава, модульная конструкция"
+    - Стабильное серийное производство
+en:
+  description: |
+    Haptron Scientific provides Photon Finger Tip multi-axis haptic knuckle with miniature multi-axis force sensors and flexible electronics for humanoid robot tactile perception.
+  highlights:
+    - "World's smallest miniature multi-axis force sensor"
+    - Combines skeletal muscle force perception + skin contact surface sensing
+    - "Customizable knuckle appearance, modular design"
+    - Consistent mass production
+zh:
+  description: |
+    华力创科学 Haptron Scientific 提供 Photon Finger Tip 多轴触觉指节，集成微型多轴力传感器和柔性电子，用于人形机器人触觉感知。
+  highlights:
+    - 世界最小微型多轴力传感器
+    - 融合骨骼肌力感知 + 皮肤接触面感知
+    - 外观可定制、模块化设计
+    - 量产一致性高
+verified: false
+needs_review:
+  zh: true

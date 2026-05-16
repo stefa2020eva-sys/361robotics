@@ -1,0 +1,50 @@
+slug: agilex-robotics
+name: Agilex Robotics
+country: CN
+founded: 2016
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Agilex Robotics
+  en: Agilex Robotics logo
+  zh: Agilex Robotics 标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - actuators
+  - controllers
+robot_products:
+  - name: RANGER AIR
+    short: 4-wheel 4-steering mobile chassis
+  - name: NERO
+    short: 7-DOF lightweight arm
+  - name: PIKA
+    short: Portable data collection device
+key_clients: []
+ru:
+  description: |
+    Agilex Robotics предлагает мобильное шасси RANGER AIR (4 колеса, 4 управляемых), лёгкую 7-DOF манипуляторную руку NERO и портативное устройство сбора данных PIKA для исследований воплощённого ИИ.
+  highlights:
+    - "RANGER AIR: высокомобильная база для помещений и улицы"
+    - "NERO: человекоподобная 7-DOF избыточная рука"
+    - "PIKA: лёгкий и экономичный сбор данных"
+    - "Открытая экосистема, ROS/Hugging Face"
+en:
+  description: |
+    Agilex Robotics provides RANGER AIR 4-wheel 4-steering mobile chassis, NERO 7-DOF lightweight robotic arm, and PIKA portable data collection device for embodied AI research.
+  highlights:
+    - "RANGER AIR: high-mobility base for indoor/outdoor"
+    - "NERO: human-like 7-DOF redundant arm"
+    - "PIKA: lightweight, cost-effective data collection"
+    - "Open-source ecosystem, ROS/Hugging Face"
+zh:
+  description: |
+    松灵机器人 Agilex Robotics 提供 RANGER AIR 4 轮 4 转向移动底盘、NERO 7 自由度轻量化机械臂和 PIKA 便携式数据采集设备，服务具身 AI 研究。
+  highlights:
+    - RANGER AIR：高机动室内/室外底盘
+    - NERO：类人 7 自由度冗余机械臂
+    - PIKA：轻量化、低成本数据采集
+    - 开源生态，ROS/Hugging Face
+verified: false
+needs_review:
+  zh: true

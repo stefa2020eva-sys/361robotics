@@ -1,0 +1,46 @@
+slug: jinsan
+name: Jinsan
+country: CN
+founded: 2010
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Jinsan
+  en: Jinsan logo
+  zh: Jinsan 标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - actuators
+  - controllers
+robot_products:
+  - name: JS Bionic Robot
+    short: Hyper-realistic bionic humanoid
+key_clients: []
+ru:
+  description: |
+    Jinsan выпускает полностью бионических гуманоидных роботов с гиперреалистичной внешностью, кастомизацией голоса, долговременной памятью, поддержкой 10 языков и батареей на 6–8 часов для умного госуправления, туризма и розницы.
+  highlights:
+    - Первый в Китае производитель TPE-симуляционных кукол
+    - Кастомизация внешности и голоса
+    - "Долговременная память, переключение ролей"
+    - "Батарея 6–8 ч, заменяемая"
+en:
+  description: |
+    Jinsan provides full bionic humanoid robots with hyper-realistic appearance, voiceprint customization, long-term memory, 10-language support, and 6-8 hour battery for smart government, tourism, and retail.
+  highlights:
+    - "China's first TPE simulation doll manufacturer"
+    - Customizable appearance and voiceprint
+    - "Long-term memory, multi-role intelligent switching"
+    - "6-8 hour battery, replaceable"
+zh:
+  description: |
+    金三智能 Jinsan 提供全仿生人形机器人，高度逼真外观、声纹定制、长期记忆、10 种语言支持、6–8 小时续航，服务智慧政务、文旅和零售。
+  highlights:
+    - 中国首家 TPE 仿真人偶制造商
+    - 外观和声纹可定制
+    - 长期记忆、多角色智能切换
+    - 6–8 小时续航、可更换
+verified: false
+needs_review:
+  zh: true

@@ -1,0 +1,44 @@
+slug: leishen
+name: Leishen
+country: CN
+founded: 2015
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Leishen
+  en: Leishen logo
+  zh: Leishen 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Leishen предлагает сверхдальний волоконный LiDAR LS-S4 (1550 нм, дальность до 1500 м, 6 млн точек/с) для автономного вождения, робототехники и низковысотной экономики.
+  highlights:
+    - Единственная компания LiDAR с премией 2-й степени Госнацнаучного прогресса
+    - "LS-S4: 1500 м, 6 млн точек/с, 500 линий"
+    - "100% локализация"
+    - "IP67, -20…+65 °C, вес 3 кг"
+en:
+  description: |
+    Leishen provides LS-S4 ultra-long range fiber LiDAR (1550nm, up to 1500m range, 6M points/sec) for autonomous driving, robotics, and low-altitude economy.
+  highlights:
+    - Only LiDAR company with National Science and Technology Progress Award 2nd prize
+    - "LS-S4: 1500m range, 600万 pts/sec, 500 lines"
+    - "100% localized options"
+    - "IP67, -20°C to 65°C, weight 3kg"
+zh:
+  description: |
+    镭神智能 Leishen 提供 LS-S4 超远距光纤激光雷达（1550nm，测距 1500m，600 万点/秒），服务自动驾驶、机器人和低空经济。
+  highlights:
+    - 唯一获国家科技进步二等奖的激光雷达公司
+    - LS-S4：1500m 测距、600 万点/秒、500 线
+    - "100% 国产化方案"
+    - IP67，-20°C 至 65°C，重 3kg
+verified: false
+needs_review:
+  zh: true

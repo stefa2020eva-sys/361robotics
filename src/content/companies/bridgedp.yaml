@@ -1,0 +1,45 @@
+slug: bridgedp
+name: BridgeDP
+country: CN
+founded: 2023
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип BridgeDP
+  en: BridgeDP logo
+  zh: BridgeDP 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - software-sdk
+  - controllers
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    BridgeDP поставляет решения управления движением (всенаправленное передвижение и подражание движениям всего тела) и платформу разработки движений без кода BridgeDP Engine для гуманоидных и четвероногих роботов.
+  highlights:
+    - "BridgeDP Engine: разработка движений без кода и порога входа"
+    - "Извлечение действий из видео, визуальное редактирование, интеллектуальный ретаргетинг"
+    - "Совместимость с Unitree G1, Booster T1"
+    - Развёртывание действий за 3 минуты
+en:
+  description: |
+    BridgeDP provides motion control solutions (omnidirectional locomotion and whole-body imitation) and BridgeDP Engine zero-code motion development platform for humanoid and quadruped robots.
+  highlights:
+    - "BridgeDP Engine: zero-code, zero-threshold motion development"
+    - "Video-to-action extraction, visual editing, intelligent retargeting"
+    - "Adapted to Unitree G1, Booster T1"
+    - 3 minutes to deploy actions
+zh:
+  description: |
+    桥介数物 BridgeDP 提供运动控制方案（全向运动和全身模仿）和 BridgeDP Engine 零代码运动开发平台，服务人形和四足机器人。
+  highlights:
+    - BridgeDP Engine：零代码、零门槛动作开发
+    - 视频提取动作、可视化编辑、智能重定向
+    - 适配 Unitree G1、Booster T1
+    - 3 分钟部署动作
+verified: false
+needs_review:
+  zh: true

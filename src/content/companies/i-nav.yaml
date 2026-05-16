@@ -1,0 +1,43 @@
+slug: i-nav
+name: I-NAV
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип I-NAV
+  en: I-NAV logo
+  zh: I-NAV 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    I-NAV выпускает MEMS-блок инерциальных измерений TLH-IMU-600M-31A (RS422) и IMU600M с поддержкой внешнего GNSS для автономного вождения, AGV, роботов и судов.
+  highlights:
+    - Единственный в мире поставщик полного цикла волоконных гироскопов и MEMS-гибридной инерциальной навигации
+    - "Высокая точность, малые размеры, лёгкость, низкое потребление"
+    - Ударо- и виброустойчивость
+    - "БПЛА, AGV, автономное вождение, роботы"
+en:
+  description: |
+    I-NAV provides TLH-IMU-600M-31A MEMS inertial measurement unit (RS422) and IMU600M IMU with external GNSS support for autonomous driving, AGVs, robots, and vessels.
+  highlights:
+    - "World's only full-chain supplier of fiber optic gyros + MEMS hybrid inertial navigation"
+    - "High precision, small size, light weight, low power"
+    - Impact and vibration resistant
+    - "Applications: UAVs, AGVs, autonomous driving, robots"
+zh:
+  description: |
+    天陆海导航 I-NAV 提供 TLH-IMU-600M-31A MEMS 惯性测量单元（RS422）和 IMU600M（支持外接 GNSS），服务自动驾驶、AGV、机器人和船舶。
+  highlights:
+    - 全球唯一光纤陀螺+MEMS 混合惯导全链路供应商
+    - 高精度、小体积、轻量、低功耗
+    - 抗冲击、抗振动
+    - 无人机、AGV、自动驾驶、机器人
+verified: false
+needs_review:
+  zh: true

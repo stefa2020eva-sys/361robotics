@@ -1,0 +1,44 @@
+slug: gaoce
+name: Gaoce
+country: CN
+founded: 2006
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Gaoce
+  en: Gaoce logo
+  zh: Gaoce 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Gaoce поставляет композитные металлические сухожильные канаты (вольфрам) для ловких манипуляторов: малый радиус изгиба, износо- и усталостная стойкость, антипроскальзывание для гуманоидных роботов.
+  highlights:
+    - Листинг на SSE STAR Market (688556)
+    - Собственное покрытие для вольфрамового сухожильного каната
+    - "Малый радиус изгиба, износо- и усталостная стойкость"
+    - Настраиваемые характеристики
+en:
+  description: |
+    Gaoce provides composite metal tendon ropes (tungsten) for dexterous hands with small bending radius, wear resistance, fatigue resistance, and anti-slip performance for humanoid robots.
+  highlights:
+    - Listed on SSE STAR Market (688556)
+    - Self-developed coating for tungsten tendon rope
+    - "Small bending radius, wear resistant, fatigue resistant"
+    - Customizable properties
+zh:
+  description: |
+    高测股份 Gaoce 提供用于灵巧手的金属复合腱绳（钨基），小弯曲半径、耐磨、耐疲劳、防滑，服务人形机器人。
+  highlights:
+    - 上交所科创板上市（688556）
+    - 自研钨基腱绳涂层
+    - 小弯曲半径、耐磨、耐疲劳
+    - 性能可定制
+verified: false
+needs_review:
+  zh: true

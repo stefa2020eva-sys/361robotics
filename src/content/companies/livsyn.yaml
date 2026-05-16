@@ -1,0 +1,44 @@
+slug: livsyn
+name: LivSyn
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип LivSyn
+  en: LivSyn logo
+  zh: LivSyn 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - software-sdk
+  - controllers
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    LivSyn предлагает решение сбора данных от человека LivUMI (сверхлёгкое, миллиметровое позиционирование позы, миллисекундная синхронизация датчиков) и платформу данных LDP для тренировки воплощённого ИИ.
+  highlights:
+    - Команда основателей из Tsinghua
+    - "LivUMI: высокая точность, сверхлёгкость"
+    - Развёртывание в один клик с координацией ПО/ЖО
+    - "Цепочка инструментов: сбор-обучение-развёртывание"
+en:
+  description: |
+    LivSyn provides LivUMI human-centric data collection solution (ultra-lightweight, millimeter pose positioning, millisecond multi-sensor sync) and LDP data platform for embodied AI training.
+  highlights:
+    - 清华系 founding team
+    - "LivUMI: high-precision ultra-lightweight"
+    - One-click deployment software-hardware coordination
+    - Collect-train-deploy toolchain
+zh:
+  description: |
+    灵生科技 LivSyn 提供 LivUMI 以人为中心的数据采集方案（超轻量、毫米级姿态定位、毫秒级多传感器同步）和 LDP 数据平台，服务具身 AI 训练。
+  highlights:
+    - 清华系创始团队
+    - LivUMI：高精度、超轻量
+    - 一键部署的软硬协同
+    - 采集-训练-部署工具链
+verified: false
+needs_review:
+  zh: true

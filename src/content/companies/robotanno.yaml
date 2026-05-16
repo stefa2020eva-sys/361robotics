@@ -1,0 +1,46 @@
+slug: robotanno
+name: RobotAnno
+country: CN
+founded: 2017
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип RobotAnno
+  en: RobotAnno logo
+  zh: RobotAnno 标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - actuators
+  - controllers
+robot_products:
+  - name: AI Coffee Kiosk
+    short: Single-arm robotic latte art machine
+key_clients: []
+ru:
+  description: |
+    RobotAnno выпускает AI-кофе-киоск (первый в мире закрытый одноосевой автомат латте-арт, 90 секунд на чашку) для автоматизированного приготовления напитков и умной розницы.
+  highlights:
+    - 80+ национальных патентов
+    - Первый в мире закрытый одноосевой кофе-киоск с латте-арт
+    - 90 секунд на автоматический латте-арт
+    - "Интеллектуальный визуальный захват и распознавание, машинное обучение"
+en:
+  description: |
+    RobotAnno provides AI robotic coffee kiosk (world's first enclosed single-arm latte art machine, 90 seconds per cup) for automated beverage preparation and smart retail.
+  highlights:
+    - 80+ national patents
+    - "World's first enclosed single-arm latte art coffee kiosk"
+    - 90 seconds automatic latte art
+    - "Intelligent visual capture and recognition, machine learning"
+zh:
+  description: |
+    安诺机器人 RobotAnno 提供 AI 机器人咖啡亭（全球首款封闭式单臂拉花咖啡机，每杯 90 秒），服务自动化饮品制作和智慧零售。
+  highlights:
+    - 80+ 国家专利
+    - 全球首款封闭式单臂拉花咖啡亭
+    - 90 秒自动拉花
+    - 智能视觉捕获识别、机器学习
+verified: false
+needs_review:
+  zh: true

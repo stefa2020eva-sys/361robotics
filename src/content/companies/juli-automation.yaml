@@ -1,0 +1,43 @@
+slug: juli-automation
+name: JULI Automation
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип JULI Automation
+  en: JULI Automation logo
+  zh: JULI Automation 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    JULI Automation выпускает бескорпусные моментные двигатели с плоским проводом (200–4000 Вт, 1–50 Н·м): коэффициент заполнения паза на 40% выше, момент на 50% выше и экономия мощности 10% по сравнению с двигателями круглого провода.
+  highlights:
+    - Первый в отрасли радиальный плоскопроводный безкорпусный моментный двигатель
+    - "Заполнение паза +40%, момент +50%, мощность -10%"
+    - "Партнёры: SAIC, Great Wall, Geely, Valeo, BorgWarner, Bosch"
+    - 50+ интеллектуальных производственных линий поставлено
+en:
+  description: |
+    JULI Automation provides flat-wire frameless torque motors (200-4000W, 1-50Nm) with 40% higher slot fill factor, 50% higher torque, and 10% power saving compared to round-wire motors.
+  highlights:
+    - Industry-first radial flat-wire frameless torque motor
+    - "Slot fill factor +40%, torque +50%, power -10%"
+    - "Partner to SAIC, Great Wall, Geely, Valeo, BorgWarner, Bosch"
+    - 50+ intelligent production lines delivered
+zh:
+  description: |
+    巨力自动化 JULI Automation 提供扁线无框力矩电机（200–4000W，1–50Nm）：相比圆线电机，槽满率提升 40%，扭矩提升 50%，节能 10%。
+  highlights:
+    - 行业首款径向扁线无框力矩电机
+    - "槽满率 +40%，扭矩 +50%，功耗 -10%"
+    - 合作伙伴：上汽、长城、吉利、Valeo、BorgWarner、博世
+    - 交付 50+ 条智能产线
+verified: false
+needs_review:
+  zh: true

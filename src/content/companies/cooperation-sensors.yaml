@@ -1,0 +1,44 @@
+slug: cooperation-sensors
+name: Cooperation Sensors
+country: CN
+founded: 2004
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Cooperation Sensors
+  en: Cooperation Sensors logo
+  zh: Cooperation Sensors 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Cooperation Sensors выпускает высокоточные датчики силы, веса, давления и натяжения для новой энергетики, полупроводников и автоматизированного оборудования.
+  highlights:
+    - 35 лет опыта НИОКР
+    - "Промышленный корпус из легированной стали, тензорезисторы от крупного завода"
+    - "Высокая точность, нулевой дрейф"
+    - "Обслуживает Huawei, CATL, Sany Heavy Industry"
+en:
+  description: |
+    Cooperation Sensors provides high-precision force sensors, weighing sensors, pressure sensors, and tension sensors for new energy, semiconductor, and automation equipment.
+  highlights:
+    - "35 years of R&D experience"
+    - "Industrial grade alloy steel shell, large factory strain gauge"
+    - "High accuracy, zero drift"
+    - "Serves Huawei, CATL, Sany Heavy Industry"
+zh:
+  description: |
+    科普瑞 Cooperation Sensors 提供高精度力、称重、压力和张力传感器，服务新能源、半导体和自动化设备。
+  highlights:
+    - 35 年研发经验
+    - 工业级合金钢外壳、大厂应变片
+    - 高精度、零漂移
+    - 服务华为、宁德时代、三一重工
+verified: false
+needs_review:
+  zh: true

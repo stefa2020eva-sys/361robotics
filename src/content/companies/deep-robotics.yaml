@@ -1,0 +1,48 @@
+slug: deep-robotics
+name: Deep Robotics
+country: CN
+founded: 2017
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Deep Robotics
+  en: Deep Robotics logo
+  zh: Deep Robotics 标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - actuators
+  - controllers
+robot_products:
+  - name: Jueying X30
+    short: Industrial quadruped robot
+  - name: Bobcat M20
+    short: Wheel-legged all-terrain robot
+key_clients: []
+ru:
+  description: |
+    Deep Robotics выпускает четвероногого робота Jueying X30 (всепогодная автономная инспекция, -20…+55 °C) и колёсно-шагающего Bobcat M20 для инспекции энергообъектов, экстренного реагирования и логистики.
+  highlights:
+    - "Первая в Китае компания, добившаяся полностью автономной инспекции подстанций четвероногим роботом"
+    - "Jueying X30: подъём по лестницам с проёмами, -20…+55 °C"
+    - "Bobcat M20: проход через 50-см трубы, горячая замена батареи"
+    - На обложке Science Robotics
+en:
+  description: |
+    Deep Robotics provides Jueying X30 quadruped robot (all-weather autonomous inspection, -20°C to 55°C) and Bobcat M20 wheel-legged robot for power inspection, emergency rescue, and logistics.
+  highlights:
+    - First in China to achieve fully autonomous substation inspection with quadruped robot
+    - "Jueying X30: climbs stairs with openings, -20°C to 55°C"
+    - "Bobcat M20: passes 50cm pipes, hot-swappable battery"
+    - Featured on Science Robotics cover
+zh:
+  description: |
+    云深处科技 Deep Robotics 提供绝影 X30 四足机器人（全天候自主巡检，-20°C 至 55°C）和山猫 M20 轮足机器人，服务电力巡检、应急救援和物流。
+  highlights:
+    - 国内首家实现四足机器人全自主变电站巡检
+    - 绝影 X30：可上下镂空楼梯，-20°C 至 55°C
+    - 山猫 M20：可穿越 50cm 管道，热插拔电池
+    - 登上 Science Robotics 封面
+verified: false
+needs_review:
+  zh: true

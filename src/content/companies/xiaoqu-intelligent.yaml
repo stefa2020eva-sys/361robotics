@@ -1,0 +1,44 @@
+slug: xiaoqu-intelligent
+name: Xiaoqu Intelligent
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Xiaoqu Intelligent
+  en: Xiaoqu Intelligent logo
+  zh: Xiaoqu Intelligent 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - software-sdk
+  - controllers
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Xiaoqu Intelligent поставляет мультимодальные алгоритмы воплощённой навигации для гуманоидных и четвероногих роботов: лицензирование ПО, интегрированные модули управления и носимые «рюкзачные» решения.
+  highlights:
+    - Истоки в Институте робототехники HIT
+    - Первая массовая поставка решений воплощённой навигации в Китае (200+ комплектов)
+    - "Совместимость с Leju, Efort, Tilbot, Unitree, DeepRobotics"
+    - "Мультимодальный SLAM: LiDAR + IMU + камера"
+en:
+  description: |
+    Xiaoqu Intelligent provides multimodal embodied navigation algorithms for humanoid and quadruped robots, with software licensing, integrated control modules, and wearable backpack solutions.
+  highlights:
+    - Originated from HIT Robotics Institute
+    - First batch delivery of embodied navigation solutions in China (200+ sets)
+    - "Adapted to Leju, Efort, Tilbot, Unitree, DeepRobotics"
+    - "Multi-modal fusion SLAM: LiDAR+IMU+camera"
+zh:
+  description: |
+    小驱智能 Xiaoqu Intelligent 提供面向人形和四足机器人的多模态具身导航算法，包括软件授权、集成控制模组和可穿戴背包方案。
+  highlights:
+    - 源自哈工大机器人研究所
+    - 国内首批量产具身导航方案（200+ 套）
+    - 适配乐聚、埃夫特、Tilbot、宇树、云深处
+    - 多模态融合 SLAM：激光雷达 + IMU + 相机
+verified: false
+needs_review:
+  zh: true

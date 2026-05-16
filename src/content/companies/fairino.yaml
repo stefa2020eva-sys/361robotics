@@ -1,0 +1,46 @@
+slug: fairino
+name: FAIRINO
+country: CN
+founded: 2019
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип FAIRINO
+  en: FAIRINO logo
+  zh: FAIRINO 标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - actuators
+  - controllers
+robot_products:
+  - name: Wheeled Humanoid Robot
+    short: Full-stack customizable humanoid robot
+key_clients: []
+ru:
+  description: |
+    FAIRINO — поставщик первого уровня полного стека решений для гуманоидных роботов (от суставных модулей до готовой машины) и №1 в Китае по продажам и экспорту коллаборативных роботов (2025).
+  highlights:
+    - "№1 в Китае по продажам коботов (2025), №1 по экспорту"
+    - "Tier-1 поставщик: суставные модули → руки → верхняя часть → готовая машина"
+    - 7-степенная гуманоидная рука с силовым управлением и зрением
+    - Представлен колёсный гуманоидный робот
+en:
+  description: |
+    FAIRINO is a Tier-1 full-stack solution provider for humanoid robots (joint modules to complete machine) and #1 in China collaborative robot sales and export volume (2025).
+  highlights:
+    - "#1 in China collaborative robot sales (2025), #1 in export"
+    - "Tier-1 supplier: joint modules → humanoid arms → upper body → complete machine"
+    - 7-DOF humanoid arm with force control and vision
+    - Wheeled humanoid robot unveiled
+zh:
+  description: |
+    法奥 FAIRINO 是人形机器人 Tier-1 全栈解决方案提供商（从关节模组到整机），并在 2025 年中国协作机器人销量和出口量双第一。
+  highlights:
+    - 2025 中国协作机器人销量第一、出口第一
+    - Tier-1 供应商：关节模组 → 人形机械臂 → 上身 → 整机
+    - 7 自由度人形机械臂，集成力控和视觉
+    - 发布轮式人形机器人
+verified: false
+needs_review:
+  zh: true

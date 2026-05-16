@@ -1,0 +1,44 @@
+slug: chaodechuang
+name: Chaodechuang
+country: CN
+founded: 2014
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Chaodechuang
+  en: Chaodechuang logo
+  zh: Chaodechuang 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Chaodechuang выпускает тонкие электромагнитные тормоза серии CDC-JB (толщина 7 мм, встроенный ротор) для коллаборативных роботов; годовая мощность 7 миллионов единиц.
+  highlights:
+    - "Национальный «Маленький гигант», Sichuan Gazelle Enterprise"
+    - "CDC-JB: ультратонкий тормоз 7 мм для коботов"
+    - Встроенный ротор
+    - "CE, UL, соответствие ROHS/REACH"
+en:
+  description: |
+    Chaodechuang provides CDC-JB series thin electromagnetic brakes (7mm thickness, embedded rotor design) for collaborative robots, with 7 million units annual capacity.
+  highlights:
+    - "National Little Giant, Sichuan Gazelle Enterprise"
+    - "CDC-JB: 7mm ultra-thin brake for cobots"
+    - Embedded rotor design
+    - "CE, UL certified, ROHS/REACH compliant"
+zh:
+  description: |
+    超德创 Chaodechuang 提供 CDC-JB 系列薄型电磁刹车（厚 7mm，嵌入式转子设计），服务协作机器人，年产能 700 万件。
+  highlights:
+    - 国家级专精特新「小巨人」、四川瞪羚企业
+    - CDC-JB：7mm 超薄协作机器人刹车
+    - 嵌入式转子设计
+    - CE、UL 认证，符合 ROHS/REACH
+verified: false
+needs_review:
+  zh: true

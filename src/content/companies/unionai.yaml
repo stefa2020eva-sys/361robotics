@@ -1,0 +1,44 @@
+slug: unionai
+name: UnionAI
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип UnionAI
+  en: UnionAI logo
+  zh: UnionAI 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+  - controllers
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    UnionAI выпускает интегрированные суставные модули для воплощённого интеллекта на GaN-силовых компонентах (уменьшение диаметра на 30%, рост удельной мощности на 70%) и циклоидальные редукторы (на 50% выше ударостойкость).
+  highlights:
+    - GaN-компоненты для высокой частоты и малых потерь
+    - "Диаметр -30%, удельная мощность +70%"
+    - "Циклоидальный редуктор: ударостойкость +50%"
+    - "Высокая обратная управляемость, тихая работа"
+en:
+  description: |
+    UnionAI provides integrated joint modules for embodied intelligence with GaN power devices (30% diameter reduction, 70% power density increase), cycloidal reducers (50% higher impact resistance).
+  highlights:
+    - GaN power devices for high frequency and low loss
+    - "Diameter -30%, power density +70%"
+    - "Cycloidal reducer: impact resistance +50%"
+    - "High back-drivability, silent operation"
+zh:
+  description: |
+    优联智能 UnionAI 提供面向具身智能的集成关节模组，采用 GaN 功率器件（直径减小 30%，功率密度提升 70%），摆线减速器抗冲击能力提升 50%。
+  highlights:
+    - GaN 功率器件高频低损耗
+    - "直径 -30%，功率密度 +70%"
+    - "摆线减速器抗冲击 +50%"
+    - 高反驱性，静音运行
+verified: false
+needs_review:
+  zh: true

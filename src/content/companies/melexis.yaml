@@ -1,0 +1,46 @@
+slug: melexis
+name: Melexis
+country: BE
+founded: 1989
+website: https://www.melexis.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Melexis
+  en: Melexis logo
+  zh: Melexis 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+  - actuators
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Melexis выпускает 22-битную ИС интерфейса индуктивного датчика положения MLX90520 (зазор <2 мм, толщина модуля <3 мм) и интегрированный драйвер безпазового двигателя MLX81339+MLX90381 для ловких манипуляторов.
+  highlights:
+    - "MLX90520: разрешение 22 бита, поддержка end-of-shaft и through-shaft"
+    - "Компенсация спирального паразитного поля, выход SPI/SSI"
+    - "Драйвер коретекстуса: круглая PCB 5 мм, широкий темп/напряжение"
+    - Функциональная безопасность
+en:
+  description: |
+    Melexis provides MLX90520 22-bit inductive position sensor interface IC (air gap <2mm, module thickness <3mm) and MLX81339+MLX90381 integrated coreless motor driver for dexterous hands.
+  highlights:
+    - "MLX90520: 22-bit resolution, supports end-of-shaft and through-shaft sensing"
+    - "Spirial stray field compensation, SPI/SSI output"
+    - "Coreless driver: 5mm circular PCB support, wide temp/voltage"
+    - Functional safety design
+zh:
+  description: |
+    迈来芯 Melexis 提供 MLX90520 22 位电感式位置传感器接口 IC（气隙 <2mm，模组厚度 <3mm），以及 MLX81339+MLX90381 一体化空心杯电机驱动器，用于灵巧手。
+  highlights:
+    - MLX90520：22 位分辨率，支持端轴和穿轴检测
+    - 螺旋杂散场补偿，SPI/SSI 输出
+    - 空心杯驱动器：5mm 圆形 PCB，宽温/宽电压
+    - 功能安全设计
+verified: false
+needs_review:
+  zh: true

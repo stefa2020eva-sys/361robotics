@@ -1,0 +1,44 @@
+slug: jtk
+name: JTK
+country: CN
+founded: 2011
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип JTK
+  en: JTK logo
+  zh: JTK 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - connectivity
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    JTK производит гибкие кабели для промышленных, складских и гуманоидных роботов, а также ловких манипуляторов; компания имеет 60+ патентов и инженерный центр провинции Гуандун.
+  highlights:
+    - "60+ патентов, средний опыт 15+ лет"
+    - Инженерный исследовательский центр спецкабелей для роботов провинции Гуандун
+    - "ISO9001, IATF16949"
+    - "Робототехника, автоматизация, новая энергетика, медицина"
+en:
+  description: |
+    JTK produces flexible robot cables for industrial robots, warehouse robots, humanoid robots, and dexterous hands, with 60+ patents and Guangdong provincial engineering research center.
+  highlights:
+    - "60+ patents, 15+ years average experience"
+    - Guangdong Provincial Engineering Technology Research Center for Robot Special Cables
+    - "ISO9001, IATF16949"
+    - "Serves robotics, automation, new energy, medical"
+zh:
+  description: |
+    金泰科 JTK 生产柔性机器人电缆，用于工业机器人、仓储机器人、人形机器人和灵巧手；拥有 60+ 专利和广东省工程技术研究中心。
+  highlights:
+    - 60+ 专利，平均经验 15+ 年
+    - 广东省机器人特种电缆工程技术研究中心
+    - ISO9001、IATF16949
+    - 服务机器人、自动化、新能源、医疗
+verified: false
+needs_review:
+  zh: true

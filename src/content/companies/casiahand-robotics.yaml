@@ -1,0 +1,43 @@
+slug: casiahand-robotics
+name: CasiaHand Robotics
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип CasiaHand Robotics
+  en: CasiaHand Robotics logo
+  zh: CasiaHand Robotics 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - end-effectors
+produces_components:
+  - gripper
+key_clients: []
+ru:
+  description: |
+    CasiaHand Robotics разрабатывает полностью активные ловкие манипуляторы (CasiaHand-M) на гибридной шестерёночно-сухожильной жёстко-гибкой технологии для центров сбора данных, гуманоидных роботов и научных исследований.
+  highlights:
+    - Создана при Институте автоматизации Китайской академии наук (CASIA)
+    - Золотая медаль на 49-й Женевской международной выставке изобретений
+    - Premium Red Dot Award, ISTA Global Innovation Award
+    - Сертификаты CE и FCC
+en:
+  description: |
+    CasiaHand Robotics develops fully-actuated dexterous hands (CasiaHand-M) with gear + tendon rigid-flexible actuation technology for data collection centers, humanoid robots, and research.
+  highlights:
+    - Incubated from Chinese Academy of Sciences (CASIA)
+    - Gold medal at 49th Geneva International Invention Exhibition
+    - Red Dot Award, ISTA Global Innovation Award
+    - CE, FCC certified
+zh:
+  description: |
+    中科硅纪 CasiaHand Robotics 研发全驱动灵巧手（CasiaHand-M），采用齿轮+腱绳刚柔耦合驱动技术，服务数据采集中心、人形机器人和科研。
+  highlights:
+    - 孵化自中国科学院自动化研究所（CASIA）
+    - 第 49 届日内瓦国际发明展金奖
+    - 红点奖、ISTA 全球创新奖
+    - CE、FCC 认证
+verified: false
+needs_review:
+  zh: true

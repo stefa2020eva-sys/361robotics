@@ -1,0 +1,43 @@
+slug: smartnam
+name: Smartnam
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Smartnam
+  en: Smartnam logo
+  zh: Smartnam 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - connectivity
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Smartnam — авторизованный дистрибьютор 50+ брендов, предлагающий комплексные решения по пассивным компонентам, основным управляющим чипам (MCU, FPGA, SoC) и разъёмам для робототехники и автомобильной отрасли.
+  highlights:
+    - IATF16949 сертифицирована
+    - "Дистрибуция резисторов, конденсаторов, кварца, датчиков, драйверов моторов, модулей 4G/5G"
+    - "Обслуживает BYD, Geely, Chang'an, Great Wall, Mercedes, GAC"
+    - Единое окно для авто и робототехники
+en:
+  description: |
+    Smartnam is an authorized distributor of 50+ brands providing one-stop solutions for passive components, main control chips (MCU, FPGA, SoC), and connectors for robotics and automotive.
+  highlights:
+    - IATF16949 certified
+    - "Distributes resistors, capacitors, crystals, sensors, motor drivers, 4G/5G modules"
+    - "Serves BYD, Geely, Chang'an, Great Wall, Mercedes, GAC"
+    - One-stop service for automotive and robotics
+zh:
+  description: |
+    智精 Smartnam 是 50+ 品牌的授权代理商，提供被动元件、主控芯片（MCU、FPGA、SoC）和连接器的一站式解决方案，服务机器人和汽车行业。
+  highlights:
+    - IATF16949 认证
+    - 代理电阻、电容、晶振、传感器、电机驱动、4G/5G 模组
+    - 服务比亚迪、吉利、长安、长城、奔驰、广汽
+    - 汽车与机器人一站式服务
+verified: false
+needs_review:
+  zh: true

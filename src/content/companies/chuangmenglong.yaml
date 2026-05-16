@@ -1,0 +1,45 @@
+slug: chuangmenglong
+name: Chuangmenglong
+country: CN
+founded: 2025
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Chuangmenglong
+  en: Chuangmenglong logo
+  zh: Chuangmenglong 标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - actuators
+robot_products:
+  - name: X1 Series
+    short: Hyper-realistic bionic humanoid robot
+key_clients: []
+ru:
+  description: |
+    Chuangmenglong выпускает серию X1 гиперреалистичных бионических гуманоидных роботов с интеграцией LLM+вертикальных моделей, лёгким механическим скелетом и системой микровыражений для образования, туризма, компаньонства и IP-кастомизации.
+  highlights:
+    - Гиперреалистичный внешний вид с силиконовой кожей
+    - "Система микровыражений, координированные движения тела"
+    - Модульный дизайн для серийного производства и глубокой кастомизации
+    - Открытые интерфейсы для вторичной разработки
+en:
+  description: |
+    Chuangmenglong provides X1 series hyper-realistic bionic humanoid robots with LLM+vertical model integration, lightweight mechanical skeleton, micro-expression system, for education, tourism, companionship, and IP customization.
+  highlights:
+    - Hyper-realistic appearance with silicon skin
+    - "Micro-expression system, coordinated body movements"
+    - Modular design for mass production and deep customization
+    - Open interfaces for secondary development
+zh:
+  description: |
+    创梦龙科技 Chuangmenglong 提供 X1 系列高度仿真仿生人形机器人，集成 LLM+垂直模型，轻量化机械骨架，微表情系统，服务教育、文旅、陪伴和 IP 定制。
+  highlights:
+    - 硅胶皮肤超逼真外观
+    - 微表情系统，肢体动作协调
+    - 模块化设计支持量产和深度定制
+    - 开放接口支持二次开发
+verified: false
+needs_review:
+  zh: true

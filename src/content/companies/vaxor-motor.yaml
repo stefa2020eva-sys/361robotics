@@ -1,0 +1,45 @@
+slug: vaxor-motor
+name: Vaxor-Motor
+country: CN
+founded: 2024
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Vaxor-Motor
+  en: Vaxor-Motor logo
+  zh: Vaxor-Motor 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+  - drives-power
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Vaxor-Motor выпускает миниатюрные суставные приводы (Φ16–35 мм) с двигателем осевого потока, циклоидальным редуктором и бесконтактным энкодером: угловая точность 0,02° и удельная мощность на 30% выше.
+  highlights:
+    - Технология обмотки на гибкой PCB устраняет традиционную прецизионную намотку
+    - Микродвигатель внешним диаметром 4 мм (мировой уровень)
+    - "Выход годных 90%, значительно ниже себестоимость"
+    - ИИ-проектирование и глобальная оптимизация
+en:
+  description: |
+    Vaxor-Motor produces micro joint actuators (Φ16-35mm) with axial flux motor, cycloidal reducer, and non-contact encoder, achieving 0.02° angle accuracy and 30% higher torque density.
+  highlights:
+    - Flexible PCB winding technology eliminates traditional precision winding
+    - 4mm outer diameter micro motor (world-leading)
+    - "90% yield, significantly lower cost"
+    - AI-assisted design and global optimization
+zh:
+  description: |
+    指尖智擎 Vaxor-Motor 生产微型关节执行器（Φ16–35mm），采用轴向磁通电机、摆线减速器和非接触式编码器，角度精度 0.02°，扭矩密度提升 30%。
+  highlights:
+    - 柔性 PCB 绕组技术替代传统精密绕组
+    - 外径 4mm 微型电机（全球领先）
+    - "良品率 90%，成本大幅下降"
+    - AI 辅助设计与全局优化
+verified: false
+needs_review:
+  zh: true

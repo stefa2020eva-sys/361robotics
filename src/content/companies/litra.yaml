@@ -1,0 +1,43 @@
+slug: litra
+name: Litra
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Litra
+  en: Litra logo
+  zh: Litra 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Litra выпускает многолучевые LiDAR серии C1 с 360°-неповторяющимся сканированием (дальность 50 м при отражательной способности 90%, 80 000 точек/с, вертикальное поле зрения 70°, встроенный IMU) для робототехники и автономного вождения.
+  highlights:
+    - "360° горизонтально, 70° вертикально (-10° до +60°)"
+    - "50 м при отражательной способности 90%"
+    - "80 000 точек/с, φ60 мм, высота <90 мм"
+    - Встроенный 3-осевой акселерометр + гироскоп
+en:
+  description: |
+    Litra provides C1 series 360° non-repetitive scanning multi-line LiDAR (50m range at 90% reflectivity, 80k points/sec, 70° vertical FOV, built-in IMU) for robotics and autonomous driving.
+  highlights:
+    - "360° horizontal, 70° vertical (-10° to +60°)"
+    - "50m range @90% reflectivity"
+    - "80k points/sec, φ60mm, height <90mm"
+    - Built-in 3-axis accelerometer + gyroscope
+zh:
+  description: |
+    力策科技 Litra 提供 C1 系列 360° 非重复扫描多线激光雷达（90% 反射率下测距 50m，80k 点/秒，垂直 FOV 70°，内置 IMU），服务机器人和自动驾驶。
+  highlights:
+    - 水平 360°、垂直 70°（-10° 到 +60°）
+    - "@90% 反射率下测距 50m"
+    - 8 万点/秒，φ60mm，高度 <90mm
+    - 内置三轴加速度计 + 陀螺仪
+verified: false
+needs_review:
+  zh: true

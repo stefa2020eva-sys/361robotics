@@ -1,0 +1,45 @@
+slug: tuoxian-technology
+name: Tuoxian Technology
+country: CN
+founded: 2013
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Tuoxian Technology
+  en: Tuoxian Technology logo
+  zh: Tuoxian Technology 标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - controllers
+robot_products:
+  - name: TXHCI-T3
+    short: Educational robot with mobile base and arm
+key_clients: []
+ru:
+  description: |
+    Tuoxian Technology предлагает образовательную робототехническую платформу TXHCI-T3: всенаправленное шасси с колёсами Mecanum, 6-осевая рука, NVIDIA Jetson Orin Nano (20–40 TOPS), LiDAR, камера глубины и поддержка ROS.
+  highlights:
+    - "Универсальное решение «всё в одном»: шасси + восприятие + манипуляция"
+    - Колёса Mecanum для всенаправленного движения
+    - NVIDIA Jetson Orin Nano 20–40 TOPS
+    - Предустановленные Ubuntu, ROS и открытый код
+en:
+  description: |
+    Tuoxian Technology provides the TXHCI-T3 educational robot platform with omnidirectional Mecanum wheel chassis, 6-axis arm, NVIDIA Jetson Orin Nano (20-40 TOPS), LiDAR, depth camera, and ROS support.
+  highlights:
+    - "All-in-one integration: chassis + perception + manipulation"
+    - Mecanum wheels for omnidirectional movement
+    - NVIDIA Jetson Orin Nano 20-40 TOPS
+    - Pre-installed Ubuntu, ROS, open-source code
+zh:
+  description: |
+    拓显科技提供 TXHCI-T3 教育机器人平台，配备麦克纳姆轮全向底盘、6 轴机械臂、NVIDIA Jetson Orin Nano（20–40 TOPS）、激光雷达、深度相机，并支持 ROS。
+  highlights:
+    - 一体化集成：底盘 + 感知 + 操作
+    - 麦克纳姆轮全向移动
+    - NVIDIA Jetson Orin Nano 20–40 TOPS
+    - 预装 Ubuntu、ROS 和开源代码
+verified: false
+needs_review:
+  zh: true

@@ -1,0 +1,44 @@
+slug: donly
+name: Donly
+country: CN
+founded: 1993
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Donly
+  en: Donly logo
+  zh: Donly 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Donly выпускает прецизионные планетарные редукторы серии DVRB (номинальный момент 6–1500 Н·м, люфт ≤3 угл. мин) и волновые редукторы серии DCSG (7–523 Н·м, КПД 60–80%) для роботов.
+  highlights:
+    - Публичная компания (первая A-акция в секторе передач)
+    - "DVRB: тихая работа, высокая жёсткость и момент, люфт ≤3 угл. мин"
+    - "DCSG: высокая точность, жёсткость, нагрузочная способность, угл. ошибка ≤2 угл. мин"
+    - Ресурс до 7000 ч
+en:
+  description: |
+    Donly provides DVRB series precision planetary reducers (rated torque 6-1500Nm, backlash ≤3 arcmin) and DCSG series harmonic reducers (7-523Nm, efficiency 60-80%) for robots.
+  highlights:
+    - Listed company (first gear A-share)
+    - "DVRB: quiet operation, high rigidity, high torque, ≤3 arcmin backlash"
+    - "DCSG: high precision, high rigidity, high load capacity, ≤2 arcmin angle error"
+    - Life up to 7000h
+zh:
+  description: |
+    宁波东力 Donly 提供 DVRB 系列精密行星减速器（额定扭矩 6–1500Nm，背隙 ≤3 弧分）和 DCSG 系列谐波减速器（7–523Nm，效率 60–80%），服务机器人。
+  highlights:
+    - 上市公司（齿轮第一股）
+    - DVRB：运行安静、高刚性、高扭矩，背隙 ≤3 弧分
+    - DCSG：高精度、高刚度、高负载，角度误差 ≤2 弧分
+    - 寿命达 7000 小时
+verified: false
+needs_review:
+  zh: true

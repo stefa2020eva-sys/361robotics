@@ -1,0 +1,44 @@
+slug: kunwei
+name: Kunwei
+country: CN
+founded: 2018
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Kunwei
+  en: Kunwei logo
+  zh: Kunwei 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Kunwei выпускает шестиосевые датчики силы/момента (HRS — гуманоидная серия, HPS — высокопроизводительная, KWR — прецизионная) с точностью <0,1% FS, перекрёстными помехами <0,3% FS, а также одномерные датчики силы.
+  highlights:
+    - Команда-основатели из НИИ авиакосмической промышленности
+    - Главный разработчик стандарта GB/T43199-2023
+    - "Шестиосевые датчики: 0,1% FS, перекрёстные помехи 0,3% FS"
+    - "Одномерные: ±0,1% FS"
+en:
+  description: |
+    Kunwei provides six-axis force/torque sensors (HRS humanoid series, HPS high-performance, KWR precision) with accuracy <0.1% FS, crosstalk <0.3% FS, and one-dimensional force sensors.
+  highlights:
+    - Founding team from national aerospace research institutions
+    - Lead drafter of GB/T43199-2023 national standard
+    - "Six-axis sensors: 0.1% FS accuracy, 0.3% FS crosstalk"
+    - "One-dimensional: ±0.1% FS"
+zh:
+  description: |
+    坤维 Kunwei 提供六轴力/扭矩传感器（HRS 人形系列、HPS 高性能、KWR 精密），精度 <0.1% FS，串扰 <0.3% FS，以及一维力传感器。
+  highlights:
+    - 创始团队来自国家级航天科研院所
+    - GB/T43199-2023 国家标准主起草单位
+    - "六轴传感器：精度 0.1% FS，串扰 0.3% FS"
+    - "一维：±0.1% FS"
+verified: false
+needs_review:
+  zh: true

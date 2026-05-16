@@ -1,0 +1,45 @@
+slug: encos
+name: ENCOS
+country: CN
+founded: 2022
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип ENCOS
+  en: ENCOS logo
+  zh: ENCOS 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+  - controllers
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    ENCOS производит интегрированные суставные модули с планетарным редуктором (вакуумное азотирование), бесколлекторным двигателем постоянного тока и собственным драйвером с управлением по наблюдателю потокосцепления для стабильной работы.
+  highlights:
+    - "Площадка 4000 м² с ЧПУ, зуборезными станками, проволочной электроэрозией"
+    - "Полное собственное производство, высокая стабильность, быстрый отклик"
+    - "Управление по наблюдателю потокосцепления, без частой настройки PID"
+    - Защита по температуре и от перегрузки
+en:
+  description: |
+    ENCOS produces integrated joint modules with planetary reducer (vacuum nitriding), brushless DC motor, and proprietary driver with flux observer control for stable operation.
+  highlights:
+    - "4000㎡ facility with CNC, gear cutters, wire EDM"
+    - "Full in-house production, high stability, fast response"
+    - "Flux observer control, no frequent PID tuning"
+    - "Temperature protection, overload protection"
+zh:
+  description: |
+    因克斯 ENCOS 生产集成关节模组，含行星减速器（真空渗氮）、无刷直流电机和自研驱动器（磁链观察器控制），运行稳定。
+  highlights:
+    - 4000㎡ 工厂，配 CNC、滚齿机、线切割
+    - 全自主生产，高稳定、快响应
+    - 磁链观测器控制，无需频繁 PID 调参
+    - 温度保护、过载保护
+verified: false
+needs_review:
+  zh: true

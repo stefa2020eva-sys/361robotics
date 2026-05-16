@@ -1,0 +1,45 @@
+slug: zerith
+name: Zerith
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Zerith
+  en: Zerith logo
+  zh: Zerith 标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - actuators
+  - controllers
+robot_products:
+  - name: Zerith-H1
+    short: Wheeled humanoid robot
+key_clients: []
+ru:
+  description: |
+    Zerith предлагает колёсного гуманоидного робота Zerith-H1 с размахом рук 1,8 м, 3 RGB-D камерами, LiDAR и миллисекундной задержкой телеоперации для мгновенной розницы, уборки и сбора данных.
+  highlights:
+    - "Основан Tsinghua AI&Robot Lab"
+    - Первый в Китае по длительной многозадачной непрерывной работе
+    - "Zerith-H1: 1,8 м рук, мультимодальное восприятие"
+    - "Ежемесячная мощность 100+ единиц, заказы >100 млн юаней"
+en:
+  description: |
+    Zerith provides Zerith-H1 wheeled humanoid robot with 1.8m arm span, 3 RGB-D cameras, LiDAR, millisecond teleoperation latency for instant retail, cleaning, and data collection.
+  highlights:
+    - "Founded by Tsinghua AI&Robot Lab"
+    - First in China for long-horizon multi-task continuous operation
+    - "Zerith-H1: 1.8m reach, multi-modal perception"
+    - "Monthly capacity 100+ units, order value >100M RMB"
+zh:
+  description: |
+    零次方机器人 Zerith 提供 Zerith-H1 轮式人形机器人，臂展 1.8m，3 个 RGB-D 相机，激光雷达，毫秒级遥操作延迟，服务即时零售、清洁和数据采集。
+  highlights:
+    - "由清华 AI&Robot Lab 创立"
+    - 国内首家长时多任务连续作业
+    - Zerith-H1：1.8m 臂展，多模态感知
+    - "月产能 100+ 台，订单额 >1 亿元"
+verified: false
+needs_review:
+  zh: true

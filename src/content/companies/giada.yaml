@@ -1,0 +1,43 @@
+slug: giada
+name: Giada
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Giada
+  en: Giada logo
+  zh: Giada 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - controllers
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Giada предлагает AI-модуль вычислений LM2-100-V0: 25 TOPS (INT8), потребление 2–5 Вт, форм-фактор M.2, поддержка Windows/Ubuntu/Debian для периферийного ИИ — восприятия и принятия решений.
+  highlights:
+    - 25 TOPS при INT8 (200 eTOPS)
+    - Сверхнизкое энергопотребление 2–5 Вт
+    - Широкий температурный диапазон -25 °C до +65 °C
+    - "PCIe Gen3x2, M.2 KEY B+M"
+en:
+  description: |
+    Giada provides LM2-100-V0 AI compute module with 25 TOPS (INT8), 2-5W power consumption, M.2 form factor, supporting Windows/Ubuntu/Debian for edge AI perception and decision-making.
+  highlights:
+    - 25 TOPS at INT8 (200 eTOPS)
+    - Ultra-low power 2-5W
+    - Wide temperature -25°C to +65°C
+    - "PCIe Gen3x2, M.2 KEY B+M"
+zh:
+  description: |
+    杰和科技 Giada 提供 LM2-100-V0 AI 计算模块：25 TOPS (INT8)，功耗 2–5W，M.2 规格，支持 Windows/Ubuntu/Debian，用于边缘 AI 感知与决策。
+  highlights:
+    - INT8 25 TOPS（200 eTOPS）
+    - 超低功耗 2–5W
+    - 宽温 -25°C 至 +65°C
+    - PCIe Gen3x2，M.2 KEY B+M
+verified: false
+needs_review:
+  zh: true

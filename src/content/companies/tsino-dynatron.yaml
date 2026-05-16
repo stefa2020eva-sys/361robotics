@@ -1,0 +1,43 @@
+slug: tsino-dynatron
+name: Tsino Dynatron
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Tsino Dynatron
+  en: Tsino Dynatron logo
+  zh: Tsino Dynatron 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - controllers
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Tsino Dynatron выпускает многоосный сервопривод CoolDrive RD (2–6 осей, 220 В/380 В) и низковольтный микро-сервопривод CoolDrive Mini ANT (коммутация 100 кГц, токовый контур 8 кГц) для промышленных и гуманоидных роботов.
+  highlights:
+    - Национальный «Маленький гигант»
+    - "CoolDrive RD: одночиповый многоосный, компактный"
+    - "CoolDrive Mini ANT: для низковольтных DC, BISS-C, EnDat 2.2, Tamagawa"
+    - Полоса токового контура 8 кГц
+en:
+  description: |
+    Tsino Dynatron provides CoolDrive RD multi-axis servo drive (2-6 axes, 220V/380V) and CoolDrive Mini ANT low-voltage micro servo drive (100kHz switching, 8kHz current loop) for industrial robots and humanoids.
+  highlights:
+    - National Little Giant
+    - "CoolDrive RD: single-chip multi-axis, compact design"
+    - "CoolDrive Mini ANT: for low-voltage DC applications, supports BISS-C, EnDat 2.2, Tamagawa"
+    - 8kHz current loop bandwidth
+zh:
+  description: |
+    清能德创 Tsino Dynatron 提供 CoolDrive RD 多轴伺服驱动器（2–6 轴，220V/380V）和 CoolDrive Mini ANT 低压微型伺服驱动器（开关频率 100kHz，电流环 8kHz），服务工业机器人和人形机器人。
+  highlights:
+    - 国家级专精特新「小巨人」
+    - CoolDrive RD：单芯片多轴，结构紧凑
+    - CoolDrive Mini ANT：低压直流应用，支持 BISS-C、EnDat 2.2、Tamagawa
+    - 电流环带宽 8kHz
+verified: false
+needs_review:
+  zh: true

@@ -1,0 +1,46 @@
+slug: atomrobot
+name: Atomrobot
+country: CN
+founded: 2013
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Atomrobot
+  en: Atomrobot logo
+  zh: Atomrobot 标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - actuators
+  - controllers
+robot_products:
+  - name: Atom01
+    short: Full-stack embodied intelligent robot
+key_clients: []
+ru:
+  description: |
+    Atomrobot выпускает Atom01 — полностековый воплощённый интеллектуальный робот с 7-степенными руками, параллельной талией Stewart, всенаправленной базой и 360° восприятием для промышленных задач.
+  highlights:
+    - №1 в Китае по доле дельта-роботов с 2020 года
+    - "Atom01: симметричные 7-осевые руки, 360° восприятие"
+    - Параллельная талия Stewart обеспечивает жёсткость и гибкость
+    - "Двойной рулевой привод, нулевой радиус разворота"
+en:
+  description: |
+    Atomrobot provides the Atom01 full-stack embodied intelligent robot with 7-DOF arms, STEWART parallel waist, omnidirectional base, 360° perception, for industrial applications.
+  highlights:
+    - "#1 in delta robot market share in China since 2020"
+    - "Atom01: 7-axis symmetrical arms, 360° perception"
+    - Stewart parallel waist for high stiffness and flexibility
+    - "Dual steering wheel drive, zero turn radius"
+zh:
+  description: |
+    阿童木 Atomrobot 提供 Atom01 全栈具身智能机器人：7 自由度机械臂、Stewart 并联腰部、全向底盘、360° 感知，面向工业应用。
+  highlights:
+    - 2020 年起中国 Delta 机器人市场份额第一
+    - Atom01：7 轴对称机械臂，360° 感知
+    - Stewart 并联腰部，高刚度高灵活
+    - 双舵轮驱动，零转弯半径
+verified: false
+needs_review:
+  zh: true

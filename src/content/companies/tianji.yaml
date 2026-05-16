@@ -1,0 +1,44 @@
+slug: tianji
+name: Tianji
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Tianji
+  en: Tianji logo
+  zh: Tianji 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+  - controllers
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Tianji выпускает гуманоидные руки с полным силовым управлением (серия Marvin) и кросс-осевой конструкцией запястья, обеспечивая биомеханическую эквивалентность человеческому запястью для естественной телеоперации и высокой гибкости.
+  highlights:
+    - "Первая компания, наладившая серийные поставки силовоуправляемых гуманоидных рук"
+    - №1 в мире по совокупным продажам
+    - 20 000+ роботов в эксплуатации
+    - "Обслуживает 3C, электронику, новую энергетику, бытовую технику"
+en:
+  description: |
+    Tianji provides full-force-controlled humanoid arms (Marvin series) with cross-axis wrist design, offering biomechanical equivalence to human wrist for natural teleoperation and high flexibility.
+  highlights:
+    - First company to achieve mass shipment of force-controlled humanoid arms
+    - "Cumulative sales #1 globally"
+    - "20,000+ robots operating online"
+    - "Serves 3C, automotive electronics, new energy, home appliances"
+zh:
+  description: |
+    天机提供全力控人形机械臂（Marvin 系列），采用交叉轴腕部设计，提供与人手腕等效的生物力学性能，实现自然遥操作和高灵活性。
+  highlights:
+    - 首家实现力控人形机械臂量产交付
+    - 全球累计销量第一
+    - 20 000+ 台机器人在线运行
+    - 服务 3C、汽车电子、新能源、家电
+verified: false
+needs_review:
+  zh: true

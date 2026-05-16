@@ -1,0 +1,46 @@
+slug: norinco
+name: Norinco
+country: CN
+founded: 2024
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Norinco
+  en: Norinco logo
+  zh: Norinco 标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - actuators
+  - controllers
+robot_products:
+  - name: Quadruped Robot
+    short: Lightweight inspection and reconnaissance robot
+key_clients: []
+ru:
+  description: |
+    Norinco выпускает компактного лёгкого четвероногого робота для инспекции, разведки и транспортировки в сложных условиях с поддержкой модульных полезных нагрузок и развёртыванием одним оператором.
+  highlights:
+    - Дочернее предприятие China North Industries Group
+    - "Лёгкая конструкция, высокая нагрузка и большая автономность"
+    - "Преодоление лестниц, гравийных дорог"
+    - Модульные сенсоры и боевые нагрузки
+en:
+  description: |
+    Norinco provides compact lightweight quadruped robot for inspection, reconnaissance, and transport in complex environments, with modular payload support and single-operator deployment.
+  highlights:
+    - Subsidiary of China North Industries Group
+    - Lightweight with high payload and long endurance
+    - "Climbs stairs, gravel roads"
+    - Modular sensors and mission payloads
+zh:
+  description: |
+    中兵智能 Norinco 提供紧凑轻量化四足机器人，用于复杂环境中的巡检、侦察和运输，支持模块化负载和单人部署。
+  highlights:
+    - 中国兵器工业集团下属企业
+    - 轻量化、高负载、长续航
+    - 可上下楼梯、跨越砾石路
+    - 模块化传感器和任务载荷
+verified: false
+needs_review:
+  zh: true

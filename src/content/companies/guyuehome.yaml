@@ -1,0 +1,45 @@
+slug: guyuehome
+name: Guyuehome
+country: CN
+founded: 2011
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Guyuehome
+  en: Guyuehome logo
+  zh: Guyuehome 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - software-sdk
+  - controllers
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Guyuehome предлагает открытый настольный гуманоидный робот OriginMan (20 степеней свободы, 10 TOPS RDK X5, ROS2) и открытый набор робота OriginBot для образования и научных исследований.
+  highlights:
+    - Сообщество 1M+ онлайн-пользователей
+    - "OriginMan: первый полностью открытый настольный гуманоид на ROS2"
+    - "10 TOPS оконечный ИИ, 20 DOF"
+    - "OriginBot: 10 TOPS, 360° LiDAR, ROS2"
+en:
+  description: |
+    Guyuehome provides OriginMan open-source desktop humanoid robot (20 DOF, 10 TOPS RDK X5, ROS2) and OriginBot open-source robot kit for robotics education and research.
+  highlights:
+    - 1M+ online user community
+    - "OriginMan: first fully open-source ROS2 desktop humanoid"
+    - "10 TOPS end-side AI, 20 DOF"
+    - "OriginBot: 10 TOPS, 360° LiDAR, ROS2"
+zh:
+  description: |
+    古月居 Guyuehome 提供 OriginMan 开源桌面人形机器人（20 自由度，10 TOPS RDK X5，ROS2）和 OriginBot 开源机器人套件，服务机器人教育和研究。
+  highlights:
+    - 100 万+ 在线用户社区
+    - OriginMan：首款完全开源 ROS2 桌面人形机器人
+    - 10 TOPS 端侧 AI，20 自由度
+    - OriginBot：10 TOPS、360° 激光雷达、ROS2
+verified: false
+needs_review:
+  zh: true

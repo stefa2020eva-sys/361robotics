@@ -1,0 +1,44 @@
+slug: hans-laser
+name: "Han's Laser"
+country: CN
+founded: 1996
+logo: ./logo.svg
+logo_alt:
+  ru: "Логотип Han's Laser"
+  en: "Han's Laser logo"
+  zh: "Han's Laser 标志"
+type:
+  - component_maker
+featured: false
+categories:
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Han's Laser предлагает вертикальный 5-осевой обрабатывающий центр HF150 для деталей ловких манипуляторов, систему лазерной сварки HM20-350A и линию сборки ультразвуковых радаров для производства роботов.
+  highlights:
+    - Публичная компания (002008)
+    - "HF150: 5-осевая обработка малых прецизионных деталей"
+    - "HM20-350A: микронная лазерная сварка ловких манипуляторов"
+    - Автоматическая линия сборки ультразвуковых радаров
+en:
+  description: |
+    Han's Laser provides HF150 vertical 5-axis machining center for dexterous hand structural parts, HM20-350A laser welding system, and ultrasonic radar assembly line for robot production.
+  highlights:
+    - Listed company (002008)
+    - "HF150: 5-axis for small precision parts"
+    - "HM20-350A: micron-level laser welding for dexterous hands"
+    - Ultrasonic radar automatic assembly line
+zh:
+  description: |
+    大族激光 Han's Laser 提供 HF150 立式 5 轴加工中心（灵巧手结构件）、HM20-350A 激光焊接系统和超声雷达自动装配线，服务机器人生产。
+  highlights:
+    - 上市公司（002008）
+    - HF150：5 轴加工小型精密零件
+    - HM20-350A：微米级激光焊接灵巧手
+    - 超声雷达自动装配线
+verified: false
+needs_review:
+  zh: true

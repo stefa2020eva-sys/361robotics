@@ -1,0 +1,44 @@
+slug: liangzhi-joint
+name: Liangzhi Joint
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Liangzhi Joint
+  en: Liangzhi Joint logo
+  zh: Liangzhi Joint 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Liangzhi Joint выпускает планетарные суставные модули (пиковый момент 600 Н·м, вес 4,1 кг), волновые редукторы (нулевой люфт, передаточное отношение 30–160) и волновые суставные модули для гуманоидных и коллаборативных роботов.
+  highlights:
+    - "100+ прецизионных токарно-фрезерных станков, Zeiss КИМ"
+    - "Планетарный модуль: двойной энкодер, пиковый момент 600 Н·м, точность 5 угл. мин"
+    - "Волновой редуктор: почти нулевой люфт, контакт по площади, момент ×2"
+    - "Лёгкая конструкция, высокая интеграция"
+en:
+  description: |
+    Liangzhi Joint produces planetary joint modules (peak torque 600Nm, weight 4.1kg), harmonic reducers (zero backlash, reduction ratio 30-160), and harmonic joint modules for humanoid and collaborative robots.
+  highlights:
+    - "100+ high-precision turning/milling machines, Zeiss CMM"
+    - "Planetary module: dual encoder, 600Nm peak torque, 5 arcmin accuracy"
+    - "Harmonic reducer: near-zero backlash, area contact, 2× torque capacity"
+    - "Lightweight design, high integration"
+zh:
+  description: |
+    良质关节 Liangzhi Joint 生产行星关节模组（峰值扭矩 600Nm，重 4.1kg）、谐波减速器（零背隙，减速比 30–160）和谐波关节模组，服务人形机器人和协作机器人。
+  highlights:
+    - 100+ 高精度车铣设备，蔡司三坐标
+    - 行星模组：双编码器，峰值扭矩 600Nm，精度 5 弧分
+    - 谐波减速器：近零背隙，面接触，扭矩容量 2 倍
+    - 轻量化、高集成
+verified: false
+needs_review:
+  zh: true

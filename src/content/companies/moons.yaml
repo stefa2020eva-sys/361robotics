@@ -1,0 +1,45 @@
+slug: moons
+name: "MOONS'"
+country: CN
+founded: 1994
+logo: ./logo.svg
+logo_alt:
+  ru: "Логотип MOONS'"
+  en: "MOONS' logo"
+  zh: "MOONS' 标志"
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+  - controllers
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    MOONS' предлагает AC-сервосистему M56S (50–7500 Вт, габарит 40–180 мм) с 26-битным абсолютным энкодером, контуром скорости 3,5 кГц, STO (SIL3/PLe) и несколькими полевыми шинами (EtherCAT, CANopen, Profinet).
+  highlights:
+    - 26-битный многооборотный абсолютный оптический энкодер
+    - "Полоса контура скорости 3,5 кГц"
+    - "STO SIL3/PLe, UL, CE, SEMI F47"
+    - "Поддержка импульсного, аналогового, Q-программирования и автономного режима"
+en:
+  description: |
+    MOONS' provides M56S AC servo system (50-7500W, 40-180mm frame) with 26-bit absolute encoder, 3.5kHz velocity loop, STO (SIL3/PLe), and multiple fieldbuses (EtherCAT, CANopen, Profinet).
+  highlights:
+    - 26-bit multi-turn absolute optical encoder
+    - 3.5kHz velocity loop bandwidth
+    - "STO certified SIL3/PLe, UL, CE, SEMI F47"
+    - "Supports pulse, analog, Q programming, stand-alone"
+zh:
+  description: |
+    鸣志电器 MOONS' 提供 M56S 交流伺服系统（50–7500W，机座 40–180mm），配备 26 位绝对编码器，3.5kHz 速度环带宽，STO（SIL3/PLe），支持 EtherCAT、CANopen、Profinet 等多总线。
+  highlights:
+    - 26 位多圈绝对光学编码器
+    - 速度环带宽 3.5kHz
+    - STO 认证 SIL3/PLe，UL、CE、SEMI F47
+    - 支持脉冲、模拟、Q 编程、独立运行
+verified: false
+needs_review:
+  zh: true

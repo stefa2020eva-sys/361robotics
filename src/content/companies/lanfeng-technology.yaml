@@ -1,0 +1,46 @@
+slug: lanfeng-technology
+name: Lanfeng Technology
+country: CN
+founded: 2025
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Lanfeng Technology
+  en: Lanfeng Technology logo
+  zh: Lanfeng Technology 标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - actuators
+  - controllers
+robot_products:
+  - name: Lanzhi
+    short: Industrial AGV for warehouse and factory logistics
+key_clients: []
+ru:
+  description: |
+    Lanfeng Technology предлагает промышленные AGV серии Lanzhi (грузоподъёмность 300–1000 кг) с лазерной SLAM-навигацией, слиянием данных датчиков, авто-подзарядкой и настраиваемыми модулями для умного производства.
+  highlights:
+    - Лазерная SLAM-навигация без переоборудования площадки
+    - Грузоподъёмность 300–1000 кг
+    - "Поддержка подъёмных, тяговых и роликовых модулей"
+    - "Авто-подзарядка, интеллектуальное планирование, удалённый мониторинг"
+en:
+  description: |
+    Lanfeng Technology provides Lanzhi series industrial AGVs (300-1000kg load) with laser SLAM navigation, multi-sensor fusion, auto-recharging, and customizable modules for intelligent manufacturing.
+  highlights:
+    - "Laser SLAM autonomous navigation, no site modification"
+    - Load capacity 300-1000kg
+    - "Lifting, traction, roller modules support"
+    - "Auto-recharging, intelligent scheduling, remote monitoring"
+zh:
+  description: |
+    澜风科技 Lanfeng Technology 提供蓝智系列工业 AGV（载荷 300–1000kg），采用激光 SLAM 导航、多传感器融合、自动充电和可定制模块，服务智能制造。
+  highlights:
+    - 激光 SLAM 自主导航，无需场地改造
+    - 载荷 300–1000kg
+    - 支持升降、牵引、辊筒等模组
+    - 自动充电、智能调度、远程监控
+verified: false
+needs_review:
+  zh: true

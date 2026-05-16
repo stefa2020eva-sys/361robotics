@@ -1,0 +1,47 @@
+slug: elephant-robotics
+name: Elephant Robotics
+country: CN
+founded: 2016
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Elephant Robotics
+  en: Elephant Robotics logo
+  zh: Elephant Robotics 标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - actuators
+robot_products:
+  - name: myCobot Pro 450
+    short: Collaborative robot arm
+  - name: Humanoid Robot
+    short: Bipedal humanoid for education
+key_clients: []
+ru:
+  description: |
+    Elephant Robotics выпускает коллаборативного робота myCobot Pro 450, гуманоидных роботов и биомиметических компаньонов для образования, науки и коммерческих применений; годовые продажи >60 000 единиц.
+  highlights:
+    - "Инкубирована HAX, инвестор ZhenFund"
+    - "Годовые продажи >60 000 единиц"
+    - Участвует в 100+ научных статьях ежегодно
+    - "Обслуживает Китай, США, Великобританию, Германию, Францию, Японию"
+en:
+  description: |
+    Elephant Robotics provides myCobot Pro 450 collaborative robot, humanoid robots, and biomimetic companion robots for education, research, and commercial applications, with annual sales >60,000 units.
+  highlights:
+    - "Incubated by HAX, invested by ZhenFund"
+    - "Annual sales >60,000 units"
+    - Contributes to 100+ academic papers annually
+    - "Serves China, US, UK, Germany, France, Japan"
+zh:
+  description: |
+    大象机器人 Elephant Robotics 提供 myCobot Pro 450 协作机器人、人形机器人和仿生陪伴机器人，服务教育、科研和商业应用，年销量 >60 000 台。
+  highlights:
+    - 由 HAX 孵化，真格基金投资
+    - "年销量 >60 000 台"
+    - 每年贡献 100+ 学术论文
+    - 服务中国、美国、英国、德国、法国、日本
+verified: false
+needs_review:
+  zh: true

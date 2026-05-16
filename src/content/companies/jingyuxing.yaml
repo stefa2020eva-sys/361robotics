@@ -1,0 +1,43 @@
+slug: jingyuxing
+name: Jingyuxing
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Jingyuxing
+  en: Jingyuxing logo
+  zh: Jingyuxing 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Jingyuxing выпускает высоконадёжные кварцевые генераторы промышленного, автомобильного и аэрокосмического уровня: более 3000 типов, более 6000 клиентов, сертификация IATF16949 + GB9001C.
+  highlights:
+    - 23 года фокуса на кварцевых генераторах
+    - IATF16949 (TÜV Germany) и военная сертификация GB9001C
+    - "3000+ типов продукции, 6000+ клиентов"
+    - Замена импортных аналогов
+en:
+  description: |
+    Jingyuxing provides high-reliability industrial, automotive, and aerospace grade quartz crystal oscillators with 3000+ types, serving 6000+ clients, and IATF16949 + GB9001C certifications.
+  highlights:
+    - 23 years focus on quartz crystal oscillators
+    - IATF16949 (TUV Germany) and GB9001C military certification
+    - "3000+ product types, 6000+ clients"
+    - Replacement for imported counterparts
+zh:
+  description: |
+    晶宇兴 Jingyuxing 提供高可靠性的工业级、车规级和航天级石英晶体振荡器，3000+ 型号，服务 6000+ 客户，通过 IATF16949 + GB9001C 认证。
+  highlights:
+    - 23 年专注石英晶体振荡器
+    - IATF16949（德国 TÜV）和 GB9001C 军工认证
+    - 3000+ 产品型号，6000+ 客户
+    - 替代进口产品
+verified: false
+needs_review:
+  zh: true

@@ -1,0 +1,43 @@
+slug: xinghuo-gear
+name: Xinghuo Gear
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Xinghuo Gear
+  en: Xinghuo Gear logo
+  zh: Xinghuo Gear 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Xinghuo Gear выпускает микросистемы передачи мощности, включая планетарные редукторы для ловких манипуляторов: безпазовый бесколлекторный двигатель, планетарная передача и червячный привод с самоторможением.
+  highlights:
+    - Национальный «Маленький гигант»
+    - Инженерный исследовательский центр провинции Гуандун
+    - "Компактный дизайн, низкий шум, высокая точность"
+    - "Применения: ловкие манипуляторы, медицинский захват, хирургические роботы, промышленные зажимы"
+en:
+  description: |
+    Xinghuo Gear produces micro power transmission systems including planetary gearboxes for dexterous hands, combining coreless brushless motor, planetary gear, and worm gear drive with self-locking.
+  highlights:
+    - National Little Giant
+    - Guangdong provincial engineering research center
+    - "Compact design, low noise, high precision"
+    - "Applications: dexterous hands, medical grasping, surgical robots, industrial clamping"
+zh:
+  description: |
+    东莞星火齿轮生产微型动力传动系统，包括用于灵巧手的行星齿轮箱，集成无槽无刷电机、行星齿轮和具备自锁功能的蜗轮传动。
+  highlights:
+    - 国家级专精特新「小巨人」
+    - 广东省工程技术研究中心
+    - 结构紧凑、低噪音、高精度
+    - 应用：灵巧手、医疗抓取、手术机器人、工业夹持
+verified: false
+needs_review:
+  zh: true

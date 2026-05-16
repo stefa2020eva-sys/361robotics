@@ -1,0 +1,44 @@
+slug: jeo
+name: JEO
+country: CN
+founded: 2011
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип JEO
+  en: JEO logo
+  zh: JEO 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    JEO выпускает безкорпусные моментные двигатели (25–150 мм, 0,08–8,4 Н·м, 0,25 кг) и интегрированные планетарные суставные модули с многооборотным абсолютным энкодером для четвероногих и гуманоидных роботов.
+  highlights:
+    - "Полный стек самостоятельной разработки: магнитные материалы → ключевые компоненты → суставные модули"
+    - "Безкорпусный мотор: 7 моделей, 25–150 мм, 0,08–8,4 Н·м, 0,25 кг"
+    - "Суставный модуль: планетарный редуктор + серво + абсолютный энкодер"
+    - Лёгкая конструкция для удобной интеграции
+en:
+  description: |
+    JEO provides frameless torque motors (25-150mm, 0.08-8.4Nm, 0.25kg) and integrated planetary joint modules for quadruped and humanoid robots with multi-turn absolute encoder.
+  highlights:
+    - "Full-stack self-developed: magnetic materials → core components → joint modules"
+    - "Frameless motor: 7 models, 25-150mm, 0.08-8.4Nm, 0.25kg"
+    - "Joint module: integrated planetary reducer, servo motor, absolute encoder"
+    - Lightweight design for easy integration
+zh:
+  description: |
+    银驱动力 JEO 提供无框力矩电机（25–150mm，0.08–8.4Nm，0.25kg）和集成行星关节模组，配备多圈绝对编码器，服务四足和人形机器人。
+  highlights:
+    - 全栈自研：磁性材料 → 核心部件 → 关节模组
+    - 无框电机：7 型号，25–150mm，0.08–8.4Nm，0.25kg
+    - 关节模组：集成行星减速器、伺服电机、绝对编码器
+    - 轻量化设计便于集成
+verified: false
+needs_review:
+  zh: true

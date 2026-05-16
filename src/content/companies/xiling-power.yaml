@@ -1,0 +1,44 @@
+slug: xiling-power
+name: Xiling Power
+country: CN
+founded: 1999
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Xiling Power
+  en: Xiling Power logo
+  zh: Xiling Power 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Xiling Power выпускает волновые редукторы и суставные модули с интегрированным производством — от сырья до готовой продукции — на высокоточном импортном оборудовании при низкой себестоимости и высокой точности.
+  highlights:
+    - Публичная компания (300733)
+    - 26 лет в высокотехнологичном производстве
+    - "Волновые редукторы: низкая стоимость, высокая точность"
+    - Полная внутренняя производственная цепочка
+en:
+  description: |
+    Xiling Power provides harmonic reducers and joint modules with integrated production from raw materials to finished products using high-precision imported equipment for low cost and high precision.
+  highlights:
+    - Listed company (300733)
+    - 26 years in high-end manufacturing
+    - "Harmonic reducers: low cost, high precision"
+    - Full in-house production chain
+zh:
+  description: |
+    西菱动力 Xiling Power 提供谐波减速器和关节模组，采用从原材料到成品的一体化生产，使用进口高精度设备，实现低成本和高精度。
+  highlights:
+    - 上市公司（300733）
+    - 26 年高端制造经验
+    - 谐波减速器：低成本、高精度
+    - 全内部生产链
+verified: false
+needs_review:
+  zh: true

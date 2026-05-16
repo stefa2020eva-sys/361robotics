@@ -1,0 +1,45 @@
+slug: sinbad-motor
+name: Sinbad Motor
+country: CN
+founded: 2011
+website: http://www.sinbadmotor.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Sinbad Motor
+  en: Sinbad Motor logo
+  zh: Sinbad Motor 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Sinbad Motor (Xinbaoda, 鑫宝达/宝达) выпускает бесколлекторные безпазовые двигатели с быстрым откликом, низким шумом, длительным сроком службы и высоким КПД; годовая мощность — свыше 10 миллионов штук для гуманоидных роботов, ловких манипуляторов, БПЛА и медицинских устройств.
+  highlights:
+    - "ISO9001, IATF16949, ROHS, CE, SGS"
+    - "Высокий КПД, энергосбережение, компактные размеры при высоком крутящем моменте"
+    - Годовой выпуск свыше 10 млн двигателей
+    - "Экспорт в Европу, Америку, Юго-Восточную Азию"
+en:
+  description: |
+    Sinbad Motor (Xinbaoda) produces coreless brushless motors with fast response, low noise, long life, and high efficiency, annual capacity over 10 million units for humanoid robots, dexterous hands, drones, and medical devices.
+  highlights:
+    - "ISO9001, IATF16949, ROHS, CE, SGS"
+    - "High efficiency, energy-saving, compact size with high torque"
+    - "Annual output >10 million motors"
+    - "Exported to Europe, America, Southeast Asia"
+zh:
+  description: |
+    宝达/鑫宝达 Sinbad Motor 生产无刷空心杯电机，响应快、噪音低、寿命长、效率高，年产能超过 1000 万台，服务于人形机器人、灵巧手、无人机和医疗设备。
+  highlights:
+    - ISO9001、IATF16949、ROHS、CE、SGS 认证
+    - 高效节能，小体积大扭矩
+    - 年产量超过 1000 万台电机
+    - 出口欧美、东南亚
+verified: false
+needs_review:
+  zh: true

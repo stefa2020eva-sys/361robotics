@@ -1,0 +1,48 @@
+slug: catic-taikee
+name: CATIC TAIKEE
+country: CN
+founded: 2025
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип CATIC TAIKEE
+  en: CATIC TAIKEE logo
+  zh: CATIC TAIKEE 标志
+type:
+  - robot_brand
+featured: false
+categories:
+  - actuators
+  - vision
+robot_products:
+  - name: ZHROB-MA-1
+    short: Air duct cleaning robot
+  - name: ZHROB-MB-1
+    short: Confined space inspection robot
+key_clients: []
+ru:
+  description: |
+    CATIC TAIKEE выпускает робота для чистки воздуховодов ZHROB-MA-1 и робота для инспекции замкнутых пространств ZHROB-MB-1 для систем HVAC в метро и инфраструктуре.
+  highlights:
+    - Стратегическое партнёрство с Северо-Западным политехническим университетом
+    - "ZHROB-MA-1: адаптивный чистящий рычаг, высокоскоростная роликовая щётка, вакуум"
+    - "ZHROB-MB-1: ИИ-детекция аномалий (повреждение, вода, ржавчина, посторонние предметы)"
+    - Развёрнуто в метро Шэньчжэня и Уханя
+en:
+  description: |
+    CATIC TAIKEE provides ZHROB-MA-1 air duct cleaning robot and ZHROB-MB-1 confined space inspection robot for HVAC systems in subways and infrastructure.
+  highlights:
+    - Strategic partnership with Northwestern Polytechnical University
+    - "ZHROB-MA-1: adaptive cleaning arm, high-speed roller brush, vacuum suction"
+    - "ZHROB-MB-1: AI anomaly detection (damage, water, rust, foreign objects)"
+    - "Deployed in Shenzhen Metro, Wuhan Metro"
+zh:
+  description: |
+    中航大记 CATIC TAIKEE 提供 ZHROB-MA-1 风管清洗机器人和 ZHROB-MB-1 密闭空间检测机器人，服务地铁和基础设施 HVAC 系统。
+  highlights:
+    - 与西北工业大学战略合作
+    - ZHROB-MA-1：自适应清洗臂、高速滚刷、真空吸尘
+    - ZHROB-MB-1：AI 异常检测（破损、水、锈蚀、异物）
+    - 已在深圳地铁、武汉地铁部署
+verified: false
+needs_review:
+  zh: true

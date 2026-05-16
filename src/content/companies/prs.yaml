@@ -1,0 +1,44 @@
+slug: prs
+name: PRS
+country: CN
+founded: 2003
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип PRS
+  en: PRS logo
+  zh: PRS 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    PRS выпускает прецизионные крестообразно-роликовые подшипники (ультратонкие, высокая жёсткость и нагрузочная способность) для шарниров роботов, волновых редукторов и поворотных столов.
+  highlights:
+    - "Площадка 12 000 м², 98 станков"
+    - Крестообразно-роликовые подшипники для шарниров роботов
+    - "Ультратонкие, высокая жёсткость и нагрузка"
+    - "Промышленные роботы, медицина, поворотные столы"
+en:
+  description: |
+    PRS provides precision cross roller bearings (ultra-thin, high rigidity, high load capacity) for robot joints, harmonic reducers, and rotary tables.
+  highlights:
+    - "12000㎡ facility, 98 machines"
+    - Cross roller bearings for robot joints
+    - "Ultra-thin, high rigidity, high load"
+    - "Suitable for industrial robots, medical devices, rotary tables"
+zh:
+  description: |
+    普瑞森 PRS 提供精密交叉滚子轴承（超薄、高刚性、高承载），用于机器人关节、谐波减速器和回转台。
+  highlights:
+    - 12 000㎡ 厂区，98 台设备
+    - 机器人关节用交叉滚子轴承
+    - 超薄、高刚性、高负载
+    - 工业机器人、医疗设备、回转台
+verified: false
+needs_review:
+  zh: true

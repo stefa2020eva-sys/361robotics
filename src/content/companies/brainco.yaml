@@ -1,0 +1,44 @@
+slug: brainco
+name: BrainCo
+country: CN
+founded: 2015
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип BrainCo
+  en: BrainCo logo
+  zh: BrainCo 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - end-effectors
+produces_components:
+  - gripper
+key_clients: []
+ru:
+  description: |
+    BrainCo предлагает ловкий манипулятор Revo 3 с 21 степенью свободы, полным прямым приводом всех суставов, обратной управляемостью, тактильной сенсорикой по всей ладони и открытой экосистемой для гуманоидных роботов.
+  highlights:
+    - "Первая китайская команда, инкубированная Harvard Innovation Lab"
+    - "Revo 3: 21 DOF, полный прямой привод, обратная управляемость"
+    - Тактильная сенсорика всей ладони + визуально-тактильное восприятие кончиков пальцев
+    - "Широкое напряжение, мульти-протокол, plug-and-play"
+en:
+  description: |
+    BrainCo provides Revo 3 dexterous hand with 21 DOF, full direct-drive joints, back-drivability, palm-wide tactile sensing, and open-source ecosystem for humanoid robots.
+  highlights:
+    - First Chinese team incubated by Harvard Innovation Lab
+    - "Revo 3: 21 DOF, full direct-drive, back-drivable"
+    - Palm-wide tactile + fingertip visuo-tactile perception
+    - "Wide voltage, multi-protocol, plug-and-play"
+zh:
+  description: |
+    强脑科技 BrainCo 提供 Revo 3 灵巧手：21 自由度，全关节直驱，可反驱，全掌触觉感知，开源生态，面向人形机器人。
+  highlights:
+    - 由哈佛创新实验室孵化的首支中国团队
+    - Revo 3：21 自由度，全直驱，可反驱
+    - 全掌触觉 + 指尖视触觉感知
+    - 宽电压、多协议、即插即用
+verified: false
+needs_review:
+  zh: true

@@ -1,0 +1,43 @@
+slug: hengtong
+name: Hengtong
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Hengtong
+  en: Hengtong logo
+  zh: Hengtong 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - connectivity
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Hengtong выпускает гибкие кабельные сборки для шарниров роботов, ловких манипуляторов и концевых эффекторов: гибридные сигнально-силовые многожильные кабели, гибкие высокоскоростные коаксиальные кабели и выдвижные провода.
+  highlights:
+    - Гибрид сигнал+питание для компактной прокладки
+    - "Высокоскоростной коаксиал: малый OD, высокая полоса, малые потери, сильное экранирование"
+    - Выдвижной провод для изменения длины маршрута
+    - "Подходит для гибких захватов, змееподобных роботов, ловких манипуляторов"
+en:
+  description: |
+    Hengtong provides flexible cable assemblies for robot joints, dexterous hands, and end-effectors, including signal+power hybrid stranded wires, flexible high-speed coaxial cables, and retractable wires.
+  highlights:
+    - Signal+power hybrid for compact routing
+    - "High-speed coaxial: small OD, high bandwidth, low loss, strong shielding"
+    - Retractable wire for changing routing length
+    - "Suitable for flexible grippers, snake robots, dexterous hands"
+zh:
+  description: |
+    亨通伟业 Hengtong 提供用于机器人关节、灵巧手和末端执行器的柔性电缆组件，包括信号+电源混合绞合电线、柔性高速同轴电缆和可伸缩电线。
+  highlights:
+    - 信号+电源混合，紧凑布线
+    - 高速同轴：外径小、带宽高、低损耗、强屏蔽
+    - 可伸缩电线适应路径长度变化
+    - 适用柔性夹爪、蛇形机器人、灵巧手
+verified: false
+needs_review:
+  zh: true

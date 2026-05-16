@@ -1,0 +1,44 @@
+slug: debi-new-power
+name: Debi New Power
+country: CN
+founded: 2021
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Debi New Power
+  en: Debi New Power logo
+  zh: Debi New Power 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Debi New Power предлагает планетарный суставной модуль DB6065-P30-C (передаточное отношение 30:1, 48 В, номинальный момент 17 Н·м, пик 50 Н·м, вес 500 г) для четвероногих и гуманоидных роботов.
+  highlights:
+    - "Номинальный момент 17 Н·м, пик 50 Н·м"
+    - "Передаточное отношение 30, 48 В, 6,5 А ном"
+    - "Вес 500 г, двойной энкодер"
+    - "CAN FD, 5 Мбит/с, полость 4 мм"
+en:
+  description: |
+    Debi New Power provides DB6065-P30-C planetary joint module (30:1 ratio, 48V, 17Nm rated, 50Nm peak, 500g weight) for quadruped and humanoid robots.
+  highlights:
+    - "Rated torque 17Nm, peak 50Nm"
+    - "Reduction ratio 30, 48V, 6.5A rated"
+    - "Weight 500g, dual encoder"
+    - "CAN FD, 5Mbps, hollow 4mm"
+zh:
+  description: |
+    德比新动力 Debi New Power 提供 DB6065-P30-C 行星关节模组（减速比 30:1，48V，额定 17Nm，峰值 50Nm，重量 500g），服务四足和人形机器人。
+  highlights:
+    - 额定扭矩 17Nm，峰值 50Nm
+    - 减速比 30，48V，6.5A 额定
+    - 重 500g，双编码器
+    - CAN FD，5Mbps，中空 4mm
+verified: false
+needs_review:
+  zh: true

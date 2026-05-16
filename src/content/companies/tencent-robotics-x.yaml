@@ -1,0 +1,44 @@
+slug: tencent-robotics-x
+name: Tencent Robotics X
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Tencent Robotics X
+  en: Tencent Robotics X logo
+  zh: Tencent Robotics X 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - software-sdk
+  - controllers
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    Tencent Robotics X предлагает открытую платформу воплощённого ИИ TAIROS с моделью планирования, мультимодальной моделью восприятия и моделью «восприятие-действие» через стандартизированные API и SDK для роботов.
+  highlights:
+    - "Поддержка двуногих/колёсных гуманоидов, четвероногих и манипуляторов"
+    - Облачное моделирование в один клик
+    - "Платформа данных, инструменты разработчика, облачная инфраструктура"
+    - "Применения в производстве, автопроме, бытовой технике"
+en:
+  description: |
+    Tencent Robotics X provides TAIROS embodied AI open platform with planning large model, multimodal perception model, and perception-action model via standard APIs and SDKs for robots.
+  highlights:
+    - "Supports bipedal/wheeled humanoids, quadrupeds, robotic arms"
+    - One-click cloud simulation environment
+    - "Data platform, developer tools, cloud infrastructure"
+    - "Industrial application in manufacturing, automotive, home appliances"
+zh:
+  description: |
+    腾讯 Robotics X 提供 TAIROS 具身智能开放平台，包含规划大模型、多模态感知模型和感知-动作模型，通过标准 API 和 SDK 服务机器人。
+  highlights:
+    - 支持双足/轮式人形、四足、机械臂
+    - 一键云端仿真环境
+    - 数据平台、开发者工具、云基础设施
+    - 应用于制造、汽车、家电
+verified: false
+needs_review:
+  zh: true

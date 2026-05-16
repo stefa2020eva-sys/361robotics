@@ -1,0 +1,45 @@
+slug: dings-motion
+name: DINGS' Motion
+country: CN
+founded: 2008
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип DINGS' Motion
+  en: DINGS' Motion logo
+  zh: DINGS' Motion 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+  - drives-power
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    DINGS' Motion (鼎智科技) выпускает безпазовые бесколлекторные двигатели постоянного тока (6–42 мм, 12 типоразмеров) с удельной мощностью на 20% выше среднеотраслевой, максимальным КПД 91% и безрамными моментными двигателями для шарниров роботов.
+  highlights:
+    - Более 160 патентов, поставки в 50+ стран
+    - Минимальный диаметр 6 мм — самый полный отечественный модельный ряд
+    - Удельная мощность +20% к среднеотраслевой, КПД до 91%
+    - Кастомизация с редукторами, энкодерами, ШВП
+en:
+  description: |
+    DINGS' Motion produces slotless brushless DC motors (6-42mm, 12 sizes) with torque density 20% above industry average, max efficiency 91%, and frameless torque motors for robot joints.
+  highlights:
+    - 160+ patents, 50+ countries served
+    - Minimum diameter 6mm, most complete domestic product range
+    - Torque density +20% vs industry avg, efficiency up to 91%
+    - Customizable with gearbox, encoder, screw assembly
+zh:
+  description: |
+    鼎智科技生产无槽无刷直流电机（6–42mm，12 种型号），扭矩密度高于行业平均水平 20%，最大效率 91%，并提供面向机器人关节的无框力矩电机。
+  highlights:
+    - 160+ 专利，覆盖 50+ 国家
+    - 最小直径 6mm，国内型号最齐全
+    - 扭矩密度高于行业均值 20%，效率最高 91%
+    - 可配套减速器、编码器、丝杠
+verified: false
+needs_review:
+  zh: true

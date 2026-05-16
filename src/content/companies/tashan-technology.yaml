@@ -1,0 +1,44 @@
+slug: tashan-technology
+name: Tashan Technology
+country: CN
+founded: 2017
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Tashan Technology
+  en: Tashan Technology logo
+  zh: Tashan Technology 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Tashan Technology предлагает тактильный датчик кончика пальца TS-F (близость, 3D-сила, температура, текстура) и тактильный датчик TS-E для захватов гуманоидных и промышленных роботов.
+  highlights:
+    - Первый в мире смешанно-сигнальный AI-чип тактильного восприятия
+    - "TS-F: близость + 3D-сила + температура + текстура"
+    - "TS-E: 1D/3D-сила, распознавание формы и материала"
+    - "Сотрудничество с INSPIRE, Mercedes, BMW, BYD"
+en:
+  description: |
+    Tashan Technology provides TS-F fingertip tactile sensor (proximity, 3D force, temperature, texture) and TS-E gripper tactile sensor for humanoid robots and industrial grippers.
+  highlights:
+    - "World's first mixed-signal AI tactile chip"
+    - "TS-F: proximity + 3D force + temperature + texture"
+    - "TS-E: 1D/3D force, object shape/material detection"
+    - "Collaborates with INSPIRE, Mercedes, BMW, BYD"
+zh:
+  description: |
+    他山科技 Tashan Technology 提供 TS-F 指尖触觉传感器（接近、三维力、温度、纹理）和 TS-E 夹爪触觉传感器，用于人形机器人和工业夹爪。
+  highlights:
+    - 全球首款混合信号 AI 触觉芯片
+    - TS-F：接近 + 三维力 + 温度 + 纹理
+    - TS-E：一维/三维力，物体形状/材质识别
+    - 与 INSPIRE、奔驰、宝马、比亚迪合作
+verified: false
+needs_review:
+  zh: true

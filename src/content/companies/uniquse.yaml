@@ -1,0 +1,43 @@
+slug: uniquse
+name: UNiQUSE
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип UNiQUSE
+  en: UNiQUSE logo
+  zh: UNiQUSE 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - connectivity
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    UNiQUSE производит кабели на скручивание для роботов и кабели для гибких цепей с ресурсом более 20 миллионов циклов, сертифицированные UL, CE, PSE, DNV-GL, для промышленных и гуманоидных роботов.
+  highlights:
+    - "Ресурс >20 млн циклов при высокочастотном скручивании"
+    - "TÜV сторонняя лаборатория, CNAS лаборатория гибких кабелей"
+    - "UL, CE, PSE, CCC, DNV-GL сертифицированы"
+    - "Industry 4.0, робототехника, полупроводники, медицина"
+en:
+  description: |
+    UNiQUSE produces robot torsion cables and drag chain cables with >20 million cycle life, UL, CE, PSE, DNV-GL certifications for industrial robots and humanoid robots.
+  highlights:
+    - ">20 million cycle life for high-frequency torsion"
+    - "TUV third-party lab, CNAS flexible cable lab"
+    - "UL, CE, PSE, CCC, DNV-GL certified"
+    - "Serves Industry 4.0, robotics, semiconductor, medical"
+zh:
+  description: |
+    上海尤尼泉电缆 UNiQUSE 生产机器人扭转电缆和拖链电缆，循环寿命 >2000 万次，通过 UL、CE、PSE、DNV-GL 认证，服务工业机器人和人形机器人。
+  highlights:
+    - ">2000 万次高频扭转寿命"
+    - TÜV 第三方实验室、CNAS 柔性电缆实验室
+    - UL、CE、PSE、CCC、DNV-GL 认证
+    - 服务工业 4.0、机器人、半导体、医疗
+verified: false
+needs_review:
+  zh: true

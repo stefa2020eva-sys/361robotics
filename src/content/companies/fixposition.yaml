@@ -1,0 +1,44 @@
+slug: fixposition
+name: Fixposition
+country: CH
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Fixposition
+  en: Fixposition logo
+  zh: Fixposition 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - sensors
+  - software-sdk
+produces_components:
+  - lidar
+key_clients: []
+ru:
+  description: |
+    Fixposition предлагает платформу позиционирования xFusion PBx-A1 с RTK и расширением видением: NPU 10 TOPS, точность на улице 1–3 см, дрейф 0,75% при пропадании GNSS для автономного вождения и робототехники.
+  highlights:
+    - "Спин-офф ETH Zurich, инкубатор ESA"
+    - "xFusion PBx-A1: NPU 10 TOPS"
+    - Точность на улице 1–3 см
+    - "Дрейф 0,75% при пропадании GNSS, курс 0,15°"
+en:
+  description: |
+    Fixposition provides xFusion PBx-A1 vision-enhanced RTK positioning platform with 10 TOPS NPU, 1-3cm outdoor accuracy, and 0.75% drift during GNSS outage for autonomous driving and robotics.
+  highlights:
+    - "ETH Zurich spin-off, European Space Agency incubator"
+    - "xFusion PBx-A1: 10 TOPS NPU"
+    - Outdoor accuracy 1-3cm
+    - "0.75% drift during GNSS outage, heading 0.15°"
+zh:
+  description: |
+    非普导航 Fixposition 提供 xFusion PBx-A1 视觉增强 RTK 定位平台，10 TOPS NPU，室外精度 1–3cm，GNSS 失锁期间漂移 0.75%，服务自动驾驶和机器人。
+  highlights:
+    - ETH 苏黎世孵化、欧洲空间局孵化器
+    - xFusion PBx-A1：10 TOPS NPU
+    - 室外精度 1–3cm
+    - "GNSS 失锁漂移 0.75%，航向 0.15°"
+verified: false
+needs_review:
+  zh: true

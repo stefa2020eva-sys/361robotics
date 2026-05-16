@@ -1,0 +1,44 @@
+slug: newgear
+name: Newgear
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Newgear
+  en: Newgear logo
+  zh: Newgear 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - actuators
+  - mechanical
+produces_components:
+  - servo-motor
+key_clients: []
+ru:
+  description: |
+    Newgear выпускает прецизионные планетарные редукторы, мотор-редукторы и суставные приводы для четвероногих и гуманоидных роботов; продукция отличается компактностью, высокой удельной мощностью и быстрым откликом крутящего момента.
+  highlights:
+    - Площадка 50 000 м², более 500 сотрудников, 400+ станков
+    - 99 патентов (49 на изобретения)
+    - Суставной привод объединяет моментный мотор, драйвер, энкодер и планетарный редуктор
+    - FOC векторное управление, низкий люфт, высокая перегрузочная способность
+en:
+  description: |
+    Newgear produces precision planetary reducers, reduction motors, and joint actuators for quadruped and humanoid robots, featuring compact structure, high power density, and fast torque response.
+  highlights:
+    - 50000㎡ facility, 500+ employees, 400+ machines
+    - 99 patents (49 invention)
+    - Joint actuator integrates torque motor, driver, encoder, planetary reducer
+    - FOC vector control, low backlash, high overload capacity
+zh:
+  description: |
+    纽格尔生产用于四足和人形机器人的精密行星减速器、减速电机和关节执行器，结构紧凑、功率密度高、扭矩响应快速。
+  highlights:
+    - 厂区 50 000 ㎡，500+ 员工，400+ 台设备
+    - 99 项专利（49 项发明专利）
+    - 关节执行器集成扭矩电机、驱动器、编码器、行星减速器
+    - FOC 矢量控制，低背隙，高过载能力
+verified: false
+needs_review:
+  zh: true

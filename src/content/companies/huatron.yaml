@@ -1,0 +1,45 @@
+slug: huatron
+name: HUATRON
+country: CN
+founded: 2017
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип HUATRON
+  en: HUATRON logo
+  zh: HUATRON 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - controllers
+  - drives-power
+produces_components:
+  - motion-controller
+key_clients: []
+ru:
+  description: |
+    HUATRON выпускает драйверы для суставных модулей HO (интеграция сенсора и управления, экономия осевого пространства на 35%, рост удельной мощности на 40%) и низковольтные сервоприводы для гуманоидных роботов и экзоскелетов.
+  highlights:
+    - "HO-сустав: сверхтонкая интеграция датчика и управления"
+    - Бессенсорное силовое управление с точностью 1 г
+    - "Автонастройка в один клик, STO"
+    - "EtherCAT/CANopen, широкое напряжение DC 24–60 В"
+en:
+  description: |
+    HUATRON provides HO joint module drives (sensor-control integrated, 35% axial space reduction, 40% power density increase) and low-voltage servo systems for humanoid and exoskeleton robots.
+  highlights:
+    - "HO joint: ultra-thin sense-control integration"
+    - Sensorless force control algorithm with 1g precision
+    - "One-click auto-tuning, STO safety"
+    - "EtherCAT/CANopen, wide voltage DC24-60V"
+zh:
+  description: |
+    华创智企 HUATRON 提供 HO 关节模组驱动器（传感-控制一体化，轴向空间减小 35%，功率密度提升 40%）和面向人形机器人与外骨骼的低压伺服系统。
+  highlights:
+    - HO 关节：超薄感控一体化
+    - 无传感器力控算法，精度 1g
+    - 一键自整定，STO 安全
+    - EtherCAT/CANopen，宽电压 DC24-60V
+verified: false
+needs_review:
+  zh: true
