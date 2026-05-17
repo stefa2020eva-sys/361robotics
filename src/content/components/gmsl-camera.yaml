@@ -1,0 +1,19 @@
+slug: gmsl-camera
+category: vision
+featured: false
+ru:
+  name: GMSL-камера
+  description: |
+    Камера с последовательным интерфейсом передачи видеосигнала GMSL для длинных кабельных трасс.
+    Применяется в автомобильных и мобильных роботизированных платформах.
+en:
+  name: GMSL Camera
+  description: |
+    A camera using the Gigabit Multimedia Serial Link interface for long cable runs.
+    Used in automotive and mobile robotic platforms.
+zh:
+  name: GMSL 相机
+  description: |
+    采用 GMSL 千兆多媒体串行接口的相机，可支持较长的线束传输。
+    应用于汽车与移动机器人平台。
+verified: false

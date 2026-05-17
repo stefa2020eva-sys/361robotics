@@ -1,0 +1,19 @@
+slug: planetary-roller-screw
+category: actuators
+featured: true
+ru:
+  name: Планетарная роликовинтовая передача
+  description: |
+    Высоконагруженная передача с роликами вместо шариков, обеспечивающая большую грузоподъёмность и длительный ресурс.
+    Ключевой элемент линейных приводов гуманоидных роботов.
+en:
+  name: Planetary Roller Screw
+  description: |
+    A high-load linear transmission using rollers instead of balls for greater capacity and long life.
+    A core element in linear actuators for humanoid robots.
+zh:
+  name: 行星滚柱丝杠
+  description: |
+    以滚柱替代滚珠的高负载直线传动机构，承载能力大、寿命长。
+    人形机器人直线执行器中的关键部件。
+verified: false

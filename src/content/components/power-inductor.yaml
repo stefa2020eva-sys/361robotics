@@ -1,0 +1,19 @@
+slug: power-inductor
+category: drives-power
+featured: false
+ru:
+  name: Силовой дроссель
+  description: |
+    Индуктивный компонент для фильтрации тока и сглаживания пульсаций в силовых преобразователях.
+    Применяется в приводах, источниках питания и инверторах роботов.
+en:
+  name: Power Inductor
+  description: |
+    An inductive component for current filtering and ripple smoothing in power converters.
+    Used in drives, power supplies, and robot inverters.
+zh:
+  name: 功率电感
+  description: |
+    用于功率变换器中电流滤波和纹波平滑的电感元件。
+    应用于驱动器、电源及机器人逆变器。
+verified: false

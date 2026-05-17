@@ -1,0 +1,19 @@
+slug: wireless-power-data
+category: connectivity
+featured: false
+ru:
+  name: Беспроводная передача энергии и данных
+  description: |
+    Системы индуктивной зарядки и беспроводной связи для мобильных и поворотных частей робота.
+    Применяются в AMR, поворотных платформах и сервисных роботах.
+en:
+  name: Wireless Power & Data Transfer
+  description: |
+    Inductive charging and wireless communication systems for mobile and rotating robot parts.
+    Used in AMRs, rotary platforms, and service robots.
+zh:
+  name: 无线供电与数据传输
+  description: |
+    面向移动和旋转部件的无线充电与通信系统。
+    应用于 AMR、回转平台及服务机器人。
+verified: false

@@ -1,0 +1,19 @@
+slug: harmonic-reducer
+category: actuators
+featured: true
+ru:
+  name: Волновой редуктор
+  description: |
+    Прецизионный редуктор с гибким колесом и волновым генератором, обеспечивающий высокое передаточное число и нулевой люфт.
+    Ключевой компонент шарниров промышленных и гуманоидных роботов.
+en:
+  name: Harmonic Reducer
+  description: |
+    A precision strain-wave gearbox providing high reduction ratio and zero backlash.
+    A core component in joints of industrial and humanoid robots.
+zh:
+  name: 谐波减速器
+  description: |
+    采用柔轮与波发生器的精密减速器，传动比大且零背隙。
+    工业机器人和人形机器人关节中的核心部件。
+verified: false

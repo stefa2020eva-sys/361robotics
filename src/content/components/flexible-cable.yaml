@@ -1,0 +1,19 @@
+slug: flexible-cable
+category: connectivity
+featured: false
+ru:
+  name: Гибкий робототехнический кабель
+  description: |
+    Кабель с повышенной устойчивостью к изгибам и кручению для подвижных частей робота.
+    Применяется в кабель-каналах, манипуляторах и шарнирах.
+en:
+  name: Flexible Robot Cable
+  description: |
+    A cable with high bending and torsion resistance for moving robot parts.
+    Used in cable carriers, manipulators, and joints.
+zh:
+  name: 机器人柔性电缆
+  description: |
+    具有高耐弯曲和耐扭转性能的电缆，用于机器人运动部件。
+    应用于拖链、机械臂及关节。
+verified: false

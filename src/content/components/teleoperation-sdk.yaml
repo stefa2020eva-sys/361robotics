@@ -1,0 +1,19 @@
+slug: teleoperation-sdk
+category: software-sdk
+featured: false
+ru:
+  name: SDK телеуправления
+  description: |
+    Набор библиотек и протоколов для удалённого управления роботом и сбора демонстраций.
+    Применяется в обучении моделей действиями оператора и в дистанционной эксплуатации.
+en:
+  name: Teleoperation SDK
+  description: |
+    A toolkit of libraries and protocols for remote robot control and demonstration capture.
+    Used for training action models from operator demos and for remote operation.
+zh:
+  name: 遥操作 SDK
+  description: |
+    用于远程机器人控制和示教数据采集的库与协议工具包。
+    应用于动作模型示教训练和远程作业。
+verified: false

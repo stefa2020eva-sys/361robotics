@@ -1,0 +1,19 @@
+slug: machine-vision-system
+category: vision
+featured: true
+ru:
+  name: Система машинного зрения
+  description: |
+    Комплекс из камер, оптики, освещения и ПО для автоматического визуального контроля и идентификации.
+    Используется в роботизированных линиях, метрологии и инспекции.
+en:
+  name: Machine Vision System
+  description: |
+    An integrated set of cameras, optics, lighting, and software for automated visual inspection and identification.
+    Used in robotic production lines, metrology, and quality inspection.
+zh:
+  name: 机器视觉系统
+  description: |
+    由相机、镜头、光源和软件构成的自动视觉检测与识别系统。
+    应用于机器人产线、计量和质量检测。
+verified: false

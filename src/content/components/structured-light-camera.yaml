@@ -1,0 +1,19 @@
+slug: structured-light-camera
+category: vision
+featured: true
+ru:
+  name: 3D-камера со структурированной подсветкой
+  description: |
+    Система 3D-съёмки, проецирующая известный световой узор и восстанавливающая геометрию по его деформации.
+    Применяется для бин-пикинга, инспекции качества и точного сканирования.
+en:
+  name: Structured Light 3D Camera
+  description: |
+    A 3D imaging system that projects a known light pattern and reconstructs geometry from its deformation.
+    Used for bin picking, quality inspection, and precise scanning.
+zh:
+  name: 结构光 3D 相机
+  description: |
+    投射已知光斑并根据其形变重建几何形状的 3D 成像系统。
+    应用于无序抓取、质量检测和精密扫描。
+verified: false

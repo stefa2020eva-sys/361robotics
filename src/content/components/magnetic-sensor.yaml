@@ -1,0 +1,19 @@
+slug: magnetic-sensor
+category: sensors
+featured: false
+ru:
+  name: Магнитный датчик положения
+  description: |
+    Бесконтактный датчик угла или линейного положения на основе эффекта Холла или магниторезистивного принципа.
+    Применяется в шарнирах, моторах и системах обратной связи.
+en:
+  name: Magnetic Position Sensor
+  description: |
+    A contactless angular or linear position sensor based on Hall effect or magnetoresistive principle.
+    Used in joints, motors, and feedback control systems.
+zh:
+  name: 磁性位置传感器
+  description: |
+    基于霍尔效应或磁阻原理的非接触式角度或直线位置传感器。
+    用于关节、电机及反馈控制系统。
+verified: false

@@ -1,0 +1,19 @@
+slug: lightweight-structure
+category: mechanical
+featured: false
+ru:
+  name: Лёгкая конструктивная деталь
+  description: |
+    Несущие или подвижные детали оптимизированной топологии для снижения массы робота.
+    Применяются в шасси, манипуляторах и подвижных модулях.
+en:
+  name: Lightweight Structural Part
+  description: |
+    Load-bearing or moving parts with optimised topology to reduce robot mass.
+    Used in chassis, manipulators, and moving modules.
+zh:
+  name: 轻量化结构件
+  description: |
+    经过拓扑优化的承载或运动结构件，用于降低机器人整体质量。
+    应用于底盘、机械臂及运动模组。
+verified: false

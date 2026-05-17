@@ -1,0 +1,19 @@
+slug: coreless-motor
+category: actuators
+featured: true
+ru:
+  name: Двигатель с полым ротором
+  description: |
+    Компактный электродвигатель без железного сердечника ротора с малой инерцией и быстрым откликом.
+    Используется в лёгких сервоприводах, медицинских устройствах и пальцах ловких рук.
+en:
+  name: Coreless Motor
+  description: |
+    A compact electric motor without an iron rotor core, offering low inertia and fast response.
+    Used in lightweight servos, medical devices, and dexterous-hand fingers.
+zh:
+  name: 空心杯电机
+  description: |
+    无铁芯转子的紧凑型电动机，惯量低、响应快。
+    广泛用于轻型伺服、医疗设备及灵巧手手指等场景。
+verified: false

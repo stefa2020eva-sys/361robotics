@@ -1,0 +1,19 @@
+slug: frameless-torque-motor
+category: actuators
+featured: true
+ru:
+  name: Безрамный моментный двигатель
+  description: |
+    Высокомоментный двигатель без корпуса, встраиваемый непосредственно в шарниры роботов и поворотные оси.
+    Обеспечивает высокую плотность крутящего момента и компактность сборки.
+en:
+  name: Frameless Torque Motor
+  description: |
+    A high-torque motor without a housing, embedded directly into robot joints and rotary axes.
+    Delivers high torque density and a compact integration.
+zh:
+  name: 无框力矩电机
+  description: |
+    无外壳的高扭矩电机，可直接集成于机器人关节和旋转轴。
+    具有高扭矩密度和紧凑的集成方式。
+verified: false

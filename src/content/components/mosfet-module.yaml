@@ -1,0 +1,19 @@
+slug: mosfet-module
+category: drives-power
+featured: false
+ru:
+  name: MOSFET / Силовой модуль
+  description: |
+    Силовой полупроводниковый ключ или модуль (MOSFET, IGBT, SiC) для управления мощностью в приводах.
+    Применяется в сервоприводах и силовых преобразователях.
+en:
+  name: MOSFET / Power Module
+  description: |
+    A power semiconductor switch or module (MOSFET, IGBT, SiC) for power control in drives.
+    Used in servo drives and power converters.
+zh:
+  name: MOSFET / 功率模块
+  description: |
+    用于驱动器功率控制的半导体功率开关或模块（MOSFET、IGBT、SiC）。
+    应用于伺服驱动和功率变换器。
+verified: false

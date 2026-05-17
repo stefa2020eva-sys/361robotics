@@ -1,0 +1,19 @@
+slug: brushless-motor
+category: actuators
+featured: true
+ru:
+  name: Бесщёточный двигатель постоянного тока
+  description: |
+    Электродвигатель без щёток с электронной коммутацией, обеспечивающий высокий КПД и длительный ресурс.
+    Широко применяется в подвижных платформах, дронах и сервоприводах роботов.
+en:
+  name: Brushless DC Motor
+  description: |
+    A brushless electric motor with electronic commutation offering high efficiency and long service life.
+    Widely used in mobile platforms, drones, and robotic servo drives.
+zh:
+  name: 无刷直流电机
+  description: |
+    采用电子换向的无刷电动机，效率高、寿命长。
+    广泛应用于移动平台、无人机和机器人伺服驱动系统。
+verified: false

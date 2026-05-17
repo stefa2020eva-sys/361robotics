@@ -1,0 +1,19 @@
+slug: imu
+category: sensors
+featured: true
+ru:
+  name: Инерциальный измерительный модуль
+  description: |
+    Сенсор, объединяющий акселерометр и гироскоп для измерения ориентации и движения объекта.
+    Применяется в гуманоидных роботах, дронах и мобильных платформах.
+en:
+  name: Inertial Measurement Unit
+  description: |
+    A sensor combining accelerometer and gyroscope to measure orientation and motion.
+    Used in humanoid robots, drones, and mobile platforms.
+zh:
+  name: 惯性测量单元
+  description: |
+    集成加速度计与陀螺仪以测量姿态和运动的传感器。
+    应用于人形机器人、无人机及移动平台。
+verified: false

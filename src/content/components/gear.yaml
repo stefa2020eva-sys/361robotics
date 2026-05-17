@@ -1,0 +1,19 @@
+slug: gear
+category: mechanical
+featured: false
+ru:
+  name: Прецизионная шестерня
+  description: |
+    Зубчатое колесо с высокой точностью профиля и низким уровнем шума для трансмиссий роботов.
+    Применяется в редукторах, дифференциалах и узлах передач.
+en:
+  name: Precision Gear
+  description: |
+    A gear wheel with high-accuracy tooth profile and low noise for robot transmissions.
+    Used in reducers, differentials, and transmission assemblies.
+zh:
+  name: 精密齿轮
+  description: |
+    具有高精度齿形和低噪声的传动齿轮，适用于机器人传动系统。
+    用于减速器、差速器及传动总成。
+verified: false

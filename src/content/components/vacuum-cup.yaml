@@ -1,0 +1,19 @@
+slug: vacuum-cup
+category: end-effectors
+featured: false
+ru:
+  name: Вакуумный захват
+  description: |
+    Захватный элемент на основе разрежения для перемещения плоских и хрупких объектов.
+    Применяется в упаковке, логистике и обращении с листовыми материалами.
+en:
+  name: Vacuum Gripper
+  description: |
+    A suction-based gripping element for moving flat or fragile objects.
+    Used in packaging, logistics, and sheet-material handling.
+zh:
+  name: 真空吸盘
+  description: |
+    基于负压的抓取元件，用于搬运平整或易碎物体。
+    应用于包装、物流及板材搬运。
+verified: false

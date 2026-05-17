@@ -1,0 +1,19 @@
+slug: battery-pack
+category: drives-power
+featured: true
+ru:
+  name: Аккумуляторная батарея
+  description: |
+    Литий-ионный или литий-полимерный аккумуляторный модуль с системой управления (BMS) для питания робота.
+    Применяется в мобильных платформах, дронах и гуманоидных роботах.
+en:
+  name: Battery Pack
+  description: |
+    A lithium-ion or lithium-polymer battery module with a BMS for powering robots.
+    Used in mobile platforms, drones, and humanoid robots.
+zh:
+  name: 电池组
+  description: |
+    带 BMS 管理系统的锂离子或锂聚合物电池模组，为机器人提供动力。
+    应用于移动平台、无人机及人形机器人。
+verified: false

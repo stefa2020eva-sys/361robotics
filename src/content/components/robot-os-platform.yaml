@@ -1,0 +1,19 @@
+slug: robot-os-platform
+category: controllers
+featured: true
+ru:
+  name: Платформа ОС для роботов
+  description: |
+    Программная платформа, включающая ядро ОС реального времени, ROS-совместимый стек и средства разработки.
+    Используется как базовый слой для построения роботизированных систем.
+en:
+  name: Robot OS Platform
+  description: |
+    A software platform with a real-time OS core, ROS-compatible stack, and developer tooling.
+    Serves as the foundational layer for building robotic systems.
+zh:
+  name: 机器人操作系统平台
+  description: |
+    包含实时操作系统内核、ROS 兼容栈和开发工具的软件平台。
+    作为构建机器人系统的基础层。
+verified: false

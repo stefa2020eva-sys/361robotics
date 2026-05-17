@@ -1,0 +1,19 @@
+slug: ball-screw
+category: actuators
+featured: true
+ru:
+  name: Шариковинтовая передача
+  description: |
+    Прецизионный механизм преобразования вращательного движения в линейное на шариковых элементах качения.
+    Применяется в линейных приводах, станках и приводах суставов гуманоидных роботов.
+en:
+  name: Ball Screw
+  description: |
+    A precision rotary-to-linear motion converter using recirculating balls.
+    Used in linear actuators, machine tools, and humanoid-robot joint drives.
+zh:
+  name: 滚珠丝杠
+  description: |
+    采用滚珠循环将旋转运动转换为直线运动的精密传动机构。
+    用于直线执行器、机床以及人形机器人关节驱动。
+verified: false

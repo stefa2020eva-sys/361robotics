@@ -1,0 +1,19 @@
+slug: composite-material
+category: mechanical
+featured: false
+ru:
+  name: Композитные материалы (PEEK / углепластик)
+  description: |
+    Высокопрочные лёгкие материалы — PEEK, углеволокно и их композиты — для облегчённых деталей роботов.
+    Применяются в корпусах, рычагах и подвижных конструкциях.
+en:
+  name: Composite Material (PEEK/CF)
+  description: |
+    High-strength lightweight materials — PEEK, carbon fibre, and composites — for weight-optimised robot parts.
+    Used in housings, links, and moving structures.
+zh:
+  name: 复合材料 (PEEK/碳纤维)
+  description: |
+    用于机器人轻量化部件的高强度轻质材料——PEEK、碳纤维及其复合材料。
+    应用于外壳、连杆和运动结构件。
+verified: false

@@ -1,0 +1,19 @@
+slug: dexterous-hand
+category: end-effectors
+featured: true
+ru:
+  name: Ловкая рука
+  description: |
+    Антропоморфный многопальцевый манипулятор с независимыми приводами и тактильными датчиками.
+    Применяется в гуманоидных роботах для тонкой манипуляции.
+en:
+  name: Dexterous Hand
+  description: |
+    A multi-finger anthropomorphic end effector with independent drives and tactile sensing.
+    Used in humanoid robots for fine manipulation.
+zh:
+  name: 灵巧手
+  description: |
+    具有独立驱动和触觉感知的多指仿人末端执行器。
+    应用于人形机器人精细操作。
+verified: false

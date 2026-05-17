@@ -1,0 +1,19 @@
+slug: custom-end-effector
+category: end-effectors
+featured: false
+ru:
+  name: Заказной концевой эффектор
+  description: |
+    Специализированный инструмент или захват, разработанный под конкретную технологическую операцию.
+    Применяется в нестандартных автоматизированных ячейках и интеграционных проектах.
+en:
+  name: Custom End Effector
+  description: |
+    A specialised tool or gripper designed for a specific process operation.
+    Used in custom automation cells and integration projects.
+zh:
+  name: 定制末端执行器
+  description: |
+    针对特定工艺操作设计的专用工具或夹具。
+    应用于非标自动化单元和集成项目。
+verified: false

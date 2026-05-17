@@ -1,0 +1,19 @@
+slug: embodied-ai-foundation
+category: software-sdk
+featured: true
+ru:
+  name: Базовая модель воплощённого ИИ
+  description: |
+    Большая мультимодальная модель (Vision-Language-Action) для управления манипуляцией и навигацией роботов.
+    Применяется как «мозг» в гуманоидных и сервисных роботах.
+en:
+  name: Embodied AI Foundation Model
+  description: |
+    A large multimodal model (Vision-Language-Action) controlling robot manipulation and navigation.
+    Used as the "brain" of humanoid and service robots.
+zh:
+  name: 具身 AI 基础模型
+  description: |
+    用于机器人操作与导航的多模态视觉-语言-动作大模型。
+    作为人形与服务机器人的"大脑"。
+verified: false

@@ -1,0 +1,19 @@
+slug: thermal-imaging-sensor
+category: sensors
+featured: false
+ru:
+  name: Тепловизионный датчик
+  description: |
+    Инфракрасный датчик, формирующий тепловое изображение сцены для контроля температуры и обнаружения объектов.
+    Применяется в инспекционных и сервисных роботах.
+en:
+  name: Thermal Imaging Sensor
+  description: |
+    An infrared sensor producing a thermal image of a scene for temperature monitoring and object detection.
+    Used in inspection and service robots.
+zh:
+  name: 热成像传感器
+  description: |
+    生成场景热图像的红外传感器，用于温度监测和目标检测。
+    应用于巡检与服务机器人。
+verified: false

@@ -1,0 +1,19 @@
+slug: linear-actuator
+category: actuators
+featured: true
+ru:
+  name: Линейный привод
+  description: |
+    Узел, обеспечивающий прямолинейное движение исполнительного элемента с электроприводом.
+    Применяется в ногах и руках гуманоидных роботов, а также в автоматизации.
+en:
+  name: Linear Actuator
+  description: |
+    An assembly that produces straight-line motion driven by an electric motor.
+    Used in humanoid-robot legs and arms, and in industrial automation.
+zh:
+  name: 直线执行器
+  description: |
+    由电机驱动产生直线运动的执行单元。
+    应用于人形机器人腿臂以及工业自动化。
+verified: false

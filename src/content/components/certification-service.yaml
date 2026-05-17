@@ -1,0 +1,19 @@
+slug: certification-service
+category: safety
+featured: false
+ru:
+  name: Сертификация и испытания робототехники
+  description: |
+    Услуги по сертификации, функциональной безопасности и испытаниям робототехнических изделий.
+    Применяются для подтверждения соответствия CE, UL, ISO и другим стандартам.
+en:
+  name: Robotics Certification & Testing
+  description: |
+    Certification, functional-safety, and testing services for robotic products.
+    Used to demonstrate compliance with CE, UL, ISO, and similar standards.
+zh:
+  name: 机器人认证与测试
+  description: |
+    面向机器人产品的认证、功能安全与测试服务。
+    用于满足 CE、UL、ISO 等标准合规要求。
+verified: false

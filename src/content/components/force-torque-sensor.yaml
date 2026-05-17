@@ -1,0 +1,19 @@
+slug: force-torque-sensor
+category: sensors
+featured: true
+ru:
+  name: Датчик силы и момента
+  description: |
+    Шестиосевой датчик, измеряющий силы и моменты в трёх осях для обратной связи в робототехнике.
+    Применяется в сборочных операциях, шлифовке и совместной работе с человеком.
+en:
+  name: Force/Torque Sensor
+  description: |
+    A six-axis sensor measuring forces and torques in three axes for robot feedback control.
+    Used in assembly, polishing, and human-robot collaboration tasks.
+zh:
+  name: 力/扭矩传感器
+  description: |
+    测量三轴力与扭矩的六维传感器，用于机器人反馈控制。
+    应用于装配、打磨及人机协作等任务。
+verified: false

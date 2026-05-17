@@ -1,0 +1,19 @@
+slug: portable-power-station
+category: drives-power
+featured: false
+ru:
+  name: Портативная зарядная станция
+  description: |
+    Мобильный накопитель энергии для питания и подзарядки роботов в полевых условиях.
+    Применяется в сервисных и инспекционных миссиях.
+en:
+  name: Portable Power Station
+  description: |
+    A mobile energy storage unit for powering and recharging robots in the field.
+    Used in service and inspection missions.
+zh:
+  name: 便携式储能电源
+  description: |
+    可在野外为机器人供电和补能的移动储能单元。
+    应用于服务与巡检任务。
+verified: false

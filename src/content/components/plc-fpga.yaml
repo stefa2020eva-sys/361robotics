@@ -1,0 +1,19 @@
+slug: plc-fpga
+category: controllers
+featured: false
+ru:
+  name: ПЛК / FPGA-контроллер
+  description: |
+    Программируемый промышленный контроллер либо FPGA-плата для жёсткой реальной обработки сигналов и логики.
+    Применяется в производственных линиях и системах управления движением.
+en:
+  name: PLC/FPGA Controller
+  description: |
+    A programmable industrial controller or FPGA board for hard real-time signal and logic processing.
+    Used in production lines and motion control systems.
+zh:
+  name: PLC/FPGA 控制器
+  description: |
+    可编程工业控制器或 FPGA 板卡，支持硬实时信号与逻辑处理。
+    应用于生产线与运动控制系统。
+verified: false

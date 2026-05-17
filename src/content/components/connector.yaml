@@ -1,0 +1,19 @@
+slug: connector
+category: connectivity
+featured: false
+ru:
+  name: Промышленный разъём
+  description: |
+    Силовой и сигнальный соединитель промышленного класса с высокой ресурсной устойчивостью.
+    Применяется в шкафах управления, приводах и роботизированных модулях.
+en:
+  name: Industrial Connector
+  description: |
+    An industrial-grade power and signal connector with high mating-cycle durability.
+    Used in control cabinets, drives, and robotic modules.
+zh:
+  name: 工业连接器
+  description: |
+    工业级电源与信号连接器，具有较高的插拔耐用性。
+    应用于控制柜、驱动器及机器人模组。
+verified: false

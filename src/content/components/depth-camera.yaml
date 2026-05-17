@@ -1,0 +1,19 @@
+slug: depth-camera
+category: vision
+featured: true
+ru:
+  name: Камера глубины
+  description: |
+    Камера, формирующая карту расстояний до сцены (стерео, ToF или активная инфракрасная).
+    Применяется в навигации, манипулировании и 3D-восприятии для роботов.
+en:
+  name: Depth Camera
+  description: |
+    A camera producing a depth map of the scene (stereo, ToF, or active IR).
+    Used for navigation, manipulation, and 3D perception in robots.
+zh:
+  name: 深度相机
+  description: |
+    生成场景深度图的相机（双目、ToF 或主动红外）。
+    用于机器人导航、操作和 3D 感知。
+verified: false

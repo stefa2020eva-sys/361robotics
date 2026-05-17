@@ -1,0 +1,19 @@
+slug: motion-capture-system
+category: vision
+featured: false
+ru:
+  name: Система захвата движения
+  description: |
+    Многокамерная оптическая или инерциальная система, регистрирующая движение объектов и людей в 3D.
+    Применяется для обучения роботов, телеуправления и сбора данных.
+en:
+  name: Motion Capture System
+  description: |
+    A multi-camera optical or inertial system that tracks the 3D motion of objects and people.
+    Used for robot training, teleoperation, and data collection.
+zh:
+  name: 动作捕捉系统
+  description: |
+    通过多相机光学或惯性方式跟踪物体与人体 3D 运动的系统。
+    应用于机器人训练、遥操作和数据采集。
+verified: false

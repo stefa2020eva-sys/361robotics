@@ -1,0 +1,19 @@
+slug: brake-module
+category: safety
+featured: false
+ru:
+  name: Тормозной модуль
+  description: |
+    Электромагнитный или фрикционный тормоз для удержания оси при отключении питания.
+    Применяется в шарнирах роботов и подъёмных осях для безопасности.
+en:
+  name: Brake Module
+  description: |
+    An electromagnetic or friction brake that holds an axis when power is removed.
+    Used in robot joints and lifting axes for safety hold.
+zh:
+  name: 制动模块
+  description: |
+    在断电时保持轴位置的电磁或摩擦制动器。
+    用于机器人关节和升降轴的安全保持。
+verified: false

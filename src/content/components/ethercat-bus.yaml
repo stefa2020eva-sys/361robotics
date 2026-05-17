@@ -1,0 +1,19 @@
+slug: ethercat-bus
+category: connectivity
+featured: true
+ru:
+  name: Модуль EtherCAT / промышленной шины
+  description: |
+    Микросхемы и модули для построения реальной шинной коммуникации EtherCAT, CANopen или PROFINET.
+    Применяются в синхронизированных многоосевых системах роботов.
+en:
+  name: EtherCAT / Fieldbus Module
+  description: |
+    Chips and modules implementing real-time fieldbus communication (EtherCAT, CANopen, PROFINET).
+    Used in synchronised multi-axis robot systems.
+zh:
+  name: EtherCAT / 现场总线模块
+  description: |
+    实现实时现场总线通信（EtherCAT、CANopen、PROFINET）的芯片和模组。
+    应用于同步多轴机器人系统。
+verified: false

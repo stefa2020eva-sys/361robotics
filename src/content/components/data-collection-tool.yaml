@@ -1,0 +1,19 @@
+slug: data-collection-tool
+category: software-sdk
+featured: false
+ru:
+  name: Инструментарий сбора данных
+  description: |
+    ПО и аппаратные решения для записи и разметки сенсорных и действий-данных с робота.
+    Применяется при формировании датасетов для обучения политик и моделей восприятия.
+en:
+  name: Data Collection Toolkit
+  description: |
+    Software and hardware solutions for recording and labelling sensor and action data from robots.
+    Used to build datasets for training policies and perception models.
+zh:
+  name: 数据采集工具包
+  description: |
+    用于记录和标注机器人传感器与动作数据的软硬件解决方案。
+    应用于策略与感知模型训练数据集的构建。
+verified: false

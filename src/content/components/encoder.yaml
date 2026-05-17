@@ -1,0 +1,19 @@
+slug: encoder
+category: sensors
+featured: true
+ru:
+  name: Энкодер
+  description: |
+    Датчик положения вала, преобразующий угол поворота или перемещение в цифровой сигнал.
+    Применяется в сервоприводах, шарнирах роботов и системах ЧПУ.
+en:
+  name: Encoder
+  description: |
+    A position sensor that converts shaft rotation or displacement into a digital signal.
+    Used in servo drives, robot joints, and CNC systems.
+zh:
+  name: 编码器
+  description: |
+    将轴的旋转或位移转换为数字信号的位置传感器。
+    用于伺服驱动、机器人关节和数控系统。
+verified: false

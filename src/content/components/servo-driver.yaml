@@ -1,0 +1,19 @@
+slug: servo-driver
+category: controllers
+featured: true
+ru:
+  name: Сервопривод
+  description: |
+    Силовой электронный блок, управляющий сервомотором по цепи обратной связи положения, скорости и тока.
+    Применяется в шарнирах роботов и системах прецизионного движения.
+en:
+  name: Servo Driver
+  description: |
+    A power electronics unit that drives a servo motor with closed-loop position, speed, and current control.
+    Used in robot joints and precision motion systems.
+zh:
+  name: 伺服驱动器
+  description: |
+    具备位置、速度和电流闭环控制的伺服电机功率驱动单元。
+    应用于机器人关节及精密运动系统。
+verified: false

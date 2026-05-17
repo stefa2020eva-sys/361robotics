@@ -1,0 +1,19 @@
+slug: proximity-sensor
+category: sensors
+featured: false
+ru:
+  name: Датчик приближения
+  description: |
+    Бесконтактный датчик обнаружения объекта на коротком расстоянии (индуктивный, ёмкостный, ИК).
+    Применяется для предотвращения столкновений и распознавания присутствия объектов.
+en:
+  name: Proximity Sensor
+  description: |
+    A contactless sensor detecting nearby objects (inductive, capacitive, or infrared).
+    Used for collision avoidance and presence detection.
+zh:
+  name: 接近传感器
+  description: |
+    检测近距离物体的非接触式传感器（电感、电容或红外）。
+    应用于防碰撞与物体存在检测。
+verified: false

@@ -1,0 +1,19 @@
+slug: precision-machining
+category: mechanical
+featured: false
+ru:
+  name: Услуги прецизионной механической обработки
+  description: |
+    Производство деталей по чертежам клиента с высокой точностью на станках с ЧПУ.
+    Применяется при изготовлении компонентов для роботизированных систем.
+en:
+  name: Precision Machining Service
+  description: |
+    Manufacturing of customer-drawing parts to tight tolerances on CNC machines.
+    Used to produce custom components for robotic systems.
+zh:
+  name: 精密机械加工服务
+  description: |
+    按照客户图纸在数控机床上加工高精度零件。
+    用于为机器人系统提供定制部件。
+verified: false

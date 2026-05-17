@@ -1,0 +1,19 @@
+slug: bearing
+category: mechanical
+featured: true
+ru:
+  name: Прецизионный подшипник
+  description: |
+    Высокоточный подшипник качения, обеспечивающий минимальное трение и точное вращение оси.
+    Применяется в шарнирах роботов, шпинделях и поворотных столах.
+en:
+  name: Precision Bearing
+  description: |
+    A high-precision rolling-element bearing providing low friction and accurate axis rotation.
+    Used in robot joints, spindles, and rotary tables.
+zh:
+  name: 精密轴承
+  description: |
+    具有低摩擦和精确旋转性能的高精度滚动轴承。
+    应用于机器人关节、主轴和回转工作台。
+verified: false

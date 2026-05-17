@@ -1,0 +1,19 @@
+slug: cycloidal-reducer
+category: actuators
+featured: false
+ru:
+  name: Циклоидальный редуктор
+  description: |
+    Редуктор на основе циклоидной передачи с высокой ударной прочностью и большим передаточным числом.
+    Используется в тяжёлых промышленных роботах и приводах с большими нагрузками.
+en:
+  name: Cycloidal Reducer
+  description: |
+    A reducer based on cycloidal gearing with high shock resistance and large reduction ratios.
+    Used in heavy-duty industrial robots and high-load drives.
+zh:
+  name: 摆线减速器
+  description: |
+    基于摆线齿轮的减速器，抗冲击能力强且传动比大。
+    适用于重载工业机器人和大负载传动场景。
+verified: false

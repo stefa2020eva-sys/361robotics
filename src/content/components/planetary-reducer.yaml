@@ -1,0 +1,19 @@
+slug: planetary-reducer
+category: actuators
+featured: true
+ru:
+  name: Планетарный редуктор
+  description: |
+    Соосный редуктор с планетарной зубчатой передачей, отличающийся высокой жёсткостью и компактностью.
+    Применяется в сервоприводах, шарнирах роботов и поворотных столах.
+en:
+  name: Planetary Reducer
+  description: |
+    A coaxial gearbox using planetary gearing for high stiffness and compact size.
+    Used in servo drives, robot joints, and rotary tables.
+zh:
+  name: 行星减速器
+  description: |
+    采用行星齿轮的同轴减速器，刚度高且结构紧凑。
+    广泛应用于伺服驱动、机器人关节及回转工作台。
+verified: false

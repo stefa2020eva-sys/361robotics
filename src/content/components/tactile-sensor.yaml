@@ -1,0 +1,19 @@
+slug: tactile-sensor
+category: sensors
+featured: true
+ru:
+  name: Тактильный датчик
+  description: |
+    Датчик, регистрирующий давление, скольжение и текстуру при контакте захвата с объектом.
+    Применяется в ловких руках и операциях точного манипулирования.
+en:
+  name: Tactile Sensor
+  description: |
+    A sensor that detects pressure, slip, and texture at the contact between a gripper and an object.
+    Used in dexterous hands and fine manipulation tasks.
+zh:
+  name: 触觉传感器
+  description: |
+    检测夹持器与物体接触面的压力、滑动和纹理的传感器。
+    应用于灵巧手与精细操作任务。
+verified: false

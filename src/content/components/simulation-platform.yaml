@@ -1,0 +1,19 @@
+slug: simulation-platform
+category: software-sdk
+featured: true
+ru:
+  name: Платформа симуляции робототехники
+  description: |
+    Среда физической и сенсорной симуляции для разработки, обучения и тестирования роботов в виртуальном мире.
+    Применяется для sim-to-real, RL и оценки безопасности.
+en:
+  name: Robotics Simulation Platform
+  description: |
+    A physics and sensor simulation environment for developing, training, and testing robots virtually.
+    Used for sim-to-real, reinforcement learning, and safety evaluation.
+zh:
+  name: 机器人仿真平台
+  description: |
+    用于机器人虚拟开发、训练和测试的物理与传感器仿真环境。
+    应用于 sim-to-real、强化学习和安全评估。
+verified: false

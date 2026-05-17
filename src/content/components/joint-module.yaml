@@ -1,0 +1,19 @@
+slug: joint-module
+category: mechanical
+featured: true
+ru:
+  name: Интегрированный модуль сустава
+  description: |
+    Готовый сборочный модуль, объединяющий мотор, редуктор, энкодер, тормоз и драйвер в одном корпусе.
+    Применяется как готовый сустав для роботизированных рук и гуманоидов.
+en:
+  name: Integrated Joint Module
+  description: |
+    A ready-to-mount module integrating motor, reducer, encoder, brake, and driver in one housing.
+    Used as a turnkey joint for robotic arms and humanoids.
+zh:
+  name: 集成关节模块
+  description: |
+    将电机、减速器、编码器、制动器和驱动器集成于一体的关节模组。
+    用作机械臂和人形机器人的标准化关节。
+verified: false

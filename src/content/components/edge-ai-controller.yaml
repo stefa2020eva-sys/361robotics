@@ -1,0 +1,19 @@
+slug: edge-ai-controller
+category: controllers
+featured: true
+ru:
+  name: Граничный AI-контроллер
+  description: |
+    Встраиваемый вычислитель с ускорителем нейросетей для запуска моделей восприятия и управления на роботе.
+    Применяется в гуманоидных, мобильных и сервисных роботах.
+en:
+  name: Edge AI Controller
+  description: |
+    An embedded computer with a neural accelerator for running perception and control models on-board the robot.
+    Used in humanoid, mobile, and service robots.
+zh:
+  name: 边缘 AI 控制器
+  description: |
+    带有神经网络加速器的嵌入式计算单元，可在机器人本体上运行感知和控制模型。
+    应用于人形、移动及服务机器人。
+verified: false
