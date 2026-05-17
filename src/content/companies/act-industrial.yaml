@@ -3,7 +3,7 @@ name: ACT Industrial
 website: https://www.szaction.com
 country: CN
 founded: 1999
-logo: ./logo.svg
+logo: /company-logos/act-industrial.png
 logo_alt:
   ru: Логотип ACT Industrial
   en: ACT Industrial logo
