@@ -1,6 +1,11 @@
 slug: planetary-roller-screw
 category: actuators
 featured: true
+image: /component-images/planetary-roller-screw.png
+image_alt:
+  ru: "Планетарный роликовинтовой механизм с роликами-сателлитами"
+  en: "Planetary roller screw with satellite rollers"
+  zh: "带卫星滚子的行星滚柱丝杠"
 ru:
   name: Планетарная роликовинтовая передача
   description: |

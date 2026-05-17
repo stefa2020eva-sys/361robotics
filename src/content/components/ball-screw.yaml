@@ -1,6 +1,11 @@
 slug: ball-screw
 category: actuators
 featured: true
+image: /component-images/ball-screw.png
+image_alt:
+  ru: "Прецизионный шарико-винтовой механизм с шариковой гайкой"
+  en: "Precision ball screw with ball nut"
+  zh: "带滚珠螺母的精密滚珠丝杠"
 ru:
   name: Шариковинтовая передача
   description: |

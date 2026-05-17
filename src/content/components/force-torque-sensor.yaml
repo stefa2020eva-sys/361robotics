@@ -1,6 +1,11 @@
 slug: force-torque-sensor
 category: sensors
 featured: true
+image: /component-images/force-torque-sensor.png
+image_alt:
+  ru: "Шестиосный датчик силы/момента с разъёмом"
+  en: "Six-axis force/torque sensor with connector"
+  zh: "带接口的六轴力/扭矩传感器"
 ru:
   name: Датчик силы и момента
   description: |

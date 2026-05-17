@@ -1,6 +1,11 @@
 slug: tactile-sensor
 category: sensors
 featured: true
+image: /component-images/tactile-sensor.png
+image_alt:
+  ru: "Гибкий тактильный сенсор для роботизированной кисти"
+  en: "Flexible tactile sensor patch for robot fingertip"
+  zh: "用于机器人指尖的柔性触觉传感器"
 ru:
   name: Тактильный датчик
   description: |

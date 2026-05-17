@@ -1,6 +1,11 @@
 slug: cycloidal-reducer
 category: actuators
 featured: false
+image: /component-images/cycloidal-reducer.png
+image_alt:
+  ru: "Циклоидальный редуктор с эксцентриковым диском и роликами"
+  en: "Cycloidal reducer with cam disc and rollers"
+  zh: "带凸轮盘和滚子的摆线减速器"
 ru:
   name: Циклоидальный редуктор
   description: |

@@ -1,6 +1,11 @@
 slug: frameless-torque-motor
 category: actuators
 featured: true
+image: /component-images/frameless-torque-motor.png
+image_alt:
+  ru: "Безрамный моментный двигатель с открытым статором и ротором"
+  en: "Frameless torque motor with exposed stator and rotor"
+  zh: "无外壳力矩电机，定子和转子可见"
 ru:
   name: Безрамный моментный двигатель
   description: |

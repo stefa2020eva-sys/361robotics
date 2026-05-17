@@ -1,6 +1,11 @@
 slug: encoder
 category: sensors
 featured: true
+image: /component-images/encoder.png
+image_alt:
+  ru: "Роторный оптический энкодер с валом и разъёмом"
+  en: "Rotary optical encoder with shaft and connector"
+  zh: "带轴和接口的旋转光学编码器"
 ru:
   name: Энкодер
   description: |

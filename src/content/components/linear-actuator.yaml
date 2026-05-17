@@ -1,6 +1,11 @@
 slug: linear-actuator
 category: actuators
 featured: true
+image: /component-images/linear-actuator.png
+image_alt:
+  ru: "Электрический линейный привод с выдвижным штоком"
+  en: "Electric linear actuator with extending rod"
+  zh: "带伸缩杆的电动直线执行器"
 ru:
   name: Линейный привод
   description: |

@@ -1,6 +1,11 @@
 slug: planetary-reducer
 category: actuators
 featured: true
+image: /component-images/planetary-reducer.png
+image_alt:
+  ru: "Планетарный редуктор с солнечной шестернёй, сателлитами и кольцевым колесом"
+  en: "Planetary gearbox with sun gear, planets and ring gear"
+  zh: "带太阳轮、行星轮和环形齿轮的行星减速器"
 ru:
   name: Планетарный редуктор
   description: |

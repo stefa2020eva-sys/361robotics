@@ -1,6 +1,11 @@
 slug: harmonic-reducer
 category: actuators
 featured: true
+image: /component-images/harmonic-reducer.png
+image_alt:
+  ru: "Волновая зубчатая передача в разрезе"
+  en: "Harmonic strain wave reducer cutaway view"
+  zh: "谐波减速器剖视图"
 ru:
   name: Волновой редуктор
   description: |
