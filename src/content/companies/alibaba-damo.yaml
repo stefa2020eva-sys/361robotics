@@ -3,7 +3,7 @@ name: Alibaba DAMO Academy
 website: https://damo.alibaba.com
 country: CN
 founded: 2017
-logo: ./logo.svg
+logo: /company-logos/alibaba-damo.svg
 logo_alt:
   ru: Логотип Alibaba DAMO Academy
   en: Alibaba DAMO Academy logo

@@ -3,7 +3,7 @@ name: GigaDevice
 website: https://www.gigadevice.com.cn
 country: CN
 founded: 2005
-logo: ./logo.svg
+logo: /company-logos/gigadevice.png
 logo_alt:
   ru: Логотип GigaDevice
   en: GigaDevice logo
