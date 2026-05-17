@@ -3,7 +3,7 @@ name: Talls Intelligent Technology (Shenzhen) Co., Ltd.
 country: CN
 founded: 2016
 website: https://www.tallsgear.com
-logo: ./logo.svg
+logo: /company-logos/talls-intelligent.png
 logo_alt:
   ru: Логотип Talls Intelligent
   en: Talls Intelligent logo
