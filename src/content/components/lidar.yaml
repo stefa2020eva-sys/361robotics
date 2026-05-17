@@ -1,6 +1,11 @@
 slug: lidar
 category: sensors
 featured: true
+image: /component-images/lidar.png
+image_alt:
+  ru: "Вращающийся 3D-лидар с прозрачным куполом"
+  en: "Rotating 3D LiDAR sensor with transparent dome"
+  zh: "带透明圆顶的旋转 3D 激光雷达传感器"
 ru:
   name: Лидар
   description: |

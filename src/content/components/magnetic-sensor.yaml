@@ -1,6 +1,11 @@
 slug: magnetic-sensor
 category: sensors
 featured: false
+image: /component-images/magnetic-sensor.png
+image_alt:
+  ru: "Магнитный датчик положения с чипом Холла и магнитом"
+  en: "Magnetic position sensor with Hall-effect chip and magnet"
+  zh: "带霍尔效应芯片和磁铁的磁性位置传感器"
 ru:
   name: Магнитный датчик положения
   description: |

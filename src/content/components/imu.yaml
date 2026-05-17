@@ -1,6 +1,11 @@
 slug: imu
 category: sensors
 featured: true
+image: /component-images/imu.png
+image_alt:
+  ru: "Инерциальный измерительный модуль (IMU) на печатной плате"
+  en: "Inertial measurement unit (IMU) PCB module"
+  zh: "惯性测量单元 (IMU) PCB 模块"
 ru:
   name: Инерциальный измерительный модуль
   description: |

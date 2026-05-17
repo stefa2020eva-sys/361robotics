@@ -1,6 +1,11 @@
 slug: depth-camera
 category: vision
 featured: true
+image: /component-images/depth-camera.png
+image_alt:
+  ru: "Стереокамера глубины с двумя объективами и ИК-проектором"
+  en: "Stereo depth camera with dual lenses and IR projector"
+  zh: "带双镜头和红外投射器的立体深度相机"
 ru:
   name: Камера глубины
   description: |

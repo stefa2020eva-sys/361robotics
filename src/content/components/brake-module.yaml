@@ -1,6 +1,11 @@
 slug: brake-module
 category: safety
 featured: false
+image: /component-images/brake-module.png
+image_alt:
+  ru: "Электромагнитный тормозной модуль для роботизированных суставов"
+  en: "Electromagnetic brake module for robot joints"
+  zh: "用于机器人关节的电磁制动模块"
 ru:
   name: Тормозной модуль
   description: |

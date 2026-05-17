@@ -1,6 +1,11 @@
 slug: proximity-sensor
 category: sensors
 featured: false
+image: /component-images/proximity-sensor.png
+image_alt:
+  ru: "Цилиндрический индуктивный датчик приближения с M12-разъёмом"
+  en: "Cylindrical inductive proximity sensor with M12 connector"
+  zh: "带 M12 接口的圆柱形电感式接近传感器"
 ru:
   name: Датчик приближения
   description: |

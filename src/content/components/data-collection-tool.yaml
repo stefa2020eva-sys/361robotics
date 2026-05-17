@@ -1,6 +1,11 @@
 slug: data-collection-tool
 category: software-sdk
 featured: false
+image: /component-images/data-collection-tool.png
+image_alt:
+  ru: "Носимое устройство для сбора данных в робототехнике"
+  en: "Wearable robotics data collection device"
+  zh: "可穿戴机器人数据采集设备"
 ru:
   name: Инструментарий сбора данных
   description: |

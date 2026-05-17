@@ -1,6 +1,11 @@
 slug: certification-service
 category: safety
 featured: false
+image: /component-images/certification-service.png
+image_alt:
+  ru: "Сертификат и документация сертификации робототехники"
+  en: "Robotics certification badge and documentation"
+  zh: "机器人认证徽章和文档"
 ru:
   name: Сертификация и испытания робототехники
   description: |

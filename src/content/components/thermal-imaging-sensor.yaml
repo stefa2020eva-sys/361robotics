@@ -1,6 +1,11 @@
 slug: thermal-imaging-sensor
 category: sensors
 featured: false
+image: /component-images/thermal-imaging-sensor.png
+image_alt:
+  ru: "Тепловизионный модуль камеры с германиевым объективом"
+  en: "Thermal imaging camera module with germanium lens"
+  zh: "带锗镜头的热成像相机模块"
 ru:
   name: Тепловизионный датчик
   description: |
