@@ -38,6 +38,16 @@ const related = (await getCollection('components')).filter(
 >
   <article class="py-8" data-pagefind-body data-pagefind-meta={`type:component,category:${data.category}`}>
     <header class="pb-6 border-b border-border">
+      {data.image && (
+        <img
+          src={data.image}
+          alt={data.image_alt?.[lang] ?? data.image_alt?.en ?? name}
+          width="1200"
+          height="800"
+          class="w-full max-w-3xl rounded mb-6 object-contain border border-border bg-white"
+          loading="eager"
+        />
+      )}
       <p class="text-sm text-muted">{t(lang, 'component.category')}: {data.category}</p>
       <h1 class="text-3xl font-bold mt-1">{name}</h1>
     </header>

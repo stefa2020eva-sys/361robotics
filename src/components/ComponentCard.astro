@@ -17,9 +17,20 @@ const name = getLocalizedField(data, lang, 'name');
   class="block border border-border rounded-lg p-4 hover:shadow-md transition-shadow no-underline"
   data-pagefind-meta={`type:component,category:${data.category}`}
 >
-  <div class="aspect-video bg-border rounded mb-3 flex items-center justify-center text-xs text-muted">
-    IMAGE
-  </div>
+  {data.image ? (
+    <img
+      src={data.image}
+      alt={data.image_alt?.[lang] ?? data.image_alt?.en ?? name}
+      width="640"
+      height="360"
+      class="aspect-video w-full object-contain bg-white rounded mb-3 border border-border"
+      loading="lazy"
+    />
+  ) : (
+    <div class="aspect-video bg-border rounded mb-3 flex items-center justify-center text-xs text-muted">
+      IMAGE
+    </div>
+  )}
   <div class="font-semibold">{name}</div>
   <div class="text-xs text-muted mt-1">{data.category}</div>
 </a>

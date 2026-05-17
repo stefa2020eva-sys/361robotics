@@ -1,6 +1,11 @@
 slug: brushless-motor
 category: actuators
 featured: true
+image: /component-images/brushless-motor.png
+image_alt:
+  ru: "Компактный бесколлекторный двигатель"
+  en: "Compact brushless DC motor"
+  zh: "紧凑型无刷直流电机"
 ru:
   name: Бесщёточный двигатель постоянного тока
   description: |

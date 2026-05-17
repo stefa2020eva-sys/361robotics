@@ -1,6 +1,11 @@
 slug: servo-motor
 category: actuators
 featured: true
+image: /component-images/servo-motor.png
+image_alt:
+  ru: "Промышленный серводвигатель с энкодером"
+  en: "Industrial servo motor with rotary encoder"
+  zh: "带旋转编码器的工业伺服电机"
 ru:
   name: Серводвигатель
   description: |

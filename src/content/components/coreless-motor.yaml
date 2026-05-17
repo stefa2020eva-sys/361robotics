@@ -1,6 +1,11 @@
 slug: coreless-motor
 category: actuators
 featured: true
+image: /component-images/coreless-motor.png
+image_alt:
+  ru: "Миниатюрный бескерновой двигатель"
+  en: "Miniature coreless DC motor"
+  zh: "微型空心杯直流电机"
 ru:
   name: Двигатель с полым ротором
   description: |
