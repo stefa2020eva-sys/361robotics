@@ -1,6 +1,11 @@
 slug: gmsl-camera
 category: vision
 featured: false
+image: /component-images/gmsl-camera.png
+image_alt:
+  ru: "Автомобильная GMSL-камера с широкоугольным объективом и Fakra-разъёмом"
+  en: "Automotive GMSL camera with wide-angle lens and Fakra connector"
+  zh: "带广角镜头和 Fakra 接口的车载 GMSL 相机"
 ru:
   name: GMSL-камера
   description: |

@@ -1,6 +1,11 @@
 slug: structured-light-camera
 category: vision
 featured: true
+image: /component-images/structured-light-camera.png
+image_alt:
+  ru: "3D-сканер структурированного света с камерой и проектором"
+  en: "Structured light 3D scanner with camera and pattern projector"
+  zh: "带相机和图案投射器的结构光 3D 扫描仪"
 ru:
   name: 3D-камера со структурированной подсветкой
   description: |
