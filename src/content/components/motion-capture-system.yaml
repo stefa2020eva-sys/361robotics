@@ -1,6 +1,11 @@
 slug: motion-capture-system
 category: vision
 featured: false
+image: /component-images/motion-capture-system.png
+image_alt:
+  ru: "Оптическая система захвата движения с отражающими маркерами"
+  en: "Optical motion capture system with reflective markers"
+  zh: "带反光标记点的光学动作捕捉系统"
 ru:
   name: Система захвата движения
   description: |

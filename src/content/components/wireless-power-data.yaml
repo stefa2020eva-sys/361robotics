@@ -1,6 +1,11 @@
 slug: wireless-power-data
 category: connectivity
 featured: false
+image: /component-images/wireless-power-data.png
+image_alt:
+  ru: "Модуль беспроводной передачи питания и данных с плоскими катушками"
+  en: "Wireless power and data transfer module with pancake coils"
+  zh: "带扁平线圈的无线供电和数据传输模块"
 ru:
   name: Беспроводная передача энергии и данных
   description: |

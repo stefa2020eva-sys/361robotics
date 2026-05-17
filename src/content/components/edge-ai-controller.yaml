@@ -1,6 +1,11 @@
 slug: edge-ai-controller
 category: controllers
 featured: true
+image: /component-images/edge-ai-controller.png
+image_alt:
+  ru: "Модуль граничных AI-вычислений с радиатором"
+  en: "Edge AI compute module with finned heat sink"
+  zh: "带散热鳍片的边缘 AI 计算模块"
 ru:
   name: Граничный AI-контроллер
   description: |

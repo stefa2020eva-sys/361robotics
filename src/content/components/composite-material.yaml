@@ -1,6 +1,11 @@
 slug: composite-material
 category: mechanical
 featured: false
+image: /component-images/composite-material.png
+image_alt:
+  ru: "Образцы композитов из углеволокна и PEEK"
+  en: "Carbon fiber and PEEK composite structural samples"
+  zh: "碳纤维和 PEEK 复合材料样品"
 ru:
   name: Композитные материалы (PEEK / углепластик)
   description: |

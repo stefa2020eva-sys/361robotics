@@ -1,6 +1,11 @@
 slug: motion-controller
 category: controllers
 featured: true
+image: /component-images/motion-controller.png
+image_alt:
+  ru: "Многоосевой контроллер движения с клеммами ввода-вывода"
+  en: "Multi-axis motion controller with IO terminals"
+  zh: "带 IO 接线端子的多轴运动控制器"
 ru:
   name: Контроллер движения
   description: |

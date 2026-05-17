@@ -1,6 +1,11 @@
 slug: flexible-cable
 category: connectivity
 featured: false
+image: /component-images/flexible-cable.png
+image_alt:
+  ru: "Высокогибкий жгут кабелей для роботов с экранированной конструкцией"
+  en: "High-flex robot cable bundle with shielded construction"
+  zh: "带屏蔽结构的高柔性机器人线束"
 ru:
   name: Гибкий робототехнический кабель
   description: |

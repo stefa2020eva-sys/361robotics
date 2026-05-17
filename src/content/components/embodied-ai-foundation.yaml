@@ -1,6 +1,11 @@
 slug: embodied-ai-foundation
 category: software-sdk
 featured: true
+image: /component-images/embodied-ai-foundation.png
+image_alt:
+  ru: "Концепт воплощённой AI-foundation модели с нейросетью и роботом"
+  en: "Embodied AI foundation model concept with neural network and robot"
+  zh: "带神经网络和机器人的具身 AI 基础模型概念"
 ru:
   name: Базовая модель воплощённого ИИ
   description: |

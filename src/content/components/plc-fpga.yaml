@@ -1,6 +1,11 @@
 slug: plc-fpga
 category: controllers
 featured: false
+image: /component-images/plc-fpga.png
+image_alt:
+  ru: "PLC/FPGA-контроллер на DIN-рейке с индикаторами состояния"
+  en: "DIN-rail PLC/FPGA controller with status indicators"
+  zh: "带状态指示灯的 DIN 导轨 PLC/FPGA 控制器"
 ru:
   name: ПЛК / FPGA-контроллер
   description: |

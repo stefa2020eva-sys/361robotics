@@ -1,6 +1,11 @@
 slug: battery-pack
 category: drives-power
 featured: true
+image: /component-images/battery-pack.png
+image_alt:
+  ru: "Литий-ионный аккумуляторный блок с дисплеем и разъёмами"
+  en: "Lithium-ion battery pack with display and connectors"
+  zh: "带显示屏和接口的锂离子电池组"
 ru:
   name: Аккумуляторная батарея
   description: |

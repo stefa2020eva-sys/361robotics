@@ -1,6 +1,11 @@
 slug: machine-vision-system
 category: vision
 featured: true
+image: /component-images/machine-vision-system.png
+image_alt:
+  ru: "Промышленная камера машинного зрения с объективом C-mount"
+  en: "Industrial machine vision camera with C-mount lens"
+  zh: "带 C-mount 镜头的工业机器视觉相机"
 ru:
   name: Система машинного зрения
   description: |

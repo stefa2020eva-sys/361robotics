@@ -1,6 +1,11 @@
 slug: simulation-platform
 category: software-sdk
 featured: true
+image: /component-images/simulation-platform.png
+image_alt:
+  ru: "Платформа моделирования робототехники с 3D-цифровым двойником"
+  en: "Robotics simulation platform with 3D digital twin"
+  zh: "带 3D 数字孪生的机器人仿真平台"
 ru:
   name: Платформа симуляции робототехники
   description: |

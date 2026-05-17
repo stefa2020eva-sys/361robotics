@@ -1,6 +1,11 @@
 slug: bearing
 category: mechanical
 featured: true
+image: /component-images/bearing.png
+image_alt:
+  ru: "Прецизионный подшипник с перекрёстными роликами"
+  en: "Precision crossed-roller bearing"
+  zh: "精密交叉滚子轴承"
 ru:
   name: Прецизионный подшипник
   description: |

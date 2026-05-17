@@ -1,6 +1,11 @@
 slug: mosfet-module
 category: drives-power
 featured: false
+image: /component-images/mosfet-module.png
+image_alt:
+  ru: "Силовой MOSFET-модуль с винтовыми клеммами и радиатором"
+  en: "Power MOSFET module with screw terminals and heatsink"
+  zh: "带螺丝接线端子和散热器的功率 MOSFET 模块"
 ru:
   name: MOSFET / Силовой модуль
   description: |

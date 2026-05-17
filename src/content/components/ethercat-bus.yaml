@@ -1,6 +1,11 @@
 slug: ethercat-bus
 category: connectivity
 featured: true
+image: /component-images/ethercat-bus.png
+image_alt:
+  ru: "EtherCAT-модуль полевой шины с RJ45-портами"
+  en: "EtherCAT fieldbus module with RJ45 ports"
+  zh: "带 RJ45 端口的 EtherCAT 现场总线模块"
 ru:
   name: Модуль EtherCAT / промышленной шины
   description: |

@@ -1,6 +1,11 @@
 slug: gear
 category: mechanical
 featured: false
+image: /component-images/gear.png
+image_alt:
+  ru: "Прецизионная шестерня с обработанными зубьями"
+  en: "Machined precision gear with sharp teeth"
+  zh: "带精加工齿的精密齿轮"
 ru:
   name: Прецизионная шестерня
   description: |

@@ -1,6 +1,11 @@
 slug: lightweight-structure
 category: mechanical
 featured: false
+image: /component-images/lightweight-structure.png
+image_alt:
+  ru: "Облегчённый алюминиевый кронштейн с топологической оптимизацией"
+  en: "Topology-optimized lightweight aluminum bracket"
+  zh: "拓扑优化轻量化铝制支架"
 ru:
   name: Лёгкая конструктивная деталь
   description: |

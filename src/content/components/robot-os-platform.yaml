@@ -1,6 +1,11 @@
 slug: robot-os-platform
 category: controllers
 featured: true
+image: /component-images/robot-os-platform.png
+image_alt:
+  ru: "Платформа операционной системы робота"
+  en: "Robot operating system platform with floating ROS icons"
+  zh: "带 ROS 浮动图标的机器人操作系统平台"
 ru:
   name: Платформа ОС для роботов
   description: |

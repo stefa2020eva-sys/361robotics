@@ -1,6 +1,11 @@
 slug: custom-end-effector
 category: end-effectors
 featured: false
+image: /component-images/custom-end-effector.png
+image_alt:
+  ru: "Пользовательский концевой эффектор робота со сменщиком инструментов"
+  en: "Custom robotic end-effector with tool changer"
+  zh: "带工具更换装置的定制机器人末端执行器"
 ru:
   name: Заказной концевой эффектор
   description: |

@@ -1,6 +1,11 @@
 slug: joint-module
 category: mechanical
 featured: true
+image: /component-images/joint-module.png
+image_alt:
+  ru: "Интегрированный роботизированный модуль сустава с двигателем и редуктором"
+  en: "Integrated robotic joint module with motor and reducer"
+  zh: "带电机和减速器的集成机器人关节模块"
 ru:
   name: Интегрированный модуль сустава
   description: |

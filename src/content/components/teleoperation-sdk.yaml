@@ -1,6 +1,11 @@
 slug: teleoperation-sdk
 category: software-sdk
 featured: false
+image: /component-images/teleoperation-sdk.png
+image_alt:
+  ru: "Набор разработчика для телеуправления с VR-контроллерами"
+  en: "Teleoperation SDK setup with VR controllers"
+  zh: "带 VR 控制器的远程操控 SDK 设置"
 ru:
   name: SDK телеуправления
   description: |

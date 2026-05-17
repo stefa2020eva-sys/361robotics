@@ -1,6 +1,11 @@
 slug: gripper
 category: end-effectors
 featured: false
+image: /component-images/gripper.png
+image_alt:
+  ru: "Промышленный параллельный двухпальцевый захват"
+  en: "Industrial parallel two-finger robotic gripper"
+  zh: "工业平行二指机器人夹爪"
 ru:
   name: Захват
   description: |

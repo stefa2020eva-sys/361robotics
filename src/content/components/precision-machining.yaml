@@ -1,6 +1,11 @@
 slug: precision-machining
 category: mechanical
 featured: false
+image: /component-images/precision-machining.png
+image_alt:
+  ru: "Прецизионные детали роботов с ЧПУ-обработкой"
+  en: "CNC-machined precision robot parts"
+  zh: "CNC 加工的精密机器人零件"
 ru:
   name: Услуги прецизионной механической обработки
   description: |

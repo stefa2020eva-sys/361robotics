@@ -1,6 +1,11 @@
 slug: dexterous-hand
 category: end-effectors
 featured: true
+image: /component-images/dexterous-hand.png
+image_alt:
+  ru: "Антропоморфная роботизированная кисть с пятью пальцами"
+  en: "Anthropomorphic dexterous robotic hand with five fingers"
+  zh: "五指拟人化灵巧机器人手"
 ru:
   name: Ловкая рука
   description: |

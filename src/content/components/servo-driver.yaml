@@ -1,6 +1,11 @@
 slug: servo-driver
 category: controllers
 featured: true
+image: /component-images/servo-driver.png
+image_alt:
+  ru: "Промышленный сервопривод с радиаторами охлаждения"
+  en: "Industrial rack-style servo driver with cooling fins"
+  zh: "带散热鳍片的工业伺服驱动器"
 ru:
   name: Сервопривод
   description: |

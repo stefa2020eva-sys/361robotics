@@ -1,6 +1,11 @@
 slug: portable-power-station
 category: drives-power
 featured: false
+image: /component-images/portable-power-station.png
+image_alt:
+  ru: "Портативная литий-ионная электростанция с AC и USB выходами"
+  en: "Portable lithium-ion power station with AC and USB ports"
+  zh: "带交流和 USB 接口的便携式锂离子电源"
 ru:
   name: Портативная зарядная станция
   description: |

@@ -1,6 +1,11 @@
 slug: vacuum-cup
 category: end-effectors
 featured: false
+image: /component-images/vacuum-cup.png
+image_alt:
+  ru: "Вакуумный захват с резиновым сильфоном"
+  en: "Vacuum suction gripper with rubber bellows"
+  zh: "带橡胶波纹管的真空吸盘"
 ru:
   name: Вакуумный захват
   description: |

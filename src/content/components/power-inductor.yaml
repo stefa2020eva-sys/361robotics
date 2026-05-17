@@ -1,6 +1,11 @@
 slug: power-inductor
 category: drives-power
 featured: false
+image: /component-images/power-inductor.png
+image_alt:
+  ru: "Силовая индуктивность с медной обмоткой на печатной плате"
+  en: "Power inductor with copper winding on PCB substrate"
+  zh: "PCB 基板上带铜线圈的功率电感"
 ru:
   name: Силовой дроссель
   description: |
