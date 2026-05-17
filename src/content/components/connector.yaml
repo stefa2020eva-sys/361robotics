@@ -1,6 +1,11 @@
 slug: connector
 category: connectivity
 featured: false
+image: /component-images/connector.png
+image_alt:
+  ru: "Промышленный круглый многопиновый разъём с резьбовым соединением"
+  en: "Industrial multi-pin circular connector with threaded coupling"
+  zh: "带螺纹连接的工业多针圆形连接器"
 ru:
   name: Промышленный разъём
   description: |
