@@ -17,8 +17,10 @@ const lang: Lang = langParam;
 
 const allCompanies = await getCollection('companies');
 const allComponents = await getCollection('components');
-const featuredCompanies = allCompanies.filter((c) => c.data.featured).slice(0, 8);
-const featuredComponents = allComponents.filter((c) => c.data.featured).slice(0, 6);
+const featuredCompanies = allCompanies.filter((c) => c.data.featured);
+const featuredComponents = allComponents.filter((c) => c.data.featured);
+const COMPANIES_VISIBLE = 8;
+const COMPONENTS_VISIBLE = 6;
 ---
 
 <ContentLayout
@@ -47,15 +49,31 @@ const featuredComponents = allComponents.filter((c) => c.data.featured).slice(0,
 
   <section class="py-8">
     <h2 class="text-2xl font-semibold mb-6">{t(lang, 'home.featured_companies')}</h2>
-    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
-      {featuredCompanies.map((c) => <CompanyCard company={c} lang={lang} />)}
+    <div
+      class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4"
+      data-shuffle
+      data-shuffle-limit={COMPANIES_VISIBLE}
+    >
+      {featuredCompanies.map((c, i) => (
+        <div data-shuffle-item class:list={[i >= COMPANIES_VISIBLE && 'hidden']}>
+          <CompanyCard company={c} lang={lang} />
+        </div>
+      ))}
     </div>
   </section>
 
   <section class="py-8">
     <h2 class="text-2xl font-semibold mb-6">{t(lang, 'home.featured_components')}</h2>
-    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-      {featuredComponents.map((c) => <ComponentCard component={c} lang={lang} />)}
+    <div
+      class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4"
+      data-shuffle
+      data-shuffle-limit={COMPONENTS_VISIBLE}
+    >
+      {featuredComponents.map((c, i) => (
+        <div data-shuffle-item class:list={[i >= COMPONENTS_VISIBLE && 'hidden']}>
+          <ComponentCard component={c} lang={lang} />
+        </div>
+      ))}
     </div>
   </section>
 
@@ -69,3 +87,25 @@ const featuredComponents = allComponents.filter((c) => c.data.featured).slice(0,
     </a>
   </section>
 </ContentLayout>
+
+<script is:inline>
+  (function shuffleFeatured() {
+    const fisherYates = (arr) => {
+      for (let i = arr.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [arr[i], arr[j]] = [arr[j], arr[i]];
+      }
+      return arr;
+    };
+    document.querySelectorAll('[data-shuffle]').forEach((grid) => {
+      const limit = parseInt(grid.getAttribute('data-shuffle-limit') || '8', 10);
+      const items = fisherYates(Array.from(grid.querySelectorAll('[data-shuffle-item]')));
+      const frag = document.createDocumentFragment();
+      items.forEach((item, idx) => {
+        item.classList.toggle('hidden', idx >= limit);
+        frag.appendChild(item);
+      });
+      grid.appendChild(frag);
+    });
+  })();
+</script>
