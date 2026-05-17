@@ -18,30 +18,39 @@ produces_components:
 key_clients: []
 ru:
   description: |
-    ACT Industrial (安科讯实业) предоставляет услуги контрактного электронного производства (OEM/ODM) для ИИ-роботов «под ключ»,
-    включая SMT-сборку, прецизионное литьё под давлением и интеграцию полной системы.
+    Компания последовательно идёт по пути собственных НИОКР и высокотехнологичного интеллектуального производства, фокусируясь на ИКТ (информационно-коммуникационные технологии), цифровой энергетике, возобновляемой энергетике, промышленной автоматизации, автомобильной электронике, медицине, IoT и корпоративных сетях, и предоставляет комплексные решения и услуги ведущим компаниям отрасли — Huawei, Inovance, INVT, Lanhai Huateng, SONY и другим. За многие годы компания накопила богатый опыт в разработке и производстве продукции в области цифровой энергетики, получив множество патентов на изобретения, полезные модели и авторских свидетельств на ПО. Образцово-показательный цех «умного завода» получил единогласное признание отрасли в области интеллектуального производства, бережливых улучшений и информатизации.
+
+    За многие годы компания накопила обширный опыт и технологии в области ИКТ, предоставляя профессиональные услуги ODM/OEM/EMS таким клиентам, как Huawei, Inovance, INVT, Lanhai Huateng. В продуктовой линейке — различные сетевые устройства: коммутаторы, серверы, маршрутизаторы, системы хранения данных и др.
+
+    Компания предоставляет профессиональные ODM/OEM/EMS услуги по производству плат управления, драйверных плат и готовых изделий в таких областях, как частотные преобразователи, технологии управления, управление движением, промышленные роботы, рельсовый транспорт и управление электродвигателями.
   highlights:
-    - «Маленький гигант», 25 лет опыта
-    - SMT-линии, прецизионное литьё под давлением
-    - Один поставщик от дизайна до отгрузки
-    - Обслуживает ИКТ, цифровую энергетику, силовую электронику, робототехнику
+    - 'Клиенты: Huawei, Inovance, INVT, Lanhai Huateng, SONY и другие'
+    - ODM/OEM/EMS для ИКТ, цифровой энергетики, робототехники и промышленной автоматизации
+    - Множество патентов на изобретения, полезные модели и авторских прав на ПО
+    - Образцово-показательный «умный завод», признанный лидер в интеллектуальном производстве
 en:
   description: |
-    ACT Industrial provides turnkey electronic manufacturing services (OEM/ODM) for AI robots, including SMT assembly, precision injection molding, and full-system integration.
+    The company has long pursued a path of independent R&D and high-end intelligent manufacturing, focusing on ICT (Information and Communications Technology), digital energy, new energy, industrial automation, automotive electronics, medical, IoT, and enterprise networks. It delivers professional integrated solutions and services to leading companies including Huawei, Inovance, INVT, Lanhai Huateng, and SONY. Over the years ACT Industrial has accumulated extensive experience in R&D and production for digital energy and related fields, earning numerous invention patents, utility model patents, and software copyrights. Its smart-factory demonstration workshop has received industry-wide recognition for intelligent manufacturing, lean improvement, and informatization.
+
+    Through years of experience in the ICT field, ACT Industrial provides professional ODM/OEM/EMS services to leading clients such as Huawei, Inovance, INVT, and Lanhai Huateng. Its product range covers a variety of network communication products — switches, servers, routers, storage devices, and more.
+
+    ACT Industrial also delivers professional ODM/OEM/EMS services for control boards, driver boards, and finished products across applications such as frequency inverters, control technology, motion control, industrial robots, rail transit, and motor control.
   highlights:
-    - National Little Giant, 25 years of experience
-    - SMT lines, precision injection molding
-    - One-stop design to delivery
-    - Serves ICT, digital energy, power electronics, robotics
+    - 'Clients include Huawei, Inovance, INVT, Lanhai Huateng, SONY'
+    - ODM/OEM/EMS services across ICT, digital energy, robotics, and industrial automation
+    - Numerous invention patents, utility models, and software copyrights
+    - Smart-factory demonstration workshop with industry-wide recognition
 zh:
   description: |
-    深圳市安科讯实业有限公司 (ACT Industrial) 为 AI 机器人提供电子制造交钥匙服务 (OEM/ODM)，
-    包括 SMT 贴片、精密注塑和整机系统集成。
+    公司长期坚持走自主研发和高端智能制造的道路，聚焦于ICT（信息与通讯技术）、数字能源、新能源、工业自働化、汽车电子、医疗、物联网、企业网等领域，为华为、汇川、英威腾、蓝海华腾、SONY等优秀企业提供专业的一体化解决方案和服务。多年来公司在数字能源等领域产品的研发、生产等方面积累了丰富的经验，已获得各种发明专利、实用新型专利和软件著作权。公司拥有智慧工厂样板示范车间，在智能制造、精益改善和信息化建设方面获得行业一致好评。
+
+    公司多年来已在ICT（信息与通讯技术）领域积累了丰富的经验和技术，为华为、汇川、英威腾、蓝海华腾等优秀企业提供专业ODM/OEM/EMS服务，产品类型包括各种网络通讯产品，交换机、服务器、路由器、存储设备等。
+
+    公司提供变频器、控制技术、运动控制、工业机器人、轨道交通、电机控制等领域各类控制板卡、驱动板卡、整机类产品专业ODM/OEM/EMS服务。
   highlights:
-    - 国家级专精特新「小巨人」，25 年经验
-    - SMT 线，精密注塑
-    - 从设计到交付的一站式服务
-    - 服务 ICT、数字能源、电力电子、机器人行业
-verified: false
-needs_review:
-  zh: true
+    - 客户包括华为、汇川、英威腾、蓝海华腾、SONY 等
+    - 为 ICT、数字能源、机器人、工业自动化领域提供 ODM/OEM/EMS 服务
+    - 多项发明专利、实用新型专利和软件著作权
+    - 智慧工厂样板示范车间，获行业一致好评
+verified: true
+source: https://www.szaction.com
