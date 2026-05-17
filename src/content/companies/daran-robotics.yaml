@@ -15,6 +15,7 @@ categories:
   - actuators
   - controllers
 produces_components:
+  - joint-module
   - motion-controller
 robot_products:
   - name: Daran Robotics

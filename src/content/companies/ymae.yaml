@@ -14,8 +14,8 @@ categories:
   - software-sdk
   - vision
 produces_components:
-  - lidar
-  - motion-controller
+  - motion-capture-system
+  - teleoperation-sdk
 key_clients: []
 ru:
   description: |

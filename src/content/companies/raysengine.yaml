@@ -13,7 +13,7 @@ featured: false
 categories:
   - software-sdk
 produces_components:
-  - motion-controller
+  - simulation-platform
 key_clients: []
 ru:
   description: |

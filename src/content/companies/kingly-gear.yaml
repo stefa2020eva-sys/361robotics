@@ -13,7 +13,8 @@ featured: false
 categories:
   - actuators
 produces_components:
-  - servo-motor
+  - planetary-reducer
+  - coreless-motor
 key_clients: []
 ru:
   description: |

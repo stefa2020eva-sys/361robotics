@@ -14,7 +14,8 @@ categories:
   - actuators
   - mechanical
 produces_components:
-  - servo-motor
+  - cycloidal-reducer
+  - gear
 key_clients: []
 ru:
   description: |

@@ -14,7 +14,8 @@ categories:
   - mechanical
   - drives-power
 produces_components:
-  - motion-controller
+  - harmonic-reducer
+  - planetary-reducer
 key_clients: []
 ru:
   description: |

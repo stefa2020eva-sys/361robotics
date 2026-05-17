@@ -15,7 +15,8 @@ categories:
   - software-sdk
   - controllers
 produces_components:
-  - motion-controller
+  - teleoperation-sdk
+  - data-collection-tool
 key_clients: []
 ru:
   description: |

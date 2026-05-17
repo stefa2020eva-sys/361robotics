@@ -14,7 +14,8 @@ featured: false
 categories:
   - actuators
 produces_components:
-  - servo-motor
+  - frameless-torque-motor
+  - joint-module
 key_clients: []
 ru:
   description: |

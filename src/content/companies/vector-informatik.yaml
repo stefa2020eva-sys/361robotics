@@ -14,7 +14,8 @@ featured: false
 categories:
   - software-sdk
 produces_components:
-  - motion-controller
+  - simulation-platform
+  - ethercat-bus
 key_clients: []
 ru:
   description: |

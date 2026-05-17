@@ -15,6 +15,7 @@ categories:
   - drives-power
 produces_components:
   - servo-motor
+  - frameless-torque-motor
 key_clients: []
 ru:
   description: |

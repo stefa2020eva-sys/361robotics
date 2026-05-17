@@ -14,7 +14,8 @@ featured: false
 categories:
   - vision
 produces_components:
-  - lidar
+  - gmsl-camera
+  - machine-vision-system
 key_clients: []
 ru:
   description: |

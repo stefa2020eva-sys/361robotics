@@ -14,7 +14,8 @@ categories:
   - controllers
   - connectivity
 produces_components:
-  - motion-controller
+  - robot-os-platform
+  - ethercat-bus
 key_clients: []
 ru:
   description: |

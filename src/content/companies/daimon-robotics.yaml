@@ -15,7 +15,8 @@ categories:
   - sensors
   - end-effectors
 produces_components:
-  - lidar
+  - tactile-sensor
+  - teleoperation-sdk
 key_clients: []
 ru:
   description: |

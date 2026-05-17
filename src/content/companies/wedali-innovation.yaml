@@ -12,7 +12,11 @@ featured: false
 categories:
   - actuators
 produces_components:
-  - servo-motor
+  - joint-module
+  - harmonic-reducer
+  - planetary-reducer
+  - cycloidal-reducer
+  - linear-actuator
 key_clients: []
 ru:
   description: |

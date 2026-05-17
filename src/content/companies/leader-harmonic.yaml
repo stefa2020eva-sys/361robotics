@@ -13,7 +13,7 @@ featured: false
 categories:
   - actuators
 produces_components:
-  - servo-motor
+  - harmonic-reducer
 key_clients: []
 ru:
   description: |

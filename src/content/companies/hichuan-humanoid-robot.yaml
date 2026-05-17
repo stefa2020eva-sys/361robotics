@@ -17,7 +17,12 @@ categories:
   - drives-power
   - end-effectors
 produces_components:
-  - servo-motor
+  - joint-module
+  - planetary-roller-screw
+  - frameless-torque-motor
+  - coreless-motor
+  - encoder
+  - dexterous-hand
 robot_products:
   - name: MDB Series
     short: Frameless torque motors for all humanoid joints

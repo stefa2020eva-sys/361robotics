@@ -12,7 +12,7 @@ featured: false
 categories:
   - sensors
 produces_components:
-  - lidar
+  - encoder
 key_clients: []
 ru:
   description: |

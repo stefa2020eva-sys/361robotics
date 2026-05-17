@@ -14,7 +14,7 @@ categories:
   - drives-power
   - mechanical
 produces_components:
-  - servo-motor
+  - joint-module
 key_clients: []
 ru:
   description: |

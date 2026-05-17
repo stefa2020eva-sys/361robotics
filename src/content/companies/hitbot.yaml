@@ -15,8 +15,8 @@ categories:
   - end-effectors
   - software-sdk
 produces_components:
-  - gripper
-  - motion-controller
+  - dexterous-hand
+  - robot-os-platform
 key_clients: []
 ru:
   description: |

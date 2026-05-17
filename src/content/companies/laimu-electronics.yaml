@@ -14,7 +14,8 @@ featured: false
 categories:
   - connectivity
 produces_components:
-  - motion-controller
+  - connector
+  - flexible-cable
 key_clients: []
 ru:
   description: |

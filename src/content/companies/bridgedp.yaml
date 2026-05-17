@@ -16,6 +16,7 @@ categories:
   - controllers
 produces_components:
   - motion-controller
+  - embodied-ai-foundation
 key_clients: []
 ru:
   description: |

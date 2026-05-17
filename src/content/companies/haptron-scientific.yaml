@@ -14,7 +14,8 @@ featured: false
 categories:
   - sensors
 produces_components:
-  - lidar
+  - tactile-sensor
+  - force-torque-sensor
 key_clients: []
 ru:
   description: |

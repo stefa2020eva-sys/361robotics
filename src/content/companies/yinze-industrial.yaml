@@ -13,7 +13,8 @@ featured: false
 categories:
   - mechanical
 produces_components:
-  - servo-motor
+  - precision-machining
+  - joint-module
 key_clients: []
 ru:
   description: |

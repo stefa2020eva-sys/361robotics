@@ -15,7 +15,7 @@ categories:
   - sensors
   - controllers
 produces_components:
-  - motion-controller
+  - encoder
 key_clients: []
 ru:
   description: |

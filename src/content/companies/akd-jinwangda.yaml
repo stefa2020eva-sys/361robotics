@@ -16,8 +16,8 @@ categories:
   - actuators
   - drives-power
 produces_components:
-  - servo-motor
-  - motion-controller
+  - ball-screw
+  - planetary-roller-screw
 key_clients: []
 ru:
   description: |

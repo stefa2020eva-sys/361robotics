@@ -15,7 +15,8 @@ categories:
   - actuators
   - mechanical
 produces_components:
-  - servo-motor
+  - planetary-roller-screw
+  - linear-actuator
 key_clients: []
 ru:
   description: |

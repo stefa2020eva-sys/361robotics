@@ -12,7 +12,8 @@ featured: false
 categories:
   - sensors
 produces_components:
-  - lidar
+  - encoder
+  - magnetic-sensor
 key_clients: []
 ru:
   description: |

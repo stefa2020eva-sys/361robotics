@@ -13,7 +13,7 @@ featured: false
 categories:
   - end-effectors
 produces_components:
-  - gripper
+  - dexterous-hand
 key_clients: []
 ru:
   description: |

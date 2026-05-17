@@ -16,8 +16,7 @@ categories:
   - vision
   - actuators
 produces_components:
-  - lidar
-  - servo-motor
+  - certification-service
 robot_products:
   - name: Micro Special Robots
     short: Multi-configuration robots for extreme environments

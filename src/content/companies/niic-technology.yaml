@@ -15,7 +15,8 @@ categories:
   - controllers
   - software-sdk
 produces_components:
-  - motion-controller
+  - robot-os-platform
+  - ethercat-bus
 key_clients: []
 ru:
   description: |

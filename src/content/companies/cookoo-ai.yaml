@@ -14,7 +14,8 @@ categories:
   - controllers
   - connectivity
 produces_components:
-  - motion-controller
+  - edge-ai-controller
+  - robot-os-platform
 key_clients: []
 ru:
   description: |

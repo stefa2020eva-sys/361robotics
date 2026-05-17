@@ -14,7 +14,7 @@ featured: false
 categories:
   - connectivity
 produces_components:
-  - servo-motor
+  - teleoperation-sdk
 key_clients: []
 ru:
   description: |

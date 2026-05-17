@@ -13,7 +13,8 @@ featured: false
 categories:
   - mechanical
 produces_components:
-  - servo-motor
+  - composite-material
+  - connector
 key_clients: []
 ru:
   description: |

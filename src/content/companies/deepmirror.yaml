@@ -17,7 +17,8 @@ categories:
   - software-sdk
   - controllers
 produces_components:
-  - lidar
+  - robot-os-platform
+  - machine-vision-system
 robot_products:
   - name: DeepMirror
     short: DeepMirror, with its LooperRobotics brand, provides spatial intelligence solutions including visual navigation, environm

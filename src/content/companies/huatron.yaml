@@ -15,7 +15,8 @@ categories:
   - controllers
   - drives-power
 produces_components:
-  - motion-controller
+  - joint-module
+  - servo-driver
 key_clients: []
 ru:
   description: |

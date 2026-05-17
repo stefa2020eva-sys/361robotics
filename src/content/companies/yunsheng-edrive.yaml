@@ -15,6 +15,9 @@ categories:
   - drives-power
 produces_components:
   - servo-motor
+  - harmonic-reducer
+  - frameless-torque-motor
+  - joint-module
 key_clients: []
 ru:
   description: |

@@ -15,7 +15,7 @@ categories:
   - sensors
   - vision
 produces_components:
-  - lidar
+  - motion-capture-system
 key_clients: []
 ru:
   description: |

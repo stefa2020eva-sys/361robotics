@@ -15,6 +15,7 @@ categories:
   - mechanical
 produces_components:
   - servo-motor
+  - linear-actuator
 key_clients: []
 ru:
   description: |

@@ -13,7 +13,11 @@ featured: false
 categories:
   - actuators
 produces_components:
+  - joint-module
+  - linear-actuator
   - servo-motor
+  - encoder
+  - force-torque-sensor
 key_clients: []
 ru:
   description: |

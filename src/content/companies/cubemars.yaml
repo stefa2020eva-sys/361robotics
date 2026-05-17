@@ -13,6 +13,7 @@ featured: false
 categories:
   - actuators
 produces_components:
+  - joint-module
   - servo-motor
 key_clients: []
 ru:

@@ -15,7 +15,8 @@ categories:
   - sensors
   - connectivity
 produces_components:
-  - lidar
+  - imu
+  - connector
 key_clients: []
 ru:
   description: |

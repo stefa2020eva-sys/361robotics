@@ -14,7 +14,10 @@ categories:
   - actuators
   - sensors
 produces_components:
-  - servo-motor
+  - joint-module
+  - planetary-roller-screw
+  - force-torque-sensor
+  - harmonic-reducer
 key_clients: []
 ru:
   description: |

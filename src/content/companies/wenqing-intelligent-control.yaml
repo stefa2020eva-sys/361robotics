@@ -12,7 +12,7 @@ featured: false
 categories:
   - mechanical
 produces_components:
-  - servo-motor
+  - custom-end-effector
 key_clients: []
 ru:
   description: |

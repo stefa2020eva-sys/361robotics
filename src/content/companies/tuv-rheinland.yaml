@@ -12,7 +12,7 @@ featured: false
 categories:
   - safety
 produces_components:
-  - motion-controller
+  - certification-service
 key_clients: []
 ru:
   description: |

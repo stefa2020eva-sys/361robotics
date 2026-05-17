@@ -14,7 +14,8 @@ categories:
   - actuators
   - controllers
 produces_components:
-  - motion-controller
+  - joint-module
+  - teleoperation-sdk
 key_clients: []
 ru:
   description: |

@@ -14,7 +14,8 @@ categories:
   - sensors
   - software-sdk
 produces_components:
-  - lidar
+  - proximity-sensor
+  - edge-ai-controller
 key_clients: []
 ru:
   description: |

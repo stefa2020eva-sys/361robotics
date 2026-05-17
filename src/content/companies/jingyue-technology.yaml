@@ -13,7 +13,7 @@ categories:
   - actuators
   - controllers
 produces_components:
-  - motion-controller
+  - servo-driver
 key_clients: []
 ru:
   description: |

@@ -14,7 +14,10 @@ categories:
   - actuators
   - controllers
 produces_components:
-  - gripper
+  - dexterous-hand
+  - joint-module
+  - encoder
+  - servo-driver
 key_clients: []
 ru:
   description: |

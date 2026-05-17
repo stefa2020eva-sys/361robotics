@@ -15,6 +15,9 @@ categories:
   - drives-power
 produces_components:
   - servo-motor
+  - encoder
+  - servo-driver
+  - joint-module
 key_clients: []
 ru:
   description: |

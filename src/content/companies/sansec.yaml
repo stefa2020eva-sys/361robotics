@@ -15,7 +15,7 @@ categories:
   - safety
   - software-sdk
 produces_components:
-  - motion-controller
+  - certification-service
 key_clients: []
 ru:
   description: |

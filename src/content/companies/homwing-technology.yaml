@@ -14,7 +14,10 @@ categories:
   - actuators
   - mechanical
 produces_components:
-  - servo-motor
+  - harmonic-reducer
+  - cycloidal-reducer
+  - planetary-reducer
+  - gripper
 key_clients: []
 ru:
   description: |

@@ -13,7 +13,7 @@ featured: false
 categories:
   - sensors
 produces_components:
-  - lidar
+  - imu
 key_clients: []
 ru:
   description: |

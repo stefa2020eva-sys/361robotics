@@ -14,7 +14,7 @@ featured: false
 categories:
   - connectivity
 produces_components:
-  - motion-controller
+  - ethercat-bus
 key_clients: []
 ru:
   description: |

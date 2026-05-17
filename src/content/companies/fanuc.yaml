@@ -16,8 +16,7 @@ categories:
   - actuators
   - controllers
 produces_components:
-  - servo-motor
-  - motion-controller
+  - precision-machining
 robot_products:
   - name: FANUC M-2000iA
     short: Heavy-payload industrial robot, up to 2300 kg

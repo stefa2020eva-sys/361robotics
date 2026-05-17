@@ -12,7 +12,8 @@ featured: false
 categories:
   - end-effectors
 produces_components:
-  - gripper
+  - dexterous-hand
+  - tactile-sensor
 key_clients: []
 ru:
   description: |

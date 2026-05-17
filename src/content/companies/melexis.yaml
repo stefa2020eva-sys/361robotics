@@ -15,7 +15,8 @@ categories:
   - sensors
   - actuators
 produces_components:
-  - lidar
+  - magnetic-sensor
+  - mosfet-module
 key_clients: []
 ru:
   description: |

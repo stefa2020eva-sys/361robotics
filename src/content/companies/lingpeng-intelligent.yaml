@@ -17,6 +17,7 @@ categories:
   - drives-power
 produces_components:
   - motion-controller
+  - cycloidal-reducer
 robot_products:
   - name: Youjia
     short: Bionic dual-arm mobile robot with self-balancing chassis

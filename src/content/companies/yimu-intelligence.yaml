@@ -12,7 +12,7 @@ featured: false
 categories:
   - sensors
 produces_components:
-  - lidar
+  - tactile-sensor
 key_clients: []
 ru:
   description: |

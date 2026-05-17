@@ -14,7 +14,7 @@ featured: false
 categories:
   - vision
 produces_components:
-  - lidar
+  - machine-vision-system
 key_clients: []
 ru:
   description: |

@@ -14,7 +14,9 @@ categories:
   - actuators
   - drives-power
 produces_components:
-  - servo-motor
+  - linear-actuator
+  - coreless-motor
+  - joint-module
 key_clients: []
 ru:
   description: |

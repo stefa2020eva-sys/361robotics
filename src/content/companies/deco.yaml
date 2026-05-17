@@ -15,7 +15,8 @@ categories:
   - connectivity
   - drives-power
 produces_components:
-  - servo-motor
+  - wireless-power-data
+  - ethercat-bus
 key_clients: []
 ru:
   description: |

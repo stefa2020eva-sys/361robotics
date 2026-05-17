@@ -14,7 +14,7 @@ featured: false
 categories:
   - drives-power
 produces_components:
-  - servo-motor
+  - power-inductor
 key_clients: []
 ru:
   description: |

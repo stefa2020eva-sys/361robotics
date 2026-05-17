@@ -13,7 +13,7 @@ featured: false
 categories:
   - drives-power
 produces_components:
-  - servo-motor
+  - battery-pack
 key_clients: []
 ru:
   description: |

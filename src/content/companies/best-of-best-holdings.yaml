@@ -14,7 +14,8 @@ featured: false
 categories:
   - connectivity
 produces_components:
-  - motion-controller
+  - plc-fpga
+  - mosfet-module
 key_clients: []
 ru:
   description: |

@@ -12,7 +12,7 @@ featured: false
 categories:
   - actuators
 produces_components:
-  - servo-motor
+  - planetary-roller-screw
 key_clients: []
 ru:
   description: |

@@ -12,7 +12,8 @@ featured: false
 categories:
   - connectivity
 produces_components:
-  - servo-motor
+  - plc-fpga
+  - connector
 key_clients: []
 ru:
   description: |

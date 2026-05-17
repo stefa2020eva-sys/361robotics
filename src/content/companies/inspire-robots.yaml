@@ -16,8 +16,7 @@ categories:
   - end-effectors
   - actuators
 produces_components:
-  - servo-motor
-  - gripper
+  - dexterous-hand
 robot_products:
   - name: Inspire Five-Fingered Dexterous Hand
     short: Anthropomorphic five-fingered dexterous hand with force control

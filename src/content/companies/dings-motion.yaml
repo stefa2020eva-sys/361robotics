@@ -15,7 +15,8 @@ categories:
   - actuators
   - drives-power
 produces_components:
-  - servo-motor
+  - brushless-motor
+  - frameless-torque-motor
 key_clients: []
 ru:
   description: |

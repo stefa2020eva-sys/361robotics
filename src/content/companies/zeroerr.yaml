@@ -14,8 +14,9 @@ categories:
   - actuators
   - sensors
 produces_components:
-  - servo-motor
-  - lidar
+  - joint-module
+  - encoder
+  - harmonic-reducer
 key_clients: []
 ru:
   description: |

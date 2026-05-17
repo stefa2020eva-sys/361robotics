@@ -16,8 +16,8 @@ categories:
   - mechanical
   - actuators
 produces_components:
-  - servo-motor
-  - gripper
+  - composite-material
+  - lightweight-structure
 robot_products:
   - name: X-Hand
     short: Bionic dexterous hand with tension-compression body design

@@ -14,7 +14,7 @@ categories:
   - vision
   - sensors
 produces_components:
-  - lidar
+  - structured-light-camera
 key_clients: []
 ru:
   description: |

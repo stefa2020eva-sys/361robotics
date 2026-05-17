@@ -15,8 +15,8 @@ categories:
   - actuators
   - end-effectors
 produces_components:
-  - servo-motor
-  - gripper
+  - dexterous-hand
+  - tactile-sensor
 key_clients: []
 ru:
   description: |

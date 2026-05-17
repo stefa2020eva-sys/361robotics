@@ -15,7 +15,8 @@ categories:
   - sensors
   - connectivity
 produces_components:
-  - lidar
+  - proximity-sensor
+  - wireless-power-data
 key_clients: []
 ru:
   description: |

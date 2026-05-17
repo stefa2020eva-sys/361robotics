@@ -13,7 +13,9 @@ featured: false
 categories:
   - actuators
 produces_components:
-  - servo-motor
+  - harmonic-reducer
+  - planetary-roller-screw
+  - joint-module
 key_clients: []
 ru:
   description: |

@@ -17,6 +17,7 @@ categories:
   - controllers
 produces_components:
   - lidar
+  - robot-os-platform
 key_clients: []
 ru:
   description: |

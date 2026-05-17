@@ -14,7 +14,7 @@ featured: false
 categories:
   - sensors
 produces_components:
-  - lidar
+  - certification-service
 key_clients: []
 ru:
   description: |

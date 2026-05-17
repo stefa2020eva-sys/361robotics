@@ -16,8 +16,8 @@ categories:
   - software-sdk
   - controllers
 produces_components:
-  - lidar
-  - motion-controller
+  - edge-ai-controller
+  - machine-vision-system
 robot_products:
   - name: Raysense Embodied Robot System
     short: Full-stack robot system integrating visual perception, actuation, and AI brain

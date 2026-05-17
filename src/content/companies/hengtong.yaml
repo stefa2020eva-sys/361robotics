@@ -13,7 +13,7 @@ featured: false
 categories:
   - connectivity
 produces_components:
-  - servo-motor
+  - flexible-cable
 key_clients: []
 ru:
   description: |

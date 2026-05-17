@@ -16,7 +16,7 @@ categories:
   - end-effectors
   - actuators
 produces_components:
-  - gripper
+  - dexterous-hand
 robot_products:
   - name: Sailor R1 Pro
     short: Wheeled humanoid robot for industrial and service tasks

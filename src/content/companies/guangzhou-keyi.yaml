@@ -15,7 +15,9 @@ categories:
   - actuators
   - end-effectors
 produces_components:
-  - servo-motor
+  - harmonic-reducer
+  - joint-module
+  - dexterous-hand
 robot_products:
   - name: IRGM Servo Joint
     short: Rotary joint with integrated reducer, encoder, driver

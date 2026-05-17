@@ -14,7 +14,7 @@ featured: false
 categories:
   - controllers
 produces_components:
-  - motion-controller
+  - plc-fpga
 key_clients: []
 ru:
   description: |

@@ -13,7 +13,7 @@ categories:
   - software-sdk
   - controllers
 produces_components:
-  - motion-controller
+  - robot-os-platform
 key_clients: []
 ru:
   description: |

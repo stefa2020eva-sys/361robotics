@@ -16,6 +16,8 @@ categories:
   - actuators
 produces_components:
   - servo-motor
+  - brushless-motor
+  - encoder
 key_clients: []
 ru:
   description: |

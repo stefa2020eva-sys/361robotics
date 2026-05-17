@@ -13,7 +13,9 @@ categories:
   - actuators
   - controllers
 produces_components:
-  - motion-controller
+  - joint-module
+  - cycloidal-reducer
+  - mosfet-module
 key_clients: []
 ru:
   description: |

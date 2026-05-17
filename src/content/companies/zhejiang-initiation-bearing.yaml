@@ -12,7 +12,7 @@ featured: false
 categories:
   - mechanical
 produces_components:
-  - servo-motor
+  - bearing
 key_clients: []
 ru:
   description: |

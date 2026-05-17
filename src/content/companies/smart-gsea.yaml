@@ -15,8 +15,8 @@ categories:
   - vision
   - actuators
 produces_components:
-  - lidar
-  - servo-motor
+  - machine-vision-system
+  - edge-ai-controller
 robot_products:
   - name: Humanoid Robot
     short: Full-size humanoid with advanced vision

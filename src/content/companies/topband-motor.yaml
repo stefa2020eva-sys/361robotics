@@ -14,7 +14,8 @@ featured: false
 categories:
   - actuators
 produces_components:
-  - servo-motor
+  - linear-actuator
+  - coreless-motor
 key_clients: []
 ru:
   description: |

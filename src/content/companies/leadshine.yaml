@@ -16,7 +16,11 @@ categories:
   - controllers
 produces_components:
   - servo-motor
-  - motion-controller
+  - servo-driver
+  - dexterous-hand
+  - coreless-motor
+  - frameless-torque-motor
+  - joint-module
 key_clients: []
 ru:
   description: |

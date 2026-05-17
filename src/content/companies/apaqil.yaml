@@ -13,7 +13,7 @@ categories:
   - controllers
   - software-sdk
 produces_components:
-  - motion-controller
+  - edge-ai-controller
 key_clients: []
 ru:
   description: |

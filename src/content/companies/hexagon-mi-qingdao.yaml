@@ -15,7 +15,8 @@ categories:
   - vision
   - software-sdk
 produces_components:
-  - lidar
+  - machine-vision-system
+  - precision-machining
 key_clients: []
 ru:
   description: |

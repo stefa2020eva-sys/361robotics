@@ -14,7 +14,8 @@ featured: false
 categories:
   - actuators
 produces_components:
-  - motion-controller
+  - teleoperation-sdk
+  - robot-os-platform
 robot_products:
   - name: RealBOT
     short: Comprehensive embodied AI development platform

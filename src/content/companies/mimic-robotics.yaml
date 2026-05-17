@@ -14,7 +14,8 @@ categories:
   - end-effectors
   - actuators
 produces_components:
-  - gripper
+  - dexterous-hand
+  - embodied-ai-foundation
 key_clients: []
 ru:
   description: |

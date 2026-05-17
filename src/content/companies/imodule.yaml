@@ -14,7 +14,7 @@ featured: false
 categories:
   - drives-power
 produces_components:
-  - servo-motor
+  - mosfet-module
 key_clients: []
 ru:
   description: |

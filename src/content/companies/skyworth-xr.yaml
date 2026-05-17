@@ -14,7 +14,7 @@ featured: false
 categories:
   - vision
 produces_components:
-  - lidar
+  - data-collection-tool
 key_clients: []
 ru:
   description: |

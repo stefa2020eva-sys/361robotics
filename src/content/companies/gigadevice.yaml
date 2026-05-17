@@ -14,7 +14,8 @@ featured: false
 categories:
   - controllers
 produces_components:
-  - motion-controller
+  - plc-fpga
+  - ethercat-bus
 key_clients: []
 ru:
   description: |

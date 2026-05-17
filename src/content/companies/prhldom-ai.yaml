@@ -12,7 +12,7 @@ featured: false
 categories:
   - software-sdk
 produces_components:
-  - motion-controller
+  - motion-capture-system
 key_clients: []
 ru:
   description: |
