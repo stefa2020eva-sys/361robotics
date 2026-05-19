@@ -25,7 +25,8 @@ const canonical = `${site}/${lang}${pathTail.length === 0 ? '' : '/' + pathTail.
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
-    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="icon" type="image/png" sizes="192x192" href="/favicon-192.png" />
+    <link rel="apple-touch-icon" href="/favicon-192.png" />
     <HreflangTags pathTail={pathTail} />
     <OGTags title={title} description={description} image={ogImage} url={canonical} locale={lang} />
     {lang === 'zh' && (

@@ -13,8 +13,8 @@ const { lang, pathTail } = Astro.props;
 <header class="border-b border-border bg-white">
   <div class="max-w-content mx-auto px-4 sm:px-6 lg:px-8">
     <div class="flex h-16 items-center justify-between gap-4">
-      <a href={`/${lang}`} class="flex-shrink-0 text-lg font-bold no-underline">
-        361Robotics
+      <a href={`/${lang}`} class="flex-shrink-0 no-underline" aria-label="361Robotics">
+        <img src="/logo.jpg" alt="361Robotics" width="40" height="40" class="w-10 h-10 rounded" />
       </a>
 
       <nav aria-label="Primary" class="hidden lg:flex items-center gap-6 text-sm">
@@ -41,7 +41,7 @@ const { lang, pathTail } = Astro.props;
 
         <a
           href={`/${lang}/contacts`}
-          class="hidden sm:inline-flex items-center px-4 py-2 bg-accent text-white text-sm rounded no-underline"
+          class="hidden sm:inline-flex items-center px-4 py-2 bg-brand text-ink text-sm font-medium rounded no-underline hover:opacity-90"
         >
           {t(lang, 'nav.contact_cta')}
         </a>
