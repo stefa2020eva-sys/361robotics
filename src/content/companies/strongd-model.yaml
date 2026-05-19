@@ -3,7 +3,7 @@ name: Strongd Model
 website: https://www.strongdcnc.com
 country: CN
 founded: 2012
-logo: ./logo.svg
+logo: /company-logos/strongd-model.png
 logo_alt:
   ru: Логотип Strongd Model
   en: Strongd Model logo

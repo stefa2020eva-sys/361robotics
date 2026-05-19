@@ -3,7 +3,7 @@ name: Kollmorgen
 website: https://www.kollmorgen.com
 country: CN
 founded: 1916
-logo: ./logo.svg
+logo: /company-logos/kollmorgen.png
 logo_alt:
   ru: Логотип Kollmorgen
   en: Kollmorgen logo

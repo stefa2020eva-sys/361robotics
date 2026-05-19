@@ -3,7 +3,7 @@ name: Sinbad Motor
 country: CN
 founded: 2011
 website: http://www.sinbadmotor.com
-logo: ./logo.svg
+logo: /company-logos/sinbad-motor.png
 logo_alt:
   ru: Логотип Sinbad Motor
   en: Sinbad Motor logo

@@ -3,7 +3,7 @@ name: Laimu Electronics
 website: https://www.laimu.com.cn
 country: CN
 founded: 2003
-logo: ./logo.svg
+logo: /company-logos/laimu-electronics.png
 logo_alt:
   ru: Логотип Laimu Electronics
   en: Laimu Electronics logo

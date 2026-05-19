@@ -2,7 +2,7 @@ slug: newgear
 name: Newgear
 website: http://www.newgearcn.com
 country: CN
-logo: ./logo.svg
+logo: /company-logos/newgear.png
 logo_alt:
   ru: Логотип Newgear
   en: Newgear logo

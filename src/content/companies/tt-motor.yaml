@@ -3,7 +3,7 @@ name: TT Motor
 website: https://www.ttmotor.com
 country: CN
 founded: 2006
-logo: ./logo.svg
+logo: /company-logos/tt-motor.png
 logo_alt:
   ru: Логотип TT Motor
   en: TT Motor logo

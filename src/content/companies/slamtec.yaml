@@ -3,7 +3,7 @@ name: SLAMTEC
 website: https://www.slamtec.com
 country: CN
 founded: 2013
-logo: ./logo.svg
+logo: /company-logos/slamtec.png
 logo_alt:
   ru: Логотип SLAMTEC
   en: SLAMTEC logo

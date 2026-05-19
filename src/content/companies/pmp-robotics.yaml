@@ -2,7 +2,7 @@ slug: pmp-robotics
 name: PMP Robotics
 website: https://www.pnprobotics.com
 country: CN
-logo: ./logo.svg
+logo: /company-logos/pmp-robotics.png
 logo_alt:
   ru: Логотип PMP Robotics
   en: PMP Robotics logo

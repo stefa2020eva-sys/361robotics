@@ -3,7 +3,7 @@ name: Rifeng Cable
 website: http://www.rfcable.com.cn
 country: CN
 founded: 2009
-logo: ./logo.svg
+logo: /company-logos/rifeng-cable.png
 logo_alt:
   ru: Логотип Rifeng Cable
   en: Rifeng Cable logo

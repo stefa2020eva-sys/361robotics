@@ -3,7 +3,7 @@ name: NODKA
 website: https://nodka.com
 country: CN
 founded: 2001
-logo: ./logo.svg
+logo: /company-logos/nodka.png
 logo_alt:
   ru: Логотип NODKA
   en: NODKA logo

@@ -3,7 +3,7 @@ name: Link-Touch
 website: https://www.link-touch.com
 country: CN
 founded: 2019
-logo: ./logo.svg
+logo: /company-logos/link-touch.png
 logo_alt:
   ru: Логотип Link-Touch
   en: Link-Touch logo
