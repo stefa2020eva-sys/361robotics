@@ -2,7 +2,7 @@ slug: gci
 name: GCI
 country: CN
 founded: 2019
-logo: ./logo.svg
+logo: /company-logos/gci.png
 logo_alt:
   ru: Логотип GCI
   en: GCI logo

@@ -3,7 +3,7 @@ name: ENCOS
 website: http://en.encos.cn
 country: CN
 founded: 2022
-logo: ./logo.svg
+logo: /company-logos/encos.png
 logo_alt:
   ru: Логотип ENCOS
   en: ENCOS logo

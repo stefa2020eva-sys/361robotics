@@ -2,7 +2,7 @@ slug: cookoo-ai
 name: CookooAI
 website: http://www.cookoo-ai.com
 country: CN
-logo: ./logo.svg
+logo: /company-logos/cookoo-ai.png
 logo_alt:
   ru: Логотип CookooAI
   en: CookooAI logo

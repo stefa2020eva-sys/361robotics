@@ -2,7 +2,7 @@ slug: cecport
 name: CECport
 website: https://www.cecport.com
 country: CN
-logo: ./logo.svg
+logo: /company-logos/cecport.png
 logo_alt:
   ru: Логотип CECport
   en: CECport logo

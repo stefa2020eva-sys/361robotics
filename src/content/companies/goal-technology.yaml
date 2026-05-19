@@ -3,7 +3,7 @@ name: Goal Technology (Shenzhen) Co., Ltd.
 website: http://www.goaltech.com
 country: CN
 founded: 2018
-logo: ./logo.svg
+logo: /company-logos/goal-technology.png
 logo_alt:
   ru: Логотип Goal Technology
   en: Goal Technology logo

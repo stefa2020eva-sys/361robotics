@@ -3,7 +3,7 @@ name: Ensuring Technology
 website: https://www.ensuringtech.com
 country: CN
 founded: 2025
-logo: ./logo.svg
+logo: /company-logos/ensuring-technology.png
 logo_alt:
   ru: Логотип Ensuring Technology
   en: Ensuring Technology logo

@@ -3,7 +3,7 @@ name: AmPro
 website: https://www.amproinnovations.com.cn
 country: CN
 founded: 2017
-logo: ./logo.svg
+logo: /company-logos/ampro.png
 logo_alt:
   ru: Логотип AmPro
   en: AmPro logo
