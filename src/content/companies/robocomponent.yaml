@@ -1,0 +1,55 @@
+slug: robocomponent
+name: RoboComponent
+website: https://robocomponent.ru
+country: RU
+founded: 2022
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип RoboComponent
+  en: RoboComponent logo
+  zh: RoboComponent 标志
+type:
+  - component_maker
+featured: false
+categories:
+  - end-effectors
+  - sensors
+produces_components:
+  - gripper
+  - custom-end-effector
+  - force-torque-sensor
+key_clients: []
+ru:
+  description: |
+    РобоКомпонент — московский производитель оснастки для промышленных роботов: разрабатывает запатентованные модульные захваты, устройства смены инструмента, датчики столкновений и шпиндели для снятия фасок. Продуктовая линейка покрывает нагрузки от менее 1 кг до более 100 кг.
+
+    Компания позиционирует себя как «новый стандарт гибкой роботизированной автоматизации» и развивает модульную архитектуру оснастки, позволяющую быстро перенастраивать линию под разные задачи.
+  highlights:
+    - Запатентованная технология модульных захватов для гибкой роботизированной автоматизации
+    - Линейка покрывает нагрузки от <1 кг до >100 кг
+    - Электромеханические (РКТ-М) и пневматические захваты (РКТ-МП2/МП3, РКТ-МП2-ЛС)
+    - Сменщики инструмента (РКТ-АСС, РКТ-РСС), датчики столкновений (РКТ-ДСА), шпиндели для снятия фасок (РКТ-РСМ-250)
+en:
+  description: |
+    RoboComponent is a Moscow-based manufacturer of tooling for industrial robots — developing patented modular grippers, automatic and manual tool changers, collision sensors, and deburring spindles. The product range covers payloads from under 1 kg to over 100 kg.
+
+    The company positions itself as "a new standard of flexible robotic automation" and builds a modular tooling architecture that lets integrators quickly reconfigure a production line for different tasks.
+  highlights:
+    - Patented modular gripper technology for flexible robotic automation
+    - Product range covers payloads from <1 kg to >100 kg
+    - Electromechanical (РКТ-М) and pneumatic grippers (РКТ-МП2/МП3, РКТ-МП2-ЛС)
+    - Tool changers (РКТ-АСС, РКТ-РСС), collision sensors (РКТ-ДСА), deburring spindles (РКТ-РСМ-250)
+zh:
+  description: |
+    RoboComponent（РобоКомпонент）是位于俄罗斯莫斯科的工业机器人工装制造商，开发具有专利的模块化夹爪、自动和手动工具更换器、碰撞传感器以及倒角主轴。产品系列涵盖 1 千克以下至 100 千克以上的负载。
+
+    公司将自己定位为"柔性机器人自动化的新标准"，构建模块化工装架构，使集成商能够快速重新配置生产线以适应不同任务。
+  highlights:
+    - 用于柔性机器人自动化的专利模块化夹爪技术
+    - 产品系列涵盖 <1 公斤至 >100 公斤的负载
+    - 电动夹爪 (РКТ-М) 和气动夹爪 (РКТ-МП2/МП3, РКТ-МП2-ЛС)
+    - 工具更换器 (РКТ-АСС, РКТ-РСС)、碰撞传感器 (РКТ-ДСА)、倒角主轴 (РКТ-РСМ-250)
+verified: true
+source: https://robocomponent.ru/Catalog/
+needs_review:
+  zh: true
