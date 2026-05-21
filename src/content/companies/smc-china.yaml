@@ -13,6 +13,9 @@ featured: false
 categories:
 - actuators
 produces_components:
+- pneumatic-cylinder
+- solenoid-valve
+- pneumatic-actuator
 - linear-actuator
 - vacuum-cup
 key_clients: []

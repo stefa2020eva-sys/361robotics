@@ -1,0 +1,24 @@
+slug: solenoid-valve
+category: actuators
+featured: false
+image: /component-images/solenoid-valve.png
+image_alt:
+  ru: "Электромагнитный пневматический клапан с катушкой и портами для воздушных шлангов"
+  en: "Solenoid pneumatic valve with coil and ports for air hoses"
+  zh: "带电磁线圈和气管接口的电磁阀"
+ru:
+  name: Электромагнитный клапан
+  description: |
+    Управляемый сигналом клапан, открывающий и перекрывающий поток воздуха или жидкости с помощью электромагнитной катушки.
+    Используется как исполнительный элемент в пневматических системах роботов и линий автоматизации.
+en:
+  name: Solenoid Valve
+  description: |
+    An electrically controlled valve that opens or closes a flow of air or fluid via an electromagnetic coil.
+    Used as the switching element in pneumatic systems on robots and automation lines.
+zh:
+  name: 电磁阀
+  description: |
+    通过电磁线圈控制气体或液体通断的电控阀门。
+    作为机器人和自动化产线气动系统中的执行切换元件。
+verified: false

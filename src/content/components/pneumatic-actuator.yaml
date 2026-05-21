@@ -1,0 +1,24 @@
+slug: pneumatic-actuator
+category: actuators
+featured: false
+image: /component-images/pneumatic-actuator.png
+image_alt:
+  ru: "Пневматический привод с поршневым штоком и подключёнными воздушными шлангами"
+  en: "Pneumatic actuator with piston rod and connected air hoses"
+  zh: "带活塞杆和连接气管的气动执行器"
+ru:
+  name: Пневмопривод
+  description: |
+    Исполнительный механизм, преобразующий энергию сжатого воздуха в прямолинейное или вращательное движение.
+    Применяется в захватных устройствах, манипуляторах и линиях упаковки, где требуется чистая среда, лёгкий вес и высокая частота циклов.
+en:
+  name: Pneumatic Actuator
+  description: |
+    A drive mechanism that converts compressed-air energy into linear or rotary motion.
+    Used in grippers, manipulators, and packaging lines where a clean environment, low weight, and high cycle rates are required.
+zh:
+  name: 气动执行器
+  description: |
+    将压缩空气能量转换为直线或旋转运动的执行机构。
+    应用于抓取装置、机械手和包装线，适合需要洁净环境、轻量化和高循环频率的场景。
+verified: false

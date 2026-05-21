@@ -14,6 +14,8 @@ categories:
 - actuators
 - connectivity
 produces_components:
+- pneumatic-actuator
+- pneumatic-cylinder
 - linear-actuator
 - servo-motor
 key_clients: []

@@ -1,0 +1,24 @@
+slug: power-inverter
+category: drives-power
+featured: false
+image: /component-images/power-inverter.png
+image_alt:
+  ru: "Силовой инвертор постоянного тока в переменный с радиатором и клеммными колодками"
+  en: "DC-to-AC power inverter with heat sink and terminal blocks"
+  zh: "带散热器和接线端子的直流-交流电源逆变器"
+ru:
+  name: Силовой инвертор
+  description: |
+    Преобразователь постоянного тока в переменный, питающий двигатели и бортовые системы робота от аккумуляторной батареи.
+    Применяется в мобильных платформах, автономных энергоустановках и подзарядных модулях.
+en:
+  name: Power Inverter
+  description: |
+    A DC-to-AC converter that supplies AC power to motors and onboard systems from a battery pack.
+    Used in mobile platforms, autonomous power units, and charging modules.
+zh:
+  name: 电源逆变器
+  description: |
+    将电池组的直流电转换为交流电，为电机和机载系统供电的功率变换器。
+    应用于移动平台、自主能源系统和充电模块。
+verified: false

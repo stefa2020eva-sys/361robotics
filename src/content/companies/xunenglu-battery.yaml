@@ -13,6 +13,8 @@ categories:
 - drives-power
 produces_components:
 - battery-pack
+- battery-management-system
+- power-inverter
 key_clients: []
 ru:
   description: XunengLu Battery — китайский производитель компонентов, базирующийся в Ухане. Поставляет аккумуляторные модули для робототехники и систем управления движением.

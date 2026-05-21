@@ -1,0 +1,24 @@
+slug: pneumatic-cylinder
+category: actuators
+featured: false
+image: /component-images/pneumatic-cylinder.png
+image_alt:
+  ru: "Двухсторонний пневмоцилиндр с выдвинутым штоком на промышленной монтажной плите"
+  en: "Double-acting pneumatic cylinder with extended rod on an industrial mounting plate"
+  zh: "工业安装板上带伸出活塞杆的双作用气缸"
+ru:
+  name: Пневмоцилиндр
+  description: |
+    Силовой цилиндр одностороннего или двустороннего действия, преобразующий давление сжатого воздуха в линейное усилие на штоке.
+    Используется в зажимных устройствах, толкателях и автоматических линиях сборки.
+en:
+  name: Pneumatic Cylinder
+  description: |
+    A single- or double-acting power cylinder that converts compressed-air pressure into a linear force on its rod.
+    Used in clamps, pushers, and automated assembly lines.
+zh:
+  name: 气缸
+  description: |
+    单作用或双作用动力缸，将压缩空气压力转换为活塞杆上的直线推力。
+    应用于夹紧装置、推料器和自动化装配线。
+verified: false

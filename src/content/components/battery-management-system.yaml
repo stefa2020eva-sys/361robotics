@@ -1,0 +1,24 @@
+slug: battery-management-system
+category: drives-power
+featured: false
+image: /component-images/battery-management-system.png
+image_alt:
+  ru: "Электронная плата системы управления батареей с балансировкой ячеек и силовыми разъёмами"
+  en: "Battery management system PCB with cell-balancing circuitry and power connectors"
+  zh: "带均衡电路和功率接口的电池管理系统控制板"
+ru:
+  name: Система управления батареей (BMS)
+  description: |
+    Электронный модуль, контролирующий заряд, разряд и баланс ячеек литий-ионной батареи, защищающий её от перегрева, перенапряжения и глубокого разряда.
+    Используется в аккумуляторных блоках мобильных роботов, гуманоидов и беспилотников.
+en:
+  name: Battery Management System
+  description: |
+    An electronic module that monitors charge, discharge, and cell balancing in a lithium-ion battery, and protects it from overheating, overvoltage, and deep discharge.
+    Used in battery packs for mobile robots, humanoids, and unmanned platforms.
+zh:
+  name: 电池管理系统 (BMS)
+  description: |
+    监测锂离子电池的充放电、电芯均衡，并防止过热、过压和过放的电子模块。
+    应用于移动机器人、人形机器人和无人系统的电池模组。
+verified: false
