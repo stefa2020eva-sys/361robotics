@@ -1,12 +1,12 @@
 slug: norinco-58
-name: NORINCO 58th Automation Research Institute
+name: Southwest Institute of Automation (CSGC 58th Research Institute)
 country: CN
 website: https://www.58suo.com
 logo: ./logo.svg
 logo_alt:
-  ru: Логотип NORINCO 58th Automation Research Institute
-  en: NORINCO 58th Automation Research Institute logo
-  zh: NORINCO 58th Automation Research Institute 标志
+  ru: Логотип Southwest Institute of Automation (CSGC 58th Research Institute)
+  en: Southwest Institute of Automation (CSGC 58th Research Institute) logo
+  zh: Southwest Institute of Automation (CSGC 58th Research Institute) 标志
 type:
 - robot_brand
 featured: false
@@ -18,11 +18,11 @@ robot_products:
   short: Specialized robots for defense and security
 key_clients: []
 ru:
-  description: NORINCO 58th Automation Research Institute — китайская робототехническая компания, базирующаяся в 四川绵阳. Разрабатывает Special-Application Robot и сопутствующие робототехнические системы.
+  description: Southwest Institute of Automation (CSGC 58th Research Institute) — китайская робототехническая компания, базирующаяся в Мяньяне (Сычуань). Разрабатывает Special-Application Robot и сопутствующие робототехнические системы.
   highlights:
   - Special-Application Robot — Specialized robots for defense and security
 en:
-  description: NORINCO 58th Automation Research Institute is a Chinese robotics company based in 四川绵阳. It develops Special-Application Robot and related robotic systems.
+  description: Southwest Institute of Automation (CSGC 58th Research Institute) is a Chinese robotics company based in Mianyang, Sichuan. It develops Special-Application Robot and related robotic systems.
   highlights:
   - Special-Application Robot — Specialized robots for defense and security
 zh:

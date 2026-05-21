@@ -1,11 +1,12 @@
 slug: robint-technology
-name: Robint (Luobide)
+name: Robint
 country: CN
+website: https://www.irobint.com
 logo: ./logo.svg
 logo_alt:
-  ru: Логотип Robint (Luobide)
-  en: Robint (Luobide) logo
-  zh: Robint (Luobide) 标志
+  ru: Логотип Robint
+  en: Robint logo
+  zh: Robint 标志
 type:
 - robot_brand
 featured: false
@@ -16,11 +17,11 @@ robot_products:
   short: Indoor service and delivery robot
 key_clients: []
 ru:
-  description: Robint (Luobide) — китайская робототехническая компания, базирующаяся в Пекине. Разрабатывает Robint Service Robot и сопутствующие робототехнические системы.
+  description: Robint (Beijing Luobide Technology) — китайская робототехническая компания, базирующаяся в Пекине. Разрабатывает Robint Service Robot и сопутствующие робототехнические системы.
   highlights:
   - Robint Service Robot — Indoor service and delivery robot
 en:
-  description: Robint (Luobide) is a Chinese robotics company based in Beijing. It develops Robint Service Robot and related robotic systems.
+  description: Robint (Beijing Luobide Technology) is a Chinese robotics company based in Beijing. It develops Robint Service Robot and related robotic systems.
   highlights:
   - Robint Service Robot — Indoor service and delivery robot
 zh:

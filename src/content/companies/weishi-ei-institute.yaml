@@ -1,11 +1,11 @@
 slug: weishi-ei-institute
-name: Weishi Embodied Intelligence Institute
+name: Beijing Weishi Embodied Intelligence Research Institute
 country: CN
 logo: ./logo.svg
 logo_alt:
-  ru: Логотип Weishi Embodied Intelligence Institute
-  en: Weishi Embodied Intelligence Institute logo
-  zh: Weishi Embodied Intelligence Institute 标志
+  ru: Логотип Beijing Weishi Embodied Intelligence Research Institute
+  en: Beijing Weishi Embodied Intelligence Research Institute logo
+  zh: Beijing Weishi Embodied Intelligence Research Institute 标志
 type:
 - robot_brand
 featured: false
@@ -17,11 +17,11 @@ robot_products:
   short: Embodied AI research platforms
 key_clients: []
 ru:
-  description: Weishi Embodied Intelligence Institute — китайская робототехническая компания, базирующаяся в Пекине. Разрабатывает Weishi EI Platform и сопутствующие робототехнические системы.
+  description: Beijing Weishi Embodied Intelligence Research Institute — китайская робототехническая компания, базирующаяся в Пекине. Разрабатывает Weishi EI Platform и сопутствующие робототехнические системы.
   highlights:
   - Weishi EI Platform — Embodied AI research platforms
 en:
-  description: Weishi Embodied Intelligence Institute is a Chinese robotics company based in Beijing. It develops Weishi EI Platform and related robotic systems.
+  description: Beijing Weishi Embodied Intelligence Research Institute is a Chinese robotics company based in Beijing. It develops Weishi EI Platform and related robotic systems.
   highlights:
   - Weishi EI Platform — Embodied AI research platforms
 zh:

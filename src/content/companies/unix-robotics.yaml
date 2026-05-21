@@ -1,11 +1,12 @@
 slug: unix-robotics
-name: UniX Robotics
+name: UniX AI
 country: CN
+website: https://www.unix-group.ai
 logo: ./logo.svg
 logo_alt:
-  ru: Логотип UniX Robotics
-  en: UniX Robotics logo
-  zh: UniX Robotics 标志
+  ru: Логотип UniX AI
+  en: UniX AI logo
+  zh: UniX AI 标志
 type:
 - robot_brand
 featured: false
@@ -16,11 +17,11 @@ robot_products:
   short: General-purpose humanoid robot platform
 key_clients: []
 ru:
-  description: UniX Robotics — китайская робототехническая компания, базирующаяся в Сучжоу. Разрабатывает UniX Humanoid и сопутствующие робототехнические системы.
+  description: UniX AI — китайская робототехническая компания, базирующаяся в Сучжоу. Разрабатывает UniX Humanoid и сопутствующие робототехнические системы.
   highlights:
   - UniX Humanoid — General-purpose humanoid robot platform
 en:
-  description: UniX Robotics is a Chinese robotics company based in Suzhou. It develops UniX Humanoid and related robotic systems.
+  description: UniX AI is a Chinese robotics company based in Suzhou. It develops UniX Humanoid and related robotic systems.
   highlights:
   - UniX Humanoid — General-purpose humanoid robot platform
 zh:
