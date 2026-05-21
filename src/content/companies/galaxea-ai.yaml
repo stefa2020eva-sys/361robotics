@@ -1,0 +1,36 @@
+slug: galaxea-ai
+name: Galaxea AI
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Galaxea AI
+  en: Galaxea AI logo
+  zh: Galaxea AI 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+- software-sdk
+robot_products:
+- name: Galaxea R1
+  short: Bimanual humanoid robot for AI training
+key_clients: []
+ru:
+  description: Galaxea AI — китайская робототехническая компания, базирующаяся в Пекине. Разрабатывает Galaxea R1 и сопутствующие робототехнические системы.
+  highlights:
+  - Galaxea R1 — Bimanual humanoid robot for AI training
+en:
+  description: Galaxea AI is a Chinese robotics company based in Beijing. It develops Galaxea R1 and related robotic systems.
+  highlights:
+  - Galaxea R1 — Bimanual humanoid robot for AI training
+zh:
+  description: 硬件（本体）：自主设计并制造的具身智能机器人本体。软件：具身智能基础模型（如星海图VLA模型）。方向：AI算法与本体协同研发的具身智能公司。 坚持AI算法与本体协同研发的发展思路，实现从核心模组、本体、数据、模型全栈自研。 基于每一代的智能体产品探寻具身智能的Scaling Law，以此迈向通用具身智能。
+  highlights:
+  - 硬件（本体）：自主设计并制造的具身智能机器人本体
+  - 软件：具身智能基础模型（如星海图VLA模型）
+  - 方向：AI算法与本体协同研发的具身智能公司
+  - 坚持AI算法与本体协同研发的发展思路，实现从核心模组、本体、数据、模型全栈自研
+verified: true
+needs_review:
+  zh: true

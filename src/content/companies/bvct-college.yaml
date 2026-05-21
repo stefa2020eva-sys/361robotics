@@ -1,0 +1,36 @@
+slug: bvct-college
+name: Beijing Vocational College of Science and Technology
+country: CN
+website: https://www.bvct.edu.cn
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Beijing Vocational College of Science and Technology
+  en: Beijing Vocational College of Science and Technology logo
+  zh: Beijing Vocational College of Science and Technology 标志
+type:
+- robot_brand
+featured: false
+categories:
+- software-sdk
+robot_products:
+- name: BVCT Robotics Program
+  short: Robotics engineering training programs
+key_clients: []
+ru:
+  description: Beijing Vocational College of Science and Technology — китайская робототехническая компания, базирующаяся в Пекине. Разрабатывает BVCT Robotics Program и сопутствующие робототехнические системы.
+  highlights:
+  - BVCT Robotics Program — Robotics engineering training programs
+en:
+  description: Beijing Vocational College of Science and Technology is a Chinese robotics company based in Beijing. It develops BVCT Robotics Program and related robotic systems.
+  highlights:
+  - BVCT Robotics Program — Robotics engineering training programs
+zh:
+  description: 教育/培训：职业本科教育，开设职业本科及高职专科专业，培养技能型人才。方向：机器人领域职业人才培养。 首所北京市属公办本科层次职业院校，国家“双高计划”A档建设单位。 深化产教融合，与300余家企业合作，计划建成世界一流高水平技能型大学。
+  highlights:
+  - 教育/培训：职业本科教育，开设职业本科及高职专科专业，培养技能型人才
+  - 方向：机器人领域职业人才培养
+  - 首所北京市属公办本科层次职业院校，国家“双高计划”A档建设单位
+  - 深化产教融合，与300余家企业合作，计划建成世界一流高水平技能型大学
+verified: true
+needs_review:
+  zh: true

@@ -1,0 +1,38 @@
+slug: hightorque
+name: HighTorque
+country: CN
+website: https://www.hightorque.cn
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип HighTorque
+  en: HighTorque logo
+  zh: HighTorque 标志
+type:
+- component_maker
+featured: false
+categories:
+- actuators
+produces_components:
+- frameless-torque-motor
+- joint-module
+key_clients: []
+ru:
+  description: HighTorque — китайский производитель компонентов, базирующийся в Гуанчжоу. Поставляет безрамные моментные двигатели, модули суставов для робототехники и систем управления движением.
+  highlights:
+  - Безрамные моментные двигатели
+  - Модули суставов
+en:
+  description: HighTorque is a Chinese components manufacturer based in Guangzhou. It supplies frameless torque motor, joint module for robotics and motion-control applications.
+  highlights:
+  - Frameless torque motors
+  - Robotic joint modules
+zh:
+  description: 硬件（本体+执行器）：双足机器人Miniπ、人形机器人MiniHi、自研关节模组。软件：机器人本体研发、减速机、电机、FOC驱动、运动控制算法。方向：迷你人形机器人整机、关节模组及全套技术。 具备机器人本体研发、减速机、电机、驱动、运动控制算法等全套机器人技术，拥有全链研发架构和自有工厂。 为校企科研开发及工业产品应用提供可靠支持，旨在让每个开发者都有一台人形机器人。
+  highlights:
+  - 硬件（本体+执行器）：双足机器人Miniπ、人形机器人MiniHi、自研关节模组
+  - 软件：机器人本体研发、减速机、电机、FOC驱动、运动控制算法
+  - 方向：迷你人形机器人整机、关节模组及全套技术
+  - 具备机器人本体研发、减速机、电机、驱动、运动控制算法等全套机器人技术，拥有全链研发架构和自有工厂
+verified: true
+needs_review:
+  zh: true

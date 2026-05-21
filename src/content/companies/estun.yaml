@@ -1,0 +1,52 @@
+slug: estun
+name: ESTUN Automation
+country: CN
+founded: 1993
+website: https://www.estun.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип ESTUN Automation
+  en: ESTUN Automation logo
+  zh: ESTUN Automation 标志
+type:
+- robot_brand
+- component_maker
+featured: false
+categories:
+- end-effectors
+- actuators
+- controllers
+robot_products:
+- name: ESTUN ER Series
+  short: Industrial 6-axis robots
+- name: ESTUN Codian
+  short: High-speed delta and SCARA robots
+produces_components:
+- servo-motor
+- servo-driver
+- motion-controller
+key_clients: []
+ru:
+  description: ESTUN Automation — китайская робототехническая компания, базирующаяся в Нанкине. Разрабатывает роботов (ESTUN ER Series, ESTUN Codian) и производит ключевые компоненты для робототехнических систем.
+  highlights:
+  - ESTUN ER Series — Industrial 6-axis robots
+  - ESTUN Codian — High-speed delta and SCARA robots
+  - Сервоприводы
+  - Сервоусилители
+en:
+  description: ESTUN Automation is a Chinese robotics company based in Nanjing. It both develops robots (ESTUN ER Series, ESTUN Codian) and produces core components for robotic systems.
+  highlights:
+  - ESTUN ER Series — Industrial 6-axis robots
+  - ESTUN Codian — High-speed delta and SCARA robots
+  - Servo motors
+  - Servo drivers
+zh:
+  description: 硬件（本体+核心部件）：全系列工业机器人(3kg-1000kg)、核心零部件。软件/方案：智能制造系统。方向：工业机器人整机、运动控制核心部件及解决方案。 机器人核心部件自主化率超95%，国内出货量多年居首。 以“ALL MADE BY ESTUN”战略构建智能制造生态链，形成工业自动化、机器人及智能制造系统、工业数字化三大业务。
+  highlights:
+  - 硬件（本体+核心部件）：全系列工业机器人(3kg-1000kg)、核心零部件
+  - 软件/方案：智能制造系统
+  - 方向：工业机器人整机、运动控制核心部件及解决方案
+  - 机器人核心部件自主化率超95%，国内出货量多年居首
+verified: true
+needs_review:
+  zh: true

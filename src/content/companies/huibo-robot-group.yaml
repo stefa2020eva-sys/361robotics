@@ -1,0 +1,35 @@
+slug: huibo-robot-group
+name: Huibo Robot Group
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Huibo Robot Group
+  en: Huibo Robot Group logo
+  zh: Huibo Robot Group 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: Huibo Industrial Robot
+  short: Industrial automation and robotic systems
+key_clients: []
+ru:
+  description: Huibo Robot Group — китайская робототехническая компания, базирующаяся в -. Разрабатывает Huibo Industrial Robot и сопутствующие робототехнические системы.
+  highlights:
+  - Huibo Industrial Robot — Industrial automation and robotic systems
+en:
+  description: Huibo Robot Group is a Chinese robotics company based in -. It develops Huibo Industrial Robot and related robotic systems.
+  highlights:
+  - Huibo Industrial Robot — Industrial automation and robotic systems
+zh:
+  description: 软件/方案：智能制造整体解决方案、人才培养一体化方案。硬件：光伏智能运维系统、火车车厢余料清扫机器人等工业装备。方向：产教融合的智能制造解决方案与教育装备。 核心研发团队源自哈工大机器人研究所，掌握多项自主可控核心技术。 深度践行产教融合与政企合作，已与近2000所院校、600余家企业合作，助力制造强国建设。
+  highlights:
+  - 软件/方案：智能制造整体解决方案、人才培养一体化方案
+  - 硬件：光伏智能运维系统、火车车厢余料清扫机器人等工业装备
+  - 方向：产教融合的智能制造解决方案与教育装备
+  - 核心研发团队源自哈工大机器人研究所，掌握多项自主可控核心技术
+verified: true
+needs_review:
+  zh: true

@@ -1,0 +1,36 @@
+slug: gv-huahui
+name: Guanggu Huahui
+country: CN
+website: https://www.whghht.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Guanggu Huahui
+  en: Guanggu Huahui logo
+  zh: Guanggu Huahui 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: Guanggu Huahui Robot
+  short: Wuhan Optics Valley robot solutions
+key_clients: []
+ru:
+  description: Guanggu Huahui — китайская робототехническая компания, базирующаяся в Ухане. Разрабатывает Guanggu Huahui Robot и сопутствующие робототехнические системы.
+  highlights:
+  - Guanggu Huahui Robot — Wuhan Optics Valley robot solutions
+en:
+  description: Guanggu Huahui is a Chinese robotics company based in Wuhan. It develops Guanggu Huahui Robot and related robotic systems.
+  highlights:
+  - Guanggu Huahui Robot — Wuhan Optics Valley robot solutions
+zh:
+  description: 硬件（本体+核心部件）：人形整机及部件、衍生产品。方向：围绕人形机器人产业链自研核心零部件、组件及整机的全产品线企业。 作为湖北人形机器人创新中心的共建单位，建立了人形机器人高显示度场景应用示范平台。 在城市治安、公共安全、特种环境等场景深入拓展，已实现人形整机及部件、衍生产品的落地应用。
+  highlights:
+  - 硬件（本体+核心部件）：人形整机及部件、衍生产品
+  - 方向：围绕人形机器人产业链自研核心零部件、组件及整机的全产品线企业
+  - 作为湖北人形机器人创新中心的共建单位，建立了人形机器人高显示度场景应用示范平台
+  - 在城市治安、公共安全、特种环境等场景深入拓展，已实现人形整机及部件、衍生产品的落地应用
+verified: true
+needs_review:
+  zh: true

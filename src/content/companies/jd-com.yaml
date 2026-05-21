@@ -1,0 +1,38 @@
+slug: jd-com
+name: JD.com
+country: CN
+founded: 1998
+website: https://www.jd.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип JD.com
+  en: JD.com logo
+  zh: JD.com 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+- software-sdk
+robot_products:
+- name: JoyInside
+  short: AI-powered robot soul system for humanoid and service robots
+key_clients: []
+ru:
+  description: JD.com — китайская робототехническая компания, базирующаяся в Пекине. Разрабатывает JoyInside и сопутствующие робототехнические системы.
+  highlights:
+  - JoyInside — AI-powered robot soul system for humanoid and service robots
+en:
+  description: JD.com is a Chinese robotics company based in Beijing. It develops JoyInside and related robotic systems.
+  highlights:
+  - JoyInside — AI-powered robot soul system for humanoid and service robots
+zh:
+  description: 软件/服务/平台：JoyAl大模型、JoyInside具身智能品牌交互功能、京东智能机器人业务供应链、全渠道营销。方向：机器人AI能力赋能、销售与供应链平台。 独家全球战略合作伙伴，拥有约6亿用户和超800万企业客户，强大的供应链基础设施。 为机器人等智能终端提供AI交互功能，链接产业和消费，为合作伙伴提供一站式购物体验，加速机器人产业场景化落地。
+  highlights:
+  - 软件/服务/平台：JoyAl大模型、JoyInside具身智能品牌交互功能、京东智能机器人业务供应链、全渠道营销
+  - 方向：机器人AI能力赋能、销售与供应链平台
+  - 独家全球战略合作伙伴，拥有约6亿用户和超800万企业客户，强大的供应链基础设施
+  - 为机器人等智能终端提供AI交互功能，链接产业和消费，为合作伙伴提供一站式购物体验，加速机器人产业场景化落地
+verified: true
+needs_review:
+  zh: true

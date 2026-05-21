@@ -1,0 +1,36 @@
+slug: wanji-lidar
+name: WJ-LIDAR (Wuhan Wanji)
+country: CN
+website: https://www.wjlidar.cn
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип WJ-LIDAR (Wuhan Wanji)
+  en: WJ-LIDAR (Wuhan Wanji) logo
+  zh: WJ-LIDAR (Wuhan Wanji) 标志
+type:
+- component_maker
+featured: false
+categories:
+- sensors
+- vision
+produces_components:
+- lidar
+key_clients: []
+ru:
+  description: WJ-LIDAR (Wuhan Wanji) — китайский производитель компонентов, базирующийся в Ухане. Поставляет лидары для робототехники и систем управления движением.
+  highlights:
+  - Лидары
+en:
+  description: WJ-LIDAR (Wuhan Wanji) is a Chinese components manufacturer based in Wuhan. It supplies lidar for robotics and motion-control applications.
+  highlights:
+  - LiDAR sensors
+zh:
+  description: 硬件（传感器）：激光雷达。方向：机器人环境感知核心传感器。 已掌握激光雷达在光学、驱动、接收、扫描等多个方面的核心技术，累计申请激光雷达专利超千件。 赋予机器“感知世界”的能力，推动自动驾驶、工业自动化等行业高速发展。
+  highlights:
+  - 硬件（传感器）：激光雷达
+  - 方向：机器人环境感知核心传感器
+  - 已掌握激光雷达在光学、驱动、接收、扫描等多个方面的核心技术，累计申请激光雷达专利超千件
+  - 赋予机器“感知世界”的能力，推动自动驾驶、工业自动化等行业高速发展
+verified: true
+needs_review:
+  zh: true

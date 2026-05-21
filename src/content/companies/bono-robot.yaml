@@ -1,0 +1,36 @@
+slug: bono-robot
+name: Bono Robot (Tianjin Bonuo)
+country: CN
+website: https://www.bonorobot.cn
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Bono Robot (Tianjin Bonuo)
+  en: Bono Robot (Tianjin Bonuo) logo
+  zh: Bono Robot (Tianjin Bonuo) 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: Bono Industrial Robot
+  short: Industrial robot integration solutions
+key_clients: []
+ru:
+  description: Bono Robot (Tianjin Bonuo) — китайская робототехническая компания, базирующаяся в Тяньцзине. Разрабатывает Bono Industrial Robot и сопутствующие робототехнические системы.
+  highlights:
+  - Bono Industrial Robot — Industrial robot integration solutions
+en:
+  description: Bono Robot (Tianjin Bonuo) is a Chinese robotics company based in Tianjin. It develops Bono Industrial Robot and related robotic systems.
+  highlights:
+  - Bono Industrial Robot — Industrial robot integration solutions
+zh:
+  description: 软件/方案：产教融合解决方案。硬件：工业装备、智能教育装备。方向：“工业+教育”融合的智能装备与解决方案。 由天津职业技术师范大学与天津大学师生创办。 打造“人才培养-科技创新-产业升级”生态，通过自主研发装备及方案助力院校建设及企业智能化转型。
+  highlights:
+  - 软件/方案：产教融合解决方案
+  - 硬件：工业装备、智能教育装备
+  - 方向：“工业+教育”融合的智能装备与解决方案
+  - 由天津职业技术师范大学与天津大学师生创办
+verified: true
+needs_review:
+  zh: true

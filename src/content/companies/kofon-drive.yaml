@@ -1,0 +1,39 @@
+slug: kofon-drive
+name: Kofon Intelligent Drive
+country: CN
+website: https://www.kofon.com.cn
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Kofon Intelligent Drive
+  en: Kofon Intelligent Drive logo
+  zh: Kofon Intelligent Drive 标志
+type:
+- component_maker
+featured: false
+categories:
+- actuators
+- mechanical
+produces_components:
+- planetary-reducer
+- harmonic-reducer
+key_clients: []
+ru:
+  description: Kofon Intelligent Drive — китайский производитель компонентов, базирующийся в 湖北黄冈. Поставляет планетарные редукторы, волновые редукторы для робототехники и систем управления движением.
+  highlights:
+  - Планетарные редукторы
+  - Волновые редукторы
+en:
+  description: Kofon Intelligent Drive is a Chinese components manufacturer based in 湖北黄冈. It supplies planetary reducer, harmonic reducer for robotics and motion-control applications.
+  highlights:
+  - Planetary reducers
+  - Harmonic reducers
+zh:
+  description: 硬件（执行器-减速器）：精密行星减速器、谐波减速器、工程机械用行星减速器。方向：机器人核心传动部件。 国家级专精特新“小巨人”企业，产品广泛应用于工业机器人等领域。 客户覆盖全球二十多个国家，致力于为智能传动系统提供核心部件。
+  highlights:
+  - 硬件（执行器-减速器）：精密行星减速器、谐波减速器、工程机械用行星减速器
+  - 方向：机器人核心传动部件
+  - 国家级专精特新“小巨人”企业，产品广泛应用于工业机器人等领域
+  - 客户覆盖全球二十多个国家，致力于为智能传动系统提供核心部件
+verified: true
+needs_review:
+  zh: true

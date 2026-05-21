@@ -1,0 +1,33 @@
+slug: hbk-china
+name: HBK (Hottinger Bruel & Kjaer)
+country: CN
+website: https://www.hbm.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип HBK (Hottinger Bruel & Kjaer)
+  en: HBK (Hottinger Bruel & Kjaer) logo
+  zh: HBK (Hottinger Bruel & Kjaer) 标志
+type:
+- component_maker
+featured: false
+categories:
+- sensors
+produces_components:
+- force-torque-sensor
+key_clients: []
+ru:
+  description: HBK (Hottinger Bruel & Kjaer) — китайский производитель компонентов, базирующийся в -. Поставляет датчики силы и момента для робототехники и систем управления движением.
+  highlights:
+  - Датчики силы и момента
+en:
+  description: HBK (Hottinger Bruel & Kjaer) is a Chinese components manufacturer based in -. It supplies force torque sensor for robotics and motion-control applications.
+  highlights:
+  - Force/torque sensors
+zh:
+  description: 硬件（传感器）：六维力传感器系列。方向：机器人六维力传感器。 - -
+  highlights:
+  - 硬件（传感器）：六维力传感器系列
+  - 方向：机器人六维力传感器
+verified: true
+needs_review:
+  zh: true

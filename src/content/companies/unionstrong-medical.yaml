@@ -1,0 +1,37 @@
+slug: unionstrong-medical
+name: UnionStrong Tech
+country: CN
+website: https://www.unionstrongtech.cn
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип UnionStrong Tech
+  en: UnionStrong Tech logo
+  zh: UnionStrong Tech 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+- software-sdk
+robot_products:
+- name: UnionStrong Neurosurgical Robot
+  short: AI-assisted neurosurgical planning and execution
+key_clients: []
+ru:
+  description: UnionStrong Tech — китайская робототехническая компания, базирующаяся в Пекине. Разрабатывает UnionStrong Neurosurgical Robot и сопутствующие робототехнические системы.
+  highlights:
+  - UnionStrong Neurosurgical Robot — AI-assisted neurosurgical planning and execution
+en:
+  description: UnionStrong Tech is a Chinese robotics company based in Beijing. It develops UnionStrong Neurosurgical Robot and related robotic systems.
+  highlights:
+  - UnionStrong Neurosurgical Robot — AI-assisted neurosurgical planning and execution
+zh:
+  description: 软件+解决方案：脑血管病智能诊疗服务平台、AI治疗+AI决策方案。方向：医疗垂直领域（脑血管病）的AI软件与决策系统。 行业龙头企业，全面领跑中国脑血管病智能诊疗垂直领域。 围绕临床的决策端和治疗端解决卡脖子难题，覆盖各级医院，并为上亿潜在患者提供健康服务。
+  highlights:
+  - 软件+解决方案：脑血管病智能诊疗服务平台、AI治疗+AI决策方案
+  - 方向：医疗垂直领域（脑血管病）的AI软件与决策系统
+  - 行业龙头企业，全面领跑中国脑血管病智能诊疗垂直领域
+  - 围绕临床的决策端和治疗端解决卡脖子难题，覆盖各级医院，并为上亿潜在患者提供健康服务
+verified: true
+needs_review:
+  zh: true

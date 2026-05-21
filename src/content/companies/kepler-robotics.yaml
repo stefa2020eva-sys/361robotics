@@ -1,0 +1,37 @@
+slug: kepler-robotics
+name: Kepler Robotics
+country: CN
+founded: 2023
+website: https://www.kepler-robot.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Kepler Robotics
+  en: Kepler Robotics logo
+  zh: Kepler Robotics 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: Kepler Forerunner K2
+  short: Full-size general-purpose humanoid robot
+key_clients: []
+ru:
+  description: Kepler Robotics — китайская робототехническая компания, базирующаяся в Шанхае. Разрабатывает Kepler Forerunner K2 и сопутствующие робототехнические системы.
+  highlights:
+  - Kepler Forerunner K2 — Full-size general-purpose humanoid robot
+en:
+  description: Kepler Robotics is a Chinese robotics company based in Shanghai. It develops Kepler Forerunner K2 and related robotic systems.
+  highlights:
+  - Kepler Forerunner K2 — Full-size general-purpose humanoid robot
+zh:
+  description: 硬件（本体+传感器）：通用人形机器人，配备多样传感器。软件：自研算法、纯视觉识别和导航方案、端到端全自主规划。方向：通用人形机器人整机，用于多行业自动智能化解决方案。 采用自研算法，实现预设动作与端到端全自主规划相结合；仿生型构造。 为智能制造、仓储物流、安保巡逻等行业提供解决方案，让机器人像人一样处理问题。
+  highlights:
+  - 硬件（本体+传感器）：通用人形机器人，配备多样传感器
+  - 软件：自研算法、纯视觉识别和导航方案、端到端全自主规划
+  - 方向：通用人形机器人整机，用于多行业自动智能化解决方案
+  - 采用自研算法，实现预设动作与端到端全自主规划相结合
+verified: true
+needs_review:
+  zh: true

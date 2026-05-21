@@ -1,0 +1,36 @@
+slug: linatech-medical
+name: Linatech Medical
+country: CN
+website: https://www.linatech.com.cn
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Linatech Medical
+  en: Linatech Medical logo
+  zh: Linatech Medical 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: Linatech Radiotherapy Robot
+  short: Radiotherapy and medical robotic systems
+key_clients: []
+ru:
+  description: Linatech Medical — китайская робототехническая компания, базирующаяся в Пекине. Разрабатывает Linatech Radiotherapy Robot и сопутствующие робототехнические системы.
+  highlights:
+  - Linatech Radiotherapy Robot — Radiotherapy and medical robotic systems
+en:
+  description: Linatech Medical is a Chinese robotics company based in Beijing. It develops Linatech Radiotherapy Robot and related robotic systems.
+  highlights:
+  - Linatech Radiotherapy Robot — Radiotherapy and medical robotic systems
+zh:
+  description: 硬件（本体）：SuperX（融合智能机器人技术的放疗设备）。方向：医疗放射治疗机器人（高端放疗装备）。 深耕放疗领域三十年，成功构建从核心部件到整机制造的全产业链体系。 融合智能机器人技术攻克运动肿瘤放疗世界级难题，重新定义国际放疗技术标准。
+  highlights:
+  - 硬件（本体）：SuperX（融合智能机器人技术的放疗设备）
+  - 方向：医疗放射治疗机器人（高端放疗装备）
+  - 深耕放疗领域三十年，成功构建从核心部件到整机制造的全产业链体系
+  - 融合智能机器人技术攻克运动肿瘤放疗世界级难题，重新定义国际放疗技术标准
+verified: true
+needs_review:
+  zh: true

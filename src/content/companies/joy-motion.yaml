@@ -1,0 +1,37 @@
+slug: joy-motion
+name: Joy Motion (Suzhou Zhuoyu)
+country: CN
+website: https://www.joy-motion.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Joy Motion (Suzhou Zhuoyu)
+  en: Joy Motion (Suzhou Zhuoyu) logo
+  zh: Joy Motion (Suzhou Zhuoyu) 标志
+type:
+- component_maker
+featured: false
+categories:
+- actuators
+- controllers
+produces_components:
+- servo-driver
+- servo-motor
+key_clients: []
+ru:
+  description: Joy Motion (Suzhou Zhuoyu) — китайский производитель компонентов, базирующийся в Сучжоу. Поставляет сервоусилители, сервоприводы для робототехники и систем управления движением.
+  highlights:
+  - Сервоусилители
+  - Сервоприводы
+en:
+  description: Joy Motion (Suzhou Zhuoyu) is a Chinese components manufacturer based in Suzhou. It supplies servo driver, servo motor for robotics and motion-control applications.
+  highlights:
+  - Servo drivers
+  - Servo motors
+zh:
+  description: 硬件（电源）：TS-E，TS-F（推测为电源相关产品）。方向：机器人电源系统部件。 - -
+  highlights:
+  - 硬件（电源）：TS-E，TS-F（推测为电源相关产品）
+  - 方向：机器人电源系统部件
+verified: true
+needs_review:
+  zh: true

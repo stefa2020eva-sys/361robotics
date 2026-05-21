@@ -1,0 +1,36 @@
+slug: panasonic-tangshan
+name: Tangshan Panasonic Industrial Equipment
+country: CN
+website: https://pwst.panasonic.cn
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Tangshan Panasonic Industrial Equipment
+  en: Tangshan Panasonic Industrial Equipment logo
+  zh: Tangshan Panasonic Industrial Equipment 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: Panasonic TM Welding Robot
+  short: Arc welding robots for industrial use
+key_clients: []
+ru:
+  description: Tangshan Panasonic Industrial Equipment — китайская робототехническая компания, базирующаяся в Таншане. Разрабатывает Panasonic TM Welding Robot и сопутствующие робототехнические системы.
+  highlights:
+  - Panasonic TM Welding Robot — Arc welding robots for industrial use
+en:
+  description: Tangshan Panasonic Industrial Equipment is a Chinese robotics company based in Tangshan. It develops Panasonic TM Welding Robot and related robotic systems.
+  highlights:
+  - Panasonic TM Welding Robot — Arc welding robots for industrial use
+zh:
+  description: 硬件（本体）：焊接机器人、切割机器人、激光焊接系统。软件/方案：焊接应用工艺开发、智能焊接设备与软件开发、系统集成。方向：焊接领域专用工业机器人及工艺解决方案。 中国焊接协会授权设立的全国首家机器人焊接培训基地，首家机器人焊接工艺师认证单位。 事业领域涵盖电焊机、切割机、机器人及激光焊接系统，构筑完善的销售、服务和技术支持体系。
+  highlights:
+  - 硬件（本体）：焊接机器人、切割机器人、激光焊接系统
+  - 软件/方案：焊接应用工艺开发、智能焊接设备与软件开发、系统集成
+  - 方向：焊接领域专用工业机器人及工艺解决方案
+  - 中国焊接协会授权设立的全国首家机器人焊接培训基地，首家机器人焊接工艺师认证单位
+verified: true
+needs_review:
+  zh: true

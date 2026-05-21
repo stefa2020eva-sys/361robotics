@@ -1,0 +1,39 @@
+slug: maxon-china-junhe
+name: maxon China (Junhe Servo)
+country: CN
+website: https://www.maxongroup.com.cn
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип maxon China (Junhe Servo)
+  en: maxon China (Junhe Servo) logo
+  zh: maxon China (Junhe Servo) 标志
+type:
+- component_maker
+featured: false
+categories:
+- actuators
+produces_components:
+- servo-motor
+- brushless-motor
+- coreless-motor
+key_clients: []
+ru:
+  description: maxon China (Junhe Servo) — китайский производитель компонентов, базирующийся в Сучжоу. Поставляет сервоприводы, бесколлекторные двигатели, безжелезные двигатели для робототехники и систем управления движением.
+  highlights:
+  - Сервоприводы
+  - Бесколлекторные двигатели
+  - Безжелезные двигатели
+en:
+  description: maxon China (Junhe Servo) is a Chinese components manufacturer based in Suzhou. It supplies servo motor, brushless motor, coreless motor for robotics and motion-control applications.
+  highlights:
+  - Servo motors
+  - Brushless motors
+  - Coreless motors
+zh:
+  description: 硬件（执行器-模组）：行星模组。方向：机器人关节模组部件。 - -
+  highlights:
+  - 硬件（执行器-模组）：行星模组
+  - 方向：机器人关节模组部件
+verified: true
+needs_review:
+  zh: true

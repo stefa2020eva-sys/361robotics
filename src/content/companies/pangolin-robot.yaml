@@ -1,0 +1,36 @@
+slug: pangolin-robot
+name: Pangolin Robot
+country: CN
+website: https://www.pangolinrobot.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Pangolin Robot
+  en: Pangolin Robot logo
+  zh: Pangolin Robot 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: Pangolin Service Robot
+  short: Commercial service robots and AGV platforms
+key_clients: []
+ru:
+  description: Pangolin Robot — китайская робототехническая компания, базирующаяся в Сучжоу. Разрабатывает Pangolin Service Robot и сопутствующие робототехнические системы.
+  highlights:
+  - Pangolin Service Robot — Commercial service robots and AGV platforms
+en:
+  description: Pangolin Robot is a Chinese robotics company based in Suzhou. It develops Pangolin Service Robot and related robotic systems.
+  highlights:
+  - Pangolin Service Robot — Commercial service robots and AGV platforms
+zh:
+  description: 硬件（本体+底盘）：迎宾、送餐、配送、巡检等商用服务机器人。软件：机器人底盘、算法、深度学习技术。方向：商用服务机器人整机。 《送餐服务机器人国家标准》主要制定者；掌握机器人底盘、算法等核心技术。 专注于商用服务机器人研发、生产与销售，产品线覆盖七大系列，应用于多种服务场景。
+  highlights:
+  - 硬件（本体+底盘）：迎宾、送餐、配送、巡检等商用服务机器人
+  - 软件：机器人底盘、算法、深度学习技术
+  - 方向：商用服务机器人整机
+  - 《送餐服务机器人国家标准》主要制定者
+verified: true
+needs_review:
+  zh: true

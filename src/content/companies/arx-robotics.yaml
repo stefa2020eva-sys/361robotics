@@ -1,0 +1,40 @@
+slug: arx-robotics
+name: ARX (Ark) Robotics
+country: CN
+website: https://arx-x.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип ARX (Ark) Robotics
+  en: ARX (Ark) Robotics logo
+  zh: ARX (Ark) Robotics 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: ARX X5
+  short: Bimanual teleoperation manipulator
+- name: ARX X7
+  short: Open-source bimanual humanoid
+key_clients: []
+ru:
+  description: ARX (Ark) Robotics — китайская робототехническая компания, базирующаяся в Пекине. Разрабатывает ARX X5, ARX X7 и сопутствующие робототехнические системы.
+  highlights:
+  - ARX X5 — Bimanual teleoperation manipulator
+  - ARX X7 — Open-source bimanual humanoid
+en:
+  description: ARX (Ark) Robotics is a Chinese robotics company based in Beijing. It develops ARX X5, ARX X7 and related robotic systems.
+  highlights:
+  - ARX X5 — Bimanual teleoperation manipulator
+  - ARX X7 — Open-source bimanual humanoid
+zh:
+  description: 硬件（本体）：先进、实用的机器人技术产品。方向：机器人整机方案。 致力于研究、开发和生产最先进、最实用的机器人技术。 为全球客户提供机器人方案，推动机器人技术服务于人类，带来生产力变革。
+  highlights:
+  - 硬件（本体）：先进、实用的机器人技术产品
+  - 方向：机器人整机方案
+  - 致力于研究、开发和生产最先进、最实用的机器人技术
+  - 为全球客户提供机器人方案，推动机器人技术服务于人类，带来生产力变革
+verified: true
+needs_review:
+  zh: true

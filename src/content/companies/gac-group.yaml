@@ -1,0 +1,37 @@
+slug: gac-group
+name: GAC Group
+country: CN
+founded: 1997
+website: https://www.gac.com.cn
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип GAC Group
+  en: GAC Group logo
+  zh: GAC Group 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: GoMate
+  short: Humanoid robot developed by GAC Research & Development Center
+key_clients: []
+ru:
+  description: GAC Group — китайская робототехническая компания, базирующаяся в Гуанчжоу. Разрабатывает GoMate и сопутствующие робототехнические системы.
+  highlights:
+  - GoMate — Humanoid robot developed by GAC Research & Development Center
+en:
+  description: GAC Group is a Chinese robotics company based in Guangzhou. It develops GoMate and related robotic systems.
+  highlights:
+  - GoMate — Humanoid robot developed by GAC Research & Development Center
+zh:
+  description: 硬件（本体）：具身智能人形机器人（三代产品）。方向：采用可变轮足结构的具身智能人形机器人整机。 早在2021年即布局机器人领域，成立研发团队。 围绕技术、生产、市场等维度展开深入布局，致力于解决落地困难难题，打造真正可落地应用的人形机器人。
+  highlights:
+  - 硬件（本体）：具身智能人形机器人（三代产品）
+  - 方向：采用可变轮足结构的具身智能人形机器人整机
+  - 早在2021年即布局机器人领域，成立研发团队
+  - 围绕技术、生产、市场等维度展开深入布局，致力于解决落地困难难题，打造真正可落地应用的人形机器人
+verified: true
+needs_review:
+  zh: true

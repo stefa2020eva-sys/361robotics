@@ -1,0 +1,40 @@
+slug: abb-shanghai
+name: ABB Engineering Shanghai
+country: CN
+website: https://new.abb.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип ABB Engineering Shanghai
+  en: ABB Engineering Shanghai logo
+  zh: ABB Engineering Shanghai 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: ABB IRB 6700
+  short: Heavy-payload industrial robot
+- name: ABB YuMi
+  short: Dual-arm collaborative robot
+key_clients: []
+ru:
+  description: ABB Engineering Shanghai — китайская робототехническая компания, базирующаяся в Шанхае. Разрабатывает ABB IRB 6700, ABB YuMi и сопутствующие робототехнические системы.
+  highlights:
+  - ABB IRB 6700 — Heavy-payload industrial robot
+  - ABB YuMi — Dual-arm collaborative robot
+en:
+  description: ABB Engineering Shanghai is a Chinese robotics company based in Shanghai. It develops ABB IRB 6700, ABB YuMi and related robotic systems.
+  highlights:
+  - ABB IRB 6700 — Heavy-payload industrial robot
+  - ABB YuMi — Dual-arm collaborative robot
+zh:
+  description: 硬件（本体）：工业机器人、自主移动机器人。软件/方案：ABB自主软件设计与集成、机械自动化解决方案。方向：工业机器人整机及自动化解决方案。 全球领先的机器人和机械自动化供应商。 致力于帮助汽车、电子、物流等不同规模的企业提升运营效率、提高生产柔性，迈向未来工厂。
+  highlights:
+  - 硬件（本体）：工业机器人、自主移动机器人
+  - 软件/方案：ABB自主软件设计与集成、机械自动化解决方案
+  - 方向：工业机器人整机及自动化解决方案
+  - 全球领先的机器人和机械自动化供应商
+verified: true
+needs_review:
+  zh: true

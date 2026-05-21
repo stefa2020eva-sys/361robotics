@@ -1,0 +1,39 @@
+slug: festo-china
+name: Festo China
+country: CN
+website: https://www.festo.com.cn
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Festo China
+  en: Festo China logo
+  zh: Festo China 标志
+type:
+- component_maker
+featured: false
+categories:
+- actuators
+- connectivity
+produces_components:
+- linear-actuator
+- servo-motor
+key_clients: []
+ru:
+  description: Festo China — китайский производитель компонентов, базирующийся в 德国/中国. Поставляет линейные приводы, сервоприводы для робототехники и систем управления движением.
+  highlights:
+  - Линейные приводы
+  - Сервоприводы
+en:
+  description: Festo China is a Chinese components manufacturer based in 德国/中国. It supplies linear actuator, servo motor for robotics and motion-control applications.
+  highlights:
+  - Linear actuators
+  - Servo motors
+zh:
+  description: 硬件（执行器）：气动和电驱动解决方案、仿生机器人（如仿生蜜蜂BionicBee）。方向：自动化驱动部件、仿生机器人整机。 自动化技术和技术培训领域的世界领先供应商，仿生学习网络的领导者。 通过产品和服务迎接未来智能化制造和数字化进程的挑战，并涉足人工智能和设备学习领域。
+  highlights:
+  - 硬件（执行器）：气动和电驱动解决方案、仿生机器人（如仿生蜜蜂BionicBee）
+  - 方向：自动化驱动部件、仿生机器人整机
+  - 自动化技术和技术培训领域的世界领先供应商，仿生学习网络的领导者
+  - 通过产品和服务迎接未来智能化制造和数字化进程的挑战，并涉足人工智能和设备学习领域
+verified: true
+needs_review:
+  zh: true

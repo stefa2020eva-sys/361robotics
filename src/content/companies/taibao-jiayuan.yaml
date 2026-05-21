@@ -1,0 +1,35 @@
+slug: taibao-jiayuan
+name: Taibao Jiayuan Elderly Care
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Taibao Jiayuan Elderly Care
+  en: Taibao Jiayuan Elderly Care logo
+  zh: Taibao Jiayuan Elderly Care 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: Taibao Eldercare Service
+  short: Robotic-assisted elderly care services
+key_clients: []
+ru:
+  description: Taibao Jiayuan Elderly Care — китайская робототехническая компания, базирующаяся в Пекине. Разрабатывает Taibao Eldercare Service и сопутствующие робототехнические системы.
+  highlights:
+  - Taibao Eldercare Service — Robotic-assisted elderly care services
+en:
+  description: Taibao Jiayuan Elderly Care is a Chinese robotics company based in Beijing. It develops Taibao Eldercare Service and related robotic systems.
+  highlights:
+  - Taibao Eldercare Service — Robotic-assisted elderly care services
+zh:
+  description: 应用场景：高品质养老社区。方向：机器人（特别是养老机器人）的潜在落地应用场景方。 北京经开区与中国太保集团战略合作落地的重点项目，可提供约800个养老床位。 优化区域内养老服务供给，填补本地区高品质养老缺口，助力京津冀地区养老服务体系升级。
+  highlights:
+  - 应用场景：高品质养老社区
+  - 方向：机器人（特别是养老机器人）的潜在落地应用场景方
+  - 北京经开区与中国太保集团战略合作落地的重点项目，可提供约800个养老床位
+  - 优化区域内养老服务供给，填补本地区高品质养老缺口，助力京津冀地区养老服务体系升级
+verified: true
+needs_review:
+  zh: true

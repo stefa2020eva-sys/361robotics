@@ -1,0 +1,36 @@
+slug: casbot-robotics
+name: CASBot (Zhongke Huiling)
+country: CN
+website: https://www.casbot.tech
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип CASBot (Zhongke Huiling)
+  en: CASBot (Zhongke Huiling) logo
+  zh: CASBot (Zhongke Huiling) 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: CASBot Humanoid
+  short: Full-size humanoid robot platform
+key_clients: []
+ru:
+  description: CASBot (Zhongke Huiling) — китайская робототехническая компания, базирующаяся в Пекине. Разрабатывает CASBot Humanoid и сопутствующие робототехнические системы.
+  highlights:
+  - CASBot Humanoid — Full-size humanoid robot platform
+en:
+  description: CASBot (Zhongke Huiling) is a Chinese robotics company based in Beijing. It develops CASBot Humanoid and related robotic systems.
+  highlights:
+  - CASBot Humanoid — Full-size humanoid robot platform
+zh:
+  description: 硬件（本体）：人形机器人、具身智能产品。方向：替代人类执行高风险、高强度工作的人形机器人。 运用前沿人工智能与机器人技术创造实用化产品。 以点亮实际应用场景为使命，让具身智能从舞台迈向实用，推进社会进步。
+  highlights:
+  - 硬件（本体）：人形机器人、具身智能产品
+  - 方向：替代人类执行高风险、高强度工作的人形机器人
+  - 运用前沿人工智能与机器人技术创造实用化产品
+  - 以点亮实际应用场景为使命，让具身智能从舞台迈向实用，推进社会进步
+verified: true
+needs_review:
+  zh: true

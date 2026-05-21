@@ -1,0 +1,36 @@
+slug: galileo-technology
+name: Galileo Technology (Tianjin)
+country: CN
+website: https://www.galileotime.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Galileo Technology (Tianjin)
+  en: Galileo Technology (Tianjin) logo
+  zh: Galileo Technology (Tianjin) 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: Galileo Robot
+  short: Embodied AI robot platform
+key_clients: []
+ru:
+  description: Galileo Technology (Tianjin) — китайская робототехническая компания, базирующаяся в Тяньцзине. Разрабатывает Galileo Robot и сопутствующие робототехнические системы.
+  highlights:
+  - Galileo Robot — Embodied AI robot platform
+en:
+  description: Galileo Technology (Tianjin) is a Chinese robotics company based in Tianjin. It develops Galileo Robot and related robotic systems.
+  highlights:
+  - Galileo Robot — Embodied AI robot platform
+zh:
+  description: 硬件（本体）：智能仿生四足机器人E1系列。方向：智能仿生机器人整机，用于工业巡检、应急救援等领域。 国有投资企业，拥有雷达、无人机、卫星通信等产品线，可提供综合解决方案。 产品已广泛应用于工业巡检、应急救援、武警安防等众多领域，构建一体化智能综合运维管理平台。
+  highlights:
+  - 硬件（本体）：智能仿生四足机器人E1系列
+  - 方向：智能仿生机器人整机，用于工业巡检、应急救援等领域
+  - 国有投资企业，拥有雷达、无人机、卫星通信等产品线，可提供综合解决方案
+  - 产品已广泛应用于工业巡检、应急救援、武警安防等众多领域，构建一体化智能综合运维管理平台
+verified: true
+needs_review:
+  zh: true

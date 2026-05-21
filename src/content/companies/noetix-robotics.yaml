@@ -1,0 +1,36 @@
+slug: noetix-robotics
+name: Noetix Robotics
+country: CN
+website: https://www.noetixrobotics.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Noetix Robotics
+  en: Noetix Robotics logo
+  zh: Noetix Robotics 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: N2 Humanoid
+  short: Compact humanoid robot for research and education
+key_clients: []
+ru:
+  description: Noetix Robotics — китайская робототехническая компания, базирующаяся в Пекине. Разрабатывает N2 Humanoid и сопутствующие робототехнические системы.
+  highlights:
+  - N2 Humanoid — Compact humanoid robot for research and education
+en:
+  description: Noetix Robotics is a Chinese robotics company based in Beijing. It develops N2 Humanoid and related robotic systems.
+  highlights:
+  - N2 Humanoid — Compact humanoid robot for research and education
+zh:
+  description: 硬件（本体+核心部件）：双足及仿生人形机器人，核心零部件高度国产化。方向：具身智能人形机器人整机。 成立仅一年多便完成多轮超2亿元融资，展现出强劲的创新爆发力。 以“让机器人走进千家万户”为愿景，聚焦具身智能技术研发，在运动控制、仿生交互等领域达到国际领先水平。
+  highlights:
+  - 硬件（本体+核心部件）：双足及仿生人形机器人，核心零部件高度国产化
+  - 方向：具身智能人形机器人整机
+  - 成立仅一年多便完成多轮超2亿元融资，展现出强劲的创新爆发力
+  - 以“让机器人走进千家万户”为愿景，聚焦具身智能技术研发，在运动控制、仿生交互等领域达到国际领先水平
+verified: true
+needs_review:
+  zh: true

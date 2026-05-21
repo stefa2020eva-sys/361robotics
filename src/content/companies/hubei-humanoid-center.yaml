@@ -1,0 +1,35 @@
+slug: hubei-humanoid-center
+name: Hubei Humanoid Robot Innovation Center
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Hubei Humanoid Robot Innovation Center
+  en: Hubei Humanoid Robot Innovation Center logo
+  zh: Hubei Humanoid Robot Innovation Center 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: Hubei Humanoid Platform
+  short: Regional humanoid robot research platform
+key_clients: []
+ru:
+  description: Hubei Humanoid Robot Innovation Center — китайская робототехническая компания, базирующаяся в Ухане. Разрабатывает Hubei Humanoid Platform и сопутствующие робототехнические системы.
+  highlights:
+  - Hubei Humanoid Platform — Regional humanoid robot research platform
+en:
+  description: Hubei Humanoid Robot Innovation Center is a Chinese robotics company based in Wuhan. It develops Hubei Humanoid Platform and related robotic systems.
+  highlights:
+  - Hubei Humanoid Platform — Regional humanoid robot research platform
+zh:
+  description: 平台/服务：概念验证、中试服务、数据集成、场景验证四大功能平台。方向：区域性人形机器人产业创新与服务平台。 由省科投集团联合丁汉、陈学东、刘胜等院士专家及多家单位共建。 已入驻和拟签约多家机器人相关企业，构建产业生态。
+  highlights:
+  - 平台/服务：概念验证、中试服务、数据集成、场景验证四大功能平台
+  - 方向：区域性人形机器人产业创新与服务平台
+  - 由省科投集团联合丁汉、陈学东、刘胜等院士专家及多家单位共建
+  - 已入驻和拟签约多家机器人相关企业，构建产业生态
+verified: true
+needs_review:
+  zh: true

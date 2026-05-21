@@ -1,0 +1,45 @@
+slug: cetc-21
+name: CETC 21st Research Institute
+country: CN
+website: https://www.21stcet.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип CETC 21st Research Institute
+  en: CETC 21st Research Institute logo
+  zh: CETC 21st Research Institute 标志
+type:
+- component_maker
+- robot_brand
+featured: false
+categories:
+- actuators
+- end-effectors
+robot_products:
+- name: CETC-21 Special Robot
+  short: Special-purpose robots and motor systems
+produces_components:
+- servo-motor
+- brushless-motor
+key_clients: []
+ru:
+  description: CETC 21st Research Institute — китайская робототехническая компания, базирующаяся в Шанхае. Разрабатывает роботов (CETC-21 Special Robot) и производит ключевые компоненты для робототехнических систем.
+  highlights:
+  - CETC-21 Special Robot — Special-purpose robots and motor systems
+  - Сервоприводы
+  - Бесколлекторные двигатели
+en:
+  description: CETC 21st Research Institute is a Chinese robotics company based in Shanghai. It both develops robots (CETC-21 Special Robot) and produces core components for robotic systems.
+  highlights:
+  - CETC-21 Special Robot — Special-purpose robots and motor systems
+  - Servo motors
+  - Brushless motors
+zh:
+  description: 硬件（执行器-电机）：各类微特电机及组件、机器人电动关节。硬件（本体）：轻量型多关节机器人、外骨骼、足式机器人。方向：机器人核心动力部件（电机）及特种机器人整机。 累计研制各类微特电机和组件4000多个品种；着力打造“全球特种电机、特种机器人”一体化协同创新平台。 在机器人电动关节、轻量型机器人等方向取得系列技术突破，带动行业应用规模化发展。
+  highlights:
+  - 硬件（执行器-电机）：各类微特电机及组件、机器人电动关节
+  - 硬件（本体）：轻量型多关节机器人、外骨骼、足式机器人
+  - 方向：机器人核心动力部件（电机）及特种机器人整机
+  - 累计研制各类微特电机和组件4000多个品种
+verified: true
+needs_review:
+  zh: true

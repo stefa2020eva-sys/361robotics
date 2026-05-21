@@ -1,0 +1,36 @@
+slug: uls-robotics
+name: ULS Robotics
+country: CN
+website: https://www.ulsrobotics.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип ULS Robotics
+  en: ULS Robotics logo
+  zh: ULS Robotics 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: ULS Exoskeleton
+  short: Industrial wearable exoskeleton
+key_clients: []
+ru:
+  description: ULS Robotics — китайская робототехническая компания, базирующаяся в Шанхае. Разрабатывает ULS Exoskeleton и сопутствующие робототехнические системы.
+  highlights:
+  - ULS Exoskeleton — Industrial wearable exoskeleton
+en:
+  description: ULS Robotics is a Chinese robotics company based in Shanghai. It develops ULS Exoskeleton and related robotic systems.
+  highlights:
+  - ULS Exoskeleton — Industrial wearable exoskeleton
+zh:
+  description: 硬件（本体）：通用型外骨骼机器人、人形机器人。方向：助力、增强人体机能的外骨骼机器人及人形机器人整机。 产品亮相《流浪地球2》，服务杭州亚运会物流保障，获多项权威认证。 产品已在装备制造、能源、养老等场景落地，并远销海外，在汽车制造、航空地服等领域实现丰富应用。
+  highlights:
+  - 硬件（本体）：通用型外骨骼机器人、人形机器人
+  - 方向：助力、增强人体机能的外骨骼机器人及人形机器人整机
+  - 产品亮相《流浪地球2》，服务杭州亚运会物流保障，获多项权威认证
+  - 产品已在装备制造、能源、养老等场景落地，并远销海外，在汽车制造、航空地服等领域实现丰富应用
+verified: true
+needs_review:
+  zh: true

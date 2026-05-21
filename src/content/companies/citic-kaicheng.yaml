@@ -1,0 +1,37 @@
+slug: citic-kaicheng
+name: CITIC HIC KaiCheng
+country: CN
+website: https://www.citichickc.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип CITIC HIC KaiCheng
+  en: CITIC HIC KaiCheng logo
+  zh: CITIC HIC KaiCheng 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+- safety
+robot_products:
+- name: KaiCheng Fire Robot
+  short: Special-environment robots for firefighting, mining, rescue
+key_clients: []
+ru:
+  description: CITIC HIC KaiCheng — китайская робототехническая компания, базирующаяся в 河北. Разрабатывает KaiCheng Fire Robot и сопутствующие робототехнические системы.
+  highlights:
+  - KaiCheng Fire Robot — Special-environment robots for firefighting, mining, rescue
+en:
+  description: CITIC HIC KaiCheng is a Chinese robotics company based in 河北. It develops KaiCheng Fire Robot and related robotic systems.
+  highlights:
+  - KaiCheng Fire Robot — Special-environment robots for firefighting, mining, rescue
+zh:
+  description: 硬件（本体）：特种机器人（消防、巡检等）、煤矿智能装备。方向：危险环境特种作业机器人整机。 建有国家地方联合工程研究中心；产品应用于应急救援、危化巡检等众多危险领域。 聚焦“特种机器人、煤矿智能装备”两大产业，致力于解决“人不能近、人不能及、人不能为”的场景需求。
+  highlights:
+  - 硬件（本体）：特种机器人（消防、巡检等）、煤矿智能装备
+  - 方向：危险环境特种作业机器人整机
+  - 建有国家地方联合工程研究中心
+  - 产品应用于应急救援、危化巡检等众多危险领域
+verified: true
+needs_review:
+  zh: true

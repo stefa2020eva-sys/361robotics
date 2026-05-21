@@ -1,0 +1,36 @@
+slug: longwood-medical
+name: Longwood Medical
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Longwood Medical
+  en: Longwood Medical logo
+  zh: Longwood Medical 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+- software-sdk
+robot_products:
+- name: Longwood Surgical Robot
+  short: AI-assisted orthopedic surgical robot
+key_clients: []
+ru:
+  description: Longwood Medical — китайская робототехническая компания, базирующаяся в Пекине. Разрабатывает Longwood Surgical Robot и сопутствующие робототехнические системы.
+  highlights:
+  - Longwood Surgical Robot — AI-assisted orthopedic surgical robot
+en:
+  description: Longwood Medical is a Chinese robotics company based in Beijing. It develops Longwood Surgical Robot and related robotic systems.
+  highlights:
+  - Longwood Surgical Robot — AI-assisted orthopedic surgical robot
+zh:
+  description: 硬件（本体+传感器）：AI手术机器人系统。软件：骨科AI手术规划系统。方向：医疗骨科手术机器人整机及AI规划软件。 全行业唯一同时拥有骨科AI手术规划系统和AI手术机器人系统III类注册证。 提供骨科数字化、智能化、全流程解决方案，产品入选“北京市首台(套)重大技术装备目录”。
+  highlights:
+  - 硬件（本体+传感器）：AI手术机器人系统
+  - 软件：骨科AI手术规划系统
+  - 方向：医疗骨科手术机器人整机及AI规划软件
+  - 全行业唯一同时拥有骨科AI手术规划系统和AI手术机器人系统III类注册证
+verified: true
+needs_review:
+  zh: true

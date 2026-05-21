@@ -1,0 +1,36 @@
+slug: inlee-robotics
+name: Inlee Robotics (Tangshan)
+country: CN
+website: https://www.ilrobot.cn
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Inlee Robotics (Tangshan)
+  en: Inlee Robotics (Tangshan) logo
+  zh: Inlee Robotics (Tangshan) 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: Inlee Welding Robot
+  short: Welding and laser-cutting robotic systems
+key_clients: []
+ru:
+  description: Inlee Robotics (Tangshan) — китайская робототехническая компания, базирующаяся в Таншане. Разрабатывает Inlee Welding Robot и сопутствующие робототехнические системы.
+  highlights:
+  - Inlee Welding Robot — Welding and laser-cutting robotic systems
+en:
+  description: Inlee Robotics (Tangshan) is a Chinese robotics company based in Tangshan. It develops Inlee Welding Robot and related robotic systems.
+  highlights:
+  - Inlee Welding Robot — Welding and laser-cutting robotic systems
+zh:
+  description: 硬件（传感器）：激光视觉系统。软件/方案：焊接、切割、搬运等领域的智能化解决方案。方向：工业机器人视觉引导系统及解决方案。 主要业务以激光视觉系统的研发、生产、销售为核心，是多家人机器人公司的官方认证合作伙伴。 提供配套工业机器人或自动化专机在焊接、切割等领域的智能化解决方案的设计开发、系统集成等服务。
+  highlights:
+  - 硬件（传感器）：激光视觉系统
+  - 软件/方案：焊接、切割、搬运等领域的智能化解决方案
+  - 方向：工业机器人视觉引导系统及解决方案
+  - 主要业务以激光视觉系统的研发、生产、销售为核心，是多家人机器人公司的官方认证合作伙伴
+verified: true
+needs_review:
+  zh: true

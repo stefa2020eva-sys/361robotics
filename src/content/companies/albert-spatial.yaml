@@ -1,0 +1,37 @@
+slug: albert-spatial
+name: Albert Spatial Vision
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Albert Spatial Vision
+  en: Albert Spatial Vision logo
+  zh: Albert Spatial Vision 标志
+type:
+- component_maker
+featured: false
+categories:
+- vision
+produces_components:
+- machine-vision-system
+- depth-camera
+key_clients: []
+ru:
+  description: Albert Spatial Vision — китайский производитель компонентов, базирующийся в 河北. Поставляет системы машинного зрения, камеры глубины для робототехники и систем управления движением.
+  highlights:
+  - Системы машинного зрения
+  - Камеры глубины
+en:
+  description: Albert Spatial Vision is a Chinese components manufacturer based in 河北. It supplies machine vision system, depth camera for robotics and motion-control applications.
+  highlights:
+  - Machine vision systems
+  - Depth cameras
+zh:
+  description: 硬件（传感器）：基于“AI+空间计算”的“类人眼”视觉技术。软件：基于DS的工业制造大模型、机器人具身智能系统。方向：机器人空间智能感知系统与软件。 打造全球领先的基于“AI+空间计算”的视觉技术和工业制造大模型。 构建基于大模型智能中枢+L4级自主移动机器人集群的新一代智能工厂范式，降低应用门槛并增强生产柔性。
+  highlights:
+  - 硬件（传感器）：基于“AI+空间计算”的“类人眼”视觉技术
+  - 软件：基于DS的工业制造大模型、机器人具身智能系统
+  - 方向：机器人空间智能感知系统与软件
+  - 打造全球领先的基于“AI+空间计算”的视觉技术和工业制造大模型
+verified: true
+needs_review:
+  zh: true

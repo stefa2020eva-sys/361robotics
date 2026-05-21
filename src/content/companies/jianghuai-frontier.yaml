@@ -1,0 +1,35 @@
+slug: jianghuai-frontier
+name: Jianghuai Frontier Technology Innovation Center
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Jianghuai Frontier Technology Innovation Center
+  en: Jianghuai Frontier Technology Innovation Center logo
+  zh: Jianghuai Frontier Technology Innovation Center 标志
+type:
+- robot_brand
+featured: false
+categories:
+- software-sdk
+robot_products:
+- name: Jianghuai Research Platforms
+  short: Multi-disciplinary frontier technology research
+key_clients: []
+ru:
+  description: Jianghuai Frontier Technology Innovation Center — китайская робототехническая компания, базирующаяся в Хэфэе. Разрабатывает Jianghuai Research Platforms и сопутствующие робототехнические системы.
+  highlights:
+  - Jianghuai Research Platforms — Multi-disciplinary frontier technology research
+en:
+  description: Jianghuai Frontier Technology Innovation Center is a Chinese robotics company based in Hefei. It develops Jianghuai Research Platforms and related robotic systems.
+  highlights:
+  - Jianghuai Research Platforms — Multi-disciplinary frontier technology research
+zh:
+  description: 研究/平台：智能机器人、智能测评等研究，设立相关研究院及产业化平台。方向：省部共建新型研发机构，聚焦智能科技。 组建了全国首个以“人形机器人”为主题的院士工作站，成功获批两大省级科研平台。 推进先进科技成果在安徽省的转化落地，积极培育和发展新质生产力。
+  highlights:
+  - 研究/平台：智能机器人、智能测评等研究，设立相关研究院及产业化平台
+  - 方向：省部共建新型研发机构，聚焦智能科技
+  - 组建了全国首个以“人形机器人”为主题的院士工作站，成功获批两大省级科研平台
+  - 推进先进科技成果在安徽省的转化落地，积极培育和发展新质生产力
+verified: true
+needs_review:
+  zh: true

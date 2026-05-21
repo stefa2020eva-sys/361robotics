@@ -1,0 +1,40 @@
+slug: kuka-china
+name: KUKA China (Shanghai)
+country: CN
+website: https://www.kuka.cn
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип KUKA China (Shanghai)
+  en: KUKA China (Shanghai) logo
+  zh: KUKA China (Shanghai) 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: KUKA KR QUANTEC
+  short: Industrial 6-axis robots for heavy payloads
+- name: KUKA LBR iiwa
+  short: Sensitive collaborative lightweight robot
+key_clients: []
+ru:
+  description: KUKA China (Shanghai) — китайская робототехническая компания, базирующаяся в Шанхае. Разрабатывает KUKA KR QUANTEC, KUKA LBR iiwa и сопутствующие робототехнические системы.
+  highlights:
+  - KUKA KR QUANTEC — Industrial 6-axis robots for heavy payloads
+  - KUKA LBR iiwa — Sensitive collaborative lightweight robot
+en:
+  description: KUKA China (Shanghai) is a Chinese robotics company based in Shanghai. It develops KUKA KR QUANTEC, KUKA LBR iiwa and related robotic systems.
+  highlights:
+  - KUKA KR QUANTEC — Industrial 6-axis robots for heavy payloads
+  - KUKA LBR iiwa — Sensitive collaborative lightweight robot
+zh:
+  description: 硬件（本体）：工业机器人、移动机器人。软件/方案：一站式解决方案、互联生产系统。方向：工业机器人整机及自动化解决方案。 作为库卡集团在华事业部，提供库卡全系产品及解决方案。 秉持本土化理念，以“产品为王”坚持极致服务，业务覆盖汽车、电池等多行业。
+  highlights:
+  - 硬件（本体）：工业机器人、移动机器人
+  - 软件/方案：一站式解决方案、互联生产系统
+  - 方向：工业机器人整机及自动化解决方案
+  - 作为库卡集团在华事业部，提供库卡全系产品及解决方案
+verified: true
+needs_review:
+  zh: true

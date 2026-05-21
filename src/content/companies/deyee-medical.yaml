@@ -1,0 +1,36 @@
+slug: deyee-medical
+name: Deyee Medical
+country: CN
+website: https://www.deyeemed.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Deyee Medical
+  en: Deyee Medical logo
+  zh: Deyee Medical 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: Deyee Medical Robot
+  short: Medical robotic systems
+key_clients: []
+ru:
+  description: Deyee Medical — китайская робототехническая компания, базирующаяся в Шэньчжэне. Разрабатывает Deyee Medical Robot и сопутствующие робототехнические системы.
+  highlights:
+  - Deyee Medical Robot — Medical robotic systems
+en:
+  description: Deyee Medical is a Chinese robotics company based in Shenzhen. It develops Deyee Medical Robot and related robotic systems.
+  highlights:
+  - Deyee Medical Robot — Medical robotic systems
+zh:
+  description: 硬件（本体+传感器）：AI机器人理疗产品、AI四诊仪。软件：机器人技术、AI视觉、六维力控、人体经络识别。方向：医疗、康养AI理疗机器人整机。 结合传统中医、现代物理治疗学，完成高效精准的AI机器人理疗解决方案。 产品广泛应用于医院康复科、中医门诊、美容康养机构等，用高科技赋能健康医疗服务场景。
+  highlights:
+  - 硬件（本体+传感器）：AI机器人理疗产品、AI四诊仪
+  - 软件：机器人技术、AI视觉、六维力控、人体经络识别
+  - 方向：医疗、康养AI理疗机器人整机
+  - 结合传统中医、现代物理治疗学，完成高效精准的AI机器人理疗解决方案
+verified: true
+needs_review:
+  zh: true

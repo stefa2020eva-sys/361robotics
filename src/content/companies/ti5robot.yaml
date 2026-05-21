@@ -1,0 +1,42 @@
+slug: ti5robot
+name: Ti5Robot (Tihu Robotics)
+country: CN
+website: https://www.ti5robot.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Ti5Robot (Tihu Robotics)
+  en: Ti5Robot (Tihu Robotics) logo
+  zh: Ti5Robot (Tihu Robotics) 标志
+type:
+- robot_brand
+- component_maker
+featured: false
+categories:
+- end-effectors
+- actuators
+robot_products:
+- name: Ti5 Humanoid
+  short: Humanoid robot platform
+produces_components:
+- joint-module
+key_clients: []
+ru:
+  description: Ti5Robot (Tihu Robotics) — китайская робототехническая компания, базирующаяся в Шанхае. Разрабатывает роботов (Ti5 Humanoid) и производит ключевые компоненты для робототехнических систем.
+  highlights:
+  - Ti5 Humanoid — Humanoid robot platform
+  - Модули суставов
+en:
+  description: Ti5Robot (Tihu Robotics) is a Chinese robotics company based in Shanghai. It both develops robots (Ti5 Humanoid) and produces core components for robotic systems.
+  highlights:
+  - Ti5 Humanoid — Humanoid robot platform
+  - Robotic joint modules
+zh:
+  description: 硬件（执行器-模组）：高性能轻量化关节模组、超轻量化协作机器人、人形机器人。方向：先进电驱动力关节模组及机器人平台。 专注打造先进电驱动力和人形机器人平台。 致力打造适配广泛的高性能行业标准品，降低技术门槛，重构产业格局，实现机器人系统快速落地。
+  highlights:
+  - 硬件（执行器-模组）：高性能轻量化关节模组、超轻量化协作机器人、人形机器人
+  - 方向：先进电驱动力关节模组及机器人平台
+  - 专注打造先进电驱动力和人形机器人平台
+  - 致力打造适配广泛的高性能行业标准品，降低技术门槛，重构产业格局，实现机器人系统快速落地
+verified: true
+needs_review:
+  zh: true

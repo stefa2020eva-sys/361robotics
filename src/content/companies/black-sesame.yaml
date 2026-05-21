@@ -1,0 +1,37 @@
+slug: black-sesame
+name: Black Sesame Technologies
+country: CN
+founded: 2016
+website: https://www.blacksesame.com.cn
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Black Sesame Technologies
+  en: Black Sesame Technologies logo
+  zh: Black Sesame Technologies 标志
+type:
+- component_maker
+featured: false
+categories:
+- controllers
+- software-sdk
+produces_components:
+- edge-ai-controller
+key_clients: []
+ru:
+  description: Black Sesame Technologies — китайский производитель полупроводников с подразделениями в Шанхае и Ухане. Поставляет автомобильные SoC серий Huashan и Wudang, расширяет применение на «мозги» гуманоидных роботов; компания вышла на гонконгскую биржу в 2024 году.
+  highlights:
+  - Периферийные ИИ-контроллеры
+en:
+  description: Black Sesame Technologies is a Chinese semiconductor manufacturer with offices in Shanghai and Wuhan. It supplies automotive-grade Huashan and Wudang SoC families and is extending its compute platform into humanoid-robot "brain" applications; the company went public on the Hong Kong exchange in 2024.
+  highlights:
+  - Edge AI controllers
+zh:
+  description: 硬件（芯片）：车规级智能汽车计算芯片（华山系列、武当系列）。方向：机器人“大脑”算力芯片（拓展应用）。 领先的车规级智能汽车计算芯片供应商，2024年在港交所上市。 通过自研IP核、算法和SoC提供全栈式辅助驾驶能力，并开始拓展更多应用领域（包括机器人）。
+  highlights:
+  - 硬件（芯片）：车规级智能汽车计算芯片（华山系列、武当系列）
+  - 方向：机器人“大脑”算力芯片（拓展应用）
+  - 领先的车规级智能汽车计算芯片供应商，2024年在港交所上市
+  - 通过自研IP核、算法和SoC提供全栈式辅助驾驶能力，并开始拓展更多应用领域（包括机器人）
+verified: true
+needs_review:
+  zh: true

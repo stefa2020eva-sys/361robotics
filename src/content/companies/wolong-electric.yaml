@@ -1,0 +1,40 @@
+slug: wolong-electric
+name: Wolong Electric Drive Group
+country: CN
+founded: 1984
+website: https://www.wolong.com.cn
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Wolong Electric Drive Group
+  en: Wolong Electric Drive Group logo
+  zh: Wolong Electric Drive Group 标志
+type:
+- component_maker
+featured: false
+categories:
+- actuators
+- drives-power
+produces_components:
+- servo-motor
+- brushless-motor
+key_clients: []
+ru:
+  description: Wolong Electric Drive Group — китайский производитель компонентов, базирующийся в 浙江. Поставляет сервоприводы, бесколлекторные двигатели для робототехники и систем управления движением.
+  highlights:
+  - Сервоприводы
+  - Бесколлекторные двигатели
+en:
+  description: Wolong Electric Drive Group is a Chinese components manufacturer based in 浙江. It supplies servo motor, brushless motor for robotics and motion-control applications.
+  highlights:
+  - Servo motors
+  - Brushless motors
+zh:
+  description: 硬件（执行器-电机）：电驱动关节模组、无框力矩电机及电机驱动器、灵巧手及空心杯电机。方向：人形机器人、四足机器人核心电驱部件。 全球主要的电机及驱动解决方案制造商。 聚焦仿生机器人关键零部件研发，借助AI技术为客户提供“机器人+传感器+数据融合+决策执行”的全系统解决方案。
+  highlights:
+  - 硬件（执行器-电机）：电驱动关节模组、无框力矩电机及电机驱动器、灵巧手及空心杯电机
+  - 方向：人形机器人、四足机器人核心电驱部件
+  - 全球主要的电机及驱动解决方案制造商
+  - 聚焦仿生机器人关键零部件研发，借助AI技术为客户提供“机器人+传感器+数据融合+决策执行”的全系统解决方案
+verified: true
+needs_review:
+  zh: true

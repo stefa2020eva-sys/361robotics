@@ -1,0 +1,37 @@
+slug: sustech-robotics-institute
+name: SUSTech Institute of Robotics
+country: CN
+website: https://ri.sustech.edu.cn
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип SUSTech Institute of Robotics
+  en: SUSTech Institute of Robotics logo
+  zh: SUSTech Institute of Robotics 标志
+type:
+- robot_brand
+featured: false
+categories:
+- software-sdk
+- end-effectors
+robot_products:
+- name: SUSTech Robotics Research Platforms
+  short: Research-grade robotic platforms developed by SUSTech
+key_clients: []
+ru:
+  description: SUSTech Institute of Robotics — китайская робототехническая компания, базирующаяся в Шэньчжэне. Разрабатывает SUSTech Robotics Research Platforms и сопутствующие робототехнические системы.
+  highlights:
+  - SUSTech Robotics Research Platforms — Research-grade robotic platforms developed by SUSTech
+en:
+  description: SUSTech Institute of Robotics is a Chinese robotics company based in Shenzhen. It develops SUSTech Robotics Research Platforms and related robotic systems.
+  highlights:
+  - SUSTech Robotics Research Platforms — Research-grade robotic platforms developed by SUSTech
+zh:
+  description: 研究/转化：机器人前沿研究、国际联合实验室、创新成果转化平台。方向：机器人前沿技术研发与产业转化。 立足深圳，面向国家战略和地方产业需求，结合产业优势与国际顶尖团队。 汇集多学科高端人才，与企业搭建创新成果转化平台，催生能够形成新产业的前沿技术。
+  highlights:
+  - 研究/转化：机器人前沿研究、国际联合实验室、创新成果转化平台
+  - 方向：机器人前沿技术研发与产业转化
+  - 立足深圳，面向国家战略和地方产业需求，结合产业优势与国际顶尖团队
+  - 汇集多学科高端人才，与企业搭建创新成果转化平台，催生能够形成新产业的前沿技术
+verified: true
+needs_review:
+  zh: true

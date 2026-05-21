@@ -1,0 +1,38 @@
+slug: sjtu
+name: Shanghai Jiao Tong University
+country: CN
+founded: 1896
+website: https://www.sjtu.edu.cn
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Shanghai Jiao Tong University
+  en: Shanghai Jiao Tong University logo
+  zh: Shanghai Jiao Tong University 标志
+type:
+- robot_brand
+featured: false
+categories:
+- software-sdk
+- end-effectors
+robot_products:
+- name: SJTU Robotics Research
+  short: University research-grade robotic platforms
+key_clients: []
+ru:
+  description: Shanghai Jiao Tong University — китайская робототехническая компания, базирующаяся в Шанхае. Разрабатывает SJTU Robotics Research и сопутствующие робототехнические системы.
+  highlights:
+  - SJTU Robotics Research — University research-grade robotic platforms
+en:
+  description: Shanghai Jiao Tong University is a Chinese robotics company based in Shanghai. It develops SJTU Robotics Research and related robotic systems.
+  highlights:
+  - SJTU Robotics Research — University research-grade robotic platforms
+zh:
+  description: 研究：人工智能、机器人、智能制造、医疗工程等领域科研。方向：顶尖高校的机器人前沿学术研究。 中国历史最悠久、声誉最卓著的高等学府之一，具有雄厚的科研实力与技术积累。 依托一流的科研平台和多学科交叉优势，致力于面向社会重大需求的智能机器人研发，推动前沿技术落地转化。
+  highlights:
+  - 研究：人工智能、机器人、智能制造、医疗工程等领域科研
+  - 方向：顶尖高校的机器人前沿学术研究
+  - 中国历史最悠久、声誉最卓著的高等学府之一，具有雄厚的科研实力与技术积累
+  - 依托一流的科研平台和多学科交叉优势，致力于面向社会重大需求的智能机器人研发，推动前沿技术落地转化
+verified: true
+needs_review:
+  zh: true

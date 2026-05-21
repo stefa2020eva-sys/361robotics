@@ -1,0 +1,45 @@
+slug: vizum
+name: Vizum (Weijing Intelligent)
+country: CN
+website: https://www.vizum.cn
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Vizum (Weijing Intelligent)
+  en: Vizum (Weijing Intelligent) logo
+  zh: Vizum (Weijing Intelligent) 标志
+type:
+- component_maker
+- robot_brand
+featured: false
+categories:
+- vision
+- software-sdk
+robot_products:
+- name: Vizum 3D Vision System
+  short: 3D stereo vision and AI inspection systems
+produces_components:
+- machine-vision-system
+- structured-light-camera
+key_clients: []
+ru:
+  description: Vizum (Weijing Intelligent) — китайская робототехническая компания, базирующаяся в Пекине. Разрабатывает роботов (Vizum 3D Vision System) и производит ключевые компоненты для робототехнических систем.
+  highlights:
+  - Vizum 3D Vision System — 3D stereo vision and AI inspection systems
+  - Системы машинного зрения
+  - Камеры структурированного света
+en:
+  description: Vizum (Weijing Intelligent) is a Chinese robotics company based in Beijing. It both develops robots (Vizum 3D Vision System) and produces core components for robotic systems.
+  highlights:
+  - Vizum 3D Vision System — 3D stereo vision and AI inspection systems
+  - Machine vision systems
+  - Structured-light cameras
+zh:
+  description: 硬件（本体+传感器）：智能人形机器人、农业采摘机器人、人形机器人专用3D视觉相机。方向：特种应用机器人整机及专用视觉传感器。 拥有立体智能视觉系统和智能人形机器人研发能力；申请及授权专利170余项。 提供智能人形机器人、农业机器人等多款智能产品及解决方案，解决行业难题。
+  highlights:
+  - 硬件（本体+传感器）：智能人形机器人、农业采摘机器人、人形机器人专用3D视觉相机
+  - 方向：特种应用机器人整机及专用视觉传感器
+  - 拥有立体智能视觉系统和智能人形机器人研发能力
+  - 申请及授权专利170余项
+verified: true
+needs_review:
+  zh: true

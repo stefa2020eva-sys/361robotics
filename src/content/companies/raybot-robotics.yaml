@@ -1,0 +1,35 @@
+slug: raybot-robotics
+name: RayBot Robotics
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип RayBot Robotics
+  en: RayBot Robotics logo
+  zh: RayBot Robotics 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: RAYBOT
+  short: Service and humanoid robot platform
+key_clients: []
+ru:
+  description: RayBot Robotics — китайская робототехническая компания, базирующаяся в Сучжоу. Разрабатывает RAYBOT и сопутствующие робототехнические системы.
+  highlights:
+  - RAYBOT — Service and humanoid robot platform
+en:
+  description: RayBot Robotics is a Chinese robotics company based in Suzhou. It develops RAYBOT and related robotic systems.
+  highlights:
+  - RAYBOT — Service and humanoid robot platform
+zh:
+  description: 硬件（本体+关节）：RAYBOT-G4具身人型机器人，采用高精度谐波关节。软件：运动控制算法、交互感知、支持接入大语言模型。方向：模块化智能机器人平台及整机。 提供即插即用的具身智能机器人本体及智能组件，旨在降低AI具身化落地门槛。 为多样化大模型接入提供物理载体，产品适用于自动接待、无人餐饮、场馆导览等领域。
+  highlights:
+  - 硬件（本体+关节）：RAYBOT-G4具身人型机器人，采用高精度谐波关节
+  - 软件：运动控制算法、交互感知、支持接入大语言模型
+  - 方向：模块化智能机器人平台及整机
+  - 提供即插即用的具身智能机器人本体及智能组件，旨在降低AI具身化落地门槛
+verified: true
+needs_review:
+  zh: true

@@ -1,0 +1,37 @@
+slug: gloryroad-robotics
+name: GloryRoad Robotics
+country: CN
+website: https://www.gloryroad.com.cn
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип GloryRoad Robotics
+  en: GloryRoad Robotics logo
+  zh: GloryRoad Robotics 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+- software-sdk
+robot_products:
+- name: GloryRoad Intelligent Robot
+  short: Intelligent inspection and operation robots for power industry
+key_clients: []
+ru:
+  description: GloryRoad Robotics — китайская робототехническая компания, базирующаяся в Ухане. Разрабатывает GloryRoad Intelligent Robot и сопутствующие робототехнические системы.
+  highlights:
+  - GloryRoad Intelligent Robot — Intelligent inspection and operation robots for power industry
+en:
+  description: GloryRoad Robotics is a Chinese robotics company based in Wuhan. It develops GloryRoad Intelligent Robot and related robotic systems.
+  highlights:
+  - GloryRoad Intelligent Robot — Intelligent inspection and operation robots for power industry
+zh:
+  description: 硬件（本体）：重载电驱四足机器人、高动态双轮足机器人、人形机器人。方向：特种电力应用等场景的腿足式机器人整机。 依托母公司（国家级重点“小巨人”企业）深厚技术积累，获批多个省级平台。 2024年推出首款面向电力应用场景的电驱动人形机器人，获国家领导人现场参观认可。
+  highlights:
+  - 硬件（本体）：重载电驱四足机器人、高动态双轮足机器人、人形机器人
+  - 方向：特种电力应用等场景的腿足式机器人整机
+  - 依托母公司（国家级重点“小巨人”企业）深厚技术积累，获批多个省级平台
+  - 2024年推出首款面向电力应用场景的电驱动人形机器人，获国家领导人现场参观认可
+verified: true
+needs_review:
+  zh: true

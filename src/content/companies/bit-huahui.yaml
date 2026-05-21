@@ -1,0 +1,36 @@
+slug: bit-huahui
+name: BIT Huahui Intelligence
+country: CN
+website: https://www.bit-hh.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип BIT Huahui Intelligence
+  en: BIT Huahui Intelligence logo
+  zh: BIT Huahui Intelligence 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: BIT Huahui Robot
+  short: Mobile and humanoid robot solutions
+key_clients: []
+ru:
+  description: BIT Huahui Intelligence — китайская робототехническая компания, базирующаяся в Пекине. Разрабатывает BIT Huahui Robot и сопутствующие робототехнические системы.
+  highlights:
+  - BIT Huahui Robot — Mobile and humanoid robot solutions
+en:
+  description: BIT Huahui Intelligence is a Chinese robotics company based in Beijing. It develops BIT Huahui Robot and related robotic systems.
+  highlights:
+  - BIT Huahui Robot — Mobile and humanoid robot solutions
+zh:
+  description: 硬件（本体+核心部件）：人形机器人、复合机器人，自研电机、减速器等核心零部件。软件：运动控制算法、具身智能大模型。方向：机器人整机、核心部件及一体化解决方案。 北京理工大学孵化的唯一人形机器人产业化公司，牵头两项国家重点研发计划，深耕底层算法和核心部件20年以上。 积极拓展复合机器人业务，融合运动控制算法、具身智能大模型等技术提供一体化解决方案，产品应用于多领域。
+  highlights:
+  - 硬件（本体+核心部件）：人形机器人、复合机器人，自研电机、减速器等核心零部件
+  - 软件：运动控制算法、具身智能大模型
+  - 方向：机器人整机、核心部件及一体化解决方案
+  - 北京理工大学孵化的唯一人形机器人产业化公司，牵头两项国家重点研发计划，深耕底层算法和核心部件20年以上
+verified: true
+needs_review:
+  zh: true

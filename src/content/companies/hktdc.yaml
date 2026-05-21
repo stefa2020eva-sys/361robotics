@@ -1,0 +1,37 @@
+slug: hktdc
+name: Hong Kong Trade Development Council
+country: CN
+founded: 1966
+website: https://www.hktdc.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Hong Kong Trade Development Council
+  en: Hong Kong Trade Development Council logo
+  zh: Hong Kong Trade Development Council 标志
+type:
+- robot_brand
+featured: false
+categories:
+- software-sdk
+robot_products:
+- name: HKTDC Exhibition Programs
+  short: Hong Kong Trade Development Council promotes Hong Kong robotics exhibitors
+key_clients: []
+ru:
+  description: Hong Kong Trade Development Council — китайская робототехническая компания, базирующаяся в 香港. Разрабатывает HKTDC Exhibition Programs и сопутствующие робототехнические системы.
+  highlights:
+  - HKTDC Exhibition Programs — Hong Kong Trade Development Council promotes Hong Kong robotics exhibitors
+en:
+  description: Hong Kong Trade Development Council is a Chinese robotics company based in 香港. It develops HKTDC Exhibition Programs and related robotic systems.
+  highlights:
+  - HKTDC Exhibition Programs — Hong Kong Trade Development Council promotes Hong Kong robotics exhibitors
+zh:
+  description: 服务/平台：贸易促进机构，举办国际展览会、会议，提供市场分析和产品资讯。方向：机器人产业的国际商贸推广与对接平台。 法定机构，在世界各地设有51个办事处，致力于推广香港作为双向环球投资及商业枢纽。 通过举办活动、研究报告和数码资讯平台，为企业（尤其是中小企）开拓内地和环球市场的机遇。
+  highlights:
+  - 服务/平台：贸易促进机构，举办国际展览会、会议，提供市场分析和产品资讯
+  - 方向：机器人产业的国际商贸推广与对接平台
+  - 法定机构，在世界各地设有51个办事处，致力于推广香港作为双向环球投资及商业枢纽
+  - 通过举办活动、研究报告和数码资讯平台，为企业（尤其是中小企）开拓内地和环球市场的机遇
+verified: true
+needs_review:
+  zh: true

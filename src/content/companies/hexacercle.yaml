@@ -1,0 +1,38 @@
+slug: hexacercle
+name: Hexacercle (Wuhan Haocun)
+country: CN
+website: https://www.hexacercle.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Hexacercle (Wuhan Haocun)
+  en: Hexacercle (Wuhan Haocun) logo
+  zh: Hexacercle (Wuhan Haocun) 标志
+type:
+- component_maker
+featured: false
+categories:
+- sensors
+produces_components:
+- motion-capture-system
+- imu
+key_clients: []
+ru:
+  description: Hexacercle (Wuhan Haocun) — китайский производитель компонентов, базирующийся в Ухане. Поставляет системы захвата движения, инерциальные модули для робототехники и систем управления движением.
+  highlights:
+  - Системы захвата движения
+  - Инерциальные модули
+en:
+  description: Hexacercle (Wuhan Haocun) is a Chinese components manufacturer based in Wuhan. It supplies motion capture system, imu for robotics and motion-control applications.
+  highlights:
+  - Motion-capture systems
+  - IMU modules
+zh:
+  description: 硬件（传感器/系统）：肢体动作识别技术、动作捕捉系统。方向：机器人运动控制与模仿的感知输入系统。 在具身智能运动能力领域有超过十年的研发经验；肢体动作识别技术参数指标颠覆性（0.001度精度，3毫秒延迟）。 凭借全自研的肢体动作识别技术，让机器人在复杂场景下的动作控制如同人类般细腻。
+  highlights:
+  - 硬件（传感器/系统）：肢体动作识别技术、动作捕捉系统
+  - 方向：机器人运动控制与模仿的感知输入系统
+  - 在具身智能运动能力领域有超过十年的研发经验
+  - 肢体动作识别技术参数指标颠覆性（0.001度精度，3毫秒延迟）
+verified: true
+needs_review:
+  zh: true

@@ -1,0 +1,35 @@
+slug: pl-universe
+name: PL-Universe
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип PL-Universe
+  en: PL-Universe logo
+  zh: PL-Universe 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: PL-Universe Robot
+  short: Embodied AI robot platform
+key_clients: []
+ru:
+  description: PL-Universe — китайская робототехническая компания, базирующаяся в Сучжоу. Разрабатывает PL-Universe Robot и сопутствующие робототехнические системы.
+  highlights:
+  - PL-Universe Robot — Embodied AI robot platform
+en:
+  description: PL-Universe is a Chinese robotics company based in Suzhou. It develops PL-Universe Robot and related robotic systems.
+  highlights:
+  - PL-Universe Robot — Embodied AI robot platform
+zh:
+  description: 硬件（本体）：工业级通用具身机器人。方向：工业级通用具身机器人整机，用于3C电子、汽车制造等场景。 首创SDPAA技术架构，具备全栈技术自研能力，在精度、效率、稳定性等方面达到行业TOP水平。 已实现批量交付，在工业场景与头部客户达成合作，致力于以机器人技术推动智能制造升级。
+  highlights:
+  - 硬件（本体）：工业级通用具身机器人
+  - 方向：工业级通用具身机器人整机，用于3C电子、汽车制造等场景
+  - 首创SDPAA技术架构，具备全栈技术自研能力，在精度、效率、稳定性等方面达到行业TOP水平
+  - 已实现批量交付，在工业场景与头部客户达成合作，致力于以机器人技术推动智能制造升级
+verified: true
+needs_review:
+  zh: true

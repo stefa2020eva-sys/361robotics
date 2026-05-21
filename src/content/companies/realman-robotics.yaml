@@ -1,0 +1,49 @@
+slug: realman-robotics
+name: RealMan Robotics
+country: CN
+website: https://www.realman-robotics.cn
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип RealMan Robotics
+  en: RealMan Robotics logo
+  zh: RealMan Robotics 标志
+type:
+- robot_brand
+- component_maker
+featured: false
+categories:
+- end-effectors
+- actuators
+robot_products:
+- name: RealMan RM65
+  short: Lightweight 6-axis collaborative arm
+- name: RealMan Gen3
+  short: Modular collaborative robot arm
+produces_components:
+- joint-module
+- servo-motor
+key_clients: []
+ru:
+  description: RealMan Robotics — китайская робототехническая компания, базирующаяся в Пекине. Разрабатывает роботов (RealMan RM65, RealMan Gen3) и производит ключевые компоненты для робототехнических систем.
+  highlights:
+  - RealMan RM65 — Lightweight 6-axis collaborative arm
+  - RealMan Gen3 — Modular collaborative robot arm
+  - Модули суставов
+  - Сервоприводы
+en:
+  description: RealMan Robotics is a Chinese robotics company based in Beijing. It both develops robots (RealMan RM65, RealMan Gen3) and produces core components for robotic systems.
+  highlights:
+  - RealMan RM65 — Lightweight 6-axis collaborative arm
+  - RealMan Gen3 — Modular collaborative robot arm
+  - Robotic joint modules
+  - Servo motors
+zh:
+  description: 硬件（本体+核心部件）：超轻量仿人机械臂，自研控制器、驱动器、电机、谐波减速器。方向：轻量型机械臂整机及核心零部件。 实现从基因层面进行机械臂原型设计和底层零部件自主研发，在四大核心部件上取得革命性突破。 致力于打造智能、易用、可靠、通用的机器人，走入千行百业。已实现业绩快速增长，具备规模化产能。
+  highlights:
+  - 硬件（本体+核心部件）：超轻量仿人机械臂，自研控制器、驱动器、电机、谐波减速器
+  - 方向：轻量型机械臂整机及核心零部件
+  - 实现从基因层面进行机械臂原型设计和底层零部件自主研发，在四大核心部件上取得革命性突破
+  - 致力于打造智能、易用、可靠、通用的机器人，走入千行百业
+verified: true
+needs_review:
+  zh: true

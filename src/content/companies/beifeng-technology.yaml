@@ -1,0 +1,32 @@
+slug: beifeng-technology
+name: Beifeng Technology
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Beifeng Technology
+  en: Beifeng Technology logo
+  zh: Beifeng Technology 标志
+type:
+- component_maker
+featured: false
+categories:
+- drives-power
+produces_components:
+- battery-pack
+key_clients: []
+ru:
+  description: Beifeng Technology — китайский производитель компонентов, базирующийся в -. Поставляет аккумуляторные модули для робототехники и систем управления движением.
+  highlights:
+  - Аккумуляторные модули
+en:
+  description: Beifeng Technology is a Chinese components manufacturer based in -. It supplies battery pack for robotics and motion-control applications.
+  highlights:
+  - Battery packs
+zh:
+  description: 硬件（执行器-减速器）：谐波齿轮箱 GSW55A。方向：机器人核心传动部件。 - -
+  highlights:
+  - 硬件（执行器-减速器）：谐波齿轮箱 GSW55A
+  - 方向：机器人核心传动部件
+verified: true
+needs_review:
+  zh: true

@@ -1,0 +1,36 @@
+slug: tangshan-vocational
+name: Tangshan Vocational and Technical University
+country: CN
+website: https://www.tsgzy.edu.cn
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Tangshan Vocational and Technical University
+  en: Tangshan Vocational and Technical University logo
+  zh: Tangshan Vocational and Technical University 标志
+type:
+- robot_brand
+featured: false
+categories:
+- software-sdk
+robot_products:
+- name: Vocational Robotics Programs
+  short: Industrial robotics training and applied research
+key_clients: []
+ru:
+  description: Tangshan Vocational and Technical University — китайская робототехническая компания, базирующаяся в Таншане. Разрабатывает Vocational Robotics Programs и сопутствующие робототехнические системы.
+  highlights:
+  - Vocational Robotics Programs — Industrial robotics training and applied research
+en:
+  description: Tangshan Vocational and Technical University is a Chinese robotics company based in Tangshan. It develops Vocational Robotics Programs and related robotic systems.
+  highlights:
+  - Vocational Robotics Programs — Industrial robotics training and applied research
+zh:
+  description: 教育/培训：职业教育，开设机器人相关专业，培养高技能人才。方向：机器人领域职业人才培养。 全国28所公办本科层次职业大学之一，国家“双高计划”建设单位。 为机器人及智能制造产业培养技术技能人才。
+  highlights:
+  - 教育/培训：职业教育，开设机器人相关专业，培养高技能人才
+  - 方向：机器人领域职业人才培养
+  - 全国28所公办本科层次职业大学之一，国家“双高计划”建设单位
+  - 为机器人及智能制造产业培养技术技能人才
+verified: true
+needs_review:
+  zh: true

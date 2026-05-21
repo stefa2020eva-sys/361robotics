@@ -1,0 +1,36 @@
+slug: qlbeoka-medical
+name: Qianli Beoka Medical
+country: CN
+website: https://www.qlbeoka.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Qianli Beoka Medical
+  en: Qianli Beoka Medical logo
+  zh: Qianli Beoka Medical 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: Beoka Massage Robot
+  short: AI-driven massage and physiotherapy robot
+key_clients: []
+ru:
+  description: Qianli Beoka Medical — китайская робототехническая компания, базирующаяся в 四川. Разрабатывает Beoka Massage Robot и сопутствующие робототехнические системы.
+  highlights:
+  - Beoka Massage Robot — AI-driven massage and physiotherapy robot
+en:
+  description: Qianli Beoka Medical is a Chinese robotics company based in 四川. It develops Beoka Massage Robot and related robotic systems.
+  highlights:
+  - Beoka Massage Robot — AI-driven massage and physiotherapy robot
+zh:
+  description: 硬件（本体）：智能康复理疗设备。方向：消费级和医疗级康复理疗机器人/设备。 聚焦健康产业中的康复理疗领域近三十年。 着力推进专业医疗和健康消费两大业务深度融合，帮助大众解决亚健康、运动损伤等健康问题。
+  highlights:
+  - 硬件（本体）：智能康复理疗设备
+  - 方向：消费级和医疗级康复理疗机器人/设备
+  - 聚焦健康产业中的康复理疗领域近三十年
+  - 着力推进专业医疗和健康消费两大业务深度融合，帮助大众解决亚健康、运动损伤等健康问题
+verified: true
+needs_review:
+  zh: true

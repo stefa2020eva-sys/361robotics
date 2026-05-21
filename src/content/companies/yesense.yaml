@@ -1,0 +1,38 @@
+slug: yesense
+name: YESense (Yuansheng Innovation)
+country: CN
+website: https://www.yesense.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип YESense (Yuansheng Innovation)
+  en: YESense (Yuansheng Innovation) logo
+  zh: YESense (Yuansheng Innovation) 标志
+type:
+- component_maker
+featured: false
+categories:
+- sensors
+produces_components:
+- imu
+- magnetic-sensor
+key_clients: []
+ru:
+  description: YESense (Yuansheng Innovation) — китайский производитель компонентов, базирующийся в Ухане. Поставляет инерциальные модули, магнитные датчики для робототехники и систем управления движением.
+  highlights:
+  - Инерциальные модули
+  - Магнитные датчики
+en:
+  description: YESense (Yuansheng Innovation) is a Chinese components manufacturer based in Wuhan. It supplies imu, magnetic sensor for robotics and motion-control applications.
+  highlights:
+  - IMU modules
+  - Magnetic sensors
+zh:
+  description: 硬件（传感器）：YIS10姿态传感器、动作捕捉产品。方向：机器人运动传感与定位导航技术。 专注于运动传感与定位导航技术研发的国家高新技术企业。 核心产品广泛应用于虚拟现实、无人机、机器人及智能装备领域。
+  highlights:
+  - 硬件（传感器）：YIS10姿态传感器、动作捕捉产品
+  - 方向：机器人运动传感与定位导航技术
+  - 专注于运动传感与定位导航技术研发的国家高新技术企业
+  - 核心产品广泛应用于虚拟现实、无人机、机器人及智能装备领域
+verified: true
+needs_review:
+  zh: true

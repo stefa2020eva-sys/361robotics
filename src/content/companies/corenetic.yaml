@@ -1,0 +1,39 @@
+slug: corenetic
+name: Corenetic (Beijing Yuanluo)
+country: CN
+website: https://www.corenetic.ai
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Corenetic (Beijing Yuanluo)
+  en: Corenetic (Beijing Yuanluo) logo
+  zh: Corenetic (Beijing Yuanluo) 标志
+type:
+- component_maker
+featured: false
+categories:
+- controllers
+- software-sdk
+produces_components:
+- edge-ai-controller
+- robot-os-platform
+key_clients: []
+ru:
+  description: Corenetic (Beijing Yuanluo) — китайский производитель компонентов, базирующийся в Пекине. Поставляет периферийные ИИ-контроллеры, платформы операционных систем роботов для робототехники и систем управления движением.
+  highlights:
+  - Периферийные ИИ-контроллеры
+  - Платформы операционных систем роботов
+en:
+  description: Corenetic (Beijing Yuanluo) is a Chinese components manufacturer based in Beijing. It supplies edge ai controller, robot os platform for robotics and motion-control applications.
+  highlights:
+  - Edge AI controllers
+  - Robot OS platforms
+zh:
+  description: 软件/方案：人工智能、机器人以及大模型的核心技术研发与落地应用方案。方向：具身智能技术的商业转化解决方案。 团队兼具硅谷前沿AI探索经验和国内机器人大厂产品实战积累，累计贡献近百篇学术成果。 已在具身智能的商业转化路径上取得突破性进展，包括生物医药、化学化工、物流仓储、工业制造、养老服务等领域。
+  highlights:
+  - 软件/方案：人工智能、机器人以及大模型的核心技术研发与落地应用方案
+  - 方向：具身智能技术的商业转化解决方案
+  - 团队兼具硅谷前沿AI探索经验和国内机器人大厂产品实战积累，累计贡献近百篇学术成果
+  - 已在具身智能的商业转化路径上取得突破性进展，包括生物医药、化学化工、物流仓储、工业制造、养老服务等领域
+verified: true
+needs_review:
+  zh: true

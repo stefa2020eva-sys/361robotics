@@ -1,0 +1,33 @@
+slug: nuoshi-robotics
+name: Nuoshi Robotics
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Nuoshi Robotics
+  en: Nuoshi Robotics logo
+  zh: Nuoshi Robotics 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: Nuoshi Service Robot
+  short: Service robot platform
+key_clients: []
+ru:
+  description: Nuoshi Robotics — китайская робототехническая компания, базирующаяся в Шэньчжэне. Разрабатывает Nuoshi Service Robot и сопутствующие робототехнические системы.
+  highlights:
+  - Nuoshi Service Robot — Service robot platform
+en:
+  description: Nuoshi Robotics is a Chinese robotics company based in Shenzhen. It develops Nuoshi Service Robot and related robotic systems.
+  highlights:
+  - Nuoshi Service Robot — Service robot platform
+zh:
+  description: 硬件（传感器）：LSF-6D六维力传感器系列。方向：机器人六维力传感器。 - -
+  highlights:
+  - 硬件（传感器）：LSF-6D六维力传感器系列
+  - 方向：机器人六维力传感器
+verified: true
+needs_review:
+  zh: true

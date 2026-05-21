@@ -1,0 +1,38 @@
+slug: swt-drive
+name: SWT Drive
+country: CN
+website: https://www.swtdrive.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип SWT Drive
+  en: SWT Drive logo
+  zh: SWT Drive 标志
+type:
+- component_maker
+featured: false
+categories:
+- actuators
+produces_components:
+- planetary-reducer
+- harmonic-reducer
+key_clients: []
+ru:
+  description: SWT Drive — китайский производитель компонентов, базирующийся в Ухане. Поставляет планетарные редукторы, волновые редукторы для робототехники и систем управления движением.
+  highlights:
+  - Планетарные редукторы
+  - Волновые редукторы
+en:
+  description: SWT Drive is a Chinese components manufacturer based in Wuhan. It supplies planetary reducer, harmonic reducer for robotics and motion-control applications.
+  highlights:
+  - Planetary reducers
+  - Harmonic reducers
+zh:
+  description: 硬件（执行器-减速器）：高精密减速器。方向：机器人核心传动部件。 国家重点专精特新小巨人企业，前身为上世纪80年代的武汉精华减速机制造有限公司。 专注于研发、生产高精密减速器，设立“湖北省企业技术中心”。
+  highlights:
+  - 硬件（执行器-减速器）：高精密减速器
+  - 方向：机器人核心传动部件
+  - 国家重点专精特新小巨人企业，前身为上世纪80年代的武汉精华减速机制造有限公司
+  - 专注于研发、生产高精密减速器，设立“湖北省企业技术中心”
+verified: true
+needs_review:
+  zh: true

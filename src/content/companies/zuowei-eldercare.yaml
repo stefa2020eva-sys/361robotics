@@ -1,0 +1,36 @@
+slug: zuowei-eldercare
+name: Zuowei Technology
+country: CN
+website: https://www.zuowei.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Zuowei Technology
+  en: Zuowei Technology logo
+  zh: Zuowei Technology 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: Zuowei Eldercare Robot
+  short: Care robot for elderly toileting and bathing assistance
+key_clients: []
+ru:
+  description: Zuowei Technology — китайская робототехническая компания, базирующаяся в Шэньчжэне. Разрабатывает Zuowei Eldercare Robot и сопутствующие робототехнические системы.
+  highlights:
+  - Zuowei Eldercare Robot — Care robot for elderly toileting and bathing assistance
+en:
+  description: Zuowei Technology is a Chinese robotics company based in Shenzhen. It develops Zuowei Eldercare Robot and related robotic systems.
+  highlights:
+  - Zuowei Eldercare Robot — Care robot for elderly toileting and bathing assistance
+zh:
+  description: 硬件（本体）：失能老人智能护理机器人（大小便、洗澡等）。方向：养老护理场景专用机器人整机。 专注于失能老人的智能护理，围绕六项关键护理需求提供解决方案。 为全球老年人提供高科技养老福祉解决方案，贡献养老科技力量。
+  highlights:
+  - 硬件（本体）：失能老人智能护理机器人（大小便、洗澡等）
+  - 方向：养老护理场景专用机器人整机
+  - 专注于失能老人的智能护理，围绕六项关键护理需求提供解决方案
+  - 为全球老年人提供高科技养老福祉解决方案，贡献养老科技力量
+verified: true
+needs_review:
+  zh: true

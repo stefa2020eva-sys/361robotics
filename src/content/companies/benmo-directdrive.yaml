@@ -1,0 +1,41 @@
+slug: benmo-directdrive
+name: Benmo DirectDrive
+country: CN
+website: https://directdrive.cn
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Benmo DirectDrive
+  en: Benmo DirectDrive logo
+  zh: Benmo DirectDrive 标志
+type:
+- component_maker
+featured: false
+categories:
+- actuators
+produces_components:
+- frameless-torque-motor
+- servo-motor
+- joint-module
+key_clients: []
+ru:
+  description: Benmo DirectDrive — китайский производитель компонентов, базирующийся в Дунгуане. Поставляет безрамные моментные двигатели, сервоприводы, модули суставов для робототехники и систем управления движением.
+  highlights:
+  - Безрамные моментные двигатели
+  - Сервоприводы
+  - Модули суставов
+en:
+  description: Benmo DirectDrive is a Chinese components manufacturer based in Dongguan. It supplies frameless torque motor, servo motor, joint module for robotics and motion-control applications.
+  highlights:
+  - Frameless torque motors
+  - Servo motors
+  - Robotic joint modules
+zh:
+  description: 硬件（本体+执行器）：直驱电机模组、轮足型机器人。方向：机器人核心动力部件（直驱电机）及轮足机器人整机。 直驱型精准动力方案提供商，擅长使用直驱电机技术；拥有全链条生产能力。 服务于泛机器人、工业现场、医疗等板块。成立机器人事业部，打造世界领先的开源轮足机器人技术开发平台。
+  highlights:
+  - 硬件（本体+执行器）：直驱电机模组、轮足型机器人
+  - 方向：机器人核心动力部件（直驱电机）及轮足机器人整机
+  - 直驱型精准动力方案提供商，擅长使用直驱电机技术
+  - 服务于泛机器人、工业现场、医疗等板块
+verified: true
+needs_review:
+  zh: true

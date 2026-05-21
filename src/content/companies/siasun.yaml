@@ -1,0 +1,47 @@
+slug: siasun
+name: SIASUN Robot & Automation
+country: CN
+founded: 2000
+website: https://www.siasun.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип SIASUN Robot & Automation
+  en: SIASUN Robot & Automation logo
+  zh: SIASUN Robot & Automation 标志
+type:
+- robot_brand
+- component_maker
+featured: false
+categories:
+- end-effectors
+- actuators
+robot_products:
+- name: SIASUN Industrial Robot
+  short: Full lineup of industrial, mobile, and special robots
+- name: SIASUN GCR Cobot
+  short: Collaborative robotic arms
+produces_components:
+- joint-module
+key_clients: []
+ru:
+  description: SIASUN Robot & Automation — китайская робототехническая компания, базирующаяся в Шэньяне. Разрабатывает роботов (SIASUN Industrial Robot, SIASUN GCR Cobot) и производит ключевые компоненты для робототехнических систем.
+  highlights:
+  - SIASUN Industrial Robot — Full lineup of industrial, mobile, and special robots
+  - SIASUN GCR Cobot — Collaborative robotic arms
+  - Модули суставов
+en:
+  description: SIASUN Robot & Automation is a Chinese robotics company based in Shenyang. It both develops robots (SIASUN Industrial Robot, SIASUN GCR Cobot) and produces core components for robotic systems.
+  highlights:
+  - SIASUN Industrial Robot — Full lineup of industrial, mobile, and special robots
+  - SIASUN GCR Cobot — Collaborative robotic arms
+  - Robotic joint modules
+zh:
+  description: 硬件（本体+核心部件）：工业机器人、移动机器人、特种机器人、核心零部件。软件/方案：行业系统解决方案。方向：工业机器人整机、核心部件及智能制造解决方案。 书写了中国机器人发展史上百余项“行业首创”；以自主核心技术、核心零部件、核心产品为一体。 以智能制造为业务主攻方向，为产业升级提供全体系核心支撑，构建了健康科学可持续的产业体系。
+  highlights:
+  - 硬件（本体+核心部件）：工业机器人、移动机器人、特种机器人、核心零部件
+  - 软件/方案：行业系统解决方案
+  - 方向：工业机器人整机、核心部件及智能制造解决方案
+  - 书写了中国机器人发展史上百余项“行业首创”
+verified: true
+needs_review:
+  zh: true

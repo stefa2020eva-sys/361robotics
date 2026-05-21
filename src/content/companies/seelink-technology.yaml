@@ -1,0 +1,39 @@
+slug: seelink-technology
+name: Seelink (Senlikang)
+country: CN
+website: https://www.seelink.com.cn
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Seelink (Senlikang)
+  en: Seelink (Senlikang) logo
+  zh: Seelink (Senlikang) 标志
+type:
+- component_maker
+featured: false
+categories:
+- sensors
+- connectivity
+produces_components:
+- connector
+- flexible-cable
+key_clients: []
+ru:
+  description: Seelink (Senlikang) — китайский производитель компонентов, базирующийся в Пекине. Поставляет разъёмы, гибкие кабели для робототехники и систем управления движением.
+  highlights:
+  - Разъёмы
+  - Гибкие кабели
+en:
+  description: Seelink (Senlikang) is a Chinese components manufacturer based in Beijing. It supplies connector, flexible cable for robotics and motion-control applications.
+  highlights:
+  - Connectors
+  - Flexible cables
+zh:
+  description: 硬件（本体）：“小丽”养老服务机器人。软件：多模态交互、自研大模型、多传感器融合定位导航。方向：智能养老场景服务机器人整机。 专注于智能养老机器人研发与应用，产品已通过CQC质量认证。 产品已在居家、机构、社区等多场景落地，未来通过对行为数据智能分析提供个性化服务，赋能养老数字化转型。
+  highlights:
+  - 硬件（本体）：“小丽”养老服务机器人
+  - 软件：多模态交互、自研大模型、多传感器融合定位导航
+  - 方向：智能养老场景服务机器人整机
+  - 专注于智能养老机器人研发与应用，产品已通过CQC质量认证
+verified: true
+needs_review:
+  zh: true

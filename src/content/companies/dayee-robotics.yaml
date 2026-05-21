@@ -1,0 +1,36 @@
+slug: dayee-robotics
+name: Dayee Robotics
+country: CN
+website: https://www.ai-robotics.cn
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Dayee Robotics
+  en: Dayee Robotics logo
+  zh: Dayee Robotics 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: Dayee Rehab Robot
+  short: Lower-limb rehabilitation exoskeleton
+key_clients: []
+ru:
+  description: Dayee Robotics — китайская робототехническая компания, базирующаяся в Пекине. Разрабатывает Dayee Rehab Robot и сопутствующие робототехнические системы.
+  highlights:
+  - Dayee Rehab Robot — Lower-limb rehabilitation exoskeleton
+en:
+  description: Dayee Robotics is a Chinese robotics company based in Beijing. It develops Dayee Rehab Robot and related robotic systems.
+  highlights:
+  - Dayee Rehab Robot — Lower-limb rehabilitation exoskeleton
+zh:
+  description: 硬件（本体）：外骨骼机器人（九大系列）。方向：医疗康复外骨骼机器人整机。 中国外骨骼机器人行业开创者和引领者，获得中国首个外骨骼机器人医疗器械注册证。 产品实现“全年龄段全场景全周期”覆盖，满足患者、老年人、健康人的治病、健身、助行需求。
+  highlights:
+  - 硬件（本体）：外骨骼机器人（九大系列）
+  - 方向：医疗康复外骨骼机器人整机
+  - 中国外骨骼机器人行业开创者和引领者，获得中国首个外骨骼机器人医疗器械注册证
+  - 产品实现“全年龄段全场景全周期”覆盖，满足患者、老年人、健康人的治病、健身、助行需求
+verified: true
+needs_review:
+  zh: true

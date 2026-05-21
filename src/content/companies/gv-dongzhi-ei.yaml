@@ -1,0 +1,36 @@
+slug: gv-dongzhi-ei
+name: Guanggu Dongzhi Embodied Intelligence
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Guanggu Dongzhi Embodied Intelligence
+  en: Guanggu Dongzhi Embodied Intelligence logo
+  zh: Guanggu Dongzhi Embodied Intelligence 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+- software-sdk
+robot_products:
+- name: Dongzhi Embodied AI Robot
+  short: Embodied AI robotic platforms
+key_clients: []
+ru:
+  description: Guanggu Dongzhi Embodied Intelligence — китайская робототехническая компания, базирующаяся в Ухане. Разрабатывает Dongzhi Embodied AI Robot и сопутствующие робототехнические системы.
+  highlights:
+  - Dongzhi Embodied AI Robot — Embodied AI robotic platforms
+en:
+  description: Guanggu Dongzhi Embodied Intelligence is a Chinese robotics company based in Wuhan. It develops Dongzhi Embodied AI Robot and related robotic systems.
+  highlights:
+  - Dongzhi Embodied AI Robot — Embodied AI robotic platforms
+zh:
+  description: 硬件（本体）：人形机器人整机。方向：华中地区首家具备人形机器人整机独立研发、生产与交付能力的企业。 由东阳光集团联合上海智元机器人、北京大学武汉人工智能研究院等共同创立，汇聚“产业+技术+学术”多方优势。 致力于打造国内领先的具身智能机器人产品与产业生态。
+  highlights:
+  - 硬件（本体）：人形机器人整机
+  - 方向：华中地区首家具备人形机器人整机独立研发、生产与交付能力的企业
+  - 由东阳光集团联合上海智元机器人、北京大学武汉人工智能研究院等共同创立，汇聚“产业+技术+学术”多方优势
+  - 致力于打造国内领先的具身智能机器人产品与产业生态
+verified: true
+needs_review:
+  zh: true

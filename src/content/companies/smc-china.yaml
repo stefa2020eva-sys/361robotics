@@ -1,0 +1,38 @@
+slug: smc-china
+name: SMC China
+country: CN
+website: https://www.smc.com.cn
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип SMC China
+  en: SMC China logo
+  zh: SMC China 标志
+type:
+- component_maker
+featured: false
+categories:
+- actuators
+produces_components:
+- linear-actuator
+- vacuum-cup
+key_clients: []
+ru:
+  description: SMC China — китайский производитель компонентов, базирующийся в Пекине. Поставляет линейные приводы, вакуумные присоски для робототехники и систем управления движением.
+  highlights:
+  - Линейные приводы
+  - Вакуумные присоски
+en:
+  description: SMC China is a Chinese components manufacturer based in Beijing. It supplies linear actuator, vacuum cup for robotics and motion-control applications.
+  highlights:
+  - Linear actuators
+  - Vacuum cups
+zh:
+  description: 硬件（执行器）：气缸、电磁阀、电缸等自动控制元件。方向：工业自动化气动、电动执行部件。 世界知名的自动控制元件综合制造商，产品多达数万种规格。 广泛应用于汽车、半导体、电子、机床等数十个领域，在中国设有多个工厂、技术中心和物流中心。
+  highlights:
+  - 硬件（执行器）：气缸、电磁阀、电缸等自动控制元件
+  - 方向：工业自动化气动、电动执行部件
+  - 世界知名的自动控制元件综合制造商，产品多达数万种规格
+  - 广泛应用于汽车、半导体、电子、机床等数十个领域，在中国设有多个工厂、技术中心和物流中心
+verified: true
+needs_review:
+  zh: true

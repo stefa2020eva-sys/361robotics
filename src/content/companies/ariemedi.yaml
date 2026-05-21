@@ -1,0 +1,37 @@
+slug: ariemedi
+name: AriEMedi Medical Technology
+country: CN
+website: https://www.ariemedi.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип AriEMedi Medical Technology
+  en: AriEMedi Medical Technology logo
+  zh: AriEMedi Medical Technology 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+- software-sdk
+robot_products:
+- name: AriEMedi Surgical Navigation
+  short: AI-assisted surgical navigation and robotic systems
+key_clients: []
+ru:
+  description: AriEMedi Medical Technology — китайская робототехническая компания, базирующаяся в Пекине. Разрабатывает AriEMedi Surgical Navigation и сопутствующие робототехнические системы.
+  highlights:
+  - AriEMedi Surgical Navigation — AI-assisted surgical navigation and robotic systems
+en:
+  description: AriEMedi Medical Technology is a Chinese robotics company based in Beijing. It develops AriEMedi Surgical Navigation and related robotic systems.
+  highlights:
+  - AriEMedi Surgical Navigation — AI-assisted surgical navigation and robotic systems
+zh:
+  description: 硬件（传感器）：医用核心传感器。硬件（本体）：手术机器人、医用成像设备。方向：数字诊疗装备核心传感器与整机。 专业从事医用核心传感器与数字诊疗装备系列产品研发。 围绕手术机器人、医用成像设备等，提供全系列智慧手术一体化解决方案。
+  highlights:
+  - 硬件（传感器）：医用核心传感器
+  - 硬件（本体）：手术机器人、医用成像设备
+  - 方向：数字诊疗装备核心传感器与整机
+  - 专业从事医用核心传感器与数字诊疗装备系列产品研发
+verified: true
+needs_review:
+  zh: true

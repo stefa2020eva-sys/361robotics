@@ -1,0 +1,41 @@
+slug: keenon-robotics
+name: Keenon Robotics
+country: CN
+founded: 2010
+website: https://www.keenon.com.cn
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Keenon Robotics
+  en: Keenon Robotics logo
+  zh: Keenon Robotics 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: Keenon T10
+  short: Service robot for restaurants and hospitality
+- name: Keenon DINERBOT
+  short: Food delivery robot
+key_clients: []
+ru:
+  description: Keenon Robotics — китайская робототехническая компания, базирующаяся в Шанхае. Разрабатывает Keenon T10, Keenon DINERBOT и сопутствующие робототехнические системы.
+  highlights:
+  - Keenon T10 — Service robot for restaurants and hospitality
+  - Keenon DINERBOT — Food delivery robot
+en:
+  description: Keenon Robotics is a Chinese robotics company based in Shanghai. It develops Keenon T10, Keenon DINERBOT and related robotic systems.
+  highlights:
+  - Keenon T10 — Service robot for restaurants and hospitality
+  - Keenon DINERBOT — Food delivery robot
+zh:
+  description: 硬件（本体）：人形机器人、配送机器人、清洁机器人、消毒机器人。方向：商用服务场景的具身服务机器人整机。 全球具身服务机器人行业领军者，开创全球服务配送机器人行业；业务覆盖全球600多个城市。 不断拓展机器人技术的多元化规模应用场景，作为中国智造领先品牌走向世界。
+  highlights:
+  - 硬件（本体）：人形机器人、配送机器人、清洁机器人、消毒机器人
+  - 方向：商用服务场景的具身服务机器人整机
+  - 全球具身服务机器人行业领军者，开创全球服务配送机器人行业
+  - 业务覆盖全球600多个城市
+verified: true
+needs_review:
+  zh: true

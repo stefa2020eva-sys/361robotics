@@ -1,0 +1,41 @@
+slug: engineai-robotics
+name: EngineAI
+country: CN
+founded: 2023
+website: https://www.engineai.com.cn
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип EngineAI
+  en: EngineAI logo
+  zh: EngineAI 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: EngineAI PM01
+  short: Mid-size humanoid robot
+- name: SE01
+  short: Full-size adult humanoid robot
+key_clients: []
+ru:
+  description: EngineAI — китайская робототехническая компания, базирующаяся в Шэньчжэне. Разрабатывает EngineAI PM01, SE01 и сопутствующие робототехнические системы.
+  highlights:
+  - EngineAI PM01 — Mid-size humanoid robot
+  - SE01 — Full-size adult humanoid robot
+en:
+  description: EngineAI is a Chinese robotics company based in Shenzhen. It develops EngineAI PM01, SE01 and related robotic systems.
+  highlights:
+  - EngineAI PM01 — Mid-size humanoid robot
+  - SE01 — Full-size adult humanoid robot
+zh:
+  description: 硬件（本体+核心零部件）：通用人形机器人整机，实现全栈自研。软件：小脑运控算法、大脑具身智能。方向：通用人工智能体及行业场景解决方案。 团队来自全球顶尖高校及中国第一批腿足式机器人项目；具备全栈自研能力。 致力于人形机器人及其相关产品的研发与生产，提供行业场景解决方案。
+  highlights:
+  - 硬件（本体+核心零部件）：通用人形机器人整机，实现全栈自研
+  - 软件：小脑运控算法、大脑具身智能
+  - 方向：通用人工智能体及行业场景解决方案
+  - 团队来自全球顶尖高校及中国第一批腿足式机器人项目
+verified: true
+needs_review:
+  zh: true

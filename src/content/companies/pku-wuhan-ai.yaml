@@ -1,0 +1,35 @@
+slug: pku-wuhan-ai
+name: Peking University Wuhan Institute of AI
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Peking University Wuhan Institute of AI
+  en: Peking University Wuhan Institute of AI logo
+  zh: Peking University Wuhan Institute of AI 标志
+type:
+- robot_brand
+featured: false
+categories:
+- software-sdk
+robot_products:
+- name: PKU AI Research
+  short: AI and embodied intelligence research
+key_clients: []
+ru:
+  description: Peking University Wuhan Institute of AI — китайская робототехническая компания, базирующаяся в Ухане. Разрабатывает PKU AI Research и сопутствующие робототехнические системы.
+  highlights:
+  - PKU AI Research — AI and embodied intelligence research
+en:
+  description: Peking University Wuhan Institute of AI is a Chinese robotics company based in Wuhan. It develops PKU AI Research and related robotic systems.
+  highlights:
+  - PKU AI Research — AI and embodied intelligence research
+zh:
+  description: 研究：通用人工智能技术、智能社会治理。方向：人工智能前沿学术研究机构。 由北京大学、武汉市人民政府、武汉东湖高新区管委会三方共建的北京大学异地研究院。 致力于成为国内顶尖、国际一流的通用人工智能、智能社会治理研究机构，构建“产学研用”生态系统。
+  highlights:
+  - 研究：通用人工智能技术、智能社会治理
+  - 方向：人工智能前沿学术研究机构
+  - 由北京大学、武汉市人民政府、武汉东湖高新区管委会三方共建的北京大学异地研究院
+  - 致力于成为国内顶尖、国际一流的通用人工智能、智能社会治理研究机构，构建“产学研用”生态系统
+verified: true
+needs_review:
+  zh: true

@@ -1,0 +1,37 @@
+slug: airs-shenzhen
+name: AIRS Shenzhen
+country: CN
+website: https://airs.sustech.edu.cn
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип AIRS Shenzhen
+  en: AIRS Shenzhen logo
+  zh: AIRS Shenzhen 标志
+type:
+- robot_brand
+featured: false
+categories:
+- software-sdk
+- end-effectors
+robot_products:
+- name: AIRS Research Platforms
+  short: AI and robotics research platforms from Shenzhen Institute of AI and Robotics
+key_clients: []
+ru:
+  description: AIRS Shenzhen — китайская робототехническая компания, базирующаяся в Шэньчжэне. Разрабатывает AIRS Research Platforms и сопутствующие робототехнические системы.
+  highlights:
+  - AIRS Research Platforms — AI and robotics research platforms from Shenzhen Institute of AI and Robotics
+en:
+  description: AIRS Shenzhen is a Chinese robotics company based in Shenzhen. It develops AIRS Research Platforms and related robotic systems.
+  highlights:
+  - AIRS Research Platforms — AI and robotics research platforms from Shenzhen Institute of AI and Robotics
+zh:
+  description: 研究/转化：人工智能与机器人基础理论与原创技术研究、应用转化。方向：AI与机器人前沿学术研究。 深圳市政府依托香港中文大学（深圳）建立的市级十大基础研究机构之一。 以企业、行业和国家需求为牵引，推动智能技术在医疗康复、智能制造等方面的应用转化，培养人才。
+  highlights:
+  - 研究/转化：人工智能与机器人基础理论与原创技术研究、应用转化
+  - 方向：AI与机器人前沿学术研究
+  - 深圳市政府依托香港中文大学（深圳）建立的市级十大基础研究机构之一
+  - 以企业、行业和国家需求为牵引，推动智能技术在医疗康复、智能制造等方面的应用转化，培养人才
+verified: true
+needs_review:
+  zh: true

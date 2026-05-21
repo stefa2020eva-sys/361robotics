@@ -1,0 +1,35 @@
+slug: unix-robotics
+name: UniX Robotics
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип UniX Robotics
+  en: UniX Robotics logo
+  zh: UniX Robotics 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: UniX Humanoid
+  short: General-purpose humanoid robot platform
+key_clients: []
+ru:
+  description: UniX Robotics — китайская робототехническая компания, базирующаяся в Сучжоу. Разрабатывает UniX Humanoid и сопутствующие робототехнические системы.
+  highlights:
+  - UniX Humanoid — General-purpose humanoid robot platform
+en:
+  description: UniX Robotics is a Chinese robotics company based in Suzhou. It develops UniX Humanoid and related robotic systems.
+  highlights:
+  - UniX Humanoid — General-purpose humanoid robot platform
+zh:
+  description: 硬件（本体）：全尺寸轮式和双足通用人形机器人。方向：商业服务场景的具身智能机器人整机。 拥有包括UniTouch视触觉大模型在内的多项全球领先研究与技术成果。 核心零部件已全部实现模块化自研，为大规模商业化提供保障。产品已实现批量量产及交付。
+  highlights:
+  - 硬件（本体）：全尺寸轮式和双足通用人形机器人
+  - 方向：商业服务场景的具身智能机器人整机
+  - 拥有包括UniTouch视触觉大模型在内的多项全球领先研究与技术成果
+  - 核心零部件已全部实现模块化自研，为大规模商业化提供保障
+verified: true
+needs_review:
+  zh: true

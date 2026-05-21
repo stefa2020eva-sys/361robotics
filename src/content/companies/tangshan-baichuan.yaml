@@ -1,0 +1,36 @@
+slug: tangshan-baichuan
+name: Tangshan Baichuan Intelligent Machinery
+country: CN
+website: https://www.tsbaichuan.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Tangshan Baichuan Intelligent Machinery
+  en: Tangshan Baichuan Intelligent Machinery logo
+  zh: Tangshan Baichuan Intelligent Machinery 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: Baichuan Industrial Robot
+  short: Industrial robots for ceramics and heavy industry
+key_clients: []
+ru:
+  description: Tangshan Baichuan Intelligent Machinery — китайская робототехническая компания, базирующаяся в Таншане. Разрабатывает Baichuan Industrial Robot и сопутствующие робототехнические системы.
+  highlights:
+  - Baichuan Industrial Robot — Industrial robots for ceramics and heavy industry
+en:
+  description: Tangshan Baichuan Intelligent Machinery is a Chinese robotics company based in Tangshan. It develops Baichuan Industrial Robot and related robotic systems.
+  highlights:
+  - Baichuan Industrial Robot — Industrial robots for ceramics and heavy industry
+zh:
+  description: 硬件（本体）：轨道交通检修试验智能机器人设备。方向：轨道交通行业专用检修机器人整机。 专业研发制造轨道交通检修试验设备，是该领域最大供应商。 产品已应用于15个国家和地区的轨道交通项目，保持轨道交通领域智能机器人设备国际领先品牌地位。
+  highlights:
+  - 硬件（本体）：轨道交通检修试验智能机器人设备
+  - 方向：轨道交通行业专用检修机器人整机
+  - 专业研发制造轨道交通检修试验设备，是该领域最大供应商
+  - 产品已应用于15个国家和地区的轨道交通项目，保持轨道交通领域智能机器人设备国际领先品牌地位
+verified: true
+needs_review:
+  zh: true

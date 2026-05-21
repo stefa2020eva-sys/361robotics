@@ -1,0 +1,41 @@
+slug: fulling-motor
+name: Fulling Motor
+country: CN
+website: https://www.fullingmotor.com.cn
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Fulling Motor
+  en: Fulling Motor logo
+  zh: Fulling Motor 标志
+type:
+- component_maker
+featured: false
+categories:
+- actuators
+produces_components:
+- servo-motor
+- brushless-motor
+- frameless-torque-motor
+key_clients: []
+ru:
+  description: Fulling Motor — китайский производитель компонентов, базирующийся в 常州. Поставляет сервоприводы, бесколлекторные двигатели, безрамные моментные двигатели для робототехники и систем управления движением.
+  highlights:
+  - Сервоприводы
+  - Бесколлекторные двигатели
+  - Безрамные моментные двигатели
+en:
+  description: Fulling Motor is a Chinese components manufacturer based in 常州. It supplies servo motor, brushless motor, frameless torque motor for robotics and motion-control applications.
+  highlights:
+  - Servo motors
+  - Brushless motors
+  - Frameless torque motors
+zh:
+  description: 硬件（执行器-电机）：伺服电机、直流无刷电机、混合式步进电机及相关驱动器。方向：机器人核心动力部件（电机与驱动）。 中、德、瑞合资企业，年生产各类控制电机600万台以上，产品远销30多个国家。 产品广泛应用于机器人、自动化、汽车等行业，拥有IATF16949等多项体系认证。
+  highlights:
+  - 硬件（执行器-电机）：伺服电机、直流无刷电机、混合式步进电机及相关驱动器
+  - 方向：机器人核心动力部件（电机与驱动）
+  - 中、德、瑞合资企业，年生产各类控制电机600万台以上，产品远销30多个国家
+  - 产品广泛应用于机器人、自动化、汽车等行业，拥有IATF16949等多项体系认证
+verified: true
+needs_review:
+  zh: true

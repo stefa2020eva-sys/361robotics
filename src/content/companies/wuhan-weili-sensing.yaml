@@ -1,0 +1,34 @@
+slug: wuhan-weili-sensing
+name: Wuhan Weili Sensing
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Wuhan Weili Sensing
+  en: Wuhan Weili Sensing logo
+  zh: Wuhan Weili Sensing 标志
+type:
+- component_maker
+featured: false
+categories:
+- sensors
+produces_components:
+- force-torque-sensor
+key_clients: []
+ru:
+  description: Wuhan Weili Sensing — китайский производитель компонентов, базирующийся в Ухане. Поставляет датчики силы и момента для робототехники и систем управления движением.
+  highlights:
+  - Датчики силы и момента
+en:
+  description: Wuhan Weili Sensing is a Chinese components manufacturer based in Wuhan. It supplies force torque sensor for robotics and motion-control applications.
+  highlights:
+  - Force/torque sensors
+zh:
+  description: 硬件（传感器）：高精度多维力传感器（一维到六维）、配套信号采集处理单元。软件/方案：基于力传感器的力控系统。方向：机器人力觉感知与力控全套解决方案。 源自华中科技大学顶尖院士团队，研发人员博士占比高达30%以上，均有5年以上经验。 为客户提供测-控一体式的定制化开发服务。
+  highlights:
+  - 硬件（传感器）：高精度多维力传感器（一维到六维）、配套信号采集处理单元
+  - 软件/方案：基于力传感器的力控系统
+  - 方向：机器人力觉感知与力控全套解决方案
+  - 源自华中科技大学顶尖院士团队，研发人员博士占比高达30%以上，均有5年以上经验
+verified: true
+needs_review:
+  zh: true

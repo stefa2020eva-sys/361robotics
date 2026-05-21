@@ -1,0 +1,43 @@
+slug: booster-robotics
+name: Booster Robotics
+country: CN
+founded: 2023
+website: https://www.boosterobotics.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Booster Robotics
+  en: Booster Robotics logo
+  zh: Booster Robotics 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: Booster T1
+  short: Humanoid robot for developer ecosystem and consumer market
+key_clients: []
+ru:
+  description: Booster Robotics — пекинская компания, основанная в 2023 году выходцами лаборатории робототехнического управления автоматического факультета университета Цинхуа. Разрабатывает стабильную гуманоидную платформу Booster T1 и средства разработки для экосистемы прикладной воплощённой ИИ.
+  highlights:
+  - Booster T1 — гуманоидный робот для разработчиков и потребительского рынка
+  - Команда — выпускники лаборатории робототехнического управления Цинхуа
+  - 20 лет накопленного опыта в области гуманоидной робототехники
+  - Цель — ускорить распространение воплощённого ИИ в индустрии
+en:
+  description: Booster Robotics is a Beijing-based humanoid-robot company founded in 2023 by alumni of Tsinghua University's robotics control lab. It develops the Booster T1 humanoid platform and developer tools aimed at accelerating embodied-AI adoption.
+  highlights:
+  - Booster T1 — humanoid robot for the developer ecosystem and consumer market
+  - Founding team from Tsinghua's Department of Automation robotics control lab
+  - 20 years of accumulated humanoid-robotics R&D experience
+  - Mission to accelerate embodied-AI deployment across industries
+zh:
+  description: 硬件（本体）：人形机器人整机。软件：开发工具。方向：为开发者提供稳定的人形机器人和高效开发工具。 核心团队出身清华自动化系机器人控制实验室，拥有20年人形机器人领域技术积累。 公司成立于2023年，旨在打造人形机器人产品，加速“具身智能”落地，让机器人走进各行各业。
+  highlights:
+  - 硬件（本体）：人形机器人整机
+  - 方向：为开发者提供稳定的人形机器人和高效开发工具
+  - 核心团队出身清华自动化系机器人控制实验室，拥有20年人形机器人领域技术积累
+  - 公司成立于2023年，旨在打造人形机器人产品，加速“具身智能”落地，让机器人走进各行各业
+verified: true
+needs_review:
+  zh: true

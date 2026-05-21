@@ -1,0 +1,35 @@
+slug: zhejiang-humanoid-center
+name: Zhejiang Humanoid Robot Innovation Center
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Zhejiang Humanoid Robot Innovation Center
+  en: Zhejiang Humanoid Robot Innovation Center logo
+  zh: Zhejiang Humanoid Robot Innovation Center 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: Lingxi X
+  short: Humanoid robot developed by the Zhejiang/Ningbo innovation center
+key_clients: []
+ru:
+  description: Zhejiang Humanoid Robot Innovation Center — китайская робототехническая компания, базирующаяся в 浙江宁波. Разрабатывает Lingxi X и сопутствующие робототехнические системы.
+  highlights:
+  - Lingxi X — Humanoid robot developed by the Zhejiang/Ningbo innovation center
+en:
+  description: Zhejiang Humanoid Robot Innovation Center is a Chinese robotics company based in 浙江宁波. It develops Lingxi X and related robotic systems.
+  highlights:
+  - Lingxi X — Humanoid robot developed by the Zhejiang/Ningbo innovation center
+zh:
+  description: 研究/转化：人形机器人“大小脑”关键技术研究和整机系统研发与应用。方向：人形机器人技术研发与产业化平台。 在浙江省、宁波市、海曙区政府单位指导与支持下，由熊蓉教授及团队联合多家知名产业方共建。 全力打造集人形机器人技术研发、成果转化、人才培养及产业发展、产业辐射于一体的科技公司。
+  highlights:
+  - 研究/转化：人形机器人“大小脑”关键技术研究和整机系统研发与应用
+  - 方向：人形机器人技术研发与产业化平台
+  - 在浙江省、宁波市、海曙区政府单位指导与支持下，由熊蓉教授及团队联合多家知名产业方共建
+  - 全力打造集人形机器人技术研发、成果转化、人才培养及产业发展、产业辐射于一体的科技公司
+verified: true
+needs_review:
+  zh: true

@@ -1,0 +1,36 @@
+slug: yuanluobo
+name: YuanLuobo Intelligence
+country: CN
+website: https://www.yuanluobo.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип YuanLuobo Intelligence
+  en: YuanLuobo Intelligence logo
+  zh: YuanLuobo Intelligence 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: YuanLuobo Humanoid
+  short: Service-oriented humanoid robot
+key_clients: []
+ru:
+  description: YuanLuobo Intelligence — китайская робототехническая компания, базирующаяся в Шанхае. Разрабатывает YuanLuobo Humanoid и сопутствующие робототехнические системы.
+  highlights:
+  - YuanLuobo Humanoid — Service-oriented humanoid robot
+en:
+  description: YuanLuobo Intelligence is a Chinese robotics company based in Shanghai. It develops YuanLuobo Humanoid and related robotic systems.
+  highlights:
+  - YuanLuobo Humanoid — Service-oriented humanoid robot
+zh:
+  description: 硬件（本体+执行器）：家用级AI机械臂机器人（元萝卜围棋机器人）。软件：AI视觉技术、决策智能。方向：消费级家用AI机械臂机器人整机。 全球第一家规模化量产家用AI机械臂机器人的公司；结合领先的AI视觉和决策智能。 专注于家用机器人，旨在用AI科技为孩子的健康、学习、快乐成长保驾护航，开创家用下棋机器人品类。
+  highlights:
+  - 硬件（本体+执行器）：家用级AI机械臂机器人（元萝卜围棋机器人）
+  - 软件：AI视觉技术、决策智能
+  - 方向：消费级家用AI机械臂机器人整机
+  - 全球第一家规模化量产家用AI机械臂机器人的公司
+verified: true
+needs_review:
+  zh: true

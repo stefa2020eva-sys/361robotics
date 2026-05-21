@@ -1,0 +1,34 @@
+slug: xunenglu-battery
+name: XunengLu Battery
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип XunengLu Battery
+  en: XunengLu Battery logo
+  zh: XunengLu Battery 标志
+type:
+- component_maker
+featured: false
+categories:
+- drives-power
+produces_components:
+- battery-pack
+key_clients: []
+ru:
+  description: XunengLu Battery — китайский производитель компонентов, базирующийся в Ухане. Поставляет аккумуляторные модули для робототехники и систем управления движением.
+  highlights:
+  - Аккумуляторные модули
+en:
+  description: XunengLu Battery is a Chinese components manufacturer based in Wuhan. It supplies battery pack for robotics and motion-control applications.
+  highlights:
+  - Battery packs
+zh:
+  description: 硬件（电源）：锂电池、模块化电池组、电池系统集成；电芯、BMS、逆变器、电池PACK。方向：机器人高比能动力电池系统。 源自于院士团队，与华中科技大学等高校紧密合作，自主研发正极材料。 致力于为人形机器人、四足机器人等提供全方位高比能电池系统解决方案。
+  highlights:
+  - 硬件（电源）：锂电池、模块化电池组、电池系统集成
+  - 电芯、BMS、逆变器、电池PACK
+  - 方向：机器人高比能动力电池系统
+  - 源自于院士团队，与华中科技大学等高校紧密合作，自主研发正极材料
+verified: true
+needs_review:
+  zh: true

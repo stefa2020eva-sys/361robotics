@@ -1,0 +1,34 @@
+slug: shouzhi-innovation
+name: Shouzhi Innovation (Hand Intelligence)
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Shouzhi Innovation (Hand Intelligence)
+  en: Shouzhi Innovation (Hand Intelligence) logo
+  zh: Shouzhi Innovation (Hand Intelligence) 标志
+type:
+- component_maker
+featured: false
+categories:
+- end-effectors
+produces_components:
+- dexterous-hand
+key_clients: []
+ru:
+  description: Shouzhi Innovation (Hand Intelligence) — китайский производитель компонентов, базирующийся в Ухане. Поставляет захватные кисти для робототехники и систем управления движением.
+  highlights:
+  - Захватные кисти
+en:
+  description: Shouzhi Innovation (Hand Intelligence) is a Chinese components manufacturer based in Wuhan. It supplies dexterous hand for robotics and motion-control applications.
+  highlights:
+  - Dexterous hands
+zh:
+  description: 硬件（传感器+执行器）：人形机器人灵巧手、高精度触觉传感器。方向：机器人灵巧操作末端核心部件。 在人形机器人灵巧手、高精度触觉传感器等多个核心技术领域取得重要突破。 致力于通过技术创新突破行业瓶颈，为智能机器人行业带来革命性变革。
+  highlights:
+  - 硬件（传感器+执行器）：人形机器人灵巧手、高精度触觉传感器
+  - 方向：机器人灵巧操作末端核心部件
+  - 在人形机器人灵巧手、高精度触觉传感器等多个核心技术领域取得重要突破
+  - 致力于通过技术创新突破行业瓶颈，为智能机器人行业带来革命性变革
+verified: true
+needs_review:
+  zh: true

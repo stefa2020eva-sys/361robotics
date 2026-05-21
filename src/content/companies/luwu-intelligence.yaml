@@ -1,0 +1,36 @@
+slug: luwu-intelligence
+name: Luwu Intelligence
+country: CN
+website: https://www.luwu-ai.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Luwu Intelligence
+  en: Luwu Intelligence logo
+  zh: Luwu Intelligence 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: Luwu Quadruped
+  short: Quadruped robot platform
+key_clients: []
+ru:
+  description: Luwu Intelligence — китайская робототехническая компания, базирующаяся в Уси. Разрабатывает Luwu Quadruped и сопутствующие робототехнические системы.
+  highlights:
+  - Luwu Quadruped — Quadruped robot platform
+en:
+  description: Luwu Intelligence is a Chinese robotics company based in Wuxi. It develops Luwu Quadruped and related robotic systems.
+  highlights:
+  - Luwu Quadruped — Quadruped robot platform
+zh:
+  description: 硬件（本体）：桌面级双足、四足、轮足等多拟态机器人。方向：桌面级教育、娱乐、竞赛用仿生机器人整机。 核心团队来自哈尔滨工业大学机器人技术与系统国家重点实验室。 以桌面仿生机器人为切入点，将前沿机器控制技术应用于教育、竞赛等领域。
+  highlights:
+  - 硬件（本体）：桌面级双足、四足、轮足等多拟态机器人
+  - 方向：桌面级教育、娱乐、竞赛用仿生机器人整机
+  - 核心团队来自哈尔滨工业大学机器人技术与系统国家重点实验室
+  - 以桌面仿生机器人为切入点，将前沿机器控制技术应用于教育、竞赛等领域
+verified: true
+needs_review:
+  zh: true

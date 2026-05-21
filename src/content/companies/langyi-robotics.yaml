@@ -1,0 +1,36 @@
+slug: langyi-robotics
+name: LangYi Robotics
+country: CN
+website: https://langyi.tech
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип LangYi Robotics
+  en: LangYi Robotics logo
+  zh: LangYi Robotics 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: LangYi Robot
+  short: Industrial robotic arm and AGV solutions
+key_clients: []
+ru:
+  description: LangYi Robotics — китайская робототехническая компания, базирующаяся в Ухане. Разрабатывает LangYi Robot и сопутствующие робототехнические системы.
+  highlights:
+  - LangYi Robot — Industrial robotic arm and AGV solutions
+en:
+  description: LangYi Robotics is a Chinese robotics company based in Wuhan. It develops LangYi Robot and related robotic systems.
+  highlights:
+  - LangYi Robot — Industrial robotic arm and AGV solutions
+zh:
+  description: 硬件（模组）：具身导航模组。软件：机器人感知与导航技术。方向：机器人自主移动与导航软硬件模组。 推出了全球首款具身导航模组。 赋能人形机器人在各类场景下实现全自主移动避障、高阶空间推理、以及可泛化环境交互能力。
+  highlights:
+  - 硬件（模组）：具身导航模组
+  - 软件：机器人感知与导航技术
+  - 方向：机器人自主移动与导航软硬件模组
+  - 推出了全球首款具身导航模组
+verified: true
+needs_review:
+  zh: true

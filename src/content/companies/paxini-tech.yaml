@@ -1,0 +1,38 @@
+slug: paxini-tech
+name: PaXini Tech
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип PaXini Tech
+  en: PaXini Tech logo
+  zh: PaXini Tech 标志
+type:
+- component_maker
+featured: false
+categories:
+- sensors
+- end-effectors
+produces_components:
+- tactile-sensor
+- dexterous-hand
+key_clients: []
+ru:
+  description: PaXini Tech — китайский производитель компонентов, базирующийся в Шэньчжэне. Поставляет тактильные датчики, захватные кисти для робототехники и систем управления движением.
+  highlights:
+  - Тактильные датчики
+  - Захватные кисти
+en:
+  description: PaXini Tech is a Chinese components manufacturer based in Shenzhen. It supplies tactile sensor, dexterous hand for robotics and motion-control applications.
+  highlights:
+  - Tactile sensors
+  - Dexterous hands
+zh:
+  description: 硬件（本体+传感器）：人形机器人TORA、触觉灵巧手DexH系列、多维触觉传感器(ITPU)。方向：触觉感知技术、灵巧手及人形机器人整机。 拥有前沿核心触觉技术；发布全球首款搭载HAPTA架构的ITPU多维触觉处理单元。 产品线覆盖从“传感器核心零部件”到“人形机器人整机制造”的全链路，并已实现批量商业级交付。
+  highlights:
+  - 硬件（本体+传感器）：人形机器人TORA、触觉灵巧手DexH系列、多维触觉传感器(ITPU)
+  - 方向：触觉感知技术、灵巧手及人形机器人整机
+  - 拥有前沿核心触觉技术
+  - 发布全球首款搭载HAPTA架构的ITPU多维触觉处理单元
+verified: true
+needs_review:
+  zh: true

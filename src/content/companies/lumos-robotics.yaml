@@ -1,0 +1,36 @@
+slug: lumos-robotics
+name: Lumos Robotics
+country: CN
+website: https://lumosbot.tech
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Lumos Robotics
+  en: Lumos Robotics logo
+  zh: Lumos Robotics 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: Lumos Humanoid Platform
+  short: Humanoid robot platform from Shenzhen
+key_clients: []
+ru:
+  description: Lumos Robotics — китайская робототехническая компания, базирующаяся в Шэньчжэне. Разрабатывает Lumos Humanoid Platform и сопутствующие робототехнические системы.
+  highlights:
+  - Lumos Humanoid Platform — Humanoid robot platform from Shenzhen
+en:
+  description: Lumos Robotics is a Chinese robotics company based in Shenzhen. It develops Lumos Humanoid Platform and related robotic systems.
+  highlights:
+  - Lumos Humanoid Platform — Humanoid robot platform from Shenzhen
+zh:
+  description: 硬件（本体+核心零部件）：LUS、MOS系列人形机器人、关节模组、视触觉模组。方向：产品级具身智能机器人整机及核心部件。 核心团队拥有十年人形机器人全栈研发及大规模消费级产品落地经验。 致力于成为具身智能机器人产品定义者和最佳应用实践者，打造高性能、高可靠性、高性价比的产品。
+  highlights:
+  - 硬件（本体+核心零部件）：LUS、MOS系列人形机器人、关节模组、视触觉模组
+  - 方向：产品级具身智能机器人整机及核心部件
+  - 核心团队拥有十年人形机器人全栈研发及大规模消费级产品落地经验
+  - 致力于成为具身智能机器人产品定义者和最佳应用实践者，打造高性能、高可靠性、高性价比的产品
+verified: true
+needs_review:
+  zh: true

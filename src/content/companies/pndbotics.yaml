@@ -1,0 +1,36 @@
+slug: pndbotics
+name: PNDbotics
+country: CN
+website: https://www.pndbotics.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип PNDbotics
+  en: PNDbotics logo
+  zh: PNDbotics 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: Adam Standard
+  short: Full-size general-purpose humanoid robot
+key_clients: []
+ru:
+  description: PNDbotics — китайская робототехническая компания, базирующаяся в -. Разрабатывает Adam Standard и сопутствующие робототехнические системы.
+  highlights:
+  - Adam Standard — Full-size general-purpose humanoid robot
+en:
+  description: PNDbotics is a Chinese robotics company based in -. It develops Adam Standard and related robotic systems.
+  highlights:
+  - Adam Standard — Full-size general-purpose humanoid robot
+zh:
+  description: 硬件（本体+执行器）：通用人形机器人整机，实现从底层架构到本体的全自主研发。软件：基于模型的步态规划、具身智能算法、基于强化学习的运动控制。方向：人形机器人整机及核心部件（电机、驱动、减速器、控制器、BMS、一体化模块化执行器）。 在机器人技术、人工智能技术及两者融合领域拥有显著优势。 致力于打造可量产的机器人产品与生态平台，已成功完成多个高难度人形机器人运动控制项目。
+  highlights:
+  - 硬件（本体+执行器）：通用人形机器人整机，实现从底层架构到本体的全自主研发
+  - 软件：基于模型的步态规划、具身智能算法、基于强化学习的运动控制
+  - 方向：人形机器人整机及核心部件（电机、驱动、减速器、控制器、BMS、一体化模块化执行器）
+  - 在机器人技术、人工智能技术及两者融合领域拥有显著优势
+verified: true
+needs_review:
+  zh: true

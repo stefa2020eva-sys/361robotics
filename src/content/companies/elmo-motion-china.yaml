@@ -1,0 +1,39 @@
+slug: elmo-motion-china
+name: Elmo Motion Control (Shanghai)
+country: CN
+website: https://www.elmomc.cn
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Elmo Motion Control (Shanghai)
+  en: Elmo Motion Control (Shanghai) logo
+  zh: Elmo Motion Control (Shanghai) 标志
+type:
+- component_maker
+featured: false
+categories:
+- actuators
+- controllers
+produces_components:
+- servo-driver
+- motion-controller
+key_clients: []
+ru:
+  description: Elmo Motion Control (Shanghai) — китайский производитель компонентов, базирующийся в Шанхае. Поставляет сервоусилители, контроллеры движения для робототехники и систем управления движением.
+  highlights:
+  - Сервоусилители
+  - Контроллеры движения
+en:
+  description: Elmo Motion Control (Shanghai) is a Chinese components manufacturer based in Shanghai. It supplies servo driver, motion controller for robotics and motion-control applications.
+  highlights:
+  - Servo drivers
+  - Motion controllers
+zh:
+  description: 硬件（执行器-驱动器）：精密伺服驱动器。软件：伺服控制解决方案、应用编程调试。方向：机器人精密伺服控制系统。 以色列精密伺服控制产品高科技公司。 为电子半导体、激光切割，机器人等行业提供全伺服应用相关解决方案。
+  highlights:
+  - 硬件（执行器-驱动器）：精密伺服驱动器
+  - 软件：伺服控制解决方案、应用编程调试
+  - 方向：机器人精密伺服控制系统
+  - 以色列精密伺服控制产品高科技公司
+verified: true
+needs_review:
+  zh: true

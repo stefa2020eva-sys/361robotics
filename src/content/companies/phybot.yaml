@@ -1,0 +1,37 @@
+slug: phybot
+name: PhyBot (Dongyi AI)
+country: CN
+website: https://www.phybot.tech
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип PhyBot (Dongyi AI)
+  en: PhyBot (Dongyi AI) logo
+  zh: PhyBot (Dongyi AI) 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+- software-sdk
+robot_products:
+- name: PhyBot Humanoid
+  short: Embodied AI humanoid robot
+key_clients: []
+ru:
+  description: PhyBot (Dongyi AI) — китайская робототехническая компания, базирующаяся в Пекине. Разрабатывает PhyBot Humanoid и сопутствующие робототехнические системы.
+  highlights:
+  - PhyBot Humanoid — Embodied AI humanoid robot
+en:
+  description: PhyBot (Dongyi AI) is a Chinese robotics company based in Beijing. It develops PhyBot Humanoid and related robotic systems.
+  highlights:
+  - PhyBot Humanoid — Embodied AI humanoid robot
+zh:
+  description: 硬件（本体+关节）：多种尺寸的双足人形机器人、一体化摆线关节模组。软件：端到端的运动控制系统、多模态大模型。方向：通用具身智能体硬件平台。 核心团队是国内少数能够将强化学习算法在全尺寸人形机器人运动控制中规模化落地的团队。 致力于打造新一代通用具身智能体，为生产制造、特种作业等领域提供新一代AI生产力。
+  highlights:
+  - 硬件（本体+关节）：多种尺寸的双足人形机器人、一体化摆线关节模组
+  - 软件：端到端的运动控制系统、多模态大模型
+  - 方向：通用具身智能体硬件平台
+  - 核心团队是国内少数能够将强化学习算法在全尺寸人形机器人运动控制中规模化落地的团队
+verified: true
+needs_review:
+  zh: true

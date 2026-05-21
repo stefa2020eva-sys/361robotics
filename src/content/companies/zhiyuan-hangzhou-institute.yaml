@@ -1,0 +1,36 @@
+slug: zhiyuan-hangzhou-institute
+name: Hangzhou Zhiyuan Research Institute
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Hangzhou Zhiyuan Research Institute
+  en: Hangzhou Zhiyuan Research Institute logo
+  zh: Hangzhou Zhiyuan Research Institute 标志
+type:
+- robot_brand
+featured: false
+categories:
+- software-sdk
+- end-effectors
+robot_products:
+- name: Zhiyuan Defense Robots
+  short: Defense-grade robotic research
+key_clients: []
+ru:
+  description: Hangzhou Zhiyuan Research Institute — китайская робототехническая компания, базирующаяся в Ханчжоу. Разрабатывает Zhiyuan Defense Robots и сопутствующие робототехнические системы.
+  highlights:
+  - Zhiyuan Defense Robots — Defense-grade robotic research
+en:
+  description: Hangzhou Zhiyuan Research Institute is a Chinese robotics company based in Hangzhou. It develops Zhiyuan Defense Robots and related robotic systems.
+  highlights:
+  - Zhiyuan Defense Robots — Defense-grade robotic research
+zh:
+  description: 研究：复杂系统总体、感知增强、智力增强、新域新质装备、群体智能等前沿技术研究。方向：国家战略科技力量，智能化装备发展牵头者。 国家战略科技力量，是中国兵器装备集团军事智能的“战略智库”和“窗口名片”。 聚焦智能科技前沿，聚力打造全球领先的智能装备技术策源地和“高层次、高水平研究院+高科技、高质量发展产业集团”。
+  highlights:
+  - 研究：复杂系统总体、感知增强、智力增强、新域新质装备、群体智能等前沿技术研究
+  - 方向：国家战略科技力量，智能化装备发展牵头者
+  - 国家战略科技力量，是中国兵器装备集团军事智能的“战略智库”和“窗口名片”
+  - 聚焦智能科技前沿，聚力打造全球领先的智能装备技术策源地和“高层次、高水平研究院+高科技、高质量发展产业集团”
+verified: true
+needs_review:
+  zh: true

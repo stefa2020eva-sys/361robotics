@@ -1,0 +1,42 @@
+slug: spirit-ai
+name: Spirit AI (Qianxun)
+country: CN
+website: https://www.spirit-ai.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Spirit AI (Qianxun)
+  en: Spirit AI (Qianxun) logo
+  zh: Spirit AI (Qianxun) 标志
+type:
+- robot_brand
+- component_maker
+featured: false
+categories:
+- end-effectors
+- software-sdk
+robot_products:
+- name: Spirit V1
+  short: General-purpose embodied AI robot
+produces_components:
+- embodied-ai-foundation
+key_clients: []
+ru:
+  description: Spirit AI (Qianxun) — китайская робототехническая компания, базирующаяся в -. Разрабатывает роботов (Spirit V1) и производит ключевые компоненты для робототехнических систем.
+  highlights:
+  - Spirit V1 — General-purpose embodied AI robot
+  - Базовые модели воплощённого ИИ
+en:
+  description: Spirit AI (Qianxun) is a Chinese robotics company based in -. It both develops robots (Spirit V1) and produces core components for robotic systems.
+  highlights:
+  - Spirit V1 — General-purpose embodied AI robot
+  - Embodied AI foundation models
+zh:
+  description: 硬件（本体）：通用人形机器人。软件：下一代具身大模型与学习算法。方向：具备AI+机器人全栈技术能力的具身智能公司。 国内领先的具备AI+机器人全栈生产力级技术能力。 致力于打造世界级通用人形机器人和下一代具身大模型，让通用的机器人伙伴走进千家万户。
+  highlights:
+  - 硬件（本体）：通用人形机器人
+  - 软件：下一代具身大模型与学习算法
+  - 方向：具备AI+机器人全栈技术能力的具身智能公司
+  - 国内领先的具备AI+机器人全栈生产力级技术能力
+verified: true
+needs_review:
+  zh: true

@@ -1,0 +1,36 @@
+slug: magiclab-robotics
+name: MagicLab
+country: CN
+website: https://www.magiclab.top
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип MagicLab
+  en: MagicLab logo
+  zh: MagicLab 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: MagicBot Z1
+  short: Full-size general-purpose humanoid robot
+key_clients: []
+ru:
+  description: MagicLab — китайская робототехническая компания, базирующаяся в -. Разрабатывает MagicBot Z1 и сопутствующие робототехнические системы.
+  highlights:
+  - MagicBot Z1 — Full-size general-purpose humanoid robot
+en:
+  description: MagicLab is a Chinese robotics company based in -. It develops MagicBot Z1 and related robotic systems.
+  highlights:
+  - MagicBot Z1 — Full-size general-purpose humanoid robot
+zh:
+  description: 硬件（本体+核心部件）：全尺寸通用人形机器人、四足机器狗、全关节模组、灵巧手、减速器、驱动器。软件：运动控制、导航、多模态感知与具身操作算法。方向：具身智能机器人整机及核心零部件。 拥有全栈自研的软硬件技术，核心硬件覆盖关键零部件。 通过“千景共创计划”，拓展全行业合作伙伴和应用场景，让机器人走进千行百业。
+  highlights:
+  - 硬件（本体+核心部件）：全尺寸通用人形机器人、四足机器狗、全关节模组、灵巧手、减速器、驱动器
+  - 软件：运动控制、导航、多模态感知与具身操作算法
+  - 方向：具身智能机器人整机及核心零部件
+  - 拥有全栈自研的软硬件技术，核心硬件覆盖关键零部件
+verified: true
+needs_review:
+  zh: true

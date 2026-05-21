@@ -1,0 +1,35 @@
+slug: wh-moncat
+name: Wuhan Moncat Technology
+country: CN
+website: https://www.whmoncat.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Wuhan Moncat Technology
+  en: Wuhan Moncat Technology logo
+  zh: Wuhan Moncat Technology 标志
+type:
+- component_maker
+featured: false
+categories:
+- software-sdk
+produces_components:
+- simulation-platform
+key_clients: []
+ru:
+  description: Wuhan Moncat Technology — китайский производитель компонентов, базирующийся в Ухане. Поставляет платформы симуляции для робототехники и систем управления движением.
+  highlights:
+  - Платформы симуляции
+en:
+  description: Wuhan Moncat Technology is a Chinese components manufacturer based in Wuhan. It supplies simulation platform for robotics and motion-control applications.
+  highlights:
+  - Simulation platforms
+zh:
+  description: 软件/硬件：人型机器人软硬件的深度开发。方向：人形机器人全栈技术。 专注于人型机器人软硬件的深度开发。 立志成为人型机器人行业的领军者，通过技术创新及应用实践，塑造智能未来生活环境。
+  highlights:
+  - 软件/硬件：人型机器人软硬件的深度开发
+  - 方向：人形机器人全栈技术
+  - 专注于人型机器人软硬件的深度开发
+  - 立志成为人型机器人行业的领军者，通过技术创新及应用实践，塑造智能未来生活环境
+verified: true
+needs_review:
+  zh: true

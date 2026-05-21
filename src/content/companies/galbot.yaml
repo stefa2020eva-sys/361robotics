@@ -1,0 +1,38 @@
+slug: galbot
+name: Galbot (Beijing Galaxy Universal Robotics)
+country: CN
+founded: 2023
+website: https://www.galbot.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Galbot (Beijing Galaxy Universal Robotics)
+  en: Galbot (Beijing Galaxy Universal Robotics) logo
+  zh: Galbot (Beijing Galaxy Universal Robotics) 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+- software-sdk
+robot_products:
+- name: Galbot G1
+  short: Bimanual mobile humanoid robot for retail and logistics
+key_clients: []
+ru:
+  description: Galbot (Beijing Galaxy Universal Robotics) — китайская робототехническая компания с подразделениями в Пекине, Шэньчжэне и Сучжоу. Разрабатывает универсального двурукого мобильного гуманоидного робота Galbot G1 для розничной торговли и логистики, использующего собственные VLA-модели (GraspVLA, GroceryVLA, TrackVLA).
+  highlights:
+  - Galbot G1 — Bimanual mobile humanoid robot for retail and logistics
+en:
+  description: Galbot (Beijing Galaxy Universal Robotics) is a Chinese robotics company with offices in Beijing, Shenzhen, and Suzhou. It develops the Galbot G1 bimanual mobile humanoid robot for retail and logistics, powered by proprietary VLA foundation models (GraspVLA, GroceryVLA, TrackVLA).
+  highlights:
+  - Galbot G1 — Bimanual mobile humanoid robot for retail and logistics
+zh:
+  description: 硬件（本体）：Galbot G1通用机器人。软件：自研VLA大模型(GraspVLA, GroceryVLA, TrackVLA)、具身多模态大模型。方向：大模型驱动的通用机器人整机。 团队拥有具身大模型领域深厚积累和千万级硬件量产经验；自研多项全球领先的VLA大模型。 已在商业和工业领域应用部署，加速产业化落地。未来推动大模型与机器人深度融合。
+  highlights:
+  - 硬件（本体）：Galbot G1通用机器人
+  - 软件：自研VLA大模型(GraspVLA, GroceryVLA, TrackVLA)、具身多模态大模型
+  - 方向：大模型驱动的通用机器人整机
+  - 团队拥有具身大模型领域深厚积累和千万级硬件量产经验
+verified: true
+needs_review:
+  zh: true

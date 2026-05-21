@@ -1,0 +1,45 @@
+slug: robot-era
+name: Robot Era
+country: CN
+founded: 2023
+website: https://www.robotera.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Robot Era
+  en: Robot Era logo
+  zh: Robot Era 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: Star1
+  short: Full-size humanoid robot platform
+- name: XHand
+  short: Dexterous hand for embodied AI applications
+key_clients: []
+ru:
+  description: Robot Era (星动纪元) — пекинская робототехническая компания, основанная в 2023 году как стартап-инкубация Университета Цинхуа. Разрабатывает полноразмерную гуманоидную платформу Star1, антропоморфную пятипальцевую кисть XHand и собственную end-to-end-модель ERA-42 с интегрированной моделью мира.
+  highlights:
+  - Star1 — полноразмерный высокопроизводительный гуманоидный робот
+  - XHand — антропоморфная пятипальцевая кисть для воплощённого ИИ
+  - ERA-42 — end-to-end-модель робота с интегрированной моделью мира
+  - Инкубация Университета Цинхуа, полный стек hardware + software
+en:
+  description: Robot Era is a Beijing-based humanoid-robot company founded in 2023 as a Tsinghua University spin-off. It develops the Star1 full-size humanoid platform, the XHand anthropomorphic five-finger dexterous hand, and the proprietary ERA-42 end-to-end robotics foundation model with an integrated world model.
+  highlights:
+  - Star1 — full-size high-performance humanoid robot platform
+  - XHand — anthropomorphic five-finger dexterous hand for embodied AI
+  - ERA-42 — end-to-end robotics foundation model with world-model integration
+  - Tsinghua University spin-off with full-stack hardware and software capability
+zh:
+  description: 硬件（本体+核心部件）：全尺寸高性能人形机器人(星动STAR1)、人形服务机器人、仿人五指灵巧手。软件：融合世界模型的端到端机器人大模型(ERA-42)。方向：“为AI定义的硬件平台”和原生机器人大模型。 清华大学孵化，具备软硬件全栈一体化规划能力；自研灵巧手、大模型性能指标行业领先。 致力于打造适应宽领域、多情景、高智能的通用人形机器人，成为原生通用具身智能体定义者。
+  highlights:
+  - 硬件（本体+核心部件）：全尺寸高性能人形机器人(星动STAR1)、人形服务机器人、仿人五指灵巧手
+  - 软件：融合世界模型的端到端机器人大模型(ERA-42)
+  - 方向：“为AI定义的硬件平台”和原生机器人大模型
+  - 清华大学孵化，具备软硬件全栈一体化规划能力
+verified: true
+needs_review:
+  zh: true

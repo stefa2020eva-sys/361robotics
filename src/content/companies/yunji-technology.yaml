@@ -1,0 +1,41 @@
+slug: yunji-technology
+name: Yunji Technology
+country: CN
+founded: 2014
+website: https://www.yunjichina.com.cn
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Yunji Technology
+  en: Yunji Technology logo
+  zh: Yunji Technology 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: YOGO Station
+  short: Hotel delivery robot
+- name: Run T1
+  short: Cleaning service robot
+key_clients: []
+ru:
+  description: Yunji Technology — китайская робототехническая компания, базирующаяся в Пекине. Разрабатывает YOGO Station, Run T1 и сопутствующие робототехнические системы.
+  highlights:
+  - YOGO Station — Hotel delivery robot
+  - Run T1 — Cleaning service robot
+en:
+  description: Yunji Technology is a Chinese robotics company based in Beijing. It develops YOGO Station, Run T1 and related robotic systems.
+  highlights:
+  - YOGO Station — Hotel delivery robot
+  - Run T1 — Cleaning service robot
+zh:
+  description: 硬件（本体）：服务机器人。软件：智能软件平台。方向：酒店、医院、工厂等场景的服务机器人整机及智能体生态系统。 机器人服务智能体研发及商业化的先行者，已落地全球30000多家场景。 通过智能体重新定义消费者体验，提供适应性强、可扩展、面向未来的产品及服务。
+  highlights:
+  - 硬件（本体）：服务机器人
+  - 方向：酒店、医院、工厂等场景的服务机器人整机及智能体生态系统
+  - 机器人服务智能体研发及商业化的先行者，已落地全球30000多家场景
+  - 通过智能体重新定义消费者体验，提供适应性强、可扩展、面向未来的产品及服务
+verified: true
+needs_review:
+  zh: true

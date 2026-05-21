@@ -1,0 +1,36 @@
+slug: changxing-dynamics
+name: Changxing Dynamics
+country: CN
+website: https://www.bjrobotics.com
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Changxing Dynamics
+  en: Changxing Dynamics logo
+  zh: Changxing Dynamics 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: Changxing Mobile Robot
+  short: Mobile robotics platforms
+key_clients: []
+ru:
+  description: Changxing Dynamics — китайская робототехническая компания, базирующаяся в Пекине. Разрабатывает Changxing Mobile Robot и сопутствующие робототехнические системы.
+  highlights:
+  - Changxing Mobile Robot — Mobile robotics platforms
+en:
+  description: Changxing Dynamics is a Chinese robotics company based in Beijing. It develops Changxing Mobile Robot and related robotic systems.
+  highlights:
+  - Changxing Mobile Robot — Mobile robotics platforms
+zh:
+  description: 硬件（本体+执行器）：高智能双足人形机器人、高负载轮足升降机器人、全自研力控执行器。方向：具身智能机器人整机及高精零部件。 母公司北京新兴航空装备在军工航空装备领域有28年技术积累。 短期打造核心零部件增长引擎，长期聚焦解决特种高危场景和养老照护人力短缺需求痛点。
+  highlights:
+  - 硬件（本体+执行器）：高智能双足人形机器人、高负载轮足升降机器人、全自研力控执行器
+  - 方向：具身智能机器人整机及高精零部件
+  - 母公司北京新兴航空装备在军工航空装备领域有28年技术积累
+  - 短期打造核心零部件增长引擎，长期聚焦解决特种高危场景和养老照护人力短缺需求痛点
+verified: true
+needs_review:
+  zh: true

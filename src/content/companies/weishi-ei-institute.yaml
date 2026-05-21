@@ -1,0 +1,36 @@
+slug: weishi-ei-institute
+name: Weishi Embodied Intelligence Institute
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Weishi Embodied Intelligence Institute
+  en: Weishi Embodied Intelligence Institute logo
+  zh: Weishi Embodied Intelligence Institute 标志
+type:
+- robot_brand
+featured: false
+categories:
+- software-sdk
+- end-effectors
+robot_products:
+- name: Weishi EI Platform
+  short: Embodied AI research platforms
+key_clients: []
+ru:
+  description: Weishi Embodied Intelligence Institute — китайская робототехническая компания, базирующаяся в Пекине. Разрабатывает Weishi EI Platform и сопутствующие робототехнические системы.
+  highlights:
+  - Weishi EI Platform — Embodied AI research platforms
+en:
+  description: Weishi Embodied Intelligence Institute is a Chinese robotics company based in Beijing. It develops Weishi EI Platform and related robotic systems.
+  highlights:
+  - Weishi EI Platform — Embodied AI research platforms
+zh:
+  description: 研究/转化：探索具身智能发展全新技术路线，推动技术跨越式发展和成果转化。方向：新型研发机构，聚焦具身智能。 由中国科学院自动化所乔红院士会同优势企业共同发起，北京市支持成立。 引领具身智能领域发展，支撑北京国际科技创新中心建设，打造全球影响力的创新高地。
+  highlights:
+  - 研究/转化：探索具身智能发展全新技术路线，推动技术跨越式发展和成果转化
+  - 方向：新型研发机构，聚焦具身智能
+  - 由中国科学院自动化所乔红院士会同优势企业共同发起，北京市支持成立
+  - 引领具身智能领域发展，支撑北京国际科技创新中心建设，打造全球影响力的创新高地
+verified: true
+needs_review:
+  zh: true

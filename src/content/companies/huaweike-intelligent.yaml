@@ -1,0 +1,37 @@
+slug: huaweike-intelligent
+name: Wuhan Huaweike Intelligent Technology
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Wuhan Huaweike Intelligent Technology
+  en: Wuhan Huaweike Intelligent Technology logo
+  zh: Wuhan Huaweike Intelligent Technology 标志
+type:
+- component_maker
+featured: false
+categories:
+- sensors
+produces_components:
+- tactile-sensor
+- proximity-sensor
+key_clients: []
+ru:
+  description: Wuhan Huaweike Intelligent Technology — китайский производитель компонентов, базирующийся в Ухане. Поставляет тактильные датчики, датчики приближения для робототехники и систем управления движением.
+  highlights:
+  - Тактильные датчики
+  - Датчики приближения
+en:
+  description: Wuhan Huaweike Intelligent Technology is a Chinese components manufacturer based in Wuhan. It supplies tactile sensor, proximity sensor for robotics and motion-control applications.
+  highlights:
+  - Tactile sensors
+  - Proximity sensors
+zh:
+  description: 硬件（传感器）：RFID、IO-link、视觉、触觉传感器；“人形机器人触觉感知系统”。方向：智能感知领域多类传感器。 由中国科学院熊有伦院士发起创立，依托华中科技大学国家级创新平台。 2024年“人形机器人触觉感知系统”实现小批量出货，获评国家级专精特新小巨人。
+  highlights:
+  - 硬件（传感器）：RFID、IO-link、视觉、触觉传感器
+  - “人形机器人触觉感知系统”
+  - 方向：智能感知领域多类传感器
+  - 由中国科学院熊有伦院士发起创立，依托华中科技大学国家级创新平台
+verified: true
+needs_review:
+  zh: true

@@ -1,0 +1,35 @@
+slug: hubei-qiling
+name: Hubei Qiling Robotics
+country: CN
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Hubei Qiling Robotics
+  en: Hubei Qiling Robotics logo
+  zh: Hubei Qiling Robotics 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: Qiling Service Robot
+  short: Service robot for indoor environments
+key_clients: []
+ru:
+  description: Hubei Qiling Robotics — китайская робототехническая компания, базирующаяся в Ухане. Разрабатывает Qiling Service Robot и сопутствующие робототехнические системы.
+  highlights:
+  - Qiling Service Robot — Service robot for indoor environments
+en:
+  description: Hubei Qiling Robotics is a Chinese robotics company based in Wuhan. It develops Qiling Service Robot and related robotic systems.
+  highlights:
+  - Qiling Service Robot — Service robot for indoor environments
+zh:
+  description: 硬件（本体）：“神农”系统人形机器人、“岚步”四足机器人。方向：工业智能化与特种场景应用的腿足式机器人整机。 依托华中科技大学创新研发力量，由海归博士联合创立。 致力于为工业智能化应用与特种场景作业应用提供创新解决方案。
+  highlights:
+  - 硬件（本体）：“神农”系统人形机器人、“岚步”四足机器人
+  - 方向：工业智能化与特种场景应用的腿足式机器人整机
+  - 依托华中科技大学创新研发力量，由海归博士联合创立
+  - 致力于为工业智能化应用与特种场景作业应用提供创新解决方案
+verified: true
+needs_review:
+  zh: true

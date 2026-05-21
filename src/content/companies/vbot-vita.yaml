@@ -1,0 +1,36 @@
+slug: vbot-vita
+name: VBot Vita Power
+country: CN
+website: https://www.vbot.cn
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип VBot Vita Power
+  en: VBot Vita Power logo
+  zh: VBot Vita Power 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: VBot Companion
+  short: Pet-style companion robot for home
+key_clients: []
+ru:
+  description: VBot Vita Power — китайская робототехническая компания, базирующаяся в Пекине. Разрабатывает VBot Companion и сопутствующие робототехнические системы.
+  highlights:
+  - VBot Companion — Pet-style companion robot for home
+en:
+  description: VBot Vita Power is a Chinese robotics company based in Beijing. It develops VBot Companion and related robotic systems.
+  highlights:
+  - VBot Companion — Pet-style companion robot for home
+zh:
+  description: 硬件（本体）：Vbot伴随机器人（户外、室内场景）。软件：自研机器人操作系统、AI小脑、AI大脑。方向：消费级具身智能机器人整机。 创始团队有地平线和理想汽车背景，过去10年引领自动驾驶技术大规模量产；自研软硬件全栈。 打造户外、室内两大场景的智能机器人，完成自主移动和自主操作的AI技术落地及产品化。
+  highlights:
+  - 硬件（本体）：Vbot伴随机器人（户外、室内场景）
+  - 软件：自研机器人操作系统、AI小脑、AI大脑
+  - 方向：消费级具身智能机器人整机
+  - 创始团队有地平线和理想汽车背景，过去10年引领自动驾驶技术大规模量产
+verified: true
+needs_review:
+  zh: true

@@ -1,0 +1,40 @@
+slug: yaskawa-shougang
+name: Yaskawa Shougang Robot
+country: CN
+website: https://ysr-motoman.cn
+logo: ./logo.svg
+logo_alt:
+  ru: Логотип Yaskawa Shougang Robot
+  en: Yaskawa Shougang Robot logo
+  zh: Yaskawa Shougang Robot 标志
+type:
+- robot_brand
+featured: false
+categories:
+- end-effectors
+robot_products:
+- name: MOTOMAN GP Series
+  short: Industrial 6-axis robots manufactured in China
+- name: MOTOMAN HC Series
+  short: Human-collaborative robots
+key_clients: []
+ru:
+  description: Yaskawa Shougang Robot — китайская робототехническая компания, базирующаяся в Пекине. Разрабатывает MOTOMAN GP Series, MOTOMAN HC Series и сопутствующие робототехнические системы.
+  highlights:
+  - MOTOMAN GP Series — Industrial 6-axis robots manufactured in China
+  - MOTOMAN HC Series — Human-collaborative robots
+en:
+  description: Yaskawa Shougang Robot is a Chinese robotics company based in Beijing. It develops MOTOMAN GP Series, MOTOMAN HC Series and related robotic systems.
+  highlights:
+  - MOTOMAN GP Series — Industrial 6-axis robots manufactured in China
+  - MOTOMAN HC Series — Human-collaborative robots
+zh:
+  description: 硬件（本体）：MOTOMAN工业机器人。软件/方案：机器人应用系统设计制造。方向：工业机器人整机销售与系统集成。 经营的MOTOMAN机器人年产量居世界前列。 专业从事工业机器人的销售、系统设计制造及售后服务，为客户提供交钥匙工程。
+  highlights:
+  - 硬件（本体）：MOTOMAN工业机器人
+  - 软件/方案：机器人应用系统设计制造
+  - 方向：工业机器人整机销售与系统集成
+  - 经营的MOTOMAN机器人年产量居世界前列
+verified: true
+needs_review:
+  zh: true
