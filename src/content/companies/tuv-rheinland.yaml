@@ -7,12 +7,10 @@ logo_alt:
   en: TÜV Rheinland logo
   zh: 德国莱茵 TÜV 标志
 type:
-  - component_maker
+  - ecosystem
 featured: false
 categories:
   - safety
-produces_components:
-  - certification-service
 key_clients: []
 ru:
   description: |

@@ -14,7 +14,6 @@ categories:
   - vision
 produces_components:
   - machine-vision-system
-  - certification-service
 key_clients: []
 ru:
   description: |

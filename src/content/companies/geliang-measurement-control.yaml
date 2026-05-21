@@ -14,7 +14,7 @@ featured: false
 categories:
   - software-sdk
 produces_components:
-  - certification-service
+  - motion-controller
 key_clients: []
 ru:
   description: |

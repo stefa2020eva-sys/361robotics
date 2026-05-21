@@ -8,14 +8,11 @@ logo_alt:
   en: Southwest Institute of Automation (CSGC 58th Research Institute) logo
   zh: Southwest Institute of Automation (CSGC 58th Research Institute) 标志
 type:
-- robot_brand
+- ecosystem
 featured: false
 categories:
 - end-effectors
 - safety
-robot_products:
-- name: Special-Application Robot
-  short: Specialized robots for defense and security
 key_clients: []
 ru:
   description: Southwest Institute of Automation (CSGC 58th Research Institute) — китайская робототехническая компания, базирующаяся в Мяньяне (Сычуань). Разрабатывает Special-Application Robot и сопутствующие робототехнические системы.

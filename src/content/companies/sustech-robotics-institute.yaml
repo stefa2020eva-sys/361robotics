@@ -8,14 +8,11 @@ logo_alt:
   en: SUSTech Institute of Robotics logo
   zh: SUSTech Institute of Robotics 标志
 type:
-- robot_brand
+- ecosystem
 featured: false
 categories:
 - software-sdk
 - end-effectors
-robot_products:
-- name: SUSTech Robotics Research Platforms
-  short: Research-grade robotic platforms developed by SUSTech
 key_clients: []
 ru:
   description: SUSTech Institute of Robotics — китайская робототехническая компания, базирующаяся в Шэньчжэне. Разрабатывает SUSTech Robotics Research Platforms и сопутствующие робототехнические системы.

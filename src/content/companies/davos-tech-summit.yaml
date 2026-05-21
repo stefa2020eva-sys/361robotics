@@ -8,12 +8,10 @@ logo_alt:
   en: Davos Tech Summit logo
   zh: Davos Tech Summit 标志
 type:
-  - component_maker
+  - ecosystem
 featured: false
 categories:
   - software-sdk
-produces_components:
-  - certification-service
 key_clients: []
 ru:
   description: |

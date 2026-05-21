@@ -9,12 +9,10 @@ logo_alt:
   en: Patsnap logo
   zh: Patsnap 标志
 type:
-  - component_maker
+  - ecosystem
 featured: false
 categories:
   - software-sdk
-produces_components:
-  - data-collection-tool
 key_clients: []
 ru:
   description: |

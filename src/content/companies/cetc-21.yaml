@@ -8,18 +8,11 @@ logo_alt:
   en: CETC 21st Research Institute logo
   zh: CETC 21st Research Institute 标志
 type:
-- component_maker
-- robot_brand
+- ecosystem
 featured: false
 categories:
 - actuators
 - end-effectors
-robot_products:
-- name: CETC-21 Special Robot
-  short: Special-purpose robots and motor systems
-produces_components:
-- servo-motor
-- brushless-motor
 key_clients: []
 ru:
   description: CETC 21st Research Institute — китайская робототехническая компания, базирующаяся в Шанхае. Разрабатывает роботов (CETC-21 Special Robot) и производит ключевые компоненты для робототехнических систем.

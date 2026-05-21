@@ -7,12 +7,10 @@ logo_alt:
   en: Swissnex in China logo
   zh: Swissnex in China 标志
 type:
-  - component_maker
+  - ecosystem
 featured: false
 categories:
   - connectivity
-produces_components:
-  - certification-service
 key_clients: []
 ru:
   description: |

@@ -19,7 +19,7 @@ const robotProduct = z.object({
   short: z.string().min(1).optional(),
 });
 
-const companyType = z.enum(['robot_brand', 'component_maker']);
+const companyType = z.enum(['robot_brand', 'component_maker', 'ecosystem']);
 
 export const companySchema = z
   .object({

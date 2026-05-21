@@ -9,12 +9,10 @@ logo_alt:
   en: AUTBUS Society logo
   zh: 工业网络总线 AUTBUS 专委会标志
 type:
-  - component_maker
+  - ecosystem
 featured: false
 categories:
   - connectivity
-produces_components:
-  - ethercat-bus
 key_clients: []
 ru:
   description: |

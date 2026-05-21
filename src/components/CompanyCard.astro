@@ -10,7 +10,9 @@ interface Props {
 const { company, lang } = Astro.props;
 const data = company.data;
 const isBoth = data.type.includes('robot_brand') && data.type.includes('component_maker');
-const typeLabel = isBoth
+const typeLabel = data.type.includes('ecosystem')
+  ? t(lang, 'company.type_ecosystem')
+  : isBoth
   ? t(lang, 'company.type_both')
   : data.type.includes('robot_brand')
   ? t(lang, 'company.type_robot_brand')

@@ -15,7 +15,7 @@ categories:
   - safety
   - software-sdk
 produces_components:
-  - certification-service
+  - mosfet-module
 key_clients: []
 ru:
   description: |

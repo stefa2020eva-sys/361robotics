@@ -8,13 +8,10 @@ logo_alt:
   en: Peking University Wuhan Institute of Artificial Intelligence logo
   zh: Peking University Wuhan Institute of Artificial Intelligence 标志
 type:
-- robot_brand
+- ecosystem
 featured: false
 categories:
 - software-sdk
-robot_products:
-- name: PKU AI Research
-  short: AI and embodied intelligence research
 key_clients: []
 ru:
   description: Peking University Wuhan Institute of Artificial Intelligence — китайская робототехническая компания, базирующаяся в Ухане. Разрабатывает PKU AI Research и сопутствующие робототехнические системы.

@@ -36,7 +36,9 @@ const componentEntries = data.produces_components
 const components = componentEntries.filter((c): c is NonNullable<typeof c> => c !== undefined);
 
 const isBoth = data.type.includes('robot_brand') && data.type.includes('component_maker');
-const typeLabel = isBoth
+const typeLabel = data.type.includes('ecosystem')
+  ? t(lang, 'company.type_ecosystem')
+  : isBoth
   ? t(lang, 'company.type_both')
   : data.type.includes('robot_brand')
   ? t(lang, 'company.type_robot_brand')

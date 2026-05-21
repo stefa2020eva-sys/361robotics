@@ -14,7 +14,7 @@ featured: false
 categories:
   - sensors
 produces_components:
-  - certification-service
+  - magnetic-sensor
 key_clients: []
 ru:
   description: |

@@ -8,14 +8,11 @@ logo_alt:
   en: Hangzhou Zhiyuan Research Institute logo
   zh: Hangzhou Zhiyuan Research Institute 标志
 type:
-- robot_brand
+- ecosystem
 featured: false
 categories:
 - software-sdk
 - end-effectors
-robot_products:
-- name: Zhiyuan Defense Robots
-  short: Defense-grade robotic research
 key_clients: []
 ru:
   description: Hangzhou Zhiyuan Research Institute — китайская робототехническая компания, базирующаяся в Ханчжоу. Разрабатывает Zhiyuan Defense Robots и сопутствующие робототехнические системы.

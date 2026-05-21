@@ -25,6 +25,7 @@
     "type_robot_brand": "Robot brand",
     "type_component_maker": "Component maker",
     "type_both": "Robot brand & component maker",
+    "type_ecosystem": "Ecosystem",
     "key_clients": "Key clients",
     "highlights": "Highlights",
     "what_they_produce": "What they produce",

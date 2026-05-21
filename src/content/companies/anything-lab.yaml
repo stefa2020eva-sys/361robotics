@@ -8,12 +8,10 @@ logo_alt:
   en: Anything Lab logo
   zh: 未来脑洞创新实验室标志
 type:
-  - component_maker
+  - ecosystem
 featured: false
 categories:
   - software-sdk
-produces_components:
-  - certification-service
 key_clients: []
 ru:
   description: |

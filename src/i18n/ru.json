@@ -25,6 +25,7 @@
     "type_robot_brand": "Бренд роботов",
     "type_component_maker": "Производитель компонентов",
     "type_both": "Бренд роботов и производитель компонентов",
+    "type_ecosystem": "Экосистема",
     "key_clients": "Ключевые клиенты",
     "highlights": "Главное",
     "what_they_produce": "Что производит",

@@ -8,13 +8,11 @@ logo_alt:
   en: Fuchsia logo
   zh: 富治标志
 type:
-  - component_maker
+  - ecosystem
 featured: false
 categories:
   - software-sdk
   - safety
-produces_components:
-  - certification-service
 key_clients: []
 ru:
   description: |

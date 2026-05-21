@@ -8,18 +8,12 @@ logo_alt:
   en: CETHIK Wuxi logo
   zh: 海康集团小微特机器人产业集群标志
 type:
-  - robot_brand
-  - component_maker
+  - ecosystem
 featured: false
 categories:
   - controllers
   - vision
   - actuators
-produces_components:
-  - certification-service
-robot_products:
-  - name: Micro Special Robots
-    short: Multi-configuration robots for extreme environments
 key_clients: []
 ru:
   description: |

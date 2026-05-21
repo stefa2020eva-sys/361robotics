@@ -7,14 +7,11 @@ logo_alt:
   en: Beijing Weishi Embodied Intelligence Research Institute logo
   zh: Beijing Weishi Embodied Intelligence Research Institute 标志
 type:
-- robot_brand
+- ecosystem
 featured: false
 categories:
 - software-sdk
 - end-effectors
-robot_products:
-- name: Weishi EI Platform
-  short: Embodied AI research platforms
 key_clients: []
 ru:
   description: Beijing Weishi Embodied Intelligence Research Institute — китайская робототехническая компания, базирующаяся в Пекине. Разрабатывает Weishi EI Platform и сопутствующие робототехнические системы.
