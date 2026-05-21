@@ -13,7 +13,7 @@ if (!langParam || !isLang(langParam)) throw new Error('Invalid lang');
 const lang: Lang = langParam;
 
 const companies = (await getCollection('companies'))
-  .filter((c) => !c.data.type.includes('ecosystem'))
+  .filter((c) => c.data.type.includes('ecosystem'))
   .sort((a, b) => {
     if (a.data.featured !== b.data.featured) return a.data.featured ? -1 : 1;
     return a.data.name.localeCompare(b.data.name);
@@ -21,13 +21,13 @@ const companies = (await getCollection('companies'))
 ---
 
 <ContentLayout
-  title={`${t(lang, 'nav.companies')} — 361Robotics`}
+  title={`${t(lang, 'nav.ecosystem')} — 361Robotics`}
   description={t(lang, 'site.tagline')}
   lang={lang}
-  pathTail="companies"
+  pathTail="ecosystem"
 >
   <section class="py-8" data-pagefind-body>
-    <h1 class="text-3xl font-bold mb-6">{t(lang, 'nav.companies')}</h1>
+    <h1 class="text-3xl font-bold mb-6">{t(lang, 'nav.ecosystem')}</h1>
     <p class="text-sm text-muted mb-6">{t(lang, 'catalog.results_count', { count: companies.length })}</p>
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
       {companies.map((c) => <CompanyCard company={c} lang={lang} />)}

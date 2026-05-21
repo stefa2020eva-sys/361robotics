@@ -20,6 +20,7 @@ const { lang, pathTail } = Astro.props;
       <nav aria-label="Primary" class="hidden lg:flex items-center gap-6 text-sm">
         <a href={`/${lang}/companies`} class="no-underline hover:text-accent">{t(lang, 'nav.companies')}</a>
         <a href={`/${lang}/components`} class="no-underline hover:text-accent">{t(lang, 'nav.components')}</a>
+        <a href={`/${lang}/ecosystem`} class="no-underline hover:text-accent">{t(lang, 'nav.ecosystem')}</a>
         <a href={`/${lang}/about`} class="no-underline hover:text-accent">{t(lang, 'nav.about')}</a>
         <a href={`/${lang}/contacts`} class="no-underline hover:text-accent">{t(lang, 'nav.contacts')}</a>
       </nav>
@@ -66,6 +67,7 @@ const { lang, pathTail } = Astro.props;
     <div id="mobile-menu" class="hidden lg:hidden border-t border-border py-3">
       <a href={`/${lang}/companies`} class="block py-2 no-underline">{t(lang, 'nav.companies')}</a>
       <a href={`/${lang}/components`} class="block py-2 no-underline">{t(lang, 'nav.components')}</a>
+      <a href={`/${lang}/ecosystem`} class="block py-2 no-underline">{t(lang, 'nav.ecosystem')}</a>
       <a href={`/${lang}/about`} class="block py-2 no-underline">{t(lang, 'nav.about')}</a>
       <a href={`/${lang}/contacts`} class="block py-2 no-underline">{t(lang, 'nav.contacts')}</a>
     </div>
